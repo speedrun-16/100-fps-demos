@@ -8,13 +8,15 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
-| [speedrun_amel](./speedrun_amel) | 2 | 2025-09-14 |
+| [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 3 | 2025-09-14 |
+| [speedrun_Domination](./speedrun_Domination) | 2 | 2025-09-14 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2025-09-14 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 3 | 2025-09-14 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-09-14 |
+| [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 4 | 2025-09-14 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-14 |
@@ -25,5 +27,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **15**
-- Total Demos: **31**
+- Total Maps: **17**
+- Total Demos: **36**
