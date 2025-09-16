@@ -12,7 +12,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_dust2010](./deathrun_dust2010) | 6 | 2025-09-15 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 3 | 2025-09-14 |
-| [speedrun_danmal_v2](./speedrun_danmal_v2) | 3 | 2025-09-15 |
+| [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-16 |
 | [speedrun_Domination](./speedrun_Domination) | 2 | 2025-09-15 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
@@ -37,4 +37,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **26**
-- Total Demos: **76**
+- Total Demos: **78**
