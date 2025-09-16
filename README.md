@@ -24,8 +24,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans](./speedrun_jeans) | 3 | 2025-09-15 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 7 | 2025-09-15 |
 | [speedrun_neocist](./speedrun_neocist) | 4 | 2025-09-15 |
+| [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-09-16 |
+| [speedrun_prezmik](./speedrun_prezmik) | 4 | 2025-09-16 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 5 | 2025-09-16 |
 | [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-09-15 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
@@ -40,5 +42,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **30**
-- Total Demos: **96**
+- Total Maps: **32**
+- Total Demos: **105**
