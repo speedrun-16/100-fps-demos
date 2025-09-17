@@ -21,15 +21,17 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_Domination](./speedrun_Domination) | 2 | 2025-09-15 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
-| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-09-17 |
+| [speedrun_euphoria](./speedrun_euphoria) | 4 | 2025-09-17 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2025-09-14 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-09-15 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
+| [speedrun_grasz_final](./speedrun_grasz_final) | 4 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans](./speedrun_jeans) | 3 | 2025-09-15 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 7 | 2025-09-15 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 1 | 2025-09-17 |
+| [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-17 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
@@ -51,5 +53,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **41**
-- Total Demos: **131**
+- Total Maps: **43**
+- Total Demos: **141**
