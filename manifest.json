@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "733dcd7c7021014942e2ae69f7d1678bbe3f9f985842f0d8152940735b64c3e9",
+    "uid": "BN7D15B3K",
+    "map": "speedrun_neocist",
+    "category": 1,
+    "time": 19748,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-17T09:22:39.000Z",
+    "zipFilename": "00019748_STEAM_0_0_1181305_20250917-092239.zip",
+    "path": "speedrun_neocist/00019748_STEAM_0_0_1181305_20250917-092239.zip",
+    "archivedAt": "2025-09-17T12:00:00.257Z"
+  },
+  {
+    "demFileHash": "3f6854eb7d97edbb1bda7f7611b11538b8df1f7887ab9d2727920dd177c34013",
+    "uid": "9JC6VMUNA",
+    "map": "speedrun_herb",
+    "category": 1,
+    "time": 23669,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-17T09:32:32.000Z",
+    "zipFilename": "00023669_STEAM_0_0_1181305_20250917-093232.zip",
+    "path": "speedrun_herb/00023669_STEAM_0_0_1181305_20250917-093232.zip",
+    "archivedAt": "2025-09-17T12:00:00.257Z"
+  },
+  {
     "demFileHash": "b5b56439701ce38304b3781e2dd797fe72577a0582679e1f7428450a5795fdc2",
     "uid": "HKTS4MZM7",
     "map": "speedrun_chemical",
