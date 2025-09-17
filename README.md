@@ -26,6 +26,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans](./speedrun_jeans) | 3 | 2025-09-15 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 7 | 2025-09-15 |
+| [speedrun_kwadrat](./speedrun_kwadrat) | 1 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-17 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
@@ -38,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 3 | 2025-09-16 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-09-15 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-09-17 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wander](./speedrun_wander) | 2 | 2025-09-14 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
@@ -46,5 +47,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **36**
-- Total Demos: **118**
+- Total Maps: **37**
+- Total Demos: **122**
