@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "7fee7791e053c3a9dde47500445da59f62f88247b80d26548756c1f29ff14184",
+    "uid": "E0MG37APM",
+    "map": "deathrun_chemical",
+    "category": 1,
+    "time": 10133,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-18T16:57:19.000Z",
+    "zipFilename": "00010133_STEAM_0_1_796767048_20250918-165719.zip",
+    "path": "deathrun_chemical/00010133_STEAM_0_1_796767048_20250918-165719.zip",
+    "archivedAt": "2025-09-18T18:00:00.261Z"
+  },
+  {
+    "demFileHash": "fd221e34d12f73d9f7036f800d6349e422cfc62958240523711b295c917a1c2f",
+    "uid": "J7V8VLF8Q",
+    "map": "speedrun_w00dfun",
+    "category": 1,
+    "time": 13539,
+    "playerSteamId": "STEAM_0:1:169847134",
+    "timestamp": "2025-09-18T16:11:33.000Z",
+    "zipFilename": "00013539_STEAM_0_1_169847134_20250918-161133.zip",
+    "path": "speedrun_w00dfun/00013539_STEAM_0_1_169847134_20250918-161133.zip",
+    "archivedAt": "2025-09-18T18:00:00.261Z"
+  },
+  {
+    "demFileHash": "142673e1addfd64980b15a121ecc1b20e7fa9a03501bebb3511a7e59dc429f43",
+    "uid": "IKXU82FEF",
+    "map": "speedrun_w00dfun",
+    "category": 1,
+    "time": 13436,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-18T16:40:35.000Z",
+    "zipFilename": "00013436_STEAM_0_1_796767048_20250918-164035.zip",
+    "path": "speedrun_w00dfun/00013436_STEAM_0_1_796767048_20250918-164035.zip",
+    "archivedAt": "2025-09-18T18:00:00.261Z"
+  },
+  {
     "demFileHash": "8e0066fb5f0f2ff4898f4e85cb3c8eaa3bed2db1b2dd98289800d6f6ca180df8",
     "uid": "OA7H928DM",
     "map": "deathrun_fusion_ancient",
@@ -1245,18 +1281,6 @@
     "timestamp": "2025-09-15T19:20:16.000Z",
     "zipFilename": "00013493_STEAM_0_1_617544124_20250915-192016.zip",
     "path": "speedrun_w00dfun/00013493_STEAM_0_1_617544124_20250915-192016.zip",
-    "archivedAt": "2025-09-16T03:00:01.948Z"
-  },
-  {
-    "demFileHash": "c1c36dfc52952a0c72863adc6e70de0d73a39dfe7d704776260483398bda24cb",
-    "uid": "AA6RPLONT",
-    "map": "speedrun_w00dfun",
-    "category": 1,
-    "time": 13571,
-    "playerSteamId": "STEAM_0:1:169847134",
-    "timestamp": "2025-09-15T19:44:48.000Z",
-    "zipFilename": "00013571_STEAM_0_1_169847134_20250915-194448.zip",
-    "path": "speedrun_w00dfun/00013571_STEAM_0_1_169847134_20250915-194448.zip",
     "archivedAt": "2025-09-16T03:00:01.948Z"
   },
   {

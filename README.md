@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-09-17 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
-| [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-16 |
+| [deathrun_chemical](./deathrun_chemical) | 2 | 2025-09-18 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 7 | 2025-09-17 |
 | [deathrun_forest](./deathrun_forest) | 2 | 2025-09-18 |
@@ -48,7 +48,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 3 | 2025-09-16 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-09-15 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2025-09-17 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 7 | 2025-09-18 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wander](./speedrun_wander) | 2 | 2025-09-14 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
@@ -57,4 +57,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **46**
-- Total Demos: **146**
+- Total Demos: **148**
