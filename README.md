@@ -12,6 +12,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-16 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 7 | 2025-09-17 |
+| [deathrun_forest](./deathrun_forest) | 2 | 2025-09-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 2 | 2025-09-16 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
@@ -55,5 +56,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **45**
-- Total Demos: **143**
+- Total Maps: **46**
+- Total Demos: **145**
