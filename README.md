@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_chemical](./deathrun_chemical) | 2 | 2025-09-18 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
-| [deathrun_dust2010](./deathrun_dust2010) | 7 | 2025-09-17 |
+| [deathrun_dust2010](./deathrun_dust2010) | 7 | 2025-09-18 |
 | [deathrun_forest](./deathrun_forest) | 2 | 2025-09-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
@@ -32,7 +32,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans](./speedrun_jeans) | 3 | 2025-09-15 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 7 | 2025-09-15 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 8 | 2025-09-18 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 1 | 2025-09-17 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-18 |
@@ -42,6 +42,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_prezmik](./speedrun_prezmik) | 4 | 2025-09-16 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-09-17 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
+| [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-09-18 |
 | [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-09-15 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 6 | 2025-09-16 |
@@ -56,5 +57,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **46**
-- Total Demos: **148**
+- Total Maps: **47**
+- Total Demos: **150**
