@@ -34,7 +34,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_short](./speedrun_jeans_short) | 7 | 2025-09-15 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 1 | 2025-09-17 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-17 |
+| [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-18 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-09-16 |
