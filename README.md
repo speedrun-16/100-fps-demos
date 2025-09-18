@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_vertigo](./de_vertigo) | 1 | 2025-09-17 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_chemical](./deathrun_chemical) | 1 | 2025-09-16 |
@@ -54,5 +55,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **44**
-- Total Demos: **142**
+- Total Maps: **45**
+- Total Demos: **143**
