@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "c3d2358ccabfe0cc661e0a89b1ba3ef80850cbfa751a16827446b403093bca87",
+    "uid": "N1OJCM4TD",
+    "map": "speedrun_hatemeworld_b1",
+    "category": 1,
+    "time": 27553,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-09-17T22:39:26.000Z",
+    "zipFilename": "00027553_STEAM_0_0_24751394_20250917-223926.zip",
+    "path": "speedrun_hatemeworld_b1/00027553_STEAM_0_0_24751394_20250917-223926.zip",
+    "archivedAt": "2025-09-18T00:00:00.163Z"
+  },
+  {
     "demFileHash": "b9211e47fa9b77445369495f0e2a9d713893e582990cb5eb9c2c3ef4b5c5eeff",
     "uid": "B1GAH8D4Y",
     "map": "speedrun_euphoria",
