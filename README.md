@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_chemical](./deathrun_chemical) | 2 | 2025-09-18 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
-| [deathrun_dust2010](./deathrun_dust2010) | 7 | 2025-09-18 |
+| [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-09-20 |
 | [deathrun_forest](./deathrun_forest) | 2 | 2025-09-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
@@ -64,10 +64,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wander](./speedrun_wander) | 2 | 2025-09-14 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 3 | 2025-09-19 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-09-20 |
 
 ---
 
 ### Statistics
 - Total Maps: **59**
-- Total Demos: **195**
+- Total Demos: **198**
