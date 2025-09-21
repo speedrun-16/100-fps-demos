@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "637cec2e4d24350fd1f55aebb94d339611288e88f1e962079aaa0e12b44fab58",
+    "uid": "TIYPL63LF",
+    "map": "speedrun_w00dfun",
+    "category": 1,
+    "time": 13416,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-21T08:30:12.000Z",
+    "zipFilename": "00013416_STEAM_0_1_796767048_20250921-083012.zip",
+    "path": "speedrun_w00dfun/00013416_STEAM_0_1_796767048_20250921-083012.zip",
+    "archivedAt": "2025-09-21T09:00:05.295Z"
+  },
+  {
     "demFileHash": "0caad95fd31c36898cdd6deeb51ad3ae54bf59a7f0a44e83f896fdaaa824bc19",
     "uid": "R7Z4X0D25",
     "map": "deathrun_congoy_easy",
@@ -333,18 +345,6 @@
     "timestamp": "2025-09-20T18:55:22.000Z",
     "zipFilename": "00012804_STEAM_0_1_29970948_20250920-185522.zip",
     "path": "deathrun_dust2010/00012804_STEAM_0_1_29970948_20250920-185522.zip",
-    "archivedAt": "2025-09-20T21:00:00.360Z"
-  },
-  {
-    "demFileHash": "079085341c4836ce2742a024c62f60c7dec16ed444e0b310496c96b4395b495f",
-    "uid": "JNGSCW4PD",
-    "map": "speedrun_w00dfun",
-    "category": 1,
-    "time": 13421,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-09-20T18:22:38.000Z",
-    "zipFilename": "00013421_STEAM_0_1_796767048_20250920-182238.zip",
-    "path": "speedrun_w00dfun/00013421_STEAM_0_1_796767048_20250920-182238.zip",
     "archivedAt": "2025-09-20T21:00:00.360Z"
   },
   {
