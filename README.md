@@ -13,7 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-09-20 |
-| [deathrun_forest](./deathrun_forest) | 2 | 2025-09-18 |
+| [deathrun_forest](./deathrun_forest) | 3 | 2025-09-21 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 10 | 2025-09-20 |
@@ -33,6 +33,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2025-09-14 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-09-15 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
+| [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
 | [speedrun_gmsr_remade_kaniel](./speedrun_gmsr_remade_kaniel) | 1 | 2025-09-19 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 5 | 2025-09-19 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
@@ -74,5 +75,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **64**
-- Total Demos: **230**
+- Total Maps: **65**
+- Total Demos: **232**
