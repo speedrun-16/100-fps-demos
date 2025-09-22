@@ -21,13 +21,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_backrooms](./speedrun_backrooms) | 4 | 2025-09-21 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 5 | 2025-09-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 3 | 2025-09-14 |
-| [speedrun_chemical](./speedrun_chemical) | 5 | 2025-09-19 |
+| [speedrun_chemical](./speedrun_chemical) | 5 | 2025-09-21 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_Domination](./speedrun_Domination) | 6 | 2025-09-20 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-09-20 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2025-09-21 |
 | [speedrun_euphoria](./speedrun_euphoria) | 4 | 2025-09-17 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2025-09-21 |
