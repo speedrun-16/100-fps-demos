@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "8a76557f3d0f7dc922d976e8c135cd58a0a18b83c3df149e7ad90fc09c54103f",
+    "uid": "BUEEE4DRV",
+    "map": "speedrun_chemical_maxfps",
+    "category": 1,
+    "time": 10452,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-22T10:24:32.000Z",
+    "zipFilename": "00010452_STEAM_0_1_29970948_20250922-102432.zip",
+    "path": "speedrun_chemical_maxfps/00010452_STEAM_0_1_29970948_20250922-102432.zip",
+    "archivedAt": "2025-09-22T12:15:40.091Z"
+  },
+  {
     "demFileHash": "e3e20bc0ba34713eaeab2afd6b314c0e629774a0bddd86611c7e64c1fc7348d4",
     "uid": "S15YTTUU0",
     "map": "speedrun_easy_v1",
