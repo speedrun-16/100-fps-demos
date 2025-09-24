@@ -25,13 +25,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 5 | 2025-09-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 3 | 2025-09-14 |
 | [speedrun_chemical](./speedrun_chemical) | 5 | 2025-09-23 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-22 |
+| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 2 | 2025-09-23 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 5 | 2025-09-23 |
+| [speedrun_error](./speedrun_error) | 4 | 2025-09-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 4 | 2025-09-17 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2025-09-21 |
@@ -68,12 +69,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 7 | 2025-09-19 |
 | [speedrun_several](./speedrun_several) | 5 | 2025-09-22 |
+| [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
 | [speedrun_solitude](./speedrun_solitude) | 3 | 2025-09-20 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_temple](./speedrun_temple) | 1 | 2025-09-19 |
 | [speedrun_tr](./speedrun_tr) | 3 | 2025-09-21 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 9 | 2025-09-21 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 9 | 2025-09-23 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wander](./speedrun_wander) | 2 | 2025-09-14 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 1 | 2025-09-14 |
@@ -82,5 +84,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **72**
-- Total Demos: **244**
+- Total Maps: **74**
+- Total Demos: **250**
