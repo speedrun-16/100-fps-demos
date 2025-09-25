@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
-| [de_vertigo](./de_vertigo) | 1 | 2025-09-17 |
+| [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
@@ -51,6 +51,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_short](./speedrun_jeans_short) | 8 | 2025-09-18 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 4 | 2025-09-20 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-09-20 |
+| [speedrun_medium](./speedrun_medium) | 1 | 2025-09-25 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 1 | 2025-09-24 |
 | [speedrun_miqu](./speedrun_miqu) | 2 | 2025-09-19 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
@@ -87,5 +88,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **77**
-- Total Demos: **270**
+- Total Maps: **78**
+- Total Demos: **272**
