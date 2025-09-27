@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
-| [deathrun_chemical](./deathrun_chemical) | 2 | 2025-09-27 |
+| [deathrun_chemical](./deathrun_chemical) | 3 | 2025-09-27 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-09-23 |
@@ -26,7 +26,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 5 | 2025-09-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 3 | 2025-09-14 |
 | [speedrun_chemical](./speedrun_chemical) | 5 | 2025-09-23 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 2 | 2025-09-23 |
+| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 3 | 2025-09-27 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-09-26 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
@@ -39,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
-| [speedrun_evidens](./speedrun_evidens) | 2 | 2025-09-14 |
+| [speedrun_evidens](./speedrun_evidens) | 4 | 2025-09-27 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-09-15 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
 | [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
@@ -62,11 +62,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 2 | 2025-09-20 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 7 | 2025-09-20 |
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 7 | 2025-09-16 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 8 | 2025-09-27 |
 | [speedrun_prezmik](./speedrun_prezmik) | 4 | 2025-09-16 |
+| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-09-27 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-09-17 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
-| [speedrun_r3x](./speedrun_r3x) | 3 | 2025-09-19 |
+| [speedrun_r3x](./speedrun_r3x) | 4 | 2025-09-27 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 8 | 2025-09-24 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 3 | 2025-09-20 |
 | [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-09-15 |
@@ -91,5 +92,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **81**
-- Total Demos: **277**
+- Total Maps: **82**
+- Total Demos: **284**
