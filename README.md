@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [cs_militia](./cs_militia) | 4 | 2025-09-27 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
@@ -20,6 +21,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 10 | 2025-09-22 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-27 |
 | [speedrun_30min](./speedrun_30min) | 4 | 2025-09-27 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
 | [speedrun_backrooms](./speedrun_backrooms) | 4 | 2025-09-21 |
@@ -28,6 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 5 | 2025-09-23 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 3 | 2025-09-27 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 1 | 2025-09-26 |
+| [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
@@ -56,6 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_medium](./speedrun_medium) | 1 | 2025-09-25 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 1 | 2025-09-24 |
 | [speedrun_miqu](./speedrun_miqu) | 2 | 2025-09-19 |
+| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
 | [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-18 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
@@ -92,5 +96,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **82**
-- Total Demos: **284**
+- Total Maps: **86**
+- Total Demos: **291**
