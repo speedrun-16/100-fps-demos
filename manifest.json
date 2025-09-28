@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d999f490ef2f15b7bfbcbbe4b54b65d96518b8f8076b73e97f559a294db03750",
+    "uid": "EIXVGOFEB",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 11051,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-09-27T22:54:16.000Z",
+    "zipFilename": "00011051_STEAM_0_1_84733295_20250927-225416.zip",
+    "path": "speedrun_1000fps_battle/00011051_STEAM_0_1_84733295_20250927-225416.zip",
+    "archivedAt": "2025-09-28T00:00:02.979Z"
+  },
+  {
     "demFileHash": "7f5b83f3b457e5bea41a8a4f2f69391344f97893791b2aafb76c3ceb2d93393a",
     "uid": "UDZZEJ5V6",
     "map": "cs_militia",
@@ -9,18 +21,6 @@
     "timestamp": "2025-09-27T14:43:42.000Z",
     "zipFilename": "00009468_STEAM_0_0_24751394_20250927-144342.zip",
     "path": "cs_militia/00009468_STEAM_0_0_24751394_20250927-144342.zip",
-    "archivedAt": "2025-09-27T18:00:00.716Z"
-  },
-  {
-    "demFileHash": "8a58eaf2a5acd016942f26de203d4fdb3730962c2aa28573feedbad0d5a44d05",
-    "uid": "1NALNGU59",
-    "map": "speedrun_1000fps_battle",
-    "category": 1,
-    "time": 11141,
-    "playerSteamId": "STEAM_0:1:84733295",
-    "timestamp": "2025-09-27T17:38:55.000Z",
-    "zipFilename": "00011141_STEAM_0_1_84733295_20250927-173855.zip",
-    "path": "speedrun_1000fps_battle/00011141_STEAM_0_1_84733295_20250927-173855.zip",
     "archivedAt": "2025-09-27T18:00:00.716Z"
   },
   {
