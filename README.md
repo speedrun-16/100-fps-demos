@@ -8,12 +8,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 4 | 2025-09-27 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
+| [de_dust](./de_dust) | 2 | 2025-09-29 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
-| [deathrun_chemical](./deathrun_chemical) | 3 | 2025-09-28 |
+| [deathrun_chemical](./deathrun_chemical) | 4 | 2025-09-29 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-09-23 |
@@ -39,7 +40,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 7 | 2025-09-24 |
-| [speedrun_error](./speedrun_error) | 4 | 2025-09-23 |
+| [speedrun_error](./speedrun_error) | 5 | 2025-09-29 |
 | [speedrun_euphoria](./speedrun_euphoria) | 4 | 2025-09-17 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
@@ -54,6 +55,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-09-24 |
+| [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 8 | 2025-09-18 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 4 | 2025-09-20 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-09-20 |
@@ -84,7 +86,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 7 | 2025-09-24 |
-| [speedrun_several](./speedrun_several) | 8 | 2025-09-25 |
+| [speedrun_several](./speedrun_several) | 8 | 2025-09-29 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-09-26 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
@@ -102,5 +104,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **92**
-- Total Demos: **311**
+- Total Maps: **94**
+- Total Demos: **316**
