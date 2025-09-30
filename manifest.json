@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "da808c406c5d31221690c836fe83c4979b60f420f8075c0a598eaab156063492",
+    "uid": "G99QHKEJY",
+    "map": "speedrun_delight",
+    "category": 1,
+    "time": 11939,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-29T19:03:43.000Z",
+    "zipFilename": "00011939_STEAM_0_1_771348382_20250929-190343.zip",
+    "path": "speedrun_delight/00011939_STEAM_0_1_771348382_20250929-190343.zip",
+    "archivedAt": "2025-09-30T00:00:03.097Z"
+  },
+  {
+    "demFileHash": "6e5e987e176dc7297d2ca23f128ce96af2004beff3ce93cd3c7365478c5a28c1",
+    "uid": "BKIR5ZL8T",
+    "map": "speedrun_delight",
+    "category": 1,
+    "time": 11862,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-09-29T19:06:06.000Z",
+    "zipFilename": "00011862_STEAM_0_0_24751394_20250929-190606.zip",
+    "path": "speedrun_delight/00011862_STEAM_0_0_24751394_20250929-190606.zip",
+    "archivedAt": "2025-09-30T00:00:03.097Z"
+  },
+  {
+    "demFileHash": "7e43f39b94cef10c4ffae1baa51241e50ce950ff4945d9ecc45c671e80e2034a",
+    "uid": "J31Z9VEDB",
+    "map": "speedrun_delight",
+    "category": 1,
+    "time": 12468,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-09-29T18:58:50.000Z",
+    "zipFilename": "00012468_STEAM_0_1_408712_20250929-185850.zip",
+    "path": "speedrun_delight/00012468_STEAM_0_1_408712_20250929-185850.zip",
+    "archivedAt": "2025-09-30T00:00:03.097Z"
+  },
+  {
+    "demFileHash": "9f46ddb130d803f5e174bf2fbfacdcabcc18963f860555ac8b5cdb7fea5ae913",
+    "uid": "16RKCAACH",
+    "map": "speedrun_neocist",
+    "category": 1,
+    "time": 20391,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-09-29T18:35:51.000Z",
+    "zipFilename": "00020391_STEAM_0_1_84733295_20250929-183551.zip",
+    "path": "speedrun_neocist/00020391_STEAM_0_1_84733295_20250929-183551.zip",
+    "archivedAt": "2025-09-30T00:00:03.097Z"
+  },
+  {
     "demFileHash": "cefe2068322999c1b8db4dc7717bc7989a45b08d4f5e6cc7ae05f0303d1782dd",
     "uid": "2AO21TZID",
     "map": "de_dust",

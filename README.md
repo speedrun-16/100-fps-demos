@@ -36,6 +36,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
+| [speedrun_delight](./speedrun_delight) | 3 | 2025-09-29 |
 | [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-20 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
@@ -66,7 +67,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 2 | 2025-09-19 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 5 | 2025-09-18 |
+| [speedrun_neocist](./speedrun_neocist) | 6 | 2025-09-29 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
@@ -104,5 +105,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **94**
-- Total Demos: **316**
+- Total Maps: **95**
+- Total Demos: **320**
