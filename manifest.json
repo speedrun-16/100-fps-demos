@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "56e4282b43bb77d6006da6cada96a85548d5be1d282767cd6eaa51a92f55608c",
+    "uid": "2N9QO2RQH",
+    "map": "speedrun_enemy",
+    "category": 1,
+    "time": 43375,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-10-02T23:04:40.000Z",
+    "zipFilename": "00043375_STEAM_0_1_408712_20251002-230440.zip",
+    "path": "speedrun_enemy/00043375_STEAM_0_1_408712_20251002-230440.zip",
+    "archivedAt": "2025-10-03T00:00:00.412Z"
+  },
+  {
     "demFileHash": "02f7ead7a44bcc516b0afaa07872956ea36c6559fb4d688d9199b2b190f8fafe",
     "uid": "XMX9RBXU1",
     "map": "speedrun_chemicalz",
