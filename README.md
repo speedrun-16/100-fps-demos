@@ -24,14 +24,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 10 | 2025-09-30 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-01 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-04 |
 | [speedrun_30min](./speedrun_30min) | 4 | 2025-09-27 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-09-28 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 5 | 2025-09-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 4 | 2025-10-03 |
-| [speedrun_chemical](./speedrun_chemical) | 7 | 2025-09-30 |
+| [speedrun_chemical](./speedrun_chemical) | 7 | 2025-10-04 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 3 | 2025-09-27 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-02 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
@@ -92,7 +92,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
-| [speedrun_runners](./speedrun_runners) | 9 | 2025-10-02 |
+| [speedrun_runners](./speedrun_runners) | 9 | 2025-10-04 |
 | [speedrun_scarlet](./speedrun_scarlet) | 4 | 2025-10-03 |
 | [speedrun_several](./speedrun_several) | 8 | 2025-09-29 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-09-26 |
