@@ -31,9 +31,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 5 | 2025-09-16 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 4 | 2025-10-03 |
-| [speedrun_chemical](./speedrun_chemical) | 7 | 2025-10-04 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 3 | 2025-09-27 |
-| [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-02 |
+| [speedrun_chemical](./speedrun_chemical) | 8 | 2025-10-05 |
+| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2025-10-05 |
+| [speedrun_chemicalz](./speedrun_chemicalz) | 4 | 2025-10-05 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
@@ -48,7 +48,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
-| [speedrun_evidens](./speedrun_evidens) | 4 | 2025-09-27 |
+| [speedrun_evidens](./speedrun_evidens) | 5 | 2025-10-05 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-09-15 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
 | [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
@@ -71,7 +71,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 3 | 2025-10-01 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-10-03 |
+| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-10-05 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
@@ -80,7 +80,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
 | [speedrun_poland](./speedrun_poland) | 3 | 2025-09-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-01 |
-| [speedrun_prezmik](./speedrun_prezmik) | 4 | 2025-09-16 |
+| [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-09-27 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-09-17 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
@@ -92,7 +92,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
-| [speedrun_runners](./speedrun_runners) | 9 | 2025-10-04 |
+| [speedrun_runners](./speedrun_runners) | 10 | 2025-10-05 |
 | [speedrun_scarlet](./speedrun_scarlet) | 4 | 2025-10-03 |
 | [speedrun_several](./speedrun_several) | 8 | 2025-09-29 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-09-26 |
@@ -104,7 +104,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_temple](./speedrun_temple) | 1 | 2025-09-19 |
 | [speedrun_tr](./speedrun_tr) | 3 | 2025-09-21 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-01 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-05 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wander](./speedrun_wander) | 2 | 2025-09-14 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
@@ -115,4 +115,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **104**
-- Total Demos: **351**
+- Total Demos: **358**
