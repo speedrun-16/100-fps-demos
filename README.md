@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 5 | 2025-09-19 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
-| [speedrun_jeans](./speedrun_jeans) | 5 | 2025-09-24 |
+| [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-10-01 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-10-06 |
@@ -74,7 +74,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 3 | 2025-10-05 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
-| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-10-05 |
+| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-10-07 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
@@ -95,7 +95,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
-| [speedrun_runners](./speedrun_runners) | 10 | 2025-10-05 |
+| [speedrun_runners](./speedrun_runners) | 10 | 2025-10-07 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-10-06 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-09-26 |
@@ -113,11 +113,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 4 | 2025-10-06 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
+| [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-09-20 |
 
 ---
 
 ### Statistics
-- Total Maps: **109**
-- Total Demos: **380**
+- Total Maps: **110**
+- Total Demos: **382**
