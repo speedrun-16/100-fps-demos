@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "40f1512398954b71ffb049cf3a22a0c40462d9fc4bd93d405a524af4f0b848ec",
+    "uid": "NU5JIPVGQ",
+    "map": "speedrun_sunnies_flat",
+    "category": 1,
+    "time": 19698,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-06T20:31:05.000Z",
+    "zipFilename": "00019698_STEAM_0_0_24751394_20251006-203105.zip",
+    "path": "speedrun_sunnies_flat/00019698_STEAM_0_0_24751394_20251006-203105.zip",
+    "archivedAt": "2025-10-07T00:00:00.561Z"
+  },
+  {
+    "demFileHash": "032bba295e76ff29eabde48a710382d3fe632b754cea4b378333de6ac76f9711",
+    "uid": "A0KX9T7N5",
+    "map": "speedrun_fallen",
+    "category": 1,
+    "time": 25265,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-10-06T20:21:17.000Z",
+    "zipFilename": "00025265_STEAM_0_1_408712_20251006-202117.zip",
+    "path": "speedrun_fallen/00025265_STEAM_0_1_408712_20251006-202117.zip",
+    "archivedAt": "2025-10-07T00:00:00.561Z"
+  },
+  {
+    "demFileHash": "cff05e3fff991a3218598cbd9d50a7b453ef3214e71fe313bfb3f30c909f0ebd",
+    "uid": "8GXTT4SB1",
+    "map": "speedrun_wander",
+    "category": 1,
+    "time": 17166,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-06T21:18:17.000Z",
+    "zipFilename": "00017166_STEAM_0_0_24751394_20251006-211817.zip",
+    "path": "speedrun_wander/00017166_STEAM_0_0_24751394_20251006-211817.zip",
+    "archivedAt": "2025-10-07T00:00:00.561Z"
+  },
+  {
+    "demFileHash": "e1f0fc57aa219b16397ae38e6277632c0af6f4f2b22b78ad82f9c2437b5d6113",
+    "uid": "BL2FYX49I",
+    "map": "speedrun_wander",
+    "category": 1,
+    "time": 17377,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-10-06T21:02:54.000Z",
+    "zipFilename": "00017377_STEAM_0_1_408712_20251006-210254.zip",
+    "path": "speedrun_wander/00017377_STEAM_0_1_408712_20251006-210254.zip",
+    "archivedAt": "2025-10-07T00:00:00.561Z"
+  },
+  {
+    "demFileHash": "2982253ff231825f60063fa6cb59ea6bda54e588d8a5085dc785e1fc709df953",
+    "uid": "T6KYNFRLE",
+    "map": "speedrun_dust2",
+    "category": 1,
+    "time": 23131,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-06T19:13:16.000Z",
+    "zipFilename": "00023131_STEAM_0_1_84733295_20251006-191316.zip",
+    "path": "speedrun_dust2/00023131_STEAM_0_1_84733295_20251006-191316.zip",
+    "archivedAt": "2025-10-07T00:00:00.561Z"
+  },
+  {
     "demFileHash": "a996d45158577e9db52e2ed75ce9b4df2668b7e876d0f38b347a0dcb0dc98254",
     "uid": "VUPH50QDG",
     "map": "speedrun_wampirex",
