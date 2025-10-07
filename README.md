@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 2 | 2025-09-29 |
+| [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
@@ -24,7 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 10 | 2025-09-30 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-04 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-07 |
 | [speedrun_30min](./speedrun_30min) | 5 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-09-28 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
@@ -118,5 +119,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **108**
-- Total Demos: **379**
+- Total Maps: **109**
+- Total Demos: **380**
