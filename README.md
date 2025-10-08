@@ -88,7 +88,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pupsik2](./speedrun_pupsik2) | 4 | 2025-10-05 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
 | [speedrun_qu_dust](./speedrun_qu_dust) | 1 | 2025-10-03 |
-| [speedrun_r3x](./speedrun_r3x) | 4 | 2025-09-27 |
+| [speedrun_r3x](./speedrun_r3x) | 4 | 2025-10-08 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 8 | 2025-09-24 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 3 | 2025-09-20 |
 | [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-09-15 |
@@ -108,7 +108,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_temple](./speedrun_temple) | 1 | 2025-09-19 |
 | [speedrun_tr](./speedrun_tr) | 5 | 2025-10-07 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-05 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-08 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 4 | 2025-10-06 |
