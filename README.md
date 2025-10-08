@@ -61,7 +61,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-10-01 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-10-08 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-10-06 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 4 | 2025-09-20 |
