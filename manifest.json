@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "bfb1369ed9705eb2b9c22f8889cff1526cd0a75f35c8c99c8b97f1b5f7f240eb",
+    "uid": "ZNEVILGAP",
+    "map": "speedrun_tr",
+    "category": 1,
+    "time": 16773,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-07T18:52:36.000Z",
+    "zipFilename": "00016773_STEAM_0_1_84733295_20251007-185236.zip",
+    "path": "speedrun_tr/00016773_STEAM_0_1_84733295_20251007-185236.zip",
+    "archivedAt": "2025-10-08T00:00:00.655Z"
+  },
+  {
+    "demFileHash": "30d91ad05af19b2e95c277d4805f4feda0b9c833807d6c581139bbd1100392f2",
+    "uid": "R02OIW89L",
+    "map": "speedrun_tr",
+    "category": 1,
+    "time": 16131,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-07T19:57:14.000Z",
+    "zipFilename": "00016131_STEAM_0_1_29970948_20251007-195714.zip",
+    "path": "speedrun_tr/00016131_STEAM_0_1_29970948_20251007-195714.zip",
+    "archivedAt": "2025-10-08T00:00:00.655Z"
+  },
+  {
+    "demFileHash": "1bcc864bc95cd6c2d718de6b3aa39ab2edd9edf2aa6ac7ebfc248ac2ab92cb29",
+    "uid": "EA7MRUHXW",
+    "map": "speedrun_tr",
+    "category": 1,
+    "time": 15750,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-07T18:59:37.000Z",
+    "zipFilename": "00015750_STEAM_0_0_24751394_20251007-185937.zip",
+    "path": "speedrun_tr/00015750_STEAM_0_0_24751394_20251007-185937.zip",
+    "archivedAt": "2025-10-08T00:00:00.654Z"
+  },
+  {
+    "demFileHash": "544a6767e93b62398f90dd32bf24bd70fe38db7f1554d4f10e61d52f6f7333e4",
+    "uid": "PJ8QBNOGU",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10916,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-07T21:49:26.000Z",
+    "zipFilename": "00010916_STEAM_0_1_84733295_20251007-214926.zip",
+    "path": "speedrun_1000fps_battle/00010916_STEAM_0_1_84733295_20251007-214926.zip",
+    "archivedAt": "2025-10-08T00:00:00.654Z"
+  },
+  {
+    "demFileHash": "145510c8771e111a259baaba203ca72fd640f6fdb7ff5b34978b81b7dd484cfa",
+    "uid": "9IDNLFRT5",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10546,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-07T22:12:00.000Z",
+    "zipFilename": "00010546_STEAM_0_0_24751394_20251007-221200.zip",
+    "path": "speedrun_1000fps_battle/00010546_STEAM_0_0_24751394_20251007-221200.zip",
+    "archivedAt": "2025-10-08T00:00:00.654Z"
+  },
+  {
     "demFileHash": "25734ed47e1692dfd5bfd51f67c252ac5589d397aa24685a97df030f88e19d91",
     "uid": "PXB27MSQO",
     "map": "speedrun_runners",
@@ -598,18 +658,6 @@
     "zipFilename": "00015216_STEAM_0_1_169847134_20251004-221228.zip",
     "path": "speedrun_ukraine/00015216_STEAM_0_1_169847134_20251004-221228.zip",
     "archivedAt": "2025-10-05T00:00:02.566Z"
-  },
-  {
-    "demFileHash": "8413a6ebfd5ca6b6511a5e3bf4a863c4150829713017e415ec897ee18e80bc66",
-    "uid": "5MT48ZWE2",
-    "map": "speedrun_1000fps_battle",
-    "category": 1,
-    "time": 10991,
-    "playerSteamId": "STEAM_0:1:84733295",
-    "timestamp": "2025-10-04T12:42:27.000Z",
-    "zipFilename": "00010991_STEAM_0_1_84733295_20251004-124227.zip",
-    "path": "speedrun_1000fps_battle/00010991_STEAM_0_1_84733295_20251004-124227.zip",
-    "archivedAt": "2025-10-04T18:00:00.441Z"
   },
   {
     "demFileHash": "2af4c459ed2344a68fd5e9ef83641ac31097b1368bd9d591530d35cdc66e9d07",
@@ -2133,18 +2181,6 @@
     "timestamp": "2025-09-21T14:42:08.000Z",
     "zipFilename": "00016147_STEAM_0_1_169847134_20250921-144208.zip",
     "path": "speedrun_tr/00016147_STEAM_0_1_169847134_20250921-144208.zip",
-    "archivedAt": "2025-09-21T15:00:00.470Z"
-  },
-  {
-    "demFileHash": "b639f95a86f1c8ca9fa82d039f2683b314b7bf56d7d03211cb19c3715595348f",
-    "uid": "PT4SKKN8D",
-    "map": "speedrun_tr",
-    "category": 1,
-    "time": 15771,
-    "playerSteamId": "STEAM_0:0:24751394",
-    "timestamp": "2025-09-21T14:43:58.000Z",
-    "zipFilename": "00015771_STEAM_0_0_24751394_20250921-144358.zip",
-    "path": "speedrun_tr/00015771_STEAM_0_0_24751394_20250921-144358.zip",
     "archivedAt": "2025-09-21T15:00:00.470Z"
   },
   {
