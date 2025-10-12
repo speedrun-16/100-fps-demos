@@ -25,7 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 10 | 2025-10-10 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 11 | 2025-10-11 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-10-07 |
 | [speedrun_30min](./speedrun_30min) | 5 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-09-28 |
@@ -124,4 +124,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **113**
-- Total Demos: **394**
+- Total Demos: **395**
