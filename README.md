@@ -8,7 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
-| [de_dust](./de_dust) | 2 | 2025-09-29 |
+| [de_dust](./de_dust) | 5 | 2025-10-12 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
@@ -124,4 +124,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **113**
-- Total Demos: **395**
+- Total Demos: **398**
