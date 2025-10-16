@@ -38,7 +38,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2025-10-05 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 6 | 2025-10-05 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
-| [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-10-15 |
+| [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-10-16 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_delight](./speedrun_delight) | 3 | 2025-09-29 |
@@ -83,7 +83,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 2 | 2025-09-20 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 7 | 2025-09-20 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2025-09-14 |
+| [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
 | [speedrun_poland](./speedrun_poland) | 3 | 2025-09-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-01 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
@@ -121,10 +121,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-09-20 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-10-16 |
 
 ---
 
 ### Statistics
 - Total Maps: **116**
-- Total Demos: **403**
+- Total Demos: **404**
