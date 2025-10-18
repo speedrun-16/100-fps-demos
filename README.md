@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
+| [de_inferno](./de_inferno) | 1 | 2025-10-17 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
@@ -46,7 +47,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
 | [speedrun_dust2](./speedrun_dust2) | 4 | 2025-10-06 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
-| [speedrun_eastwood](./speedrun_eastwood) | 2 | 2025-10-17 |
+| [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-10-14 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_error](./speedrun_error) | 5 | 2025-09-29 |
@@ -128,10 +129,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-10-16 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 5 | 2025-10-17 |
 
 ---
 
 ### Statistics
-- Total Maps: **123**
-- Total Demos: **419**
+- Total Maps: **124**
+- Total Demos: **422**
