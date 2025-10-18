@@ -101,7 +101,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_r3x](./speedrun_r3x) | 4 | 2025-10-08 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 8 | 2025-09-24 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 3 | 2025-09-20 |
-| [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-09-15 |
+| [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-10-18 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_retz](./speedrun_retz) | 1 | 2025-10-14 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
