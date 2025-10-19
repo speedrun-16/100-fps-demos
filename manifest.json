@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "bba166a9804c5d91d3fa9a481f6c6bdbe116ab0f09a6c9a2807cd37cc416a324",
+    "uid": "FYFKPA9DU",
+    "map": "speedrun_poland",
+    "category": 1,
+    "time": 13179,
+    "playerSteamId": "STEAM_0:1:578685909",
+    "timestamp": "2025-10-19T17:37:51.000Z",
+    "zipFilename": "00013179_STEAM_0_1_578685909_20251019-173751.zip",
+    "path": "speedrun_poland/00013179_STEAM_0_1_578685909_20251019-173751.zip",
+    "archivedAt": "2025-10-19T18:00:00.531Z"
+  },
+  {
+    "demFileHash": "f4950615185b6d30f36b73dff41c0b42342a81b0146dd549baa11a735cc6e427",
+    "uid": "HE7ZF40AM",
+    "map": "speedrun_poland",
+    "category": 1,
+    "time": 12894,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-19T17:31:39.000Z",
+    "zipFilename": "00012894_STEAM_0_0_24751394_20251019-173139.zip",
+    "path": "speedrun_poland/00012894_STEAM_0_0_24751394_20251019-173139.zip",
+    "archivedAt": "2025-10-19T18:00:00.531Z"
+  },
+  {
+    "demFileHash": "a1cb140177a8132e40aee98c13b82d53a1e56a4e39ee64232e0790425bc6150a",
+    "uid": "8UGW9IJH1",
+    "map": "speedrun_poland",
+    "category": 1,
+    "time": 12988,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-10-19T17:36:58.000Z",
+    "zipFilename": "00012988_STEAM_0_1_796767048_20251019-173658.zip",
+    "path": "speedrun_poland/00012988_STEAM_0_1_796767048_20251019-173658.zip",
+    "archivedAt": "2025-10-19T18:00:00.531Z"
+  },
+  {
     "demFileHash": "00926f09af5a317c0e079a7fcc3cc7ec7d6d41917572205e214a1735699429e2",
     "uid": "HFVJIB366",
     "map": "speedrun_r3x_final",
@@ -1773,18 +1809,6 @@
     "timestamp": "2025-09-30T18:17:20.000Z",
     "zipFilename": "00013144_STEAM_0_1_408712_20250930-181720.zip",
     "path": "speedrun_poland/00013144_STEAM_0_1_408712_20250930-181720.zip",
-    "archivedAt": "2025-10-01T00:00:00.799Z"
-  },
-  {
-    "demFileHash": "2cab994eb8db25332fff05fae81659ca327cb08a328b5ebf2f17c5314704b30e",
-    "uid": "DFHR1WSNO",
-    "map": "speedrun_poland",
-    "category": 1,
-    "time": 13045,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-09-30T18:22:59.000Z",
-    "zipFilename": "00013045_STEAM_0_1_796767048_20250930-182259.zip",
-    "path": "speedrun_poland/00013045_STEAM_0_1_796767048_20250930-182259.zip",
     "archivedAt": "2025-10-01T00:00:00.799Z"
   },
   {
