@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
+| [de_dust2](./de_dust2) | 2 | 2025-10-19 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-17 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
@@ -24,6 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
+| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
@@ -95,7 +97,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 2 | 2025-09-20 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 7 | 2025-09-20 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
-| [speedrun_poland](./speedrun_poland) | 5 | 2025-10-19 |
+| [speedrun_poland](./speedrun_poland) | 6 | 2025-10-19 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-01 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-09-27 |
@@ -133,6 +135,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 4 | 2025-10-06 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
+| [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 5 | 2025-10-17 |
@@ -140,5 +143,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **130**
-- Total Demos: **442**
+- Total Maps: **133**
+- Total Demos: **449**
