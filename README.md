@@ -43,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2025-10-17 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 6 | 2025-10-05 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
-| [speedrun_confusion3](./speedrun_confusion3) | 4 | 2025-10-18 |
+| [speedrun_confusion3](./speedrun_confusion3) | 4 | 2025-10-20 |
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v1](./speedrun_danmal_v1) | 2 | 2025-10-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
