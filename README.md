@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
-| [de_dust2](./de_dust2) | 3 | 2025-10-20 |
+| [de_dust2](./de_dust2) | 5 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-17 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
@@ -134,7 +134,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-08 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
-| [speedrun_wander](./speedrun_wander) | 4 | 2025-10-06 |
+| [speedrun_wander](./speedrun_wander) | 5 | 2025-10-20 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
@@ -145,4 +145,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **134**
-- Total Demos: **451**
+- Total Demos: **454**
