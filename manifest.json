@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ab00c45260dcdd1c7c7cf37293f39817586023f7c06c6815a7d7fbd22259016a",
+    "uid": "KL4ZICEYR",
+    "map": "deathrun_downtown_moonlight",
+    "category": 1,
+    "time": 8329,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-22T15:12:19.000Z",
+    "zipFilename": "00008329_STEAM_0_1_84733295_20251022-151219.zip",
+    "path": "deathrun_downtown_moonlight/00008329_STEAM_0_1_84733295_20251022-151219.zip",
+    "archivedAt": "2025-10-22T18:00:00.394Z"
+  },
+  {
     "demFileHash": "d33993efc3fba3e5bcb658a3dab1ca971a5682147c28b95b8b4d9d68de86137c",
     "uid": "PGWXSKQ9A",
     "map": "speedrun_solitude",
