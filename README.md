@@ -89,7 +89,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 3 | 2025-10-05 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
 | [speedrun_ms](./speedrun_ms) | 1 | 2025-10-16 |
-| [speedrun_muhaha](./speedrun_muhaha) | 3 | 2025-09-17 |
+| [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 1 | 2025-10-18 |
 | [speedrun_neocist](./speedrun_neocist) | 7 | 2025-10-07 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
@@ -102,7 +102,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-10-19 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-01 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-09-27 |
+| [speedrun_pupsik](./speedrun_pupsik) | 2 | 2025-10-22 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 4 | 2025-10-05 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
 | [speedrun_qu_dust](./speedrun_qu_dust) | 1 | 2025-10-03 |
@@ -146,4 +146,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **135**
-- Total Demos: **455**
+- Total Demos: **457**
