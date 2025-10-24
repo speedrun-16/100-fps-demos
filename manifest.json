@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "3243c21befad74f6532514246d54f815320ee85f0f5ca6ed0aca2955aac03173",
+    "uid": "FVL2NWAMR",
+    "map": "speedrun_temple",
+    "category": 1,
+    "time": 14284,
+    "playerSteamId": "STEAM_0:1:169847134",
+    "timestamp": "2025-10-23T18:47:44.000Z",
+    "zipFilename": "00014284_STEAM_0_1_169847134_20251023-184744.zip",
+    "path": "speedrun_temple/00014284_STEAM_0_1_169847134_20251023-184744.zip",
+    "archivedAt": "2025-10-24T00:00:00.423Z"
+  },
+  {
+    "demFileHash": "1fe322af29bcf70188f9370e0a187620cc07f95e45b3d8291e0a81e1921b113f",
+    "uid": "CJVWOPZER",
+    "map": "speedrun_wkr",
+    "category": 1,
+    "time": 15914,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-10-23T22:40:48.000Z",
+    "zipFilename": "00015914_STEAM_0_1_84733295_20251023-224048.zip",
+    "path": "speedrun_wkr/00015914_STEAM_0_1_84733295_20251023-224048.zip",
+    "archivedAt": "2025-10-24T00:00:00.423Z"
+  },
+  {
     "demFileHash": "db62beaa3959b455864e5debb4e4a5b34ea6cb6f213bc220e3a43def5d042e30",
     "uid": "WIOYBGMMS",
     "map": "speedrun_garden",
