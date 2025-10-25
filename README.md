@@ -101,7 +101,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 7 | 2025-09-20 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-10-19 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-01 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-10-24 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2025-10-22 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 4 | 2025-10-05 |
@@ -137,7 +137,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 5 | 2025-10-21 |
-| [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-23 |
+| [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-24 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
