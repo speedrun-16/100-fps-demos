@@ -123,7 +123,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-09-26 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
-| [speedrun_solitude](./speedrun_solitude) | 3 | 2025-10-22 |
+| [speedrun_solitude](./speedrun_solitude) | 3 | 2025-10-25 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2025-10-16 |
 | [speedrun_sunnies_flat](./speedrun_sunnies_flat) | 1 | 2025-10-06 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
