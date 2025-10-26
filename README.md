@@ -9,8 +9,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
-| [de_dust2](./de_dust2) | 5 | 2025-10-20 |
-| [de_inferno](./de_inferno) | 1 | 2025-10-17 |
+| [de_dust2](./de_dust2) | 5 | 2025-10-25 |
+| [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
@@ -26,12 +26,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
-| [deathrun_grass](./deathrun_grass) | 1 | 2025-10-25 |
+| [deathrun_grass](./deathrun_grass) | 2 | 2025-10-25 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 11 | 2025-10-11 |
+| [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-10-07 |
 | [speedrun_30min](./speedrun_30min) | 5 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-09-28 |
@@ -131,6 +132,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_temple](./speedrun_temple) | 2 | 2025-10-23 |
+| [speedrun_TN_f](./speedrun_TN_f) | 2 | 2025-10-25 |
 | [speedrun_tr](./speedrun_tr) | 5 | 2025-10-07 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
@@ -149,5 +151,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **139**
-- Total Demos: **465**
+- Total Maps: **141**
+- Total Demos: **472**
