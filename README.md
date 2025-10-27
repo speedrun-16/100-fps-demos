@@ -17,7 +17,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
-| [deathrun_chemical](./deathrun_chemical) | 5 | 2025-10-03 |
+| [deathrun_chemical](./deathrun_chemical) | 5 | 2025-10-27 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
