@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "bd3122340f2e80f39f0c23bba818bc49c90fd034fb5fcb22539a8882375bf975",
+    "uid": "6PITGPVG7",
+    "map": "speedrun_yagrehsart_100fps",
+    "category": 1,
+    "time": 13708,
+    "playerSteamId": "STEAM_0:1:617544124",
+    "timestamp": "2025-10-29T13:14:44.000Z",
+    "zipFilename": "00013708_STEAM_0_1_617544124_20251029-131444.zip",
+    "path": "speedrun_yagrehsart_100fps/00013708_STEAM_0_1_617544124_20251029-131444.zip",
+    "archivedAt": "2025-10-29T18:00:00.426Z"
+  },
+  {
     "demFileHash": "26e9b35935477f9d31e6a4c427c35d6d52d9c1cf7dcdfa3d21f86acc7c7e8211",
     "uid": "58FM1DWEC",
     "map": "speedrun_w00dfun",
