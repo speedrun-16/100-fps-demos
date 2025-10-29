@@ -80,9 +80,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hiddenlab](./speedrun_hiddenlab) | 3 | 2025-10-25 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-10-28 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-10-29 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-10-06 |
+| [speedrun_katozlandia](./speedrun_katozlandia) | 2 | 2025-10-29 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 4 | 2025-09-20 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-09-20 |
@@ -141,7 +141,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-13 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-25 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-10-29 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 5 | 2025-10-21 |
@@ -156,4 +156,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **145**
-- Total Demos: **484**
+- Total Demos: **485**
