@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b70204887b8535f8b9a4bdf47bfc45f87d5f283fb74410b093a52974090cd386",
+    "uid": "D7PVDTS9B",
+    "map": "speedrun_aztekek2_final",
+    "category": 1,
+    "time": 35212,
+    "playerSteamId": "STEAM_0:1:617544124",
+    "timestamp": "2025-10-30T10:08:40.000Z",
+    "zipFilename": "00035212_STEAM_0_1_617544124_20251030-100840.zip",
+    "path": "speedrun_aztekek2_final/00035212_STEAM_0_1_617544124_20251030-100840.zip",
+    "archivedAt": "2025-10-30T12:00:00.402Z"
+  },
+  {
     "demFileHash": "bd3122340f2e80f39f0c23bba818bc49c90fd034fb5fcb22539a8882375bf975",
     "uid": "6PITGPVG7",
     "map": "speedrun_yagrehsart_100fps",
