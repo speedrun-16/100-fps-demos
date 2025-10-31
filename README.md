@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
-| [de_dust2](./de_dust2) | 5 | 2025-10-25 |
+| [de_dust2](./de_dust2) | 5 | 2025-10-30 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
@@ -26,12 +26,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
-| [deathrun_govno](./deathrun_govno) | 1 | 2025-10-28 |
+| [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
 | [deathrun_grass](./deathrun_grass) | 2 | 2025-10-25 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
+| [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 11 | 2025-10-11 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
@@ -156,5 +157,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **146**
-- Total Demos: **490**
+- Total Maps: **147**
+- Total Demos: **493**
