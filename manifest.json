@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "0b7e676bee7f4be93a4ba3fec97a2f1fb15024d850c8228e1c56d3dcc882a8f8",
+    "uid": "Z67IY3HBU",
+    "map": "speedrun_shiny",
+    "category": 1,
+    "time": 18817,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-11-03T11:51:27.000Z",
+    "zipFilename": "00018817_STEAM_0_1_771348382_20251103-115127.zip",
+    "path": "speedrun_shiny/00018817_STEAM_0_1_771348382_20251103-115127.zip",
+    "archivedAt": "2025-11-03T12:00:00.395Z"
+  },
+  {
     "demFileHash": "9bb71259d695d0753f9a4b547e7475690beebd392c83023de67e157abf6747f0",
     "uid": "RAJJJYRQK",
     "map": "deathrun_ooorgle",
