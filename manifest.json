@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "c67f01f8b54c9b5d84f58cf8e7456f3fb3eb71a7fbd0084ed227302f7687237c",
+    "uid": "9XYN6Y26F",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "time": 13499,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-11-04T14:57:28.000Z",
+    "zipFilename": "00013499_STEAM_0_0_24751394_20251104-145728.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00013499_STEAM_0_0_24751394_20251104-145728.zip",
+    "archivedAt": "2025-11-04T18:00:00.593Z"
+  },
+  {
+    "demFileHash": "461abffd1e9bf9987221c9e57dbfd90689ebab454648bee05e65e5db41d78ed1",
+    "uid": "MD1A10F3Z",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "time": 13574,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-04T15:10:43.000Z",
+    "zipFilename": "00013574_STEAM_0_1_796767048_20251104-151043.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00013574_STEAM_0_1_796767048_20251104-151043.zip",
+    "archivedAt": "2025-11-04T18:00:00.593Z"
+  },
+  {
     "demFileHash": "b74c0825651a58e7a3d6f043c9e84c23905055d48fbd19dc0213faa0c42b7954",
     "uid": "97ZNOJC75",
     "map": "speedrun_sudpi",
@@ -94,30 +118,6 @@
     "zipFilename": "00013539_STEAM_0_1_84733295_20251103-000740.zip",
     "path": "deathrun_ooorgle/00013539_STEAM_0_1_84733295_20251103-000740.zip",
     "archivedAt": "2025-11-03T06:00:00.440Z"
-  },
-  {
-    "demFileHash": "8243c9c65c1937feb31d7ecff5e0806706ec51e8c5e6f2b44d2965ca113a5bcf",
-    "uid": "TOB5A4BKA",
-    "map": "speedrun_triskelion_ruins_beta2",
-    "category": 1,
-    "time": 13798,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-11-02T20:27:24.000Z",
-    "zipFilename": "00013798_STEAM_0_1_796767048_20251102-202724.zip",
-    "path": "speedrun_triskelion_ruins_beta2/00013798_STEAM_0_1_796767048_20251102-202724.zip",
-    "archivedAt": "2025-11-03T00:00:00.760Z"
-  },
-  {
-    "demFileHash": "0031e8df26e11489f26f09afb9804e9ebb3542f76225a3ec70089b87dee4ea49",
-    "uid": "4BV7XACQD",
-    "map": "speedrun_triskelion_ruins_beta2",
-    "category": 1,
-    "time": 13667,
-    "playerSteamId": "STEAM_0:0:24751394",
-    "timestamp": "2025-11-02T20:42:43.000Z",
-    "zipFilename": "00013667_STEAM_0_0_24751394_20251102-204243.zip",
-    "path": "speedrun_triskelion_ruins_beta2/00013667_STEAM_0_0_24751394_20251102-204243.zip",
-    "archivedAt": "2025-11-03T00:00:00.760Z"
   },
   {
     "demFileHash": "579d2320696cb0cbefbddb0decdaf0f4e4d58964f1c826862e43de95b1e063e7",
