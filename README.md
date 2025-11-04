@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 5 | 2025-10-03 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
-| [de_dust2](./de_dust2) | 5 | 2025-10-30 |
+| [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
@@ -86,7 +86,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 2 | 2025-10-29 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
-| [speedrun_kwadrat](./speedrun_kwadrat) | 4 | 2025-09-20 |
+| [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-09-20 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
@@ -134,7 +134,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 3 | 2025-10-25 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 1 | 2025-10-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
-| [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-10-27 |
+| [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-11-03 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-01 |
 | [speedrun_sunnies_flat](./speedrun_sunnies_flat) | 1 | 2025-10-06 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
@@ -161,4 +161,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **150**
-- Total Demos: **505**
+- Total Demos: **507**
