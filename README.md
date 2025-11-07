@@ -88,7 +88,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_katozlandia](./speedrun_katozlandia) | 2 | 2025-10-29 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
-| [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-09-20 |
+| [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_medium](./speedrun_medium) | 2 | 2025-10-03 |
