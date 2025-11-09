@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "be6da8394875b7af453502655a2fe1858d2cbf4998777c36e7f365ae8fc9bd5a",
+    "uid": "GVGMY2ASI",
+    "map": "speedrun_retro_mini",
+    "category": 1,
+    "time": 11428,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-08T20:41:49.000Z",
+    "zipFilename": "00011428_STEAM_0_1_29970948_20251108-204149.zip",
+    "path": "speedrun_retro_mini/00011428_STEAM_0_1_29970948_20251108-204149.zip",
+    "archivedAt": "2025-11-09T00:00:00.374Z"
+  },
+  {
     "demFileHash": "2f2233953c3f3fb825153db0186e504f44d9c0f5e6a5efc33662d446d08b2771",
     "uid": "HA5PB24AX",
     "map": "speedrun_retro_mini",

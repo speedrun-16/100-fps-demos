@@ -122,7 +122,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_replay_edition](./speedrun_replay_edition) | 1 | 2025-11-08 |
 | [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-10-18 |
 | [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
-| [speedrun_retro_mini](./speedrun_retro_mini) | 1 | 2025-11-08 |
+| [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-08 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-30 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
@@ -166,4 +166,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **155**
-- Total Demos: **520**
+- Total Demos: **521**
