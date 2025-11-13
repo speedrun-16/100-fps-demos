@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [cs_militia](./cs_militia) | 5 | 2025-10-03 |
+| [cs_militia](./cs_militia) | 5 | 2025-11-13 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |

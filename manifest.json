@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ed472bd4d73d4a5512f6db7fa0d856b9ca09141b236352e25f129fba55588701",
+    "uid": "KFGAV19S4",
+    "map": "cs_militia",
+    "category": 1,
+    "time": 9795,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-11-13T17:26:00.000Z",
+    "zipFilename": "00009795_STEAM_0_1_84733295_20251113-172600.zip",
+    "path": "cs_militia/00009795_STEAM_0_1_84733295_20251113-172600.zip",
+    "archivedAt": "2025-11-13T18:00:00.604Z"
+  },
+  {
     "demFileHash": "ceb2e824a6c8c535af40ba894bcf20c8daef67154b1eaab6ff63c2a1f6ad9a75",
     "uid": "01L2SWAML",
     "map": "speedrun_chemicalz",
@@ -3537,18 +3549,6 @@
     "timestamp": "2025-09-27T14:34:04.000Z",
     "zipFilename": "00010070_STEAM_0_1_926467834_20250927-143404.zip",
     "path": "cs_militia/00010070_STEAM_0_1_926467834_20250927-143404.zip",
-    "archivedAt": "2025-09-27T18:00:00.716Z"
-  },
-  {
-    "demFileHash": "a14c73c69f3f1b9ad766da58603efe2e613137e25b2937b90047ab07ad39972e",
-    "uid": "YB2FF06QE",
-    "map": "cs_militia",
-    "category": 1,
-    "time": 9847,
-    "playerSteamId": "STEAM_0:1:84733295",
-    "timestamp": "2025-09-27T14:56:40.000Z",
-    "zipFilename": "00009847_STEAM_0_1_84733295_20250927-145640.zip",
-    "path": "cs_militia/00009847_STEAM_0_1_84733295_20250927-145640.zip",
     "archivedAt": "2025-09-27T18:00:00.716Z"
   },
   {
