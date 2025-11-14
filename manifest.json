@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "5c66cddcf62b8341a6b6f7c625607e3030a68da849bd1587e29fe70bbd94a45b",
+    "uid": "9R5YBUS9C",
+    "map": "speedrun_tarantula",
+    "category": 1,
+    "time": 23120,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-14T11:55:11.000Z",
+    "zipFilename": "00023120_STEAM_0_1_796767048_20251114-115511.zip",
+    "path": "speedrun_tarantula/00023120_STEAM_0_1_796767048_20251114-115511.zip",
+    "archivedAt": "2025-11-14T12:00:00.435Z"
+  },
+  {
     "demFileHash": "ed472bd4d73d4a5512f6db7fa0d856b9ca09141b236352e25f129fba55588701",
     "uid": "KFGAV19S4",
     "map": "cs_militia",

@@ -150,6 +150,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_svet](./speedrun_svet) | 4 | 2025-11-09 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
+| [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-10 |
 | [speedrun_tr](./speedrun_tr) | 7 | 2025-11-10 |
@@ -172,5 +173,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **162**
-- Total Demos: **540**
+- Total Maps: **163**
+- Total Demos: **541**
