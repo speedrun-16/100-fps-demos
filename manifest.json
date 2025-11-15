@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "49ff63159be745248da1256a71abc1e8b723eb3928ba996b280e0545f0c1ef02",
+    "uid": "C8QOFGZZT",
+    "map": "deathrun_w00dfun",
+    "category": 1,
+    "time": 14138,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-14T19:33:14.000Z",
+    "zipFilename": "00014138_STEAM_0_1_447056338_20251114-193314.zip",
+    "path": "deathrun_w00dfun/00014138_STEAM_0_1_447056338_20251114-193314.zip",
+    "archivedAt": "2025-11-15T00:00:00.618Z"
+  },
+  {
+    "demFileHash": "9b1e4be6c1c6c674120139b49403a37a7662bb5b34bc1c9c5d9285095812604b",
+    "uid": "3G78NA9SB",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 1,
+    "time": 36231,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-14T22:58:46.000Z",
+    "zipFilename": "00036231_STEAM_0_1_29970948_20251114-225846.zip",
+    "path": "speedrun_bunnyrace_beta2/00036231_STEAM_0_1_29970948_20251114-225846.zip",
+    "archivedAt": "2025-11-15T00:00:00.618Z"
+  },
+  {
+    "demFileHash": "29bc218f805d70e52acbadeb37f341dcefb07e708a45e8e838d96a0e6b97e078",
+    "uid": "RCZAF4B9B",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 1,
+    "time": 34274,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-11-14T22:48:32.000Z",
+    "zipFilename": "00034274_STEAM_0_0_24751394_20251114-224832.zip",
+    "path": "speedrun_bunnyrace_beta2/00034274_STEAM_0_0_24751394_20251114-224832.zip",
+    "archivedAt": "2025-11-15T00:00:00.618Z"
+  },
+  {
     "demFileHash": "2a217d275064ee25856b05631c43f3cea1c3bf10b75e31319452c481c473a800",
     "uid": "S99JC1HWY",
     "map": "speedrun_evidens",

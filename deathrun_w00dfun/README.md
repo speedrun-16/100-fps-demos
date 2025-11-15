@@ -17,9 +17,10 @@ This directory contains player records achieved in the **100 FPS** category for 
 | #9   | [00:13.646](./00013646_STEAM_0_0_188876320_20250920-215414.zip) | [STEAM_0:0:188876320](https://speedrun16.com/profile/STEAM_0:0:188876320)   | 2025-09-20 21:54:14 |
 | #10   | [00:13.879](./00013879_STEAM_0_1_29970948_20250920-172036.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2025-09-20 17:20:36 |
 | #11   | [00:14.032](./00014032_STEAM_0_1_84733295_20250920-220334.zip) | [STEAM_0:1:84733295](https://speedrun16.com/profile/STEAM_0:1:84733295)   | 2025-09-20 22:03:34 |
+| #12   | [00:14.138](./00014138_STEAM_0_1_447056338_20251114-193314.zip) | [STEAM_0:1:447056338](https://speedrun16.com/profile/STEAM_0:1:447056338)   | 2025-11-14 19:33:14 |
 
 ---
 
 ### Record Summary
 **Record Holder:** [00:13.289](./00013289_STEAM_0_0_24751394_20250920-220038.zip) (by [STEAM_0:0:24751394](https://speedrun16.com/profile/STEAM_0:0:24751394))  
-**Total PBs Archived:** 11
+**Total PBs Archived:** 12

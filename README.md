@@ -35,7 +35,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 11 | 2025-10-11 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-14 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 5 | 2025-11-11 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
@@ -49,6 +49,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 6 | 2025-10-23 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
+| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 2 | 2025-11-14 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 4 | 2025-10-03 |
 | [speedrun_chemical](./speedrun_chemical) | 10 | 2025-11-14 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2025-10-17 |
@@ -173,5 +174,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **163**
-- Total Demos: **543**
+- Total Maps: **164**
+- Total Demos: **546**
