@@ -6,7 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
-| [cs_militia](./cs_militia) | 5 | 2025-11-13 |
+| [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
@@ -42,7 +42,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
 | [speedrun_al](./speedrun_al) | 3 | 2025-10-30 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
-| [speedrun_amel](./speedrun_amel) | 4 | 2025-09-14 |
+| [speedrun_amel](./speedrun_amel) | 4 | 2025-11-16 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2025-10-13 |
 | [speedrun_atom](./speedrun_atom) | 1 | 2025-11-09 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
@@ -87,7 +87,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 5 | 2025-09-19 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
-| [speedrun_hiddenlab](./speedrun_hiddenlab) | 3 | 2025-10-25 |
+| [speedrun_hiddenlab](./speedrun_hiddenlab) | 4 | 2025-11-16 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-11-15 |
@@ -112,7 +112,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 2 | 2025-09-20 |
+| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-11-16 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 7 | 2025-09-20 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-11-14 |
@@ -131,7 +131,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-08 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
-| [speedrun_retz](./speedrun_retz) | 2 | 2025-10-30 |
+| [speedrun_retz](./speedrun_retz) | 2 | 2025-11-16 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 10 | 2025-10-12 |
@@ -154,14 +154,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
-| [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-10 |
+| [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
 | [speedrun_tr](./speedrun_tr) | 7 | 2025-11-10 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 5 | 2025-11-04 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_voidrun](./speedrun_voidrun) | 1 | 2025-11-09 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-13 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-11-14 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 11 | 2025-11-16 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 5 | 2025-11-15 |
@@ -176,4 +176,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **165**
-- Total Demos: **549**
+- Total Demos: **553**

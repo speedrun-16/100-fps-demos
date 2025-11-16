@@ -1,5 +1,101 @@
 [
   {
+    "demFileHash": "b9935c1c72d5befeb193264d3a0cba0ccc05ddbf4ec2a5afa4c21a6032a557db",
+    "uid": "AKT67MECI",
+    "map": "speedrun_w00dfun",
+    "category": 1,
+    "time": 13153,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T11:14:40.000Z",
+    "zipFilename": "00013153_STEAM_0_1_796767048_20251116-111440.zip",
+    "path": "speedrun_w00dfun/00013153_STEAM_0_1_796767048_20251116-111440.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "ba54f783e7dcf3b622c8cdf4e30fbf0c04885f35da95a971256f86d6c749903e",
+    "uid": "FFV2MQIO7",
+    "map": "speedrun_retz",
+    "category": 1,
+    "time": 14429,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T11:00:53.000Z",
+    "zipFilename": "00014429_STEAM_0_1_796767048_20251116-110053.zip",
+    "path": "speedrun_retz/00014429_STEAM_0_1_796767048_20251116-110053.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "1d18069f09fd6e6f165b9dad3df5340f43bfe63568391d774c4b92495a3099a5",
+    "uid": "90NEWCWZZ",
+    "map": "speedrun_hiddenlab",
+    "category": 1,
+    "time": 13229,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T11:52:31.000Z",
+    "zipFilename": "00013229_STEAM_0_1_796767048_20251116-115231.zip",
+    "path": "speedrun_hiddenlab/00013229_STEAM_0_1_796767048_20251116-115231.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "b627621b2a230b911d8eb9b2137b1860acb970c1fadc6aa15c88c35a3a28f2af",
+    "uid": "8YNYVLDY8",
+    "map": "speedrun_amel",
+    "category": 1,
+    "time": 8880,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T11:38:50.000Z",
+    "zipFilename": "00008880_STEAM_0_1_796767048_20251116-113850.zip",
+    "path": "speedrun_amel/00008880_STEAM_0_1_796767048_20251116-113850.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "41923b2f0431784ef05924dcc44eae2bbdf137aece90d9594d7a7a3d3910f19b",
+    "uid": "6BGIT7CE6",
+    "map": "cs_militia",
+    "category": 1,
+    "time": 11047,
+    "playerSteamId": "STEAM_0:0:35544084",
+    "timestamp": "2025-11-16T11:59:23.000Z",
+    "zipFilename": "00011047_STEAM_0_0_35544084_20251116-115923.zip",
+    "path": "cs_militia/00011047_STEAM_0_0_35544084_20251116-115923.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "24e191f36efe97b2f3d1d3ba78e470e34fdb0ea5bcbe0b5e6e9699330a597dd1",
+    "uid": "B5OBH9LPS",
+    "map": "speedrun_outside_estonia2",
+    "category": 1,
+    "time": 18672,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T10:46:22.000Z",
+    "zipFilename": "00018672_STEAM_0_1_796767048_20251116-104622.zip",
+    "path": "speedrun_outside_estonia2/00018672_STEAM_0_1_796767048_20251116-104622.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "4bb21b86a473cf358211e08151e1b661c9b2195481bbe1e4e30080a18c06e40b",
+    "uid": "V0SIUYSHY",
+    "map": "cs_militia",
+    "category": 1,
+    "time": 9633,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T11:58:50.000Z",
+    "zipFilename": "00009633_STEAM_0_1_796767048_20251116-115850.zip",
+    "path": "cs_militia/00009633_STEAM_0_1_796767048_20251116-115850.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
+    "demFileHash": "9081c0ce93bb08ec7a413cf479c728f9c99bd36d3cd2b035119929e9df9c4da3",
+    "uid": "2D9FFE8MS",
+    "map": "speedrun_TN_f",
+    "category": 1,
+    "time": 7897,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-16T10:53:59.000Z",
+    "zipFilename": "00007897_STEAM_0_1_796767048_20251116-105359.zip",
+    "path": "speedrun_TN_f/00007897_STEAM_0_1_796767048_20251116-105359.zip",
+    "archivedAt": "2025-11-16T12:00:00.636Z"
+  },
+  {
     "demFileHash": "dd075beb08de20f17b8b18b76a6aa5c82aa62e66077f272b2e547f2ca73f14cf",
     "uid": "PRZ4BU0VX",
     "map": "speedrun_several",
@@ -240,18 +336,6 @@
     "archivedAt": "2025-11-14T18:00:01.132Z"
   },
   {
-    "demFileHash": "015254a2317179dad0718a86e43f8ca827d2f1cf844a9f6db8e34a3bc4090f4f",
-    "uid": "5PJC5DNCY",
-    "map": "speedrun_w00dfun",
-    "category": 1,
-    "time": 13249,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-11-14T15:03:53.000Z",
-    "zipFilename": "00013249_STEAM_0_1_796767048_20251114-150353.zip",
-    "path": "speedrun_w00dfun/00013249_STEAM_0_1_796767048_20251114-150353.zip",
-    "archivedAt": "2025-11-14T18:00:01.132Z"
-  },
-  {
     "demFileHash": "a5529b27354fb8fb9461b52bea0be03740a9e11cf97083be9c5452bd805752e0",
     "uid": "AW0BDEII2",
     "map": "speedrun_30min",
@@ -441,18 +525,6 @@
     "timestamp": "2025-11-10T12:38:15.000Z",
     "zipFilename": "00016193_STEAM_0_1_926467834_20251110-123815.zip",
     "path": "speedrun_tr/00016193_STEAM_0_1_926467834_20251110-123815.zip",
-    "archivedAt": "2025-11-10T18:00:00.466Z"
-  },
-  {
-    "demFileHash": "5dfba4ea61bdde5a0dd2d10da1ef97e24d3d5f86b50e8a274f366136f563a980",
-    "uid": "AMNMGYYYN",
-    "map": "speedrun_TN_f",
-    "category": 1,
-    "time": 7985,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-11-10T17:39:22.000Z",
-    "zipFilename": "00007985_STEAM_0_1_796767048_20251110-173922.zip",
-    "path": "speedrun_TN_f/00007985_STEAM_0_1_796767048_20251110-173922.zip",
     "archivedAt": "2025-11-10T18:00:00.466Z"
   },
   {
@@ -1089,18 +1161,6 @@
     "timestamp": "2025-10-30T12:34:50.000Z",
     "zipFilename": "00011804_STEAM_0_1_169847134_20251030-123450.zip",
     "path": "speedrun_several/00011804_STEAM_0_1_169847134_20251030-123450.zip",
-    "archivedAt": "2025-10-30T18:00:00.504Z"
-  },
-  {
-    "demFileHash": "a1930e648edad9dc1060d1fdb935a7443b96ec5bb6b9de54deac74642069f380",
-    "uid": "CGERLZFOK",
-    "map": "speedrun_retz",
-    "category": 1,
-    "time": 14496,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-10-30T15:59:18.000Z",
-    "zipFilename": "00014496_STEAM_0_1_796767048_20251030-155918.zip",
-    "path": "speedrun_retz/00014496_STEAM_0_1_796767048_20251030-155918.zip",
     "archivedAt": "2025-10-30T18:00:00.504Z"
   },
   {
@@ -6273,18 +6333,6 @@
     "timestamp": "2025-09-14T18:25:53.000Z",
     "zipFilename": "00009469_STEAM_0_1_617544124_20250914-182553.zip",
     "path": "speedrun_amel/00009469_STEAM_0_1_617544124_20250914-182553.zip",
-    "archivedAt": "2025-09-14T21:00:00.365Z"
-  },
-  {
-    "demFileHash": "ab52baafefd29feffd1d144b9af999e3eb2db61798acf05b19e291fdb6d54622",
-    "uid": "ILT108GTV",
-    "map": "speedrun_amel",
-    "category": 1,
-    "time": 8950,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-09-14T18:23:09.000Z",
-    "zipFilename": "00008950_STEAM_0_1_796767048_20250914-182309.zip",
-    "path": "speedrun_amel/00008950_STEAM_0_1_796767048_20250914-182309.zip",
     "archivedAt": "2025-09-14T21:00:00.365Z"
   },
   {
