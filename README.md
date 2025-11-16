@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_crate](./speedrun_crate) | 4 | 2025-09-16 |
 | [speedrun_danmal_v1](./speedrun_danmal_v1) | 2 | 2025-10-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
-| [speedrun_deceit](./speedrun_deceit) | 5 | 2025-10-18 |
+| [speedrun_deceit](./speedrun_deceit) | 6 | 2025-11-15 |
 | [speedrun_delight](./speedrun_delight) | 3 | 2025-09-29 |
 | [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
 | [speedrun_dust2](./speedrun_dust2) | 4 | 2025-10-06 |
@@ -175,4 +175,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **164**
-- Total Demos: **547**
+- Total Demos: **548**
