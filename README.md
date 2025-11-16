@@ -31,6 +31,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_grass](./deathrun_grass) | 4 | 2025-11-05 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
+| [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
@@ -135,7 +136,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_runners](./speedrun_runners) | 10 | 2025-10-12 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
-| [speedrun_several](./speedrun_several) | 9 | 2025-11-15 |
+| [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
 | [speedrun_several_longer](./speedrun_several_longer) | 3 | 2025-11-05 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
@@ -174,5 +175,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **164**
-- Total Demos: **548**
+- Total Maps: **165**
+- Total Demos: **549**
