@@ -22,7 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
-| [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-09-23 |
+| [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-11-17 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-09-23 |
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
@@ -74,7 +74,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
 | [speedrun_evidens](./speedrun_evidens) | 7 | 2025-11-14 |
-| [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-16 |
+| [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-17 |
 | [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-11 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
@@ -123,8 +123,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pupsik2](./speedrun_pupsik2) | 5 | 2025-11-15 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
 | [speedrun_qu_dust](./speedrun_qu_dust) | 1 | 2025-10-03 |
-| [speedrun_r3x](./speedrun_r3x) | 6 | 2025-11-16 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 9 | 2025-10-26 |
+| [speedrun_r3x](./speedrun_r3x) | 6 | 2025-11-17 |
+| [speedrun_r3x_final](./speedrun_r3x_final) | 10 | 2025-11-17 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 5 | 2025-11-11 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 4 | 2025-10-18 |
 | [speedrun_replay_edition](./speedrun_replay_edition) | 1 | 2025-11-08 |
@@ -177,4 +177,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **166**
-- Total Demos: **565**
+- Total Demos: **566**
