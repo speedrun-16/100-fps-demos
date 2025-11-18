@@ -40,11 +40,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-14 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2025-11-17 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2025-11-18 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
 | [speedrun_al](./speedrun_al) | 3 | 2025-10-30 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-11-16 |
+| [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2025-10-13 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
@@ -153,6 +154,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_flat](./speedrun_sunnies_flat) | 1 | 2025-10-06 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 3 | 2025-11-11 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
+| [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-11-18 |
 | [speedrun_svet](./speedrun_svet) | 5 | 2025-11-16 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
@@ -178,5 +180,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **168**
-- Total Demos: **572**
+- Total Maps: **170**
+- Total Demos: **574**

@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "659e91ba8d125d6848a97d43169b85ce7742473da6a89fc9139b28c2bc01dd9b",
+    "uid": "EC5H4HZXM",
+    "map": "speedrun_superspeedrun",
+    "category": 1,
+    "time": 11282,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-18T16:31:39.000Z",
+    "zipFilename": "00011282_STEAM_0_1_447056338_20251118-163139.zip",
+    "path": "speedrun_superspeedrun/00011282_STEAM_0_1_447056338_20251118-163139.zip",
+    "archivedAt": "2025-11-18T18:00:00.478Z"
+  },
+  {
+    "demFileHash": "89be1d749d825fb03dd0e24490f464d8570ed3dcb112abf1ae1a1bdf05d69c16",
+    "uid": "ZLAT4W5L2",
+    "map": "speedrun_artakey",
+    "category": 1,
+    "time": 21568,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-11-18T12:33:10.000Z",
+    "zipFilename": "00021568_STEAM_0_1_84733295_20251118-123310.zip",
+    "path": "speedrun_artakey/00021568_STEAM_0_1_84733295_20251118-123310.zip",
+    "archivedAt": "2025-11-18T18:00:00.478Z"
+  },
+  {
+    "demFileHash": "9749a210eaf77e6fa9610b8c1e7a8fb02da3303a3be5e56eed585a1f19a94276",
+    "uid": "0VXTGO9EE",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10517,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-11-18T17:58:06.000Z",
+    "zipFilename": "00010517_STEAM_0_0_24751394_20251118-175806.zip",
+    "path": "speedrun_1000fps_battle/00010517_STEAM_0_0_24751394_20251118-175806.zip",
+    "archivedAt": "2025-11-18T18:00:00.478Z"
+  },
+  {
     "demFileHash": "d1dfa4354ead4742201236b260e1700eb90516e10c39f7da89896bfb6ad118e5",
     "uid": "NPSR5TWXG",
     "map": "deathrun_dofe_f",
@@ -2877,18 +2913,6 @@
     "timestamp": "2025-10-07T18:59:37.000Z",
     "zipFilename": "00015750_STEAM_0_0_24751394_20251007-185937.zip",
     "path": "speedrun_tr/00015750_STEAM_0_0_24751394_20251007-185937.zip",
-    "archivedAt": "2025-10-08T00:00:00.654Z"
-  },
-  {
-    "demFileHash": "145510c8771e111a259baaba203ca72fd640f6fdb7ff5b34978b81b7dd484cfa",
-    "uid": "9IDNLFRT5",
-    "map": "speedrun_1000fps_battle",
-    "category": 1,
-    "time": 10546,
-    "playerSteamId": "STEAM_0:0:24751394",
-    "timestamp": "2025-10-07T22:12:00.000Z",
-    "zipFilename": "00010546_STEAM_0_0_24751394_20251007-221200.zip",
-    "path": "speedrun_1000fps_battle/00010546_STEAM_0_0_24751394_20251007-221200.zip",
     "archivedAt": "2025-10-08T00:00:00.654Z"
   },
   {
