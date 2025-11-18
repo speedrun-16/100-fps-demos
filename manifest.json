@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "87d711449e22b3084d0d524dc5b1e859c3bbecc4350e41bbd8e8101b826cef45",
+    "uid": "232P89OK6",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10693,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-17T23:01:15.000Z",
+    "zipFilename": "00010693_STEAM_0_1_29970948_20251117-230115.zip",
+    "path": "speedrun_1000fps_battle/00010693_STEAM_0_1_29970948_20251117-230115.zip",
+    "archivedAt": "2025-11-18T00:00:01.029Z"
+  },
+  {
+    "demFileHash": "99ffde6fe8c8e597cb9e3ee4789f739fe9c46616667732ef57c41d00f5351225",
+    "uid": "BTJQL5MOD",
+    "map": "de_aztec",
+    "category": 1,
+    "time": 9308,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-11-17T19:34:37.000Z",
+    "zipFilename": "00009308_STEAM_0_1_84733295_20251117-193437.zip",
+    "path": "de_aztec/00009308_STEAM_0_1_84733295_20251117-193437.zip",
+    "archivedAt": "2025-11-18T00:00:01.029Z"
+  },
+  {
+    "demFileHash": "23e4ff509ef6fb73edc9406ebdbea550b9f5496839ff5a004ff4e17175bdb263",
+    "uid": "BMX1ODNOX",
+    "map": "speedrun_katozlandia",
+    "category": 1,
+    "time": 5958,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-11-17T23:36:34.000Z",
+    "zipFilename": "00005958_STEAM_0_1_771348382_20251117-233634.zip",
+    "path": "speedrun_katozlandia/00005958_STEAM_0_1_771348382_20251117-233634.zip",
+    "archivedAt": "2025-11-18T00:00:01.029Z"
+  },
+  {
+    "demFileHash": "2a708053902cbdc052b12340608343d1b9c20326deaaf2055d1fa50510552b4e",
+    "uid": "5B9PWDITD",
+    "map": "speedrun_katozlandia",
+    "category": 1,
+    "time": 6163,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-11-17T23:28:09.000Z",
+    "zipFilename": "00006163_STEAM_0_1_84733295_20251117-232809.zip",
+    "path": "speedrun_katozlandia/00006163_STEAM_0_1_84733295_20251117-232809.zip",
+    "archivedAt": "2025-11-18T00:00:01.029Z"
+  },
+  {
+    "demFileHash": "4a4b67b363e964afea06d8f1a257f1570008744f9a14c3040b8468dd897243f8",
+    "uid": "X15Q6K1EO",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10899,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-17T23:03:21.000Z",
+    "zipFilename": "00010899_STEAM_0_1_447056338_20251117-230321.zip",
+    "path": "speedrun_1000fps_battle/00010899_STEAM_0_1_447056338_20251117-230321.zip",
+    "archivedAt": "2025-11-18T00:00:01.029Z"
+  },
+  {
     "demFileHash": "8b20fe880b523faeea30d1e27fbc8e95a1fa51945c5ed18469e93af9f4c53a11",
     "uid": "4BAJ96WMM",
     "map": "deathrun_dust2010",
@@ -694,18 +754,6 @@
     "zipFilename": "00010509_STEAM_0_1_447056338_20251112-170424.zip",
     "path": "speedrun_chemical/00010509_STEAM_0_1_447056338_20251112-170424.zip",
     "archivedAt": "2025-11-12T18:00:27.738Z"
-  },
-  {
-    "demFileHash": "c5dca9628be3cfa9d85d014a0937c0755cb92a1b6bc969d7e4aff5ba2bba8e57",
-    "uid": "5BJAGZ3OP",
-    "map": "speedrun_1000fps_battle",
-    "category": 1,
-    "time": 11181,
-    "playerSteamId": "STEAM_0:1:447056338",
-    "timestamp": "2025-11-11T19:00:41.000Z",
-    "zipFilename": "00011181_STEAM_0_1_447056338_20251111-190041.zip",
-    "path": "speedrun_1000fps_battle/00011181_STEAM_0_1_447056338_20251111-190041.zip",
-    "archivedAt": "2025-11-12T00:00:00.424Z"
   },
   {
     "demFileHash": "522037477d475d1b971c8ac8a03d1b3ae61aeb82e392c5316c4c2a556d74c08e",
@@ -2866,18 +2914,6 @@
     "zipFilename": "00015237_STEAM_0_1_84733295_20251007-134305.zip",
     "path": "speedrun_runners/00015237_STEAM_0_1_84733295_20251007-134305.zip",
     "archivedAt": "2025-10-07T18:00:00.696Z"
-  },
-  {
-    "demFileHash": "6758675da018e2abfce08872c30ac9b0cb5870b54ed5cc1bd43beec9ec23fb62",
-    "uid": "TGIL7FDY9",
-    "map": "speedrun_1000fps_battle",
-    "category": 1,
-    "time": 10848,
-    "playerSteamId": "STEAM_0:1:29970948",
-    "timestamp": "2025-10-07T08:55:11.000Z",
-    "zipFilename": "00010848_STEAM_0_1_29970948_20251007-085511.zip",
-    "path": "speedrun_1000fps_battle/00010848_STEAM_0_1_29970948_20251007-085511.zip",
-    "archivedAt": "2025-10-07T12:00:02.858Z"
   },
   {
     "demFileHash": "de23b8c978c1ccebeb6c51655b7a38a27b419f7e77233dd727687ff07120ed6b",

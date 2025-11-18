@@ -8,6 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
+| [de_aztec](./de_aztec) | 1 | 2025-11-17 |
 | [de_dust](./de_dust) | 5 | 2025-10-15 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
@@ -38,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-14 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2025-11-16 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2025-11-17 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
 | [speedrun_al](./speedrun_al) | 3 | 2025-10-30 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
@@ -93,7 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-11-15 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 2 | 2025-10-29 |
+| [speedrun_katozlandia](./speedrun_katozlandia) | 4 | 2025-11-17 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
@@ -176,5 +177,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **166**
-- Total Demos: **566**
+- Total Maps: **167**
+- Total Demos: **569**
