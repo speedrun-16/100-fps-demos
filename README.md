@@ -41,7 +41,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-18 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-18 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-19 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
 | [speedrun_al](./speedrun_al) | 3 | 2025-10-30 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
@@ -49,6 +49,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2025-10-13 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
+| [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
@@ -109,7 +110,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 1 | 2025-09-24 |
 | [speedrun_miqu](./speedrun_miqu) | 4 | 2025-11-16 |
-| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-09-27 |
+| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
@@ -182,5 +183,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **172**
-- Total Demos: **577**
+- Total Maps: **173**
+- Total Demos: **579**
