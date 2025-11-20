@@ -39,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-18 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-20 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-19 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
