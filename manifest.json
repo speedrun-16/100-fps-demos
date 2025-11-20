@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b4fd9c8ad16453a50b42242040baab9c3159767bd00641d4d564ed53f58473bf",
+    "uid": "FMMP3CAVQ",
+    "map": "speedrun_faded_bronze",
+    "category": 1,
+    "time": 11159,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T18:14:57.000Z",
+    "zipFilename": "00011159_STEAM_0_1_796767048_20251119-181457.zip",
+    "path": "speedrun_faded_bronze/00011159_STEAM_0_1_796767048_20251119-181457.zip",
+    "archivedAt": "2025-11-20T00:00:05.533Z"
+  },
+  {
     "demFileHash": "4b0e5c54f4ecf1d86d62675c675e07db7f4ee12c7fe6ab0f22c65b2f670d6fe8",
     "uid": "I94IN49MR",
     "map": "speedrun_1000fps_battle",
