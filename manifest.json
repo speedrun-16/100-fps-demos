@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "5ef4b3f7806b2c21020f1171fd291e179e40b99be03e4a4c27e4fc91fff391d2",
+    "uid": "S9ZBKUYQH",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 1,
+    "time": 37563,
+    "playerSteamId": "STEAM_0:1:101619436",
+    "timestamp": "2025-11-21T03:50:23.000Z",
+    "zipFilename": "00037563_STEAM_0_1_101619436_20251121-035023.zip",
+    "path": "speedrun_bunnyrace_beta2/00037563_STEAM_0_1_101619436_20251121-035023.zip",
+    "archivedAt": "2025-11-21T06:00:00.696Z"
+  },
+  {
+    "demFileHash": "2528b01ecb7f63b65d9ad7381760ae1113515287b9f51ef08b98f3f5000f0e33",
+    "uid": "M69J7X4UF",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "time": 13516,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-21T02:49:02.000Z",
+    "zipFilename": "00013516_STEAM_0_1_408712_20251121-024902.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00013516_STEAM_0_1_408712_20251121-024902.zip",
+    "archivedAt": "2025-11-21T06:00:00.696Z"
+  },
+  {
+    "demFileHash": "156f5b87bb6fb2e3f1281a753545e79a97cf98233a74e92337df04191c9df7be",
+    "uid": "4SDLBVXLR",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "time": 14651,
+    "playerSteamId": "STEAM_0:1:101619436",
+    "timestamp": "2025-11-21T02:35:49.000Z",
+    "zipFilename": "00014651_STEAM_0_1_101619436_20251121-023549.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00014651_STEAM_0_1_101619436_20251121-023549.zip",
+    "archivedAt": "2025-11-21T06:00:00.696Z"
+  },
+  {
     "demFileHash": "c4f8ef82e2c58c799c779f346029df8d27644fb5f2d02d7e001f447518e8a01a",
     "uid": "D8DHWXOXS",
     "map": "speedrun_tr",
