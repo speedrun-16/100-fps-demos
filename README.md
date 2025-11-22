@@ -35,6 +35,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
+| [deathrun_linea](./deathrun_linea) | 1 | 2025-11-22 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
@@ -184,5 +185,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **174**
-- Total Demos: **586**
+- Total Maps: **175**
+- Total Demos: **587**
