@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "c87c89083f109137c0fa5c832b5c1374f019bbf14202d63d1c6e5797a8896542",
+    "uid": "5TNJCSFCU",
+    "map": "speedrun_al",
+    "category": 1,
+    "time": 16849,
+    "playerSteamId": "STEAM_0:1:101619436",
+    "timestamp": "2025-11-24T08:15:06.000Z",
+    "zipFilename": "00016849_STEAM_0_1_101619436_20251124-081506.zip",
+    "path": "speedrun_al/00016849_STEAM_0_1_101619436_20251124-081506.zip",
+    "archivedAt": "2025-11-24T12:00:00.478Z"
+  },
+  {
+    "demFileHash": "99bdc360cc11ade05dfd5459536f0ab514c3b18f12bf916bd4498ba8073d7270",
+    "uid": "T31YR4M95",
+    "map": "speedrun_al",
+    "category": 1,
+    "time": 16492,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-24T09:11:54.000Z",
+    "zipFilename": "00016492_STEAM_0_1_926467834_20251124-091154.zip",
+    "path": "speedrun_al/00016492_STEAM_0_1_926467834_20251124-091154.zip",
+    "archivedAt": "2025-11-24T12:00:00.478Z"
+  },
+  {
+    "demFileHash": "bb433e7c8d93d55baccc7b6321e4a435701181d0f52313641bed1772008f6258",
+    "uid": "SJHV8P25U",
+    "map": "speedrun_chemical",
+    "category": 1,
+    "time": 10230,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-11-24T10:13:55.000Z",
+    "zipFilename": "00010230_STEAM_0_1_926467834_20251124-101355.zip",
+    "path": "speedrun_chemical/00010230_STEAM_0_1_926467834_20251124-101355.zip",
+    "archivedAt": "2025-11-24T12:00:00.478Z"
+  },
+  {
     "demFileHash": "be0d4156edb0b2c146af849d58489a310eb5ec2c3d929e928d525d1e8a2466a9",
     "uid": "GZ1OZNK4F",
     "map": "speedrun_funeral",
@@ -3598,18 +3634,6 @@
     "zipFilename": "00010122_STEAM_0_1_796767048_20251005-110255.zip",
     "path": "speedrun_chemical_maxfps/00010122_STEAM_0_1_796767048_20251005-110255.zip",
     "archivedAt": "2025-10-05T12:00:00.811Z"
-  },
-  {
-    "demFileHash": "70d8d8fcf71cd31c58ca3ae7302a9276188d9e262720471076734ad7c408d529",
-    "uid": "YL5EYEQTX",
-    "map": "speedrun_chemical",
-    "category": 1,
-    "time": 10236,
-    "playerSteamId": "STEAM_0:1:926467834",
-    "timestamp": "2025-10-04T20:02:52.000Z",
-    "zipFilename": "00010236_STEAM_0_1_926467834_20251004-200252.zip",
-    "path": "speedrun_chemical/00010236_STEAM_0_1_926467834_20251004-200252.zip",
-    "archivedAt": "2025-10-05T00:00:02.566Z"
   },
   {
     "demFileHash": "884d5a7169cb48463a8fb0a43af79eef138e149d3b0021e6e72c251f0c8fd003",
