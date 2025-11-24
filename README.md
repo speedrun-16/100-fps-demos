@@ -88,6 +88,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_faster](./speedrun_faster) | 2 | 2025-11-10 |
 | [speedrun_fpsmeowkatoz](./speedrun_fpsmeowkatoz) | 1 | 2025-11-16 |
 | [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
+| [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_gmsr_remade_kaniel](./speedrun_gmsr_remade_kaniel) | 1 | 2025-09-19 |
 | [speedrun_grande](./speedrun_grande) | 1 | 2025-10-16 |
@@ -186,5 +187,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **176**
-- Total Demos: **591**
+- Total Maps: **177**
+- Total Demos: **593**
