@@ -1,5 +1,65 @@
 [
   {
+    "demFileHash": "d86c8ede777aef4f879965d867a3cd3090b384d798ee092dd0460bb54c54322e",
+    "uid": "ZVKBDFDJR",
+    "map": "speedrun_chemical_maxfps",
+    "category": 1,
+    "time": 10275,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-25T04:30:12.000Z",
+    "zipFilename": "00010275_STEAM_0_1_29970948_20251125-043012.zip",
+    "path": "speedrun_chemical_maxfps/00010275_STEAM_0_1_29970948_20251125-043012.zip",
+    "archivedAt": "2025-11-25T06:00:03.557Z"
+  },
+  {
+    "demFileHash": "fee3098c1ba18882cd726d6825dfd410e5afc9ad567d356589514e92e7c6168d",
+    "uid": "C9EQI5SGE",
+    "map": "speedrun_kazakhstan",
+    "category": 1,
+    "time": 17021,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-25T03:51:51.000Z",
+    "zipFilename": "00017021_STEAM_0_1_408712_20251125-035151.zip",
+    "path": "speedrun_kazakhstan/00017021_STEAM_0_1_408712_20251125-035151.zip",
+    "archivedAt": "2025-11-25T06:00:03.557Z"
+  },
+  {
+    "demFileHash": "79f13e66787e0b7880ed3d9e822cf81a65e232d5e14d3498a23f19f4ce05b519",
+    "uid": "O3HW7KPFW",
+    "map": "speedrun_kazakhstan",
+    "category": 1,
+    "time": 17406,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-25T03:57:00.000Z",
+    "zipFilename": "00017406_STEAM_0_1_29970948_20251125-035700.zip",
+    "path": "speedrun_kazakhstan/00017406_STEAM_0_1_29970948_20251125-035700.zip",
+    "archivedAt": "2025-11-25T06:00:03.557Z"
+  },
+  {
+    "demFileHash": "ea1fd403b2ccf5fb1469e4a579e9b39c6a51e7c77cbd61901352bec0162799d3",
+    "uid": "Z04YSUBLX",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 1,
+    "time": 13460,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-25T02:03:14.000Z",
+    "zipFilename": "00013460_STEAM_0_1_408712_20251125-020314.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00013460_STEAM_0_1_408712_20251125-020314.zip",
+    "archivedAt": "2025-11-25T06:00:03.557Z"
+  },
+  {
+    "demFileHash": "7cd87d3cb2a36c8852efbb890a2805b5e6fb127a460c261c9f1e218d2060082a",
+    "uid": "H8I0M7BP8",
+    "map": "speedrun_chemical_maxfps",
+    "category": 1,
+    "time": 10101,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-25T04:23:30.000Z",
+    "zipFilename": "00010101_STEAM_0_1_408712_20251125-042330.zip",
+    "path": "speedrun_chemical_maxfps/00010101_STEAM_0_1_408712_20251125-042330.zip",
+    "archivedAt": "2025-11-25T06:00:03.557Z"
+  },
+  {
     "demFileHash": "c87c89083f109137c0fa5c832b5c1374f019bbf14202d63d1c6e5797a8896542",
     "uid": "5TNJCSFCU",
     "map": "speedrun_al",
@@ -225,18 +285,6 @@
     "timestamp": "2025-11-21T03:50:23.000Z",
     "zipFilename": "00037563_STEAM_0_1_101619436_20251121-035023.zip",
     "path": "speedrun_bunnyrace_beta2/00037563_STEAM_0_1_101619436_20251121-035023.zip",
-    "archivedAt": "2025-11-21T06:00:00.696Z"
-  },
-  {
-    "demFileHash": "2528b01ecb7f63b65d9ad7381760ae1113515287b9f51ef08b98f3f5000f0e33",
-    "uid": "M69J7X4UF",
-    "map": "speedrun_triskelion_ruins_beta2",
-    "category": 1,
-    "time": 13516,
-    "playerSteamId": "STEAM_0:1:408712",
-    "timestamp": "2025-11-21T02:49:02.000Z",
-    "zipFilename": "00013516_STEAM_0_1_408712_20251121-024902.zip",
-    "path": "speedrun_triskelion_ruins_beta2/00013516_STEAM_0_1_408712_20251121-024902.zip",
     "archivedAt": "2025-11-21T06:00:00.696Z"
   },
   {
@@ -4858,18 +4906,6 @@
     "zipFilename": "00016240_STEAM_0_1_29970948_20250923-043756.zip",
     "path": "deathrun_easy_v1/00016240_STEAM_0_1_29970948_20250923-043756.zip",
     "archivedAt": "2025-09-23T04:45:02.506Z"
-  },
-  {
-    "demFileHash": "8a76557f3d0f7dc922d976e8c135cd58a0a18b83c3df149e7ad90fc09c54103f",
-    "uid": "BUEEE4DRV",
-    "map": "speedrun_chemical_maxfps",
-    "category": 1,
-    "time": 10452,
-    "playerSteamId": "STEAM_0:1:29970948",
-    "timestamp": "2025-09-22T10:24:32.000Z",
-    "zipFilename": "00010452_STEAM_0_1_29970948_20250922-102432.zip",
-    "path": "speedrun_chemical_maxfps/00010452_STEAM_0_1_29970948_20250922-102432.zip",
-    "archivedAt": "2025-09-22T12:15:40.091Z"
   },
   {
     "demFileHash": "e3e20bc0ba34713eaeab2afd6b314c0e629774a0bddd86611c7e64c1fc7348d4",
