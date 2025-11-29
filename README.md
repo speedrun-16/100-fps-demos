@@ -42,9 +42,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-28 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-29 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
-| [speedrun_al](./speedrun_al) | 5 | 2025-11-28 |
+| [speedrun_al](./speedrun_al) | 6 | 2025-11-29 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-11-16 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
@@ -57,6 +57,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 6 | 2025-11-16 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 5 | 2025-11-22 |
+| [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-29 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 4 | 2025-10-03 |
 | [speedrun_chemical](./speedrun_chemical) | 10 | 2025-11-24 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 5 | 2025-11-25 |
@@ -182,11 +183,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
 | [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
-| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 4 | 2025-10-29 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 5 | 2025-10-20 |
+| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 5 | 2025-11-29 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 6 | 2025-11-29 |
 
 ---
 
 ### Statistics
-- Total Maps: **178**
-- Total Demos: **602**
+- Total Maps: **179**
+- Total Demos: **606**
