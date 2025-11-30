@@ -76,7 +76,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-11-14 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_error](./speedrun_error) | 5 | 2025-09-29 |
-| [speedrun_euphoria](./speedrun_euphoria) | 7 | 2025-11-16 |
+| [speedrun_euphoria](./speedrun_euphoria) | 7 | 2025-11-29 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
@@ -94,7 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_gmsr_remade_kaniel](./speedrun_gmsr_remade_kaniel) | 1 | 2025-09-19 |
 | [speedrun_grande](./speedrun_grande) | 1 | 2025-10-16 |
 | [speedrun_grasz](./speedrun_grasz) | 4 | 2025-09-26 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 5 | 2025-11-21 |
+| [speedrun_grasz_final](./speedrun_grasz_final) | 6 | 2025-11-29 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 2 | 2025-11-23 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_hearts](./speedrun_hearts) | 1 | 2025-11-18 |
@@ -164,7 +164,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 4 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-11-18 |
-| [speedrun_svet](./speedrun_svet) | 5 | 2025-11-16 |
+| [speedrun_svet](./speedrun_svet) | 5 | 2025-11-29 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
@@ -190,4 +190,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **179**
-- Total Demos: **606**
+- Total Demos: **607**
