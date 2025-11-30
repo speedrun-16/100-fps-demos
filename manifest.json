@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "427bd49a075f3dd5290af73cef133d1669e10f2a26514a1711723c2f4191ff08",
+    "uid": "HPSAMSFIT",
+    "map": "speedrun_meowkatozz_demise",
+    "category": 1,
+    "time": 21933,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-30T03:02:46.000Z",
+    "zipFilename": "00021933_STEAM_0_1_408712_20251130-030246.zip",
+    "path": "speedrun_meowkatozz_demise/00021933_STEAM_0_1_408712_20251130-030246.zip",
+    "archivedAt": "2025-11-30T06:00:03.347Z"
+  },
+  {
     "demFileHash": "540d832f40c6d889a8443909977d4e7c902e2b35ecb9f6a0429dc4067e633b37",
     "uid": "2GBCRYOOW",
     "map": "speedrun_euphoria",
