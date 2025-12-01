@@ -13,7 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
-| [de_train](./de_train) | 2 | 2025-11-04 |
+| [de_train](./de_train) | 3 | 2025-12-01 |
 | [de_vertigo](./de_vertigo) | 2 | 2025-09-25 |
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2025-09-22 |
@@ -25,7 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-11-17 |
-| [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-11-28 |
+| [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-01 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
@@ -152,7 +152,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_runners](./speedrun_runners) | 10 | 2025-11-28 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
-| [speedrun_several_longer](./speedrun_several_longer) | 3 | 2025-11-05 |
+| [speedrun_several_longer](./speedrun_several_longer) | 5 | 2025-12-01 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
@@ -192,4 +192,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **181**
-- Total Demos: **614**
+- Total Demos: **617**
