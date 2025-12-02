@@ -36,7 +36,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_linea](./deathrun_linea) | 1 | 2025-11-22 |
+| [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-12-01 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
+| [deathrun_seireitei](./deathrun_seireitei) | 1 | 2025-12-01 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
@@ -174,7 +176,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 8 | 2025-11-23 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
-| [speedrun_voidrun](./speedrun_voidrun) | 2 | 2025-11-17 |
+| [speedrun_voidrun](./speedrun_voidrun) | 3 | 2025-12-01 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-13 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2025-11-18 |
@@ -191,5 +193,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **181**
-- Total Demos: **617**
+- Total Maps: **183**
+- Total Demos: **620**

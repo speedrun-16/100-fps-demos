@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "c79c2ca5178a6f40bc78b534b453d52e865a9e7b2726a6ff45642cd8b6b3c6bf",
+    "uid": "PM6EG886H",
+    "map": "deathrun_seireitei",
+    "category": 1,
+    "time": 18839,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-12-01T19:40:57.000Z",
+    "zipFilename": "00018839_STEAM_0_1_447056338_20251201-194057.zip",
+    "path": "deathrun_seireitei/00018839_STEAM_0_1_447056338_20251201-194057.zip",
+    "archivedAt": "2025-12-02T00:00:00.566Z"
+  },
+  {
+    "demFileHash": "f821093116c486fd436bf84c9596ba004958e9513d23c488f9e75b34fc51c6dc",
+    "uid": "JAF4IXEIL",
+    "map": "deathrun_mars_salvation",
+    "category": 1,
+    "time": 18949,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-12-01T19:50:26.000Z",
+    "zipFilename": "00018949_STEAM_0_1_447056338_20251201-195026.zip",
+    "path": "deathrun_mars_salvation/00018949_STEAM_0_1_447056338_20251201-195026.zip",
+    "archivedAt": "2025-12-02T00:00:00.566Z"
+  },
+  {
+    "demFileHash": "f2c1766774b509537b8c5d542604b4bdd8156912002f260037726e7711ee7148",
+    "uid": "Z5H32RW3L",
+    "map": "speedrun_voidrun",
+    "category": 1,
+    "time": 46565,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-12-01T19:05:01.000Z",
+    "zipFilename": "00046565_STEAM_0_0_24751394_20251201-190501.zip",
+    "path": "speedrun_voidrun/00046565_STEAM_0_0_24751394_20251201-190501.zip",
+    "archivedAt": "2025-12-02T00:00:00.566Z"
+  },
+  {
     "demFileHash": "d6920678ae5269541a89228480fd4a46bf429c95cac4418e2472587d0c813af8",
     "uid": "0O2HQ6O0W",
     "map": "speedrun_several_longer",
