@@ -6,8 +6,8 @@ This directory contains player records achieved in the **100 FPS** category for 
 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
-| #1   | [00:12.316](./00012316_STEAM_0_1_796767048_20251114-162303.zip) | [STEAM_0:1:796767048](https://speedrun16.com/profile/STEAM_0:1:796767048)   | 2025-11-14 16:23:03 |
-| #2   | [00:12.331](./00012331_STEAM_0_0_24751394_20251005-130951.zip) | [STEAM_0:0:24751394](https://speedrun16.com/profile/STEAM_0:0:24751394)   | 2025-10-05 13:09:51 |
+| #1   | [00:12.176](./00012176_STEAM_0_1_796767048_20251202-194237.zip) | [STEAM_0:1:796767048](https://speedrun16.com/profile/STEAM_0:1:796767048)   | 2025-12-02 19:42:37 |
+| #2   | [00:12.246](./00012246_STEAM_0_0_24751394_20251202-184400.zip) | [STEAM_0:0:24751394](https://speedrun16.com/profile/STEAM_0:0:24751394)   | 2025-12-02 18:44:00 |
 | #3   | [00:12.528](./00012528_STEAM_0_1_617544124_20251005-121251.zip) | [STEAM_0:1:617544124](https://speedrun16.com/profile/STEAM_0:1:617544124)   | 2025-10-05 12:12:51 |
 | #4   | [00:12.631](./00012631_STEAM_0_1_771348382_20250914-095118.zip) | [STEAM_0:1:771348382](https://speedrun16.com/profile/STEAM_0:1:771348382)   | 2025-09-14 09:51:18 |
 | #5   | [00:12.704](./00012704_STEAM_0_1_926467834_20251005-131712.zip) | [STEAM_0:1:926467834](https://speedrun16.com/profile/STEAM_0:1:926467834)   | 2025-10-05 13:17:12 |
@@ -18,5 +18,5 @@ This directory contains player records achieved in the **100 FPS** category for 
 ---
 
 ### Record Summary
-**Record Holder:** [00:12.316](./00012316_STEAM_0_1_796767048_20251114-162303.zip) (by [STEAM_0:1:796767048](https://speedrun16.com/profile/STEAM_0:1:796767048))  
+**Record Holder:** [00:12.176](./00012176_STEAM_0_1_796767048_20251202-194237.zip) (by [STEAM_0:1:796767048](https://speedrun16.com/profile/STEAM_0:1:796767048))  
 **Total PBs Archived:** 8
