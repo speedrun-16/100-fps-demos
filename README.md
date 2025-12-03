@@ -104,7 +104,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hiddenlab](./speedrun_hiddenlab) | 4 | 2025-11-16 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-12-02 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-12-03 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
 | [speedrun_joker1](./speedrun_joker1) | 3 | 2025-11-30 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 4 | 2025-11-17 |
@@ -131,7 +131,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-11-16 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2025-11-16 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
-| [speedrun_poland](./speedrun_poland) | 6 | 2025-11-14 |
+| [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-11-16 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
 | [speedrun_pupsik](./speedrun_pupsik) | 3 | 2025-11-01 |
@@ -158,6 +158,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
+| [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
 | [speedrun_solitude](./speedrun_solitude) | 3 | 2025-10-25 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 2 | 2025-11-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
@@ -193,5 +194,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **183**
-- Total Demos: **622**
+- Total Maps: **184**
+- Total Demos: **623**
