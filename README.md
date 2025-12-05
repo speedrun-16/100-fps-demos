@@ -184,6 +184,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 5 | 2025-11-15 |
+| [speedrun_wex](./speedrun_wex) | 2 | 2025-12-05 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-24 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
@@ -194,5 +195,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **184**
-- Total Demos: **623**
+- Total Maps: **185**
+- Total Demos: **625**
