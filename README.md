@@ -44,7 +44,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-29 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-12-04 |
 | [speedrun_30min](./speedrun_30min) | 6 | 2025-11-14 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-11-30 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-11-10 |
@@ -123,7 +123,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
-| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-11-14 |
+| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-12-04 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
