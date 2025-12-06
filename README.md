@@ -102,6 +102,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hearts](./speedrun_hearts) | 1 | 2025-11-18 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_hiddenlab](./speedrun_hiddenlab) | 4 | 2025-11-16 |
+| [speedrun_hl_beta](./speedrun_hl_beta) | 1 | 2025-12-06 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-12-03 |
@@ -152,7 +153,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-11-16 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
-| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-03 |
+| [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
+| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-06 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
@@ -170,7 +172,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 4 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-11-18 |
-| [speedrun_svet](./speedrun_svet) | 5 | 2025-11-29 |
+| [speedrun_svet](./speedrun_svet) | 6 | 2025-12-06 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
@@ -196,5 +198,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **186**
-- Total Demos: **627**
+- Total Maps: **188**
+- Total Demos: **631**
