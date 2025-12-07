@@ -86,6 +86,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-17 |
 | [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-11 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
+| [speedrun_expanse](./speedrun_expanse) | 1 | 2025-12-07 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
 | [speedrun_faster](./speedrun_faster) | 2 | 2025-11-10 |
@@ -154,7 +155,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
-| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-06 |
+| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-07 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
@@ -162,7 +163,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
-| [speedrun_solitude](./speedrun_solitude) | 3 | 2025-10-25 |
+| [speedrun_solitude](./speedrun_solitude) | 4 | 2025-12-07 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 2 | 2025-11-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
 | [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-12-04 |
@@ -198,5 +199,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **188**
-- Total Demos: **631**
+- Total Maps: **189**
+- Total Demos: **633**
