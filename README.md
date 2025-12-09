@@ -77,6 +77,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_eastwood](./speedrun_eastwood) | 4 | 2025-11-16 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-11-14 |
+| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 3 | 2025-12-09 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_error](./speedrun_error) | 5 | 2025-09-29 |
 | [speedrun_euphoria](./speedrun_euphoria) | 7 | 2025-11-29 |
@@ -105,7 +106,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_hiddenlab](./speedrun_hiddenlab) | 4 | 2025-11-16 |
 | [speedrun_hl_beta](./speedrun_hl_beta) | 1 | 2025-12-06 |
-| [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-08 |
+| [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-09 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 9 | 2025-12-03 |
@@ -201,5 +202,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **191**
-- Total Demos: **637**
+- Total Maps: **192**
+- Total Demos: **640**
