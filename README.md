@@ -158,7 +158,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_v1](./speedrun_revived_v1) | 2 | 2025-09-14 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
-| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-07 |
+| [speedrun_runners](./speedrun_runners) | 10 | 2025-12-10 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
