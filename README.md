@@ -99,7 +99,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_gmsr_remade_kaniel](./speedrun_gmsr_remade_kaniel) | 1 | 2025-09-19 |
 | [speedrun_grande](./speedrun_grande) | 1 | 2025-10-16 |
 | [speedrun_grasz](./speedrun_grasz) | 4 | 2025-09-26 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 6 | 2025-11-30 |
+| [speedrun_grasz_final](./speedrun_grasz_final) | 6 | 2025-12-13 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 2 | 2025-11-23 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
 | [speedrun_hearts](./speedrun_hearts) | 1 | 2025-11-18 |
@@ -162,6 +162,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
+| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_sick](./speedrun_sick) | 1 | 2025-12-12 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2025-09-23 |
@@ -203,5 +204,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **193**
-- Total Demos: **645**
+- Total Maps: **194**
+- Total Demos: **646**
