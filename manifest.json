@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "1977e2ebff7742372f12f94f048753144b347df6401afce42db61a3c45a7b744",
+    "uid": "MLU27LOWA",
+    "map": "speedrun_exort",
+    "category": 1,
+    "time": 24503,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-15T15:23:24.000Z",
+    "zipFilename": "00024503_STEAM_0_1_771348382_20251215-152324.zip",
+    "path": "speedrun_exort/00024503_STEAM_0_1_771348382_20251215-152324.zip",
+    "archivedAt": "2025-12-15T18:00:00.686Z"
+  },
+  {
+    "demFileHash": "2ea44086ada189966d4ee07fc11e66cd415dff60227b226d97d8144c51dd5d28",
+    "uid": "Q5OJPAY5B",
+    "map": "speedrun_yagrehsart_100fps",
+    "category": 1,
+    "time": 13381,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-12-15T16:24:37.000Z",
+    "zipFilename": "00013381_STEAM_0_0_24751394_20251215-162437.zip",
+    "path": "speedrun_yagrehsart_100fps/00013381_STEAM_0_0_24751394_20251215-162437.zip",
+    "archivedAt": "2025-12-15T18:00:00.686Z"
+  },
+  {
+    "demFileHash": "d7d994d1c3fb95506b607200e0eaa51fc4ac941c2c9bb97f5aeab3806a142120",
+    "uid": "VIGACGN5X",
+    "map": "speedrun_exort",
+    "category": 1,
+    "time": 24660,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-12-15T13:25:02.000Z",
+    "zipFilename": "00024660_STEAM_0_1_926467834_20251215-132502.zip",
+    "path": "speedrun_exort/00024660_STEAM_0_1_926467834_20251215-132502.zip",
+    "archivedAt": "2025-12-15T18:00:00.686Z"
+  },
+  {
+    "demFileHash": "c36077e7bca9f864aca16feb5d183a4a769a5ce0737736a50665ef096ae988b4",
+    "uid": "N1VNFCTRN",
+    "map": "speedrun_yagrehsart_100fps",
+    "category": 1,
+    "time": 13243,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-15T17:06:07.000Z",
+    "zipFilename": "00013243_STEAM_0_1_796767048_20251215-170607.zip",
+    "path": "speedrun_yagrehsart_100fps/00013243_STEAM_0_1_796767048_20251215-170607.zip",
+    "archivedAt": "2025-12-15T18:00:00.686Z"
+  },
+  {
     "demFileHash": "c92fd848328828a5b4c367d47c2c66faf581152b20e3aa2946334e5c0c7818de",
     "uid": "K7YPQ31SQ",
     "map": "speedrun_knox_b1",
