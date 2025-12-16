@@ -1,15 +1,27 @@
 [
   {
-    "demFileHash": "1977e2ebff7742372f12f94f048753144b347df6401afce42db61a3c45a7b744",
-    "uid": "MLU27LOWA",
+    "demFileHash": "dcdade84aa8ceae5292f12aa322b7fa7dda79e0ca3c08443c31ca5ca508842ba",
+    "uid": "Z1QDJ4EZN",
     "map": "speedrun_exort",
     "category": 1,
-    "time": 24503,
+    "time": 24192,
     "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2025-12-15T15:23:24.000Z",
-    "zipFilename": "00024503_STEAM_0_1_771348382_20251215-152324.zip",
-    "path": "speedrun_exort/00024503_STEAM_0_1_771348382_20251215-152324.zip",
-    "archivedAt": "2025-12-15T18:00:00.686Z"
+    "timestamp": "2025-12-16T09:55:51.000Z",
+    "zipFilename": "00024192_STEAM_0_1_771348382_20251216-095551.zip",
+    "path": "speedrun_exort/00024192_STEAM_0_1_771348382_20251216-095551.zip",
+    "archivedAt": "2025-12-16T12:00:07.673Z"
+  },
+  {
+    "demFileHash": "dcc7b7e323f7e369f8453c9dbf8d5f4bd320b9951a139252d42b75f71efb218a",
+    "uid": "XNE86SOWG",
+    "map": "speedrun_yagrehsart_fix",
+    "category": 1,
+    "time": 13599,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-16T10:49:50.000Z",
+    "zipFilename": "00013599_STEAM_0_1_771348382_20251216-104950.zip",
+    "path": "speedrun_yagrehsart_fix/00013599_STEAM_0_1_771348382_20251216-104950.zip",
+    "archivedAt": "2025-12-16T12:00:07.673Z"
   },
   {
     "demFileHash": "2ea44086ada189966d4ee07fc11e66cd415dff60227b226d97d8144c51dd5d28",
@@ -6393,18 +6405,6 @@
     "timestamp": "2025-09-19T12:55:41.000Z",
     "zipFilename": "00021501_STEAM_0_1_771348382_20250919-125541.zip",
     "path": "speedrun_simplecity/00021501_STEAM_0_1_771348382_20250919-125541.zip",
-    "archivedAt": "2025-09-19T15:00:02.525Z"
-  },
-  {
-    "demFileHash": "c0e650662156e87cd858bc044e50271c6e226b3d9abf0659230877e70556ff15",
-    "uid": "BXYJBOFLF",
-    "map": "speedrun_yagrehsart_fix",
-    "category": 1,
-    "time": 13700,
-    "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2025-09-19T14:50:48.000Z",
-    "zipFilename": "00013700_STEAM_0_1_771348382_20250919-145048.zip",
-    "path": "speedrun_yagrehsart_fix/00013700_STEAM_0_1_771348382_20250919-145048.zip",
     "archivedAt": "2025-09-19T15:00:02.525Z"
   },
   {
