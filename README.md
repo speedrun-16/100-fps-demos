@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_aztec](./de_aztec) | 1 | 2025-11-17 |
-| [de_dust](./de_dust) | 5 | 2025-10-15 |
+| [de_dust](./de_dust) | 7 | 2025-12-19 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
@@ -59,9 +59,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 6 | 2025-11-16 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
-| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 5 | 2025-11-22 |
+| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 5 | 2025-12-19 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 4 | 2025-10-03 |
+| [speedrun_calisto2k](./speedrun_calisto2k) | 5 | 2025-12-19 |
 | [speedrun_chemical](./speedrun_chemical) | 10 | 2025-11-24 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 5 | 2025-11-25 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 8 | 2025-11-23 |
@@ -132,6 +132,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
 | [speedrun_neocist](./speedrun_neocist) | 7 | 2025-12-04 |
+| [speedrun_noideaforname](./speedrun_noideaforname) | 1 | 2025-12-19 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
@@ -209,5 +210,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **199**
-- Total Demos: **655**
+- Total Maps: **200**
+- Total Demos: **659**
