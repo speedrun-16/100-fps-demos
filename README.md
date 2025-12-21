@@ -88,7 +88,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-17 |
 | [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-11 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
-| [speedrun_exort](./speedrun_exort) | 2 | 2025-12-16 |
+| [speedrun_exort](./speedrun_exort) | 2 | 2025-12-21 |
 | [speedrun_expanse](./speedrun_expanse) | 1 | 2025-12-07 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
