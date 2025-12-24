@@ -18,6 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
 | [deathrun_arctic](./deathrun_arctic) | 2 | 2025-12-20 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
+| [deathrun_aztec_hd](./deathrun_aztec_hd) | 1 | 2025-12-23 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_chemical](./deathrun_chemical) | 5 | 2025-10-27 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
@@ -29,7 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
 | [deathrun_forest](./deathrun_forest) | 4 | 2025-09-22 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
-| [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 3 | 2025-09-18 |
+| [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
 | [deathrun_grass](./deathrun_grass) | 4 | 2025-11-05 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
@@ -138,7 +139,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 3 | 2025-11-16 |
+| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2025-11-16 |
 | [speedrun_over](./speedrun_over) | 2 | 2025-12-18 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
@@ -211,5 +212,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **201**
-- Total Demos: **665**
+- Total Maps: **202**
+- Total Demos: **668**
