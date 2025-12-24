@@ -52,7 +52,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
 | [speedrun_amel](./speedrun_amel) | 4 | 2025-11-16 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
-| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2025-10-13 |
+| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2025-12-24 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
@@ -213,4 +213,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **202**
-- Total Demos: **669**
+- Total Demos: **670**

@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e13cb4fe56b76022136311c408229c795260a75764838e216a522ccf0724c843",
+    "uid": "U64I2FOSY",
+    "map": "speedrun_artakey_no_ramp",
+    "category": 1,
+    "time": 17655,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-24T12:56:07.000Z",
+    "zipFilename": "00017655_STEAM_0_1_408712_20251224-125607.zip",
+    "path": "speedrun_artakey_no_ramp/00017655_STEAM_0_1_408712_20251224-125607.zip",
+    "archivedAt": "2025-12-24T18:00:03.372Z"
+  },
+  {
     "demFileHash": "e887ab6ad4cac925332b4e73c95e7d5e7294c95148634c9b944bf3ce6a1285a3",
     "uid": "NNO4VDDR0",
     "map": "speedrun_miqu",
