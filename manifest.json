@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e887ab6ad4cac925332b4e73c95e7d5e7294c95148634c9b944bf3ce6a1285a3",
+    "uid": "NNO4VDDR0",
+    "map": "speedrun_miqu",
+    "category": 1,
+    "time": 20260,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-24T03:51:07.000Z",
+    "zipFilename": "00020260_STEAM_0_1_408712_20251224-035107.zip",
+    "path": "speedrun_miqu/00020260_STEAM_0_1_408712_20251224-035107.zip",
+    "archivedAt": "2025-12-24T06:00:00.446Z"
+  },
+  {
     "demFileHash": "869e5ca2a7d1f8a802461f8ee31816d1591a37b9730709a1c1a59326550fb8ee",
     "uid": "VZSYIWTKA",
     "map": "deathrun_aztec_hd",
