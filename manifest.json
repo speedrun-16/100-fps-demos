@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "b9eed0c9c4f0684ced6a84dc435815e7e0fdffeb0e8c18e204278c0181fefa4f",
+    "uid": "LW95YGGGM",
+    "map": "speedrun_majestic",
+    "category": 1,
+    "time": 22156,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-25T14:37:19.000Z",
+    "zipFilename": "00022156_STEAM_0_1_771348382_20251225-143719.zip",
+    "path": "speedrun_majestic/00022156_STEAM_0_1_771348382_20251225-143719.zip",
+    "archivedAt": "2025-12-25T18:00:00.703Z"
+  },
+  {
+    "demFileHash": "1d238f59b9fb6befc414ca9d6812ff1a6e121e35581a56394a6f442ba3197b3e",
+    "uid": "S5B49K1JN",
+    "map": "speedrun_majestic",
+    "category": 1,
+    "time": 22350,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-25T14:33:06.000Z",
+    "zipFilename": "00022350_STEAM_0_1_408712_20251225-143306.zip",
+    "path": "speedrun_majestic/00022350_STEAM_0_1_408712_20251225-143306.zip",
+    "archivedAt": "2025-12-25T18:00:00.703Z"
+  },
+  {
+    "demFileHash": "014fd11a70e8f459c9064721eac712418130c05e2e51212e2bfbc620568f5f54",
+    "uid": "XXQ3QCCT5",
+    "map": "speedrun_miqu",
+    "category": 1,
+    "time": 20157,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-12-25T15:36:46.000Z",
+    "zipFilename": "00020157_STEAM_0_0_24751394_20251225-153646.zip",
+    "path": "speedrun_miqu/00020157_STEAM_0_0_24751394_20251225-153646.zip",
+    "archivedAt": "2025-12-25T18:00:00.703Z"
+  },
+  {
     "demFileHash": "e13cb4fe56b76022136311c408229c795260a75764838e216a522ccf0724c843",
     "uid": "U64I2FOSY",
     "map": "speedrun_artakey_no_ramp",
@@ -6562,18 +6598,6 @@
     "zipFilename": "00018403_STEAM_0_1_617544124_20250919-191437.zip",
     "path": "speedrun_r3x/00018403_STEAM_0_1_617544124_20250919-191437.zip",
     "archivedAt": "2025-09-19T21:00:00.340Z"
-  },
-  {
-    "demFileHash": "a886b7adfe268309d9d9488d267fa7464524d5dbab8e565005c33c1929b6916f",
-    "uid": "8ULGOSEIG",
-    "map": "speedrun_miqu",
-    "category": 1,
-    "time": 20329,
-    "playerSteamId": "STEAM_0:0:24751394",
-    "timestamp": "2025-09-19T16:14:56.000Z",
-    "zipFilename": "00020329_STEAM_0_0_24751394_20250919-161456.zip",
-    "path": "speedrun_miqu/00020329_STEAM_0_0_24751394_20250919-161456.zip",
-    "archivedAt": "2025-09-19T18:00:00.345Z"
   },
   {
     "demFileHash": "a665ee29ad75954c0d635c7171dc0a39b2cc70708000233389c1e8062f15e3c3",

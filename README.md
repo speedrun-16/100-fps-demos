@@ -122,12 +122,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
+| [speedrun_majestic](./speedrun_majestic) | 2 | 2025-12-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_medium](./speedrun_medium) | 2 | 2025-10-03 |
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
-| [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-24 |
+| [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-25 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
@@ -212,5 +213,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **202**
-- Total Demos: **670**
+- Total Maps: **203**
+- Total Demos: **672**
