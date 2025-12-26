@@ -130,6 +130,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
 | [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-25 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
+| [speedrun_mountains2020](./speedrun_mountains2020) | 1 | 2025-12-26 |
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 4 | 2025-10-22 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
@@ -143,6 +144,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2025-11-16 |
 | [speedrun_over](./speedrun_over) | 2 | 2025-12-18 |
+| [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 1 | 2025-12-26 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-12-19 |
@@ -195,6 +197,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 8 | 2025-11-23 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
+| [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 3 | 2025-12-01 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-13 |
@@ -213,5 +216,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **203**
-- Total Demos: **675**
+- Total Maps: **206**
+- Total Demos: **680**
