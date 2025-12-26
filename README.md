@@ -147,8 +147,8 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-12-19 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
-| [speedrun_pupsik](./speedrun_pupsik) | 3 | 2025-11-01 |
-| [speedrun_pupsik2](./speedrun_pupsik2) | 5 | 2025-11-15 |
+| [speedrun_pupsik](./speedrun_pupsik) | 4 | 2025-12-25 |
+| [speedrun_pupsik2](./speedrun_pupsik2) | 6 | 2025-12-25 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
 | [speedrun_purple_space](./speedrun_purple_space) | 3 | 2025-11-30 |
 | [speedrun_qu_dust](./speedrun_qu_dust) | 4 | 2025-12-10 |
@@ -159,7 +159,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_record](./speedrun_record) | 1 | 2025-12-06 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 4 | 2025-10-18 |
 | [speedrun_replay_edition](./speedrun_replay_edition) | 2 | 2025-11-18 |
-| [speedrun_replay_return](./speedrun_replay_return) | 3 | 2025-10-18 |
+| [speedrun_replay_return](./speedrun_replay_return) | 4 | 2025-12-25 |
 | [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 4 | 2025-11-28 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
@@ -214,4 +214,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **203**
-- Total Demos: **672**
+- Total Demos: **675**
