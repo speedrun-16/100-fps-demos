@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "aee5a29a342ac2922ca1a4f3b8bcecdc180c81635c5deee20278f004134ca311",
+    "uid": "IY00WGZ2I",
+    "map": "de_aztec",
+    "category": 1,
+    "time": 8606,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-27T11:10:57.000Z",
+    "zipFilename": "00008606_STEAM_0_1_408712_20251227-111057.zip",
+    "path": "de_aztec/00008606_STEAM_0_1_408712_20251227-111057.zip",
+    "archivedAt": "2025-12-27T12:00:00.619Z"
+  },
+  {
     "demFileHash": "4a014e0793f24fea92843508677cef98a3d8cc50db8317dce2a6a7ac9ec1f760",
     "uid": "U2ITVTW4C",
     "map": "speedrun_veryeasy",

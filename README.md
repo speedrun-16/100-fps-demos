@@ -8,7 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
-| [de_aztec](./de_aztec) | 1 | 2025-11-17 |
+| [de_aztec](./de_aztec) | 2 | 2025-12-27 |
 | [de_dust](./de_dust) | 7 | 2025-12-19 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
@@ -217,4 +217,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **206**
-- Total Demos: **680**
+- Total Demos: **681**
