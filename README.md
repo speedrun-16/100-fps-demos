@@ -80,7 +80,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-11-14 |
 | [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 4 | 2025-12-10 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
-| [speedrun_error](./speedrun_error) | 5 | 2025-09-29 |
+| [speedrun_error](./speedrun_error) | 5 | 2025-12-27 |
 | [speedrun_euphoria](./speedrun_euphoria) | 7 | 2025-11-29 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
