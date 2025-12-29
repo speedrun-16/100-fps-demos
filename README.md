@@ -128,7 +128,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
-| [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-25 |
+| [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-28 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
 | [speedrun_mountains2020](./speedrun_mountains2020) | 1 | 2025-12-26 |
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
