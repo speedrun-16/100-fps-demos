@@ -1,5 +1,89 @@
 [
   {
+    "demFileHash": "d0319d94619f654625498a64997aab6c73d4d077ddc896a57ef2110064f61fd3",
+    "uid": "4J9FEATTI",
+    "map": "speedrun_sunnies_night",
+    "category": 1,
+    "time": 16520,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T15:46:11.000Z",
+    "zipFilename": "00016520_STEAM_0_1_408712_20251229-154611.zip",
+    "path": "speedrun_sunnies_night/00016520_STEAM_0_1_408712_20251229-154611.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "3d68eeb949e9b07f7f2c9b83f93ef80475725a9a8572ffcece5d987ebaf979be",
+    "uid": "4JVD1QOFR",
+    "map": "deathrun_grass",
+    "category": 1,
+    "time": 14594,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T14:59:42.000Z",
+    "zipFilename": "00014594_STEAM_0_1_408712_20251229-145942.zip",
+    "path": "deathrun_grass/00014594_STEAM_0_1_408712_20251229-145942.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "947f960b856812928a923856eb7b56f9168afd33b69605a954e05e836f03cf54",
+    "uid": "W68362I0M",
+    "map": "speedrun_jeans_short",
+    "category": 1,
+    "time": 10864,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T14:23:03.000Z",
+    "zipFilename": "00010864_STEAM_0_1_408712_20251229-142303.zip",
+    "path": "speedrun_jeans_short/00010864_STEAM_0_1_408712_20251229-142303.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "8c8d4075c9f7a2b0444356f18841cb24292da82f14ff432040d03fd87d0492b2",
+    "uid": "FK42OQ387",
+    "map": "speedrun_eastwood",
+    "category": 1,
+    "time": 16809,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T14:41:24.000Z",
+    "zipFilename": "00016809_STEAM_0_1_408712_20251229-144124.zip",
+    "path": "speedrun_eastwood/00016809_STEAM_0_1_408712_20251229-144124.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "4a1353b5dfbc23da7724491cbaaa2a1d951533eb9c8713ecf0044b229d3ec8fa",
+    "uid": "10DG4K0PK",
+    "map": "speedrun_sunnies_night",
+    "category": 1,
+    "time": 17161,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-12-29T15:42:14.000Z",
+    "zipFilename": "00017161_STEAM_0_1_84733295_20251229-154214.zip",
+    "path": "speedrun_sunnies_night/00017161_STEAM_0_1_84733295_20251229-154214.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "c573769b62249a273e69f019c61020630d185d8dd8d0196d755a4ef1cde8e784",
+    "uid": "FO3KQHKOI",
+    "map": "deathrun_icemaru",
+    "category": 1,
+    "time": 14258,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-12-29T15:29:14.000Z",
+    "zipFilename": "00014258_STEAM_0_1_84733295_20251229-152914.zip",
+    "path": "deathrun_icemaru/00014258_STEAM_0_1_84733295_20251229-152914.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
+    "demFileHash": "71d2bf6ee2f8151ad8975218ae7942ee863442c49fb5bd1c53db0fa2064b7284",
+    "uid": "NOX4KI8WV",
+    "map": "deathrun_icemaru",
+    "category": 1,
+    "time": 13231,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T15:25:36.000Z",
+    "zipFilename": "00013231_STEAM_0_1_408712_20251229-152536.zip",
+    "path": "deathrun_icemaru/00013231_STEAM_0_1_408712_20251229-152536.zip",
+    "archivedAt": "2025-12-29T18:00:04.609Z"
+  },
+  {
     "demFileHash": "42ca133608d7e0ddbc11cec6026e7ff39aa2820a22d3b6ecc5e98df8c25b743f",
     "uid": "OY4NE2SFR",
     "map": "speedrun_miqu",
@@ -2877,18 +2961,6 @@
     "timestamp": "2025-11-04T22:02:52.000Z",
     "zipFilename": "00008207_STEAM_0_0_24751394_20251104-220252.zip",
     "path": "de_train/00008207_STEAM_0_0_24751394_20251104-220252.zip",
-    "archivedAt": "2025-11-05T00:00:06.208Z"
-  },
-  {
-    "demFileHash": "00ded09208af42b078d0b1a29d9f194b0dd5b3ba932b580878fb206fa7b15f5b",
-    "uid": "52BKQXIYJ",
-    "map": "deathrun_grass",
-    "category": 1,
-    "time": 14950,
-    "playerSteamId": "STEAM_0:1:408712",
-    "timestamp": "2025-11-04T20:39:27.000Z",
-    "zipFilename": "00014950_STEAM_0_1_408712_20251104-203927.zip",
-    "path": "deathrun_grass/00014950_STEAM_0_1_408712_20251104-203927.zip",
     "archivedAt": "2025-11-05T00:00:06.208Z"
   },
   {
