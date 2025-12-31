@@ -68,19 +68,21 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 5 | 2025-11-25 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
+| [speedrun_confusion](./speedrun_confusion) | 1 | 2025-12-30 |
 | [speedrun_confusion3](./speedrun_confusion3) | 5 | 2025-12-13 |
 | [speedrun_crate](./speedrun_crate) | 6 | 2025-11-21 |
 | [speedrun_danmal_v1](./speedrun_danmal_v1) | 2 | 2025-10-16 |
 | [speedrun_danmal_v2](./speedrun_danmal_v2) | 5 | 2025-09-17 |
 | [speedrun_deceit](./speedrun_deceit) | 6 | 2025-11-23 |
 | [speedrun_delight](./speedrun_delight) | 3 | 2025-09-29 |
-| [speedrun_Domination](./speedrun_Domination) | 8 | 2025-09-22 |
+| [speedrun_Domination](./speedrun_Domination) | 9 | 2025-12-30 |
 | [speedrun_dust2](./speedrun_dust2) | 4 | 2025-10-06 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 3 | 2025-09-14 |
 | [speedrun_eastwood](./speedrun_eastwood) | 5 | 2025-12-29 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-11-14 |
 | [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 4 | 2025-12-10 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
+| [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-12-30 |
 | [speedrun_error](./speedrun_error) | 5 | 2025-12-27 |
 | [speedrun_euphoria](./speedrun_euphoria) | 7 | 2025-11-29 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
@@ -95,6 +97,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
 | [speedrun_faster](./speedrun_faster) | 2 | 2025-11-10 |
+| [speedrun_fastrun](./speedrun_fastrun) | 1 | 2025-12-30 |
 | [speedrun_fpsmeowkatoz](./speedrun_fpsmeowkatoz) | 1 | 2025-11-16 |
 | [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
 | [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
@@ -220,5 +223,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **210**
-- Total Demos: **694**
+- Total Maps: **213**
+- Total Demos: **698**
