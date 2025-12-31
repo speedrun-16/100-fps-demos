@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "07afa36f2116a5101f9972cc20c0af0379cdae73a0b638ea4a3259ea3563576b",
+    "uid": "TMSSLKFSQ",
+    "map": "speedrun_spg_b1",
+    "category": 1,
+    "time": 25066,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-31T01:25:20.000Z",
+    "zipFilename": "00025066_STEAM_0_1_771348382_20251231-012520.zip",
+    "path": "speedrun_spg_b1/00025066_STEAM_0_1_771348382_20251231-012520.zip",
+    "archivedAt": "2025-12-31T06:00:00.408Z"
+  },
+  {
     "demFileHash": "e97168b319551c6dba9a4bae5f3ee6cbc2555750a05e094ce6e89ba5fe116b21",
     "uid": "318DQHACD",
     "map": "speedrun_enemy_easy",
