@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "4fe68d4f12b9fa0b7c852c8db160e720ff96ff0da15b7bd973c23617842f68ce",
+    "uid": "WXKOAC351",
+    "map": "speedrun_fula",
+    "category": 1,
+    "time": 29062,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-01-03T10:13:55.000Z",
+    "zipFilename": "00029062_STEAM_0_1_771348382_20260103-101355.zip",
+    "path": "speedrun_fula/00029062_STEAM_0_1_771348382_20260103-101355.zip",
+    "archivedAt": "2026-01-03T12:00:00.446Z"
+  },
+  {
     "demFileHash": "018af902b002483265747de5468a4e8605ba53af3566f19b8bb24b541788a3f3",
     "uid": "5GKFNGP6E",
     "map": "deathrun_chemical",
