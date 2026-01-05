@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "5d6bf348149e2566ab19384b50a737f14e62dce6ae8538935903bbe390f96283",
+    "uid": "SPPGIOWZN",
+    "map": "speedrun_grass",
+    "category": 1,
+    "time": 15320,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2026-01-04T20:58:28.000Z",
+    "zipFilename": "00015320_STEAM_0_1_84733295_20260104-205828.zip",
+    "path": "speedrun_grass/00015320_STEAM_0_1_84733295_20260104-205828.zip",
+    "archivedAt": "2026-01-05T00:00:00.418Z"
+  },
+  {
     "demFileHash": "ece873d5460bdb7924be48a88321fd723545211e45ab87b07e81ef72ec7b83df",
     "uid": "U6TODO215",
     "map": "speedrun_wander",
