@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "dcce65982d4c796e90655328d02a37760b06e2156a200b4b5d0c60e8634e7e83",
+    "uid": "FQ7XULFDR",
+    "map": "speedrun_wander",
+    "category": 1,
+    "time": 17777,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-07T12:28:03.000Z",
+    "zipFilename": "00017777_STEAM_0_1_926467834_20260107-122803.zip",
+    "path": "speedrun_wander/00017777_STEAM_0_1_926467834_20260107-122803.zip",
+    "archivedAt": "2026-01-07T18:00:00.602Z"
+  },
+  {
     "demFileHash": "2fbccd04a38217616d0d716d3cea1b93d4225c91d4460c69f51774a45ceb8642",
     "uid": "08HLQ5URN",
     "map": "speedrun_easy_v1_remake_kaniel",
@@ -70,18 +82,6 @@
     "zipFilename": "00015320_STEAM_0_1_84733295_20260104-205828.zip",
     "path": "speedrun_grass/00015320_STEAM_0_1_84733295_20260104-205828.zip",
     "archivedAt": "2026-01-05T00:00:00.418Z"
-  },
-  {
-    "demFileHash": "ece873d5460bdb7924be48a88321fd723545211e45ab87b07e81ef72ec7b83df",
-    "uid": "U6TODO215",
-    "map": "speedrun_wander",
-    "category": 1,
-    "time": 17927,
-    "playerSteamId": "STEAM_0:1:926467834",
-    "timestamp": "2026-01-04T13:28:20.000Z",
-    "zipFilename": "00017927_STEAM_0_1_926467834_20260104-132820.zip",
-    "path": "speedrun_wander/00017927_STEAM_0_1_926467834_20260104-132820.zip",
-    "archivedAt": "2026-01-04T18:00:00.465Z"
   },
   {
     "demFileHash": "eed20fbf1f6037cbe7d565d729df02372516eeb01acffc64c727b02ae5fab5f2",
