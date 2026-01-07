@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "2fbccd04a38217616d0d716d3cea1b93d4225c91d4460c69f51774a45ceb8642",
+    "uid": "08HLQ5URN",
+    "map": "speedrun_easy_v1_remake_kaniel",
+    "category": 1,
+    "time": 15868,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-07T01:23:01.000Z",
+    "zipFilename": "00015868_STEAM_0_1_926467834_20260107-012301.zip",
+    "path": "speedrun_easy_v1_remake_kaniel/00015868_STEAM_0_1_926467834_20260107-012301.zip",
+    "archivedAt": "2026-01-07T06:00:00.530Z"
+  },
+  {
+    "demFileHash": "cf700804a3fa69671800675692ad373dc338e6677eb67a047c6f931be0214ee2",
+    "uid": "P6A2HKXZK",
+    "map": "speedrun_easy_v1_remake_kaniel",
+    "category": 1,
+    "time": 15544,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-01-07T01:23:06.000Z",
+    "zipFilename": "00015544_STEAM_0_1_408712_20260107-012306.zip",
+    "path": "speedrun_easy_v1_remake_kaniel/00015544_STEAM_0_1_408712_20260107-012306.zip",
+    "archivedAt": "2026-01-07T06:00:00.530Z"
+  },
+  {
     "demFileHash": "5910c5288d81943c3f37aa25112409282c91346c324ba13540f93c8eaefac2ab",
     "uid": "BBLB2B9SB",
     "map": "speedrun_illumination",
