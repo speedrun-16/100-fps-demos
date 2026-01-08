@@ -20,7 +20,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_aztec_hd](./deathrun_aztec_hd) | 1 | 2025-12-23 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
-| [deathrun_chemical](./deathrun_chemical) | 6 | 2026-01-02 |
+| [deathrun_chemical](./deathrun_chemical) | 7 | 2026-01-07 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dofe_f](./deathrun_dofe_f) | 1 | 2025-11-18 |
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
@@ -230,4 +230,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **219**
-- Total Demos: **710**
+- Total Demos: **711**
