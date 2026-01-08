@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "afc9c9098ea3796945fd076b30075b484ec965ee47f0ac3143da3c42c3ab90f1",
+    "uid": "26L3QVOXU",
+    "map": "speedrun_maze_seed2_test",
+    "category": 1,
+    "time": 19930,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2026-01-08T01:23:04.000Z",
+    "zipFilename": "00019930_STEAM_0_0_24751394_20260108-012304.zip",
+    "path": "speedrun_maze_seed2_test/00019930_STEAM_0_0_24751394_20260108-012304.zip",
+    "archivedAt": "2026-01-08T06:00:00.469Z"
+  },
+  {
     "demFileHash": "b3d37c5d06a8adcc57b1f664e711d5020a3004d462eae89449ec289de3f75761",
     "uid": "UJINFTAPA",
     "map": "deathrun_chemical",
