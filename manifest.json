@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "55a0b39216197fd985b1b65800fb365a179fff2fc5909b11442e08c8cd8ca7d5",
+    "uid": "ZINJVVGRF",
+    "map": "speedrun_revived_short",
+    "category": 1,
+    "time": 16355,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-09T05:07:03.000Z",
+    "zipFilename": "00016355_STEAM_0_1_926467834_20260109-050703.zip",
+    "path": "speedrun_revived_short/00016355_STEAM_0_1_926467834_20260109-050703.zip",
+    "archivedAt": "2026-01-09T06:00:00.354Z"
+  },
+  {
+    "demFileHash": "7cef59a2eb54ba593b535c22c1e1713c46b41d1220526829ff7824f5b5ec0adb",
+    "uid": "ELCC2ZYLM",
+    "map": "speedrun_maze_seed2_test",
+    "category": 1,
+    "time": 19820,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-01-09T01:03:27.000Z",
+    "zipFilename": "00019820_STEAM_0_1_408712_20260109-010327.zip",
+    "path": "speedrun_maze_seed2_test/00019820_STEAM_0_1_408712_20260109-010327.zip",
+    "archivedAt": "2026-01-09T06:00:00.354Z"
+  },
+  {
     "demFileHash": "21a00ad1177c220e239adbbd89fce5069a2ca07e07fe04031bbbe39b4ad1c5d5",
     "uid": "SSUBJGQ7W",
     "map": "speedrun_arc_maxfps",
