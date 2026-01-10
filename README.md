@@ -20,6 +20,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
 | [deathrun_aztec_hd](./deathrun_aztec_hd) | 1 | 2025-12-23 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
+| [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-01-10 |
 | [deathrun_chemical](./deathrun_chemical) | 7 | 2026-01-07 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dofe_f](./deathrun_dofe_f) | 1 | 2025-11-18 |
@@ -187,7 +188,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
 | [speedrun_runners](./speedrun_runners) | 10 | 2025-12-10 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
-| [speedrun_several](./speedrun_several) | 9 | 2025-11-16 |
+| [speedrun_several](./speedrun_several) | 9 | 2026-01-10 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
@@ -234,5 +235,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **224**
-- Total Demos: **719**
+- Total Maps: **225**
+- Total Demos: **720**
