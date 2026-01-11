@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e23f8a9ef14164a607f213da02362af01f420ab1ccde7c146bf36359096c30d6",
+    "uid": "V3NJD8IJ6",
+    "map": "speedrun_pryda_v1",
+    "category": 1,
+    "time": 9804,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2026-01-11T01:05:47.000Z",
+    "zipFilename": "00009804_STEAM_0_0_24751394_20260111-010547.zip",
+    "path": "speedrun_pryda_v1/00009804_STEAM_0_0_24751394_20260111-010547.zip",
+    "archivedAt": "2026-01-11T06:00:03.406Z"
+  },
+  {
     "demFileHash": "b2bdaeeecbae4eb1227a9a99cab1ed0439ce9190b4334cb63da92168e3697be6",
     "uid": "1F21WDC22",
     "map": "deathrun_bieber_f",
