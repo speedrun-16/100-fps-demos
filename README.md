@@ -101,6 +101,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
 | [speedrun_faster](./speedrun_faster) | 2 | 2025-11-10 |
 | [speedrun_fastrun](./speedrun_fastrun) | 1 | 2025-12-30 |
+| [speedrun_forest_maxfps](./speedrun_forest_maxfps) | 1 | 2026-01-12 |
 | [speedrun_fpsmeowkatoz](./speedrun_fpsmeowkatoz) | 1 | 2025-11-16 |
 | [speedrun_fula](./speedrun_fula) | 1 | 2026-01-03 |
 | [speedrun_fula_color](./speedrun_fula_color) | 1 | 2025-09-21 |
@@ -235,5 +236,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **225**
-- Total Demos: **722**
+- Total Maps: **226**
+- Total Demos: **723**
