@@ -130,7 +130,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kazakhstan](./speedrun_kazakhstan) | 2 | 2025-11-25 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_knox_b1](./speedrun_knox_b1) | 1 | 2025-12-14 |
-| [speedrun_kocmoc](./speedrun_kocmoc) | 1 | 2026-01-14 |
+| [speedrun_kocmoc](./speedrun_kocmoc) | 1 | 2026-01-15 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
