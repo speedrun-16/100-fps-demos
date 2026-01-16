@@ -230,7 +230,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wkr](./speedrun_wkr) | 2 | 2025-12-08 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 2 | 2025-10-19 |
-| [speedrun_yad](./speedrun_yad) | 2 | 2025-10-07 |
+| [speedrun_yad](./speedrun_yad) | 3 | 2026-01-15 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 7 | 2025-12-15 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 6 | 2025-12-16 |
 
@@ -238,4 +238,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **227**
-- Total Demos: **725**
+- Total Demos: **726**
