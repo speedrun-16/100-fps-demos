@@ -191,7 +191,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_runners](./speedrun_runners) | 10 | 2025-12-10 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_several](./speedrun_several) | 9 | 2026-01-10 |
-| [speedrun_several_longer](./speedrun_several_longer) | 6 | 2025-12-02 |
+| [speedrun_several_longer](./speedrun_several_longer) | 6 | 2026-01-16 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_sick](./speedrun_sick) | 2 | 2025-12-21 |
@@ -208,7 +208,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_flat](./speedrun_sunnies_flat) | 1 | 2025-10-06 |
 | [speedrun_sunnies_night](./speedrun_sunnies_night) | 2 | 2025-12-29 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 4 | 2025-11-23 |
-| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 4 | 2025-09-17 |
+| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 5 | 2026-01-16 |
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 2 | 2025-12-30 |
 | [speedrun_svet](./speedrun_svet) | 6 | 2025-12-06 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
@@ -238,4 +238,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **227**
-- Total Demos: **726**
+- Total Demos: **727**
