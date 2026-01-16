@@ -130,14 +130,14 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kazakhstan](./speedrun_kazakhstan) | 2 | 2025-11-25 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
 | [speedrun_knox_b1](./speedrun_knox_b1) | 1 | 2025-12-14 |
-| [speedrun_kocmoc](./speedrun_kocmoc) | 1 | 2026-01-15 |
+| [speedrun_kocmoc](./speedrun_kocmoc) | 2 | 2026-01-16 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
 | [speedrun_majestic](./speedrun_majestic) | 2 | 2025-12-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_maze_seed2_test](./speedrun_maze_seed2_test) | 2 | 2026-01-09 |
-| [speedrun_medium](./speedrun_medium) | 2 | 2025-10-03 |
+| [speedrun_medium](./speedrun_medium) | 3 | 2026-01-16 |
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
@@ -238,4 +238,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **227**
-- Total Demos: **727**
+- Total Demos: **729**
