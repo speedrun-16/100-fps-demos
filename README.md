@@ -137,7 +137,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_majestic](./speedrun_majestic) | 2 | 2025-12-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_maze_seed2_test](./speedrun_maze_seed2_test) | 2 | 2026-01-09 |
-| [speedrun_medium](./speedrun_medium) | 3 | 2026-01-16 |
+| [speedrun_medium](./speedrun_medium) | 4 | 2026-01-17 |
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
@@ -200,6 +200,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
 | [speedrun_solitude](./speedrun_solitude) | 4 | 2025-12-07 |
 | [speedrun_spg_b1](./speedrun_spg_b1) | 1 | 2025-12-31 |
+| [speedrun_spiral](./speedrun_spiral) | 1 | 2026-01-17 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 2 | 2025-11-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
 | [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-12-04 |
@@ -237,5 +238,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **227**
-- Total Demos: **729**
+- Total Maps: **228**
+- Total Demos: **731**
