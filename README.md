@@ -200,7 +200,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
 | [speedrun_solitude](./speedrun_solitude) | 4 | 2025-12-07 |
 | [speedrun_spg_b1](./speedrun_spg_b1) | 1 | 2025-12-31 |
-| [speedrun_spiral](./speedrun_spiral) | 1 | 2026-01-17 |
+| [speedrun_spiral](./speedrun_spiral) | 2 | 2026-01-18 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 2 | 2025-11-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
 | [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-12-04 |
@@ -215,6 +215,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
+| [speedrun_tibia](./speedrun_tibia) | 1 | 2026-01-18 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
 | [speedrun_tr](./speedrun_tr) | 8 | 2025-11-23 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
@@ -238,5 +239,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **228**
-- Total Demos: **731**
+- Total Maps: **229**
+- Total Demos: **733**
