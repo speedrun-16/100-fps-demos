@@ -66,7 +66,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 6 | 2025-12-20 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 10 | 2025-11-24 |
+| [speedrun_chemical](./speedrun_chemical) | 10 | 2026-01-19 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 5 | 2025-11-25 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
@@ -162,6 +162,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
 | [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 2 | 2026-01-09 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
+| [speedrun_phenom](./speedrun_phenom) | 1 | 2026-01-19 |
 | [speedrun_phenom2](./speedrun_phenom2) | 1 | 2025-12-31 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-12-19 |
@@ -239,5 +240,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **229**
-- Total Demos: **733**
+- Total Maps: **230**
+- Total Demos: **734**
