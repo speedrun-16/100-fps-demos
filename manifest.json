@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "d0edfc192f1c16e607ef7e06a16752be66933d354db23d651c7474fd58f9521d",
+    "uid": "K3HU319DY",
+    "map": "de_dust",
+    "category": 1,
+    "time": 9386,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2026-01-19T23:04:50.000Z",
+    "zipFilename": "00009386_STEAM_0_1_84733295_20260119-230450.zip",
+    "path": "de_dust/00009386_STEAM_0_1_84733295_20260119-230450.zip",
+    "archivedAt": "2026-01-20T00:00:06.256Z"
+  },
+  {
+    "demFileHash": "5fc30ba18765c0510e4822d0708b34a8e902770591b57e8e1ace75157827e8b9",
+    "uid": "9RQLP2H3J",
+    "map": "de_dust",
+    "category": 1,
+    "time": 9672,
+    "playerSteamId": "STEAM_0:0:133153190",
+    "timestamp": "2026-01-19T22:17:03.000Z",
+    "zipFilename": "00009672_STEAM_0_0_133153190_20260119-221703.zip",
+    "path": "de_dust/00009672_STEAM_0_0_133153190_20260119-221703.zip",
+    "archivedAt": "2026-01-20T00:00:06.256Z"
+  },
+  {
+    "demFileHash": "c192cbdb983bf4dd6838a03ad22c385d5587a49d4c3b80b944d1dd0912ba8ddc",
+    "uid": "3F0JMKJO4",
+    "map": "speedrun_pryda_v2",
+    "category": 1,
+    "time": 12308,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2026-01-19T23:56:36.000Z",
+    "zipFilename": "00012308_STEAM_0_1_84733295_20260119-235636.zip",
+    "path": "speedrun_pryda_v2/00012308_STEAM_0_1_84733295_20260119-235636.zip",
+    "archivedAt": "2026-01-20T00:00:06.256Z"
+  },
+  {
+    "demFileHash": "244a20d843c2ab901c49f8e5b23fe36b6c61c56a8d221bc9a21aeb44a38b2a43",
+    "uid": "QY0O5FW5Z",
+    "map": "speedrun_pryda_v2",
+    "category": 1,
+    "time": 12343,
+    "playerSteamId": "STEAM_0:0:133153190",
+    "timestamp": "2026-01-19T23:58:58.000Z",
+    "zipFilename": "00012343_STEAM_0_0_133153190_20260119-235858.zip",
+    "path": "speedrun_pryda_v2/00012343_STEAM_0_0_133153190_20260119-235858.zip",
+    "archivedAt": "2026-01-20T00:00:06.256Z"
+  },
+  {
     "demFileHash": "6d4dd04aee9c116db8a5418af40031d23e7e2d23cffec92b02a357441891737e",
     "uid": "Q8J3QYO2O",
     "map": "speedrun_phenom",

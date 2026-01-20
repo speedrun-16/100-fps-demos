@@ -9,7 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_aztec](./de_aztec) | 2 | 2025-12-27 |
-| [de_dust](./de_dust) | 7 | 2025-12-19 |
+| [de_dust](./de_dust) | 9 | 2026-01-19 |
 | [de_dust2](./de_dust2) | 6 | 2025-11-03 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-25 |
 | [de_nuke](./de_nuke) | 1 | 2025-10-07 |
@@ -168,6 +168,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-12-19 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
 | [speedrun_pryda_v1](./speedrun_pryda_v1) | 3 | 2026-01-11 |
+| [speedrun_pryda_v2](./speedrun_pryda_v2) | 2 | 2026-01-19 |
 | [speedrun_pupsik](./speedrun_pupsik) | 4 | 2025-12-31 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 6 | 2025-12-25 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
@@ -240,5 +241,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **230**
-- Total Demos: **734**
+- Total Maps: **231**
+- Total Demos: **738**
