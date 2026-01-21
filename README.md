@@ -219,7 +219,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
 | [speedrun_tibia](./speedrun_tibia) | 1 | 2026-01-18 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
-| [speedrun_tr](./speedrun_tr) | 8 | 2025-11-23 |
+| [speedrun_tr](./speedrun_tr) | 8 | 2026-01-21 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-26 |
