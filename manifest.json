@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e8f1adcf5b27a26477fdf5c35e8ab3b3266ae2c45ed45f91c3a5bd1d05f78c92",
+    "uid": "HOMZGHEG1",
+    "map": "speedrun_danmal_v2",
+    "category": 1,
+    "time": 19202,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2026-01-22T15:43:44.000Z",
+    "zipFilename": "00019202_STEAM_0_1_84733295_20260122-154344.zip",
+    "path": "speedrun_danmal_v2/00019202_STEAM_0_1_84733295_20260122-154344.zip",
+    "archivedAt": "2026-01-22T18:00:05.102Z"
+  },
+  {
     "demFileHash": "73b6b4b0ff400a64fac9fcad8f58b8157e209514c1a29618df5d244fce846fbf",
     "uid": "RW6VSR2OP",
     "map": "speedrun_pryda_v2",
