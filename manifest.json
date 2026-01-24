@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "a249673d13e7f3d9a1b6f22d760bf93f4195675ef3573efe6a1d0575ef62995e",
+    "uid": "J9FX2I4IM",
+    "map": "speedrun_opcode_mini",
+    "category": 1,
+    "time": 6647,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2026-01-24T01:32:48.000Z",
+    "zipFilename": "00006647_STEAM_0_0_24751394_20260124-013248.zip",
+    "path": "speedrun_opcode_mini/00006647_STEAM_0_0_24751394_20260124-013248.zip",
+    "archivedAt": "2026-01-24T06:00:00.450Z"
+  },
+  {
     "demFileHash": "92d34b89b33fe219cc7c291114515ada50ae8ca81e0f239df17768434d78ab77",
     "uid": "29KA0ZDJC",
     "map": "speedrun_1000fps_battle",
