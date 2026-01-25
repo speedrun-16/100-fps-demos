@@ -155,10 +155,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-30 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
-| [speedrun_opcode_mini](./speedrun_opcode_mini) | 1 | 2026-01-24 |
+| [speedrun_opcode_mini](./speedrun_opcode_mini) | 2 | 2026-01-24 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
-| [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2025-11-16 |
+| [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2026-01-24 |
 | [speedrun_over](./speedrun_over) | 2 | 2025-12-18 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 1 | 2025-12-26 |
 | [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
@@ -244,4 +244,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **233**
-- Total Demos: **752**
+- Total Demos: **753**
