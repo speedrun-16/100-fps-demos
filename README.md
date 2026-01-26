@@ -155,6 +155,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-30 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
+| [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
 | [speedrun_opcode_mini](./speedrun_opcode_mini) | 2 | 2026-01-24 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
@@ -243,5 +244,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **233**
-- Total Demos: **753**
+- Total Maps: **234**
+- Total Demos: **754**
