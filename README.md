@@ -173,7 +173,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_pryda_v1](./speedrun_pryda_v1) | 4 | 2026-01-22 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 7 | 2026-01-28 |
 | [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-01-22 |
-| [speedrun_pupsik2](./speedrun_pupsik2) | 6 | 2025-12-25 |
+| [speedrun_pupsik2](./speedrun_pupsik2) | 7 | 2026-01-30 |
 | [speedrun_pupsik3](./speedrun_pupsik3) | 7 | 2025-09-17 |
 | [speedrun_purple_space](./speedrun_purple_space) | 3 | 2025-11-30 |
 | [speedrun_qu_dust](./speedrun_qu_dust) | 4 | 2025-12-10 |
@@ -246,4 +246,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **235**
-- Total Demos: **758**
+- Total Demos: **759**

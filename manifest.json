@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d37ecd7640485f9f6cd636c2fd4baf6452d44f01196f212ec336b5148702f105",
+    "uid": "SCZ85JNGM",
+    "map": "speedrun_pupsik2",
+    "category": 1,
+    "time": 13154,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2026-01-30T01:30:07.000Z",
+    "zipFilename": "00013154_STEAM_0_1_29970948_20260130-013007.zip",
+    "path": "speedrun_pupsik2/00013154_STEAM_0_1_29970948_20260130-013007.zip",
+    "archivedAt": "2026-01-30T06:00:00.403Z"
+  },
+  {
     "demFileHash": "e2db5b7246e2fa4c2e90ac439bedabaf777cec44f22297107b09a13cf4955304",
     "uid": "TJYQF7BVY",
     "map": "speedrun_ramp-master_ex",
