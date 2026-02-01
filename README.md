@@ -217,7 +217,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_night](./speedrun_sunnies_night) | 2 | 2025-12-29 |
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 4 | 2025-11-23 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 5 | 2026-01-16 |
-| [speedrun_superspeedrun](./speedrun_superspeedrun) | 4 | 2026-01-31 |
+| [speedrun_superspeedrun](./speedrun_superspeedrun) | 5 | 2026-02-01 |
 | [speedrun_svet](./speedrun_svet) | 6 | 2025-12-06 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
@@ -247,4 +247,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **236**
-- Total Demos: **763**
+- Total Demos: **764**
