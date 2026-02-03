@@ -210,7 +210,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_spiral](./speedrun_spiral) | 2 | 2026-01-18 |
 | [speedrun_stripes_red](./speedrun_stripes_red) | 2 | 2025-11-16 |
 | [speedrun_sudip](./speedrun_sudip) | 2 | 2025-10-27 |
-| [speedrun_sudpi](./speedrun_sudpi) | 3 | 2025-12-04 |
+| [speedrun_sudpi](./speedrun_sudpi) | 3 | 2026-02-03 |
 | [speedrun_sudsup](./speedrun_sudsup) | 1 | 2025-11-01 |
 | [speedrun_sunnies](./speedrun_sunnies) | 2 | 2025-11-08 |
 | [speedrun_sunnies_flat](./speedrun_sunnies_flat) | 1 | 2025-10-06 |
