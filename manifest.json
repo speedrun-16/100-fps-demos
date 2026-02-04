@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b101c6ddc121509eb1570e99cb7c5ed79065251be105f7a4f272ecd6b4de67fb",
+    "uid": "GV86GHH9P",
+    "map": "speedrun_tibia",
+    "category": 1,
+    "time": 29729,
+    "playerSteamId": "STEAM_0:1:155808091",
+    "timestamp": "2026-02-04T11:53:13.000Z",
+    "zipFilename": "00029729_STEAM_0_1_155808091_20260204-115313.zip",
+    "path": "speedrun_tibia/00029729_STEAM_0_1_155808091_20260204-115313.zip",
+    "archivedAt": "2026-02-04T12:00:00.438Z"
+  },
+  {
     "demFileHash": "c233f0a56a86cba614bc08e8754e445427d0626f22b5a6ed033d3f0c226795e2",
     "uid": "FOVLG7IIJ",
     "map": "speedrun_arc_maxfps",
