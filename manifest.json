@@ -1,15 +1,15 @@
 [
   {
-    "demFileHash": "b101c6ddc121509eb1570e99cb7c5ed79065251be105f7a4f272ecd6b4de67fb",
-    "uid": "GV86GHH9P",
+    "demFileHash": "21a7c1b92b42c7237370587cbb92df6b57d138ca21ffdb08e012f2f3e03a2493",
+    "uid": "SJYXD6IFU",
     "map": "speedrun_tibia",
     "category": 1,
-    "time": 29729,
+    "time": 28609,
     "playerSteamId": "STEAM_0:1:155808091",
-    "timestamp": "2026-02-04T11:53:13.000Z",
-    "zipFilename": "00029729_STEAM_0_1_155808091_20260204-115313.zip",
-    "path": "speedrun_tibia/00029729_STEAM_0_1_155808091_20260204-115313.zip",
-    "archivedAt": "2026-02-04T12:00:00.438Z"
+    "timestamp": "2026-02-04T15:29:05.000Z",
+    "zipFilename": "00028609_STEAM_0_1_155808091_20260204-152905.zip",
+    "path": "speedrun_tibia/00028609_STEAM_0_1_155808091_20260204-152905.zip",
+    "archivedAt": "2026-02-04T18:00:00.450Z"
   },
   {
     "demFileHash": "c233f0a56a86cba614bc08e8754e445427d0626f22b5a6ed033d3f0c226795e2",
