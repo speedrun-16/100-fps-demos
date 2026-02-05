@@ -43,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
 | [deathrun_seireitei](./deathrun_seireitei) | 1 | 2025-12-01 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
-| [deathrun_temple](./deathrun_temple) | 1 | 2025-10-30 |
+| [deathrun_temple](./deathrun_temple) | 2 | 2026-02-05 |
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
@@ -222,7 +222,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet_ext](./speedrun_svet_ext) | 1 | 2025-09-28 |
 | [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
-| [speedrun_tibia](./speedrun_tibia) | 2 | 2026-02-04 |
+| [speedrun_tibia](./speedrun_tibia) | 2 | 2026-02-05 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
 | [speedrun_tr](./speedrun_tr) | 8 | 2026-01-21 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
@@ -230,7 +230,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 3 | 2025-12-01 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
-| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 2 | 2025-10-13 |
+| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-02-05 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-01-12 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
@@ -247,4 +247,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **236**
-- Total Demos: **766**
+- Total Demos: **768**
