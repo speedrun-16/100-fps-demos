@@ -1,15 +1,27 @@
 [
   {
-    "demFileHash": "e72ded8672e8f16e3355eee6f4d866dd6310f8212b59cf907bb24fbdd455b948",
-    "uid": "L59R8TZU8",
+    "demFileHash": "ac50ab98710170bf1dbc90983540951d02d12c10f4d2d1324695da85c091e01b",
+    "uid": "BMHI00BJV",
     "map": "speedrun_tibia",
     "category": 1,
-    "time": 28558,
+    "time": 28286,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-02-05T18:26:16.000Z",
+    "zipFilename": "00028286_STEAM_0_1_771348382_20260205-182616.zip",
+    "path": "speedrun_tibia/00028286_STEAM_0_1_771348382_20260205-182616.zip",
+    "archivedAt": "2026-02-06T00:00:00.645Z"
+  },
+  {
+    "demFileHash": "83d9c22ec28d7b155a30a5bc1d2a25ed05f8324781c4451ce8fb19d2811a5eaf",
+    "uid": "FTOLZ6ZL0",
+    "map": "speedrun_tibia",
+    "category": 1,
+    "time": 28312,
     "playerSteamId": "STEAM_0:1:155808091",
-    "timestamp": "2026-02-05T13:38:16.000Z",
-    "zipFilename": "00028558_STEAM_0_1_155808091_20260205-133816.zip",
-    "path": "speedrun_tibia/00028558_STEAM_0_1_155808091_20260205-133816.zip",
-    "archivedAt": "2026-02-05T18:00:00.454Z"
+    "timestamp": "2026-02-05T19:55:47.000Z",
+    "zipFilename": "00028312_STEAM_0_1_155808091_20260205-195547.zip",
+    "path": "speedrun_tibia/00028312_STEAM_0_1_155808091_20260205-195547.zip",
+    "archivedAt": "2026-02-06T00:00:00.645Z"
   },
   {
     "demFileHash": "7821ee06fd5881fca6628f69ba72112aa2b9388ecb797da93f64559f9101f0ad",
@@ -574,18 +586,6 @@
     "zipFilename": "00010387_STEAM_0_1_84733295_20260119-075917.zip",
     "path": "speedrun_chemical/00010387_STEAM_0_1_84733295_20260119-075917.zip",
     "archivedAt": "2026-01-19T12:00:03.770Z"
-  },
-  {
-    "demFileHash": "abdb157479b567e74bf9ab4bd4b3aa8fbc5065cd557da7b34f5bd0b33827c4e9",
-    "uid": "79QN5NLSF",
-    "map": "speedrun_tibia",
-    "category": 1,
-    "time": 28418,
-    "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2026-01-18T02:29:07.000Z",
-    "zipFilename": "00028418_STEAM_0_1_771348382_20260118-022907.zip",
-    "path": "speedrun_tibia/00028418_STEAM_0_1_771348382_20260118-022907.zip",
-    "archivedAt": "2026-01-18T06:00:00.549Z"
   },
   {
     "demFileHash": "315fb5fe56d8f964aeed2814ad80be59899ead1e185bdd3c131aad2b3d51c48a",
