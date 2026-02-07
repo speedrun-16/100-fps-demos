@@ -156,7 +156,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
-| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 2 | 2026-01-31 |
+| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 3 | 2026-02-07 |
 | [speedrun_opcode_mini](./speedrun_opcode_mini) | 2 | 2026-01-24 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
@@ -180,7 +180,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_qu_dust](./speedrun_qu_dust) | 4 | 2025-12-10 |
 | [speedrun_r3x](./speedrun_r3x) | 6 | 2025-11-17 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 10 | 2025-11-17 |
-| [speedrun_r3x_II](./speedrun_r3x_II) | 3 | 2026-01-22 |
+| [speedrun_r3x_II](./speedrun_r3x_II) | 4 | 2026-02-07 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 5 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2025-12-06 |
@@ -247,4 +247,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **236**
-- Total Demos: **769**
+- Total Demos: **771**
