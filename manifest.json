@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "2576393a40684d8ed751a1676cd2e5fbed710ff0c4d1c00f56d9fa735df7a6d4",
+    "uid": "1K7PX1RIQ",
+    "map": "speedrun_perspective_beta4",
+    "category": 1,
+    "time": 27212,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-02-09T01:38:02.000Z",
+    "zipFilename": "00027212_STEAM_0_1_408712_20260209-013802.zip",
+    "path": "speedrun_perspective_beta4/00027212_STEAM_0_1_408712_20260209-013802.zip",
+    "archivedAt": "2026-02-09T06:00:03.688Z"
+  },
+  {
     "demFileHash": "e21aea0c72dbd17b0ae86317a4fdfdd8028514e4200cfd646a935568890b315d",
     "uid": "O1BISDQH8",
     "map": "deathrun_forest",

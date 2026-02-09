@@ -164,7 +164,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_over](./speedrun_over) | 2 | 2025-12-18 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 1 | 2025-12-26 |
 | [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
-| [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 2 | 2026-01-09 |
+| [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 3 | 2026-02-09 |
 | [speedrun_phe3](./speedrun_phe3) | 2 | 2025-10-16 |
 | [speedrun_phenom](./speedrun_phenom) | 1 | 2026-01-19 |
 | [speedrun_phenom2](./speedrun_phenom2) | 1 | 2025-12-31 |
@@ -247,4 +247,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **236**
-- Total Demos: **772**
+- Total Demos: **773**
