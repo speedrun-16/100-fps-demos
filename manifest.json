@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "0af02ad431803ca65f541dfd9b5719ccb8d2682020bbe8003406af50dbdde7bb",
+    "uid": "KV05HZLGV",
+    "map": "speedrun_tibia",
+    "category": 1,
+    "time": 28147,
+    "playerSteamId": "STEAM_0:1:155808091",
+    "timestamp": "2026-02-09T20:57:57.000Z",
+    "zipFilename": "00028147_STEAM_0_1_155808091_20260209-205757.zip",
+    "path": "speedrun_tibia/00028147_STEAM_0_1_155808091_20260209-205757.zip",
+    "archivedAt": "2026-02-10T00:00:00.430Z"
+  },
+  {
     "demFileHash": "2576393a40684d8ed751a1676cd2e5fbed710ff0c4d1c00f56d9fa735df7a6d4",
     "uid": "1K7PX1RIQ",
     "map": "speedrun_perspective_beta4",
@@ -81,18 +93,6 @@
     "timestamp": "2026-02-05T18:26:16.000Z",
     "zipFilename": "00028286_STEAM_0_1_771348382_20260205-182616.zip",
     "path": "speedrun_tibia/00028286_STEAM_0_1_771348382_20260205-182616.zip",
-    "archivedAt": "2026-02-06T00:00:00.645Z"
-  },
-  {
-    "demFileHash": "83d9c22ec28d7b155a30a5bc1d2a25ed05f8324781c4451ce8fb19d2811a5eaf",
-    "uid": "FTOLZ6ZL0",
-    "map": "speedrun_tibia",
-    "category": 1,
-    "time": 28312,
-    "playerSteamId": "STEAM_0:1:155808091",
-    "timestamp": "2026-02-05T19:55:47.000Z",
-    "zipFilename": "00028312_STEAM_0_1_155808091_20260205-195547.zip",
-    "path": "speedrun_tibia/00028312_STEAM_0_1_155808091_20260205-195547.zip",
     "archivedAt": "2026-02-06T00:00:00.645Z"
   },
   {
