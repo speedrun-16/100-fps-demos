@@ -22,11 +22,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-01-10 |
 | [deathrun_chemical](./deathrun_chemical) | 7 | 2026-01-07 |
+| [deathrun_cliff](./deathrun_cliff) | 1 | 2026-02-11 |
 | [deathrun_congoy_easy](./deathrun_congoy_easy) | 1 | 2025-09-21 |
 | [deathrun_dofe_f](./deathrun_dofe_f) | 1 | 2025-11-18 |
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
 | [deathrun_dsa](./deathrun_dsa) | 1 | 2025-09-14 |
-| [deathrun_dust2010](./deathrun_dust2010) | 9 | 2025-11-17 |
+| [deathrun_dust2010](./deathrun_dust2010) | 9 | 2026-02-11 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-02 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
 | [deathrun_forest](./deathrun_forest) | 4 | 2026-02-08 |
@@ -170,7 +171,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phenom2](./speedrun_phenom2) | 1 | 2025-12-31 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2025-12-19 |
-| [speedrun_prezmik](./speedrun_prezmik) | 5 | 2025-10-05 |
+| [speedrun_prezmik](./speedrun_prezmik) | 5 | 2026-02-11 |
 | [speedrun_pryda_v1](./speedrun_pryda_v1) | 4 | 2026-01-22 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 7 | 2026-01-31 |
 | [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-01-22 |
@@ -246,5 +247,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **236**
-- Total Demos: **773**
+- Total Maps: **237**
+- Total Demos: **774**
