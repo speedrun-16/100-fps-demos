@@ -235,7 +235,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-01-12 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 1 | 2025-09-14 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
-| [speedrun_wander](./speedrun_wander) | 6 | 2026-01-07 |
+| [speedrun_wander](./speedrun_wander) | 7 | 2026-02-13 |
 | [speedrun_wex](./speedrun_wex) | 2 | 2025-12-05 |
 | [speedrun_wkr](./speedrun_wkr) | 2 | 2025-12-08 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
@@ -248,4 +248,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **237**
-- Total Demos: **775**
+- Total Demos: **776**
