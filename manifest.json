@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "86b944bbd9b378ef83f89b574c786a53d99766dc1fb9817219e50a2dee022cc7",
+    "uid": "RT8I3D3HZ",
+    "map": "speedrun_solitude",
+    "category": 1,
+    "time": 28263,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-02-13T09:48:55.000Z",
+    "zipFilename": "00028263_STEAM_0_1_926467834_20260213-094855.zip",
+    "path": "speedrun_solitude/00028263_STEAM_0_1_926467834_20260213-094855.zip",
+    "archivedAt": "2026-02-13T12:00:00.451Z"
+  },
+  {
     "demFileHash": "0e0cec24c466fe5adb28affddff02b044e7695d0e77547e23db08cced8b4eef1",
     "uid": "OP8Y8IRQD",
     "map": "speedrun_prezmik",
