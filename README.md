@@ -30,16 +30,17 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2026-02-11 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-02 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
-| [deathrun_forest](./deathrun_forest) | 4 | 2026-02-08 |
+| [deathrun_forest](./deathrun_forest) | 5 | 2026-02-16 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
 | [deathrun_grass](./deathrun_grass) | 4 | 2025-12-29 |
-| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
+| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 3 | 2026-02-16 |
 | [deathrun_icemaru](./deathrun_icemaru) | 2 | 2025-12-29 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_linea](./deathrun_linea) | 1 | 2025-11-22 |
+| [deathrun_low_skill](./deathrun_low_skill) | 1 | 2026-02-16 |
 | [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-12-01 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
 | [deathrun_seireitei](./deathrun_seireitei) | 1 | 2025-12-01 |
@@ -247,5 +248,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **237**
-- Total Demos: **780**
+- Total Maps: **238**
+- Total Demos: **783**
