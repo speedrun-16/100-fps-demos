@@ -30,7 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2026-02-11 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-02 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
-| [deathrun_forest](./deathrun_forest) | 5 | 2026-02-16 |
+| [deathrun_forest](./deathrun_forest) | 5 | 2026-02-17 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
@@ -63,7 +63,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
 | [speedrun_bieber](./speedrun_bieber) | 3 | 2026-01-12 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 6 | 2025-11-16 |
+| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 7 | 2026-02-17 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 6 | 2026-02-03 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
@@ -94,7 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
-| [speedrun_evidens](./speedrun_evidens) | 8 | 2025-12-02 |
+| [speedrun_evidens](./speedrun_evidens) | 9 | 2026-02-17 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-17 |
 | [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-11 |
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
@@ -249,4 +249,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **238**
-- Total Demos: **783**
+- Total Demos: **785**
