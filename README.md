@@ -43,6 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_low_skill](./deathrun_low_skill) | 1 | 2026-02-16 |
 | [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-12-01 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
+| [deathrun_projetocs2](./deathrun_projetocs2) | 1 | 2026-02-18 |
 | [deathrun_seireitei](./deathrun_seireitei) | 1 | 2025-12-01 |
 | [deathrun_skyline](./deathrun_skyline) | 1 | 2025-10-26 |
 | [deathrun_temple](./deathrun_temple) | 2 | 2026-02-05 |
@@ -54,7 +55,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
-| [speedrun_amel](./speedrun_amel) | 4 | 2025-11-16 |
+| [speedrun_amel](./speedrun_amel) | 7 | 2026-02-18 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 2 | 2026-02-03 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2025-12-24 |
@@ -248,5 +249,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **238**
-- Total Demos: **786**
+- Total Maps: **239**
+- Total Demos: **790**
