@@ -18,7 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_all_green](./deathrun_all_green) | 2 | 2025-09-28 |
 | [deathrun_arctic](./deathrun_arctic) | 3 | 2026-02-15 |
 | [deathrun_astro](./deathrun_astro) | 1 | 2025-09-22 |
-| [deathrun_aztec_hd](./deathrun_aztec_hd) | 1 | 2025-12-23 |
+| [deathrun_aztec_hd](./deathrun_aztec_hd) | 2 | 2026-02-19 |
 | [deathrun_badblood_v2](./deathrun_badblood_v2) | 1 | 2025-09-14 |
 | [deathrun_bieber_f](./deathrun_bieber_f) | 1 | 2026-01-10 |
 | [deathrun_chemical](./deathrun_chemical) | 7 | 2026-01-07 |
@@ -50,7 +50,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-01-23 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-02-19 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2025-12-31 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
@@ -250,4 +250,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **239**
-- Total Demos: **791**
+- Total Demos: **792**
