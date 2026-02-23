@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "02cbce411b2481496a6cc888fee4fb92d41a4703ec65b1e5c996f3501727c7b5",
+    "uid": "DT02HXHIY",
+    "map": "deathrun_dsa",
+    "category": 1,
+    "time": 8399,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-02-22T22:46:07.000Z",
+    "zipFilename": "00008399_STEAM_0_1_926467834_20260222-224607.zip",
+    "path": "deathrun_dsa/00008399_STEAM_0_1_926467834_20260222-224607.zip",
+    "archivedAt": "2026-02-23T00:00:00.454Z"
+  },
+  {
     "demFileHash": "16a20e0abb5e9ed7062652a83f4f604eeb095038e7a985cd226c4959c0ea8cb8",
     "uid": "D709L54N2",
     "map": "speedrun_green_h",
