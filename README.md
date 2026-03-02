@@ -50,7 +50,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-02-26 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 9 | 2026-03-01 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2025-12-31 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
@@ -209,6 +209,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_silent](./speedrun_silent) | 3 | 2026-02-26 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
+| [speedrun_small_white](./speedrun_small_white) | 1 | 2026-03-01 |
 | [speedrun_solitude](./speedrun_solitude) | 5 | 2026-02-13 |
 | [speedrun_spg_b1](./speedrun_spg_b1) | 1 | 2025-12-31 |
 | [speedrun_spiral](./speedrun_spiral) | 2 | 2026-02-10 |
@@ -250,5 +251,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **240**
-- Total Demos: **798**
+- Total Maps: **241**
+- Total Demos: **800**
