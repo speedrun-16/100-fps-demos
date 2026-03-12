@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "6013552950f5ed79d6d861a8276bd4fe1e9811cbcd86ba88f1f556ad1acc2af6",
+    "uid": "HB9E7SVR5",
+    "map": "speedrun_extasy",
+    "category": 1,
+    "time": 9457,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-03-12T17:35:26.000Z",
+    "zipFilename": "00009457_STEAM_0_1_408712_20260312-173526.zip",
+    "path": "speedrun_extasy/00009457_STEAM_0_1_408712_20260312-173526.zip",
+    "archivedAt": "2026-03-12T18:00:03.744Z"
+  },
+  {
+    "demFileHash": "7da10051625ec1338fce4ce363ed2013fb906c9c000276d32f22a206494c838c",
+    "uid": "ZVPLJEBSO",
+    "map": "cs_747",
+    "category": 1,
+    "time": 8826,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-03-12T17:47:16.000Z",
+    "zipFilename": "00008826_STEAM_0_1_408712_20260312-174716.zip",
+    "path": "cs_747/00008826_STEAM_0_1_408712_20260312-174716.zip",
+    "archivedAt": "2026-03-12T18:00:03.744Z"
+  },
+  {
     "demFileHash": "896332a59f7d8dd013b5653c6194dff23734f317f262bf471e815c70eb69b7c8",
     "uid": "E8CM0ARD8",
     "map": "speedrun_dust2_kaniel",

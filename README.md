@@ -6,6 +6,7 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [cs_747](./cs_747) | 1 | 2026-03-12 |
 | [cs_militia](./cs_militia) | 7 | 2025-11-16 |
 | [cs_office](./cs_office) | 1 | 2025-09-18 |
 | [de_aztec](./de_aztec) | 2 | 2025-12-27 |
@@ -101,6 +102,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidenz2](./speedrun_evidenz2) | 3 | 2025-09-17 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2025-12-21 |
 | [speedrun_expanse](./speedrun_expanse) | 1 | 2025-12-07 |
+| [speedrun_extasy](./speedrun_extasy) | 1 | 2026-03-12 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_fallen](./speedrun_fallen) | 1 | 2025-10-06 |
 | [speedrun_faster](./speedrun_faster) | 2 | 2025-11-10 |
@@ -251,5 +253,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **241**
-- Total Demos: **801**
+- Total Maps: **243**
+- Total Demos: **803**
