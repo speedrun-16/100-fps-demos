@@ -8,9 +8,10 @@ This directory contains player records achieved in the **100 FPS** category for 
 | :--- | :-------- | :------------ | :------------------ |
 | #1   | [00:24.864](./00024864_STEAM_0_1_29970948_20260203-223159.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2026-02-03 22:31:59 |
 | #2   | [00:25.266](./00025266_STEAM_0_1_926467834_20260108-085302.zip) | [STEAM_0:1:926467834](https://speedrun16.com/profile/STEAM_0:1:926467834)   | 2026-01-08 08:53:02 |
+| #3   | [00:26.693](./00026693_STEAM_0_1_447056338_20260321-024313.zip) | [STEAM_0:1:447056338](https://speedrun16.com/profile/STEAM_0:1:447056338)   | 2026-03-21 02:43:13 |
 
 ---
 
 ### Record Summary
 **Record Holder:** [00:24.864](./00024864_STEAM_0_1_29970948_20260203-223159.zip) (by [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948))  
-**Total PBs Archived:** 2
+**Total PBs Archived:** 3

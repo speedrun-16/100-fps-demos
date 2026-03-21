@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ef9073c130a96db7d68c2adf877b74d9f60db262fde0f1f707ff29aeab50733c",
+    "uid": "YXIM88HVJ",
+    "map": "speedrun_arc_maxfps",
+    "category": 1,
+    "time": 26693,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2026-03-21T02:43:13.000Z",
+    "zipFilename": "00026693_STEAM_0_1_447056338_20260321-024313.zip",
+    "path": "speedrun_arc_maxfps/00026693_STEAM_0_1_447056338_20260321-024313.zip",
+    "archivedAt": "2026-03-21T06:00:00.405Z"
+  },
+  {
     "demFileHash": "6013552950f5ed79d6d861a8276bd4fe1e9811cbcd86ba88f1f556ad1acc2af6",
     "uid": "HB9E7SVR5",
     "map": "speedrun_extasy",
