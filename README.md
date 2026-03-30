@@ -156,6 +156,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
 | [speedrun_neocist](./speedrun_neocist) | 7 | 2025-12-04 |
 | [speedrun_noideaforname](./speedrun_noideaforname) | 1 | 2025-12-19 |
+| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
 | [speedrun_nuke](./speedrun_nuke) | 2 | 2025-09-28 |
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-30 |
@@ -253,5 +254,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **243**
-- Total Demos: **804**
+- Total Maps: **244**
+- Total Demos: **805**
