@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "44b010afd0d13b4b447994edae283bca140676be1280fdb1fc7efdd73fa87394",
+    "uid": "COCUOZAGD",
+    "map": "speedrun_grasz_final",
+    "category": 1,
+    "time": 15447,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T15:37:23.000Z",
+    "zipFilename": "00015447_STEAM_0_1_771348382_20260410-153723.zip",
+    "path": "speedrun_grasz_final/00015447_STEAM_0_1_771348382_20260410-153723.zip",
+    "archivedAt": "2026-04-10T18:00:09.362Z"
+  },
+  {
+    "demFileHash": "137e5ea9c3fd670b752736f615cb567e91e5f9f4ff4571d56ed19fe5b5b554bb",
+    "uid": "L19817PS6",
+    "map": "speedrun_grasz_final",
+    "category": 1,
+    "time": 15500,
+    "playerSteamId": "STEAM_0:0:631815948",
+    "timestamp": "2026-04-10T15:58:26.000Z",
+    "zipFilename": "00015500_STEAM_0_0_631815948_20260410-155826.zip",
+    "path": "speedrun_grasz_final/00015500_STEAM_0_0_631815948_20260410-155826.zip",
+    "archivedAt": "2026-04-10T18:00:09.362Z"
+  },
+  {
+    "demFileHash": "e4081d747ce17b27e0dccba52ef467378180e54d4d8103563c1cdee2bb5fabec",
+    "uid": "OHUIY7EL6",
+    "map": "speedrun_aurea",
+    "category": 1,
+    "time": 28328,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-10T13:19:12.000Z",
+    "zipFilename": "00028328_STEAM_0_1_771348382_20260410-131912.zip",
+    "path": "speedrun_aurea/00028328_STEAM_0_1_771348382_20260410-131912.zip",
+    "archivedAt": "2026-04-10T18:00:09.362Z"
+  },
+  {
     "demFileHash": "8e3b2d2fc7fc91f98b90d5a1fdb250f3c60e1831f46c163a0f74c1a1eb8978a7",
     "uid": "3GQT48WS2",
     "map": "speedrun_chemical",
@@ -2434,18 +2470,6 @@
     "zipFilename": "00033408_STEAM_0_0_24751394_20251213-130009.zip",
     "path": "speedrun_insanity/00033408_STEAM_0_0_24751394_20251213-130009.zip",
     "archivedAt": "2025-12-13T18:00:06.393Z"
-  },
-  {
-    "demFileHash": "9d3991548996cf25b38d540a06b836ab8914297c5435f1eeecc5148e1510c746",
-    "uid": "Q8M0M1TN0",
-    "map": "speedrun_grasz_final",
-    "category": 1,
-    "time": 15467,
-    "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2025-12-13T09:59:56.000Z",
-    "zipFilename": "00015467_STEAM_0_1_771348382_20251213-095956.zip",
-    "path": "speedrun_grasz_final/00015467_STEAM_0_1_771348382_20251213-095956.zip",
-    "archivedAt": "2025-12-13T12:00:03.223Z"
   },
   {
     "demFileHash": "7fc5aae40a593f334047cca714bad599c4eaa11e7abb95691b06408c39f75ecb",
