@@ -70,7 +70,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 6 | 2026-02-03 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 10 | 2026-01-19 |
+| [speedrun_chemical](./speedrun_chemical) | 11 | 2026-04-10 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 6 | 2026-01-20 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |
 | [speedrun_colors](./speedrun_colors) | 1 | 2025-09-27 |
@@ -209,7 +209,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_sick](./speedrun_sick) | 2 | 2025-12-21 |
-| [speedrun_silent](./speedrun_silent) | 3 | 2026-02-26 |
+| [speedrun_silent](./speedrun_silent) | 4 | 2026-04-10 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
 | [speedrun_small_white](./speedrun_small_white) | 1 | 2026-03-01 |
@@ -256,4 +256,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **245**
-- Total Demos: **810**
+- Total Demos: **812**
