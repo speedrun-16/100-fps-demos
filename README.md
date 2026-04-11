@@ -60,6 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 3 | 2026-03-21 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2025-12-24 |
+| [speedrun_assault_fix](./speedrun_assault_fix) | 1 | 2026-04-11 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-10 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
@@ -119,7 +120,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grande](./speedrun_grande) | 1 | 2025-10-16 |
 | [speedrun_grass](./speedrun_grass) | 1 | 2026-01-04 |
 | [speedrun_grasz](./speedrun_grasz) | 4 | 2025-09-26 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 7 | 2026-04-10 |
+| [speedrun_grasz_final](./speedrun_grasz_final) | 7 | 2026-04-11 |
 | [speedrun_green_h](./speedrun_green_h) | 2 | 2026-02-22 |
 | [speedrun_greenzzz](./speedrun_greenzzz) | 2 | 2025-11-23 |
 | [speedrun_hatemeworld_b1](./speedrun_hatemeworld_b1) | 1 | 2025-09-17 |
@@ -192,6 +193,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 5 | 2025-11-11 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2025-12-06 |
+| [speedrun_red_push](./speedrun_red_push) | 1 | 2026-04-11 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 4 | 2025-10-18 |
 | [speedrun_replay_edition](./speedrun_replay_edition) | 2 | 2025-11-18 |
 | [speedrun_replay_return](./speedrun_replay_return) | 4 | 2025-12-25 |
@@ -256,5 +258,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **246**
-- Total Demos: **815**
+- Total Maps: **248**
+- Total Demos: **817**
