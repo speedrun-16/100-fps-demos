@@ -128,6 +128,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-17 |
 | [speedrun_hiddenlab](./speedrun_hiddenlab) | 4 | 2025-11-16 |
 | [speedrun_hl_beta](./speedrun_hl_beta) | 1 | 2025-12-06 |
+| [speedrun_hop4](./speedrun_hop4) | 1 | 2026-04-12 |
 | [speedrun_illumination](./speedrun_illumination) | 3 | 2026-01-05 |
 | [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-13 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
@@ -240,7 +241,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_vantara](./speedrun_vantara) | 2 | 2026-04-11 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-26 |
-| [speedrun_voidrun](./speedrun_voidrun) | 5 | 2026-04-09 |
+| [speedrun_voidrun](./speedrun_voidrun) | 5 | 2026-04-12 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-02-05 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-01-12 |
@@ -258,5 +259,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **248**
-- Total Demos: **818**
+- Total Maps: **249**
+- Total Demos: **819**
