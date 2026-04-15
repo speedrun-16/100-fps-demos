@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "e0b46e867e131631167c10d6a0b2b6a6650f07d1087d643b8ef48fc45fc84f0d",
+    "uid": "E9GCAD8H4",
+    "map": "speedrun_evi_maxfps",
+    "category": 1,
+    "time": 12497,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2026-04-15T16:59:34.000Z",
+    "zipFilename": "00012497_STEAM_0_0_24751394_20260415-165934.zip",
+    "path": "speedrun_evi_maxfps/00012497_STEAM_0_0_24751394_20260415-165934.zip",
+    "archivedAt": "2026-04-15T18:00:00.553Z"
+  },
+  {
+    "demFileHash": "a6c3130aa54e18a326b630cf66bf2b268d416e8d0792633eb662ad8985be0ca7",
+    "uid": "DN4E3WXOL",
+    "map": "speedrun_1000fps_battle",
+    "category": 1,
+    "time": 10588,
+    "playerSteamId": "STEAM_0:0:631815948",
+    "timestamp": "2026-04-15T17:55:43.000Z",
+    "zipFilename": "00010588_STEAM_0_0_631815948_20260415-175543.zip",
+    "path": "speedrun_1000fps_battle/00010588_STEAM_0_0_631815948_20260415-175543.zip",
+    "archivedAt": "2026-04-15T18:00:00.553Z"
+  },
+  {
     "demFileHash": "d203d2e08021d98956b7fd9274b3908d13d17e3772ab7426a49a0bf0f787a77e",
     "uid": "ESL9SOQWT",
     "map": "deathrun_mountains_beta1",

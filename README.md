@@ -53,7 +53,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_tender](./deathrun_tender) | 1 | 2025-09-16 |
 | [deathrun_w00dfun](./deathrun_w00dfun) | 12 | 2025-11-23 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 9 | 2026-03-01 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 10 | 2026-04-15 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2025-12-31 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
@@ -99,7 +99,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_euphoria](./speedrun_euphoria) | 8 | 2026-04-13 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
-| [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 3 | 2025-09-24 |
+| [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 4 | 2026-04-15 |
 | [speedrun_evidens](./speedrun_evidens) | 9 | 2026-02-17 |
 | [speedrun_evidens_big](./speedrun_evidens_big) | 5 | 2025-11-17 |
 | [speedrun_evidens_editut_2021](./speedrun_evidens_editut_2021) | 1 | 2025-11-11 |
@@ -262,4 +262,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **251**
-- Total Demos: **827**
+- Total Demos: **829**
