@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d203d2e08021d98956b7fd9274b3908d13d17e3772ab7426a49a0bf0f787a77e",
+    "uid": "ESL9SOQWT",
+    "map": "deathrun_mountains_beta1",
+    "category": 1,
+    "time": 19280,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-04-15T11:58:23.000Z",
+    "zipFilename": "00019280_STEAM_0_1_408712_20260415-115823.zip",
+    "path": "deathrun_mountains_beta1/00019280_STEAM_0_1_408712_20260415-115823.zip",
+    "archivedAt": "2026-04-15T12:00:04.631Z"
+  },
+  {
     "demFileHash": "5344183e5f6445bd1ec1444cde7bb7eac29b441a0ddfe31a435ccc37d6c5438b",
     "uid": "W37X51C5H",
     "map": "deathrun_evidens",

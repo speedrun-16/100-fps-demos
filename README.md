@@ -44,6 +44,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_linea](./deathrun_linea) | 1 | 2025-11-22 |
 | [deathrun_low_skill](./deathrun_low_skill) | 1 | 2026-02-16 |
 | [deathrun_mars_salvation](./deathrun_mars_salvation) | 1 | 2025-12-01 |
+| [deathrun_mountains_beta1](./deathrun_mountains_beta1) | 1 | 2026-04-15 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 2 | 2025-11-03 |
 | [deathrun_projetocs2](./deathrun_projetocs2) | 1 | 2026-02-18 |
 | [deathrun_seireitei](./deathrun_seireitei) | 1 | 2025-12-01 |
@@ -260,5 +261,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **250**
-- Total Demos: **826**
+- Total Maps: **251**
+- Total Demos: **827**
