@@ -171,7 +171,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 3 | 2026-02-07 |
 | [speedrun_opcode_mini](./speedrun_opcode_mini) | 3 | 2026-02-07 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 3 | 2025-10-16 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 4 | 2025-12-23 |
+| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 5 | 2026-04-16 |
 | [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 8 | 2026-01-24 |
 | [speedrun_over](./speedrun_over) | 2 | 2025-12-18 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 1 | 2025-12-26 |
@@ -238,7 +238,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
 | [speedrun_tibia](./speedrun_tibia) | 2 | 2026-02-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
-| [speedrun_tr](./speedrun_tr) | 9 | 2026-04-11 |
+| [speedrun_tr](./speedrun_tr) | 10 | 2026-04-16 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_vantara](./speedrun_vantara) | 2 | 2026-04-11 |
@@ -262,4 +262,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **251**
-- Total Demos: **829**
+- Total Demos: **831**
