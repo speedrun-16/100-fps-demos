@@ -64,7 +64,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2025-12-24 |
 | [speedrun_assault_fix](./speedrun_assault_fix) | 1 | 2026-04-11 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
-| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-10 |
+| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-18 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
