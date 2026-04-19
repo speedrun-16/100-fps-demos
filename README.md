@@ -146,6 +146,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
 | [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
+| [speedrun_lumina_beta1](./speedrun_lumina_beta1) | 2 | 2026-04-19 |
 | [speedrun_majestic](./speedrun_majestic) | 2 | 2025-12-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_maze_seed2_test](./speedrun_maze_seed2_test) | 2 | 2026-01-09 |
@@ -201,7 +202,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_replay_edition](./speedrun_replay_edition) | 3 | 2026-04-19 |
 | [speedrun_replay_return](./speedrun_replay_return) | 4 | 2025-12-25 |
 | [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
-| [speedrun_retro_mini](./speedrun_retro_mini) | 4 | 2025-11-28 |
+| [speedrun_retro_mini](./speedrun_retro_mini) | 5 | 2026-04-19 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-11-16 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
@@ -246,6 +247,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_voidrun](./speedrun_voidrun) | 5 | 2026-04-16 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-02-05 |
+| [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-19 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-01-12 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 2 | 2026-04-12 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
@@ -261,5 +263,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **251**
-- Total Demos: **836**
+- Total Maps: **253**
+- Total Demos: **840**
