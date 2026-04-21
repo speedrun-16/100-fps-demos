@@ -61,7 +61,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_amel](./speedrun_amel) | 7 | 2026-02-18 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 3 | 2026-03-21 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2025-11-18 |
-| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2025-12-24 |
+| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2026-04-21 |
 | [speedrun_assault_fix](./speedrun_assault_fix) | 1 | 2026-04-11 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
 | [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-20 |
@@ -218,6 +218,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sick](./speedrun_sick) | 2 | 2025-12-21 |
 | [speedrun_silent](./speedrun_silent) | 4 | 2026-04-10 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
+| [speedrun_slavers](./speedrun_slavers) | 1 | 2026-04-21 |
 | [speedrun_slow](./speedrun_slow) | 1 | 2025-12-03 |
 | [speedrun_small_white](./speedrun_small_white) | 1 | 2026-03-01 |
 | [speedrun_solitude](./speedrun_solitude) | 5 | 2026-02-13 |
@@ -263,5 +264,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **253**
-- Total Demos: **840**
+- Total Maps: **254**
+- Total Demos: **841**
