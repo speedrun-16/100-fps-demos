@@ -133,7 +133,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_hop4](./speedrun_hop4) | 1 | 2026-04-12 |
 | [speedrun_illumination](./speedrun_illumination) | 3 | 2026-01-05 |
 | [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-13 |
-| [speedrun_jeans](./speedrun_jeans) | 5 | 2025-10-07 |
+| [speedrun_jeans](./speedrun_jeans) | 5 | 2026-04-21 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 11 | 2026-02-18 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
