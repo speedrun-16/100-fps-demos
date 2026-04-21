@@ -74,6 +74,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 7 | 2026-04-14 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
+| [speedrun_calm](./speedrun_calm) | 1 | 2026-04-21 |
 | [speedrun_chemical](./speedrun_chemical) | 11 | 2026-04-16 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 6 | 2026-01-20 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |
@@ -150,7 +151,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_majestic](./speedrun_majestic) | 2 | 2025-12-25 |
 | [speedrun_mara](./speedrun_mara) | 3 | 2025-10-26 |
 | [speedrun_maze_seed2_test](./speedrun_maze_seed2_test) | 2 | 2026-01-09 |
-| [speedrun_medium](./speedrun_medium) | 4 | 2026-02-22 |
+| [speedrun_medium](./speedrun_medium) | 5 | 2026-04-21 |
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
@@ -160,7 +161,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 5 | 2026-01-12 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
-| [speedrun_neocist](./speedrun_neocist) | 7 | 2025-12-04 |
+| [speedrun_neocist](./speedrun_neocist) | 7 | 2026-04-21 |
 | [speedrun_noideaforname](./speedrun_noideaforname) | 1 | 2025-12-19 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
@@ -264,5 +265,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **254**
-- Total Demos: **841**
+- Total Maps: **255**
+- Total Demos: **843**
