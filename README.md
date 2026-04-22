@@ -64,7 +64,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2026-04-21 |
 | [speedrun_assault_fix](./speedrun_assault_fix) | 1 | 2026-04-11 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
-| [speedrun_aurea](./speedrun_aurea) | 1 | 2026-04-20 |
+| [speedrun_aurea](./speedrun_aurea) | 2 | 2026-04-22 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
@@ -161,7 +161,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
 | [speedrun_muhaha](./speedrun_muhaha) | 5 | 2026-01-12 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
-| [speedrun_neocist](./speedrun_neocist) | 7 | 2026-04-21 |
+| [speedrun_neocist](./speedrun_neocist) | 8 | 2026-04-22 |
 | [speedrun_noideaforname](./speedrun_noideaforname) | 1 | 2025-12-19 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_noob2](./speedrun_noob2) | 5 | 2025-09-16 |
@@ -266,4 +266,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **255**
-- Total Demos: **843**
+- Total Demos: **845**
