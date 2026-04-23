@@ -71,6 +71,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber](./speedrun_bieber) | 3 | 2026-01-12 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 7 | 2026-02-17 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
+| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-04-23 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 7 | 2026-04-14 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
@@ -92,7 +93,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_eastwood](./speedrun_eastwood) | 5 | 2025-12-29 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 9 | 2025-11-14 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 2 | 2026-01-07 |
-| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 4 | 2025-12-10 |
+| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 6 | 2026-04-23 |
 | [speedrun_ender](./speedrun_ender) | 3 | 2026-04-12 |
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 1 | 2025-12-30 |
@@ -265,5 +266,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **255**
-- Total Demos: **847**
+- Total Maps: **256**
+- Total Demos: **850**
