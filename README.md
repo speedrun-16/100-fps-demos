@@ -32,7 +32,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-02 |
 | [deathrun_evidens](./deathrun_evidens) | 1 | 2026-04-14 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
-| [deathrun_forest](./deathrun_forest) | 5 | 2026-02-17 |
+| [deathrun_forest](./deathrun_forest) | 6 | 2026-04-24 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
@@ -200,7 +200,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_record](./speedrun_record) | 1 | 2025-12-06 |
 | [speedrun_red_push](./speedrun_red_push) | 1 | 2026-04-11 |
-| [speedrun_reloaded](./speedrun_reloaded) | 2 | 2026-04-24 |
+| [speedrun_reloaded](./speedrun_reloaded) | 4 | 2026-04-24 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 4 | 2025-10-18 |
 | [speedrun_replay_edition](./speedrun_replay_edition) | 3 | 2026-04-19 |
 | [speedrun_replay_return](./speedrun_replay_return) | 4 | 2025-12-25 |
@@ -268,4 +268,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **257**
-- Total Demos: **853**
+- Total Demos: **856**
