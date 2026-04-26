@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "de79dcb68c7b56e29cff9b31c173025353068aa86e62242e62e7dc87ce87c7b9",
+    "uid": "ZHSG2082A",
+    "map": "speedrun_artakey",
+    "category": 1,
+    "time": 20160,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-26T09:34:22.000Z",
+    "zipFilename": "00020160_STEAM_0_1_771348382_20260426-093422.zip",
+    "path": "speedrun_artakey/00020160_STEAM_0_1_771348382_20260426-093422.zip",
+    "archivedAt": "2026-04-26T12:00:00.632Z"
+  },
+  {
     "demFileHash": "47410bc0dd0fe2df194379eda2c7d5c0d7aa0b2d829b1f364e435b832e6b981b",
     "uid": "SNDLZ5G4B",
     "map": "speedrun_govno_remake_kaniel",
