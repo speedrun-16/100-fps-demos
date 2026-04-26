@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "47410bc0dd0fe2df194379eda2c7d5c0d7aa0b2d829b1f364e435b832e6b981b",
+    "uid": "SNDLZ5G4B",
+    "map": "speedrun_govno_remake_kaniel",
+    "category": 1,
+    "time": 9928,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-04-26T02:15:42.000Z",
+    "zipFilename": "00009928_STEAM_0_1_408712_20260426-021542.zip",
+    "path": "speedrun_govno_remake_kaniel/00009928_STEAM_0_1_408712_20260426-021542.zip",
+    "archivedAt": "2026-04-26T06:00:04.401Z"
+  },
+  {
     "demFileHash": "7c06e135b910221657a58c2b90e8d30fa68162aa1886643867b0410d740d761a",
     "uid": "RO9SV4RZK",
     "map": "speedrun_meowkatozz_demise",

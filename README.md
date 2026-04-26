@@ -121,6 +121,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_garden](./speedrun_garden) | 1 | 2025-10-23 |
 | [speedrun_getdown](./speedrun_getdown) | 1 | 2025-12-14 |
 | [speedrun_gmsr_remade_kaniel](./speedrun_gmsr_remade_kaniel) | 1 | 2025-09-19 |
+| [speedrun_govno_remake_kaniel](./speedrun_govno_remake_kaniel) | 1 | 2026-04-26 |
 | [speedrun_grande](./speedrun_grande) | 1 | 2025-10-16 |
 | [speedrun_grass](./speedrun_grass) | 1 | 2026-01-04 |
 | [speedrun_grasz](./speedrun_grasz) | 4 | 2025-09-26 |
@@ -268,5 +269,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **258**
-- Total Demos: **860**
+- Total Maps: **259**
+- Total Demos: **861**
