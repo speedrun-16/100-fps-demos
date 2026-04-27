@@ -208,7 +208,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_replay_return](./speedrun_replay_return) | 4 | 2025-12-25 |
 | [speedrun_retro](./speedrun_retro) | 1 | 2025-10-18 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 5 | 2026-04-19 |
-| [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2025-09-21 |
+| [speedrun_retro_pro](./speedrun_retro_pro) | 5 | 2026-04-27 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-11-16 |
 | [speedrun_revived_odd](./speedrun_revived_odd) | 1 | 2025-09-21 |
 | [speedrun_revived_short](./speedrun_revived_short) | 4 | 2026-02-28 |
