@@ -246,6 +246,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tibia](./speedrun_tibia) | 2 | 2026-02-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
 | [speedrun_tr](./speedrun_tr) | 10 | 2026-04-16 |
+| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-04-27 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
 | [speedrun_vantara](./speedrun_vantara) | 2 | 2026-04-11 |
@@ -262,12 +263,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wkr](./speedrun_wkr) | 3 | 2026-04-09 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
 | [speedrun_x3](./speedrun_x3) | 3 | 2026-04-16 |
-| [speedrun_yad](./speedrun_yad) | 3 | 2026-01-15 |
+| [speedrun_yad](./speedrun_yad) | 4 | 2026-04-27 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 7 | 2025-12-15 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 7 | 2026-04-09 |
 
 ---
 
 ### Statistics
-- Total Maps: **259**
-- Total Demos: **864**
+- Total Maps: **260**
+- Total Demos: **866**
