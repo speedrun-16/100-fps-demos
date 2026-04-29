@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
 | [speedrun_amel](./speedrun_amel) | 7 | 2026-02-18 |
-| [speedrun_aqua](./speedrun_aqua) | 1 | 2026-04-29 |
+| [speedrun_aqua](./speedrun_aqua) | 2 | 2026-04-29 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 3 | 2026-03-21 |
 | [speedrun_artakey](./speedrun_artakey) | 2 | 2026-04-26 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2026-04-21 |
@@ -148,7 +148,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_knox_b1](./speedrun_knox_b1) | 1 | 2025-12-14 |
 | [speedrun_kocmoc](./speedrun_kocmoc) | 2 | 2026-01-16 |
 | [speedrun_kwadrat](./speedrun_kwadrat) | 5 | 2025-11-03 |
-| [speedrun_leszcz](./speedrun_leszcz) | 3 | 2025-11-07 |
+| [speedrun_leszcz](./speedrun_leszcz) | 4 | 2026-04-29 |
 | [speedrun_lewc](./speedrun_lewc) | 1 | 2025-09-25 |
 | [speedrun_lumina_beta1](./speedrun_lumina_beta1) | 2 | 2026-04-19 |
 | [speedrun_lumina_beta3](./speedrun_lumina_beta3) | 1 | 2026-04-25 |
@@ -244,7 +244,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 5 | 2026-02-01 |
 | [speedrun_svet](./speedrun_svet) | 7 | 2026-04-12 |
 | [speedrun_svet_ext](./speedrun_svet_ext) | 2 | 2026-04-12 |
-| [speedrun_tarantula](./speedrun_tarantula) | 1 | 2025-11-14 |
+| [speedrun_tarantula](./speedrun_tarantula) | 3 | 2026-04-29 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
 | [speedrun_tibia](./speedrun_tibia) | 2 | 2026-02-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
@@ -274,4 +274,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **263**
-- Total Demos: **869**
+- Total Demos: **873**
