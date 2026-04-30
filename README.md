@@ -77,7 +77,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
 | [speedrun_calm](./speedrun_calm) | 1 | 2026-04-21 |
-| [speedrun_chemical](./speedrun_chemical) | 11 | 2026-04-16 |
+| [speedrun_chemical](./speedrun_chemical) | 11 | 2026-04-30 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 6 | 2026-01-20 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |
 | [speedrun_colors](./speedrun_colors) | 2 | 2026-04-17 |
@@ -252,7 +252,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-04-27 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 7 | 2025-11-25 |
 | [speedrun_ukraine](./speedrun_ukraine) | 1 | 2025-10-04 |
-| [speedrun_vantara](./speedrun_vantara) | 2 | 2026-04-11 |
+| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-30 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-26 |
 | [speedrun_voidrun](./speedrun_voidrun) | 5 | 2026-04-16 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
@@ -274,4 +274,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **263**
-- Total Demos: **873**
+- Total Demos: **874**
