@@ -259,10 +259,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-02-05 |
 | [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-19 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-01-12 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-05-01 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 2 | 2026-04-12 |
 | [speedrun_wampirex](./speedrun_wampirex) | 3 | 2025-10-06 |
-| [speedrun_wander](./speedrun_wander) | 8 | 2026-04-30 |
+| [speedrun_wander](./speedrun_wander) | 8 | 2026-05-01 |
 | [speedrun_wex](./speedrun_wex) | 2 | 2025-12-05 |
 | [speedrun_wkr](./speedrun_wkr) | 3 | 2026-04-09 |
 | [speedrun_woah2](./speedrun_woah2) | 2 | 2025-10-03 |
