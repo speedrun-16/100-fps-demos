@@ -69,7 +69,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
-| [speedrun_bieber](./speedrun_bieber) | 3 | 2026-01-12 |
+| [speedrun_bieber](./speedrun_bieber) | 4 | 2026-05-01 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 7 | 2026-02-17 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
 | [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-04-23 |
@@ -221,7 +221,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_scumbag2](./speedrun_scumbag2) | 1 | 2026-04-28 |
 | [speedrun_several](./speedrun_several) | 9 | 2026-01-10 |
-| [speedrun_several_longer](./speedrun_several_longer) | 6 | 2026-01-16 |
+| [speedrun_several_longer](./speedrun_several_longer) | 6 | 2026-05-01 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
 | [speedrun_sick](./speedrun_sick) | 2 | 2025-12-21 |
@@ -275,4 +275,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **264**
-- Total Demos: **876**
+- Total Demos: **877**
