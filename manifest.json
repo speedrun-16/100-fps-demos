@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d3b260d1009e8393cc31ca80c102a55df7f94b2e7171209f2d0f47d442a2bc61",
+    "uid": "LJWKOH0R9",
+    "map": "speedrun_lumina_beta3",
+    "category": 1,
+    "time": 34108,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2026-05-03T11:09:27.000Z",
+    "zipFilename": "00034108_STEAM_0_0_24751394_20260503-110927.zip",
+    "path": "speedrun_lumina_beta3/00034108_STEAM_0_0_24751394_20260503-110927.zip",
+    "archivedAt": "2026-05-03T12:00:00.651Z"
+  },
+  {
     "demFileHash": "b51cfd1f8773e1a01c3045198d31d4a4074bce438466d424e157b4dcf876cd47",
     "uid": "WGUJALMXB",
     "map": "speedrun_enemy_easy",
