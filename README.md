@@ -32,7 +32,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2025-12-02 |
 | [deathrun_evidens](./deathrun_evidens) | 1 | 2026-04-14 |
 | [deathrun_fantasy](./deathrun_fantasy) | 1 | 2025-11-18 |
-| [deathrun_forest](./deathrun_forest) | 6 | 2026-04-24 |
+| [deathrun_forest](./deathrun_forest) | 6 | 2026-05-03 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
