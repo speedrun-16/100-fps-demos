@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "dda9f4b83808154834fe60ffb61470cb3ab91ba69a9473b4f861b94045d8e16b",
+    "uid": "ZE1K5R0B6",
+    "map": "deathrun_fusion_wild",
+    "category": 1,
+    "time": 18046,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-04T17:56:30.000Z",
+    "zipFilename": "00018046_STEAM_0_1_771348382_20260504-175630.zip",
+    "path": "deathrun_fusion_wild/00018046_STEAM_0_1_771348382_20260504-175630.zip",
+    "archivedAt": "2026-05-04T18:00:00.533Z"
+  },
+  {
     "demFileHash": "102828b6a92b6e0a2524da34baaa121d7ead93b68f3cff48b72bf9f0e845d8b0",
     "uid": "CP7TLPLIU",
     "map": "speedrun_easy_v1",

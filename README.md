@@ -35,6 +35,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_forest](./deathrun_forest) | 6 | 2026-05-03 |
 | [deathrun_forest2_final](./deathrun_forest2_final) | 1 | 2025-10-18 |
 | [deathrun_fusion_ancient](./deathrun_fusion_ancient) | 4 | 2025-12-23 |
+| [deathrun_fusion_wild](./deathrun_fusion_wild) | 1 | 2026-05-04 |
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
 | [deathrun_grass](./deathrun_grass) | 4 | 2025-12-29 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 4 | 2026-04-16 |
@@ -275,5 +276,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **265**
-- Total Demos: **882**
+- Total Maps: **266**
+- Total Demos: **883**
