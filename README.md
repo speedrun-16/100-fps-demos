@@ -93,7 +93,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dust2](./speedrun_dust2) | 4 | 2025-10-06 |
 | [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 4 | 2026-03-06 |
 | [speedrun_eastwood](./speedrun_eastwood) | 5 | 2025-12-29 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 10 | 2026-04-27 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 10 | 2026-05-03 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 2 | 2026-01-07 |
 | [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 6 | 2026-04-23 |
 | [speedrun_ender](./speedrun_ender) | 3 | 2026-04-12 |
