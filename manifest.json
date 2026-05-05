@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "48b61379f01383d5eb2816082a7b7547b811bbba247dd8e2a48391c845ade019",
+    "uid": "H4QPSEFTM",
+    "map": "speedrun_venem_strafeace",
+    "category": 1,
+    "time": 25897,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-04T23:15:20.000Z",
+    "zipFilename": "00025897_STEAM_0_1_771348382_20260504-231520.zip",
+    "path": "speedrun_venem_strafeace/00025897_STEAM_0_1_771348382_20260504-231520.zip",
+    "archivedAt": "2026-05-05T00:00:00.616Z"
+  },
+  {
+    "demFileHash": "f0cec8642cc8f4d4b5046cd432a863c60b1af9666bbe9fafa25f5b97c1856129",
+    "uid": "UZQAR6JV6",
+    "map": "deathrun_w00dfun",
+    "category": 1,
+    "time": 13578,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-04T18:44:50.000Z",
+    "zipFilename": "00013578_STEAM_0_1_771348382_20260504-184450.zip",
+    "path": "deathrun_w00dfun/00013578_STEAM_0_1_771348382_20260504-184450.zip",
+    "archivedAt": "2026-05-05T00:00:00.616Z"
+  },
+  {
+    "demFileHash": "9a87cf4ec242cdc56c4f6734360973e342b8a5c8c0506fa70051ba5c6b4e1ab0",
+    "uid": "JU0PIX5W0",
+    "map": "speedrun_calm",
+    "category": 1,
+    "time": 12672,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-04T23:59:29.000Z",
+    "zipFilename": "00012672_STEAM_0_1_771348382_20260504-235929.zip",
+    "path": "speedrun_calm/00012672_STEAM_0_1_771348382_20260504-235929.zip",
+    "archivedAt": "2026-05-05T00:00:00.616Z"
+  },
+  {
     "demFileHash": "dda9f4b83808154834fe60ffb61470cb3ab91ba69a9473b4f861b94045d8e16b",
     "uid": "ZE1K5R0B6",
     "map": "deathrun_fusion_wild",
