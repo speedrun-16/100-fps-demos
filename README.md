@@ -77,7 +77,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 7 | 2026-04-14 |
 | [speedrun_calisto](./speedrun_calisto) | 1 | 2025-11-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 6 | 2025-12-20 |
-| [speedrun_calm](./speedrun_calm) | 2 | 2026-05-04 |
+| [speedrun_calm](./speedrun_calm) | 2 | 2026-05-05 |
 | [speedrun_chemical](./speedrun_chemical) | 11 | 2026-04-30 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 6 | 2026-01-20 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 9 | 2025-12-21 |

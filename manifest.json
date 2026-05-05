@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "25d6f47b9008e0b3494ea59d4b44be9e78f945a9f843b062549487b76b40231f",
+    "uid": "PDVC3EV24",
+    "map": "speedrun_calm",
+    "category": 1,
+    "time": 12642,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-05T00:04:04.000Z",
+    "zipFilename": "00012642_STEAM_0_1_771348382_20260505-000404.zip",
+    "path": "speedrun_calm/00012642_STEAM_0_1_771348382_20260505-000404.zip",
+    "archivedAt": "2026-05-05T06:00:07.945Z"
+  },
+  {
     "demFileHash": "48b61379f01383d5eb2816082a7b7547b811bbba247dd8e2a48391c845ade019",
     "uid": "H4QPSEFTM",
     "map": "speedrun_venem_strafeace",
@@ -21,18 +33,6 @@
     "timestamp": "2026-05-04T18:44:50.000Z",
     "zipFilename": "00013578_STEAM_0_1_771348382_20260504-184450.zip",
     "path": "deathrun_w00dfun/00013578_STEAM_0_1_771348382_20260504-184450.zip",
-    "archivedAt": "2026-05-05T00:00:00.616Z"
-  },
-  {
-    "demFileHash": "9a87cf4ec242cdc56c4f6734360973e342b8a5c8c0506fa70051ba5c6b4e1ab0",
-    "uid": "JU0PIX5W0",
-    "map": "speedrun_calm",
-    "category": 1,
-    "time": 12672,
-    "playerSteamId": "STEAM_0:1:771348382",
-    "timestamp": "2026-05-04T23:59:29.000Z",
-    "zipFilename": "00012672_STEAM_0_1_771348382_20260504-235929.zip",
-    "path": "speedrun_calm/00012672_STEAM_0_1_771348382_20260504-235929.zip",
     "archivedAt": "2026-05-05T00:00:00.616Z"
   },
   {
