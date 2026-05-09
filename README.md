@@ -68,10 +68,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
 | [speedrun_aurea](./speedrun_aurea) | 2 | 2026-04-25 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 1 | 2025-11-19 |
-| [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 1 | 2025-10-30 |
+| [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 2 | 2026-05-09 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
 | [speedrun_bieber](./speedrun_bieber) | 4 | 2026-05-01 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 7 | 2026-02-17 |
+| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 8 | 2026-05-09 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
 | [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-04-23 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 7 | 2026-04-14 |
@@ -164,7 +164,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 5 | 2025-12-28 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
 | [speedrun_mountains2020](./speedrun_mountains2020) | 1 | 2025-12-26 |
-| [speedrun_ms](./speedrun_ms) | 3 | 2025-11-16 |
+| [speedrun_ms](./speedrun_ms) | 4 | 2026-05-09 |
 | [speedrun_muhaha](./speedrun_muhaha) | 5 | 2026-04-30 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
 | [speedrun_neocist](./speedrun_neocist) | 8 | 2026-04-22 |
@@ -222,7 +222,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_runners](./speedrun_runners) | 12 | 2026-05-07 |
 | [speedrun_scarlet](./speedrun_scarlet) | 5 | 2025-10-06 |
 | [speedrun_scumbag2](./speedrun_scumbag2) | 1 | 2026-04-28 |
-| [speedrun_several](./speedrun_several) | 9 | 2026-01-10 |
+| [speedrun_several](./speedrun_several) | 10 | 2026-05-09 |
 | [speedrun_several_longer](./speedrun_several_longer) | 6 | 2026-05-01 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-12-13 |
 | [speedrun_shiny](./speedrun_shiny) | 1 | 2025-11-03 |
@@ -278,4 +278,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **267**
-- Total Demos: **889**
+- Total Demos: **893**
