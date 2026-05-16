@@ -146,7 +146,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_insanity](./speedrun_insanity) | 2 | 2025-12-13 |
 | [speedrun_jeans](./speedrun_jeans) | 5 | 2026-04-21 |
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 11 | 2026-02-18 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 11 | 2026-05-16 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
 | [speedrun_joker1](./speedrun_joker1) | 3 | 2025-11-30 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 5 | 2026-01-22 |
@@ -195,7 +195,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phenom](./speedrun_phenom) | 1 | 2026-01-19 |
 | [speedrun_phenom2](./speedrun_phenom2) | 1 | 2025-12-31 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2026-04-28 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2026-05-16 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2026-02-11 |
 | [speedrun_pryda_v1](./speedrun_pryda_v1) | 4 | 2026-01-22 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 7 | 2026-01-31 |
