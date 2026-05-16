@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [deathrun_wood_v1](./deathrun_wood_v1) | 1 | 2026-05-13 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 12 | 2026-04-27 |
-| [speedrun_30min](./speedrun_30min) | 7 | 2025-12-31 |
+| [speedrun_30min](./speedrun_30min) | 7 | 2026-05-16 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
@@ -267,7 +267,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_veryeasy](./speedrun_veryeasy) | 5 | 2026-05-09 |
 | [speedrun_voidrun](./speedrun_voidrun) | 5 | 2026-04-16 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 4 | 2025-10-11 |
-| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-02-05 |
+| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 3 | 2026-05-16 |
 | [speedrun_vonthe](./speedrun_vonthe) | 1 | 2026-04-19 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 12 | 2026-05-05 |
 | [speedrun_w00dfun_nw](./speedrun_w00dfun_nw) | 2 | 2026-04-12 |
