@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "52ee6b85ff565695a56ac8448cddc1b2e57a9a017d04b2ca641e7995f970ca53",
+    "uid": "NGWSDJOLV",
+    "map": "deathrun_valley",
+    "category": 1,
+    "time": 35122,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2026-05-16T03:28:47.000Z",
+    "zipFilename": "00035122_STEAM_0_1_447056338_20260516-032847.zip",
+    "path": "deathrun_valley/00035122_STEAM_0_1_447056338_20260516-032847.zip",
+    "archivedAt": "2026-05-16T06:00:00.536Z"
+  },
+  {
     "demFileHash": "cff3f80283a3658816ae5912c57959b82bc0e0452c10bee00475da5c7b026884",
     "uid": "ZW1XX3W09",
     "map": "speedrun_outside_estonia",
