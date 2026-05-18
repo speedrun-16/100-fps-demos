@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "17a6f60f9ecbfb385859890b8a631ae4dcf900b3b276a3a3ec6969d5eddced54",
+    "uid": "6R86UBYBK",
+    "map": "speedrun_easy_v1_remake_kaniel",
+    "category": 1,
+    "time": 16039,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2026-05-18T00:23:26.000Z",
+    "zipFilename": "00016039_STEAM_0_1_447056338_20260518-002326.zip",
+    "path": "speedrun_easy_v1_remake_kaniel/00016039_STEAM_0_1_447056338_20260518-002326.zip",
+    "archivedAt": "2026-05-18T06:00:00.543Z"
+  },
+  {
     "demFileHash": "b62c942c246c6de04ca39afd3b9e0ea6fdd310a016b73138d9746cff8dcd2052",
     "uid": "QKN8VRFBR",
     "map": "speedrun_error",
