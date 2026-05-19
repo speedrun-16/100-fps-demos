@@ -75,7 +75,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 3 | 2026-05-15 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 2 | 2026-05-09 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
-| [speedrun_bieber](./speedrun_bieber) | 4 | 2026-05-01 |
+| [speedrun_bieber](./speedrun_bieber) | 4 | 2026-05-19 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 8 | 2026-05-09 |
 | [speedrun_bitch](./speedrun_bitch) | 4 | 2025-10-18 |
 | [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-04-23 |
@@ -106,7 +106,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2026-05-02 |
 | [speedrun_error](./speedrun_error) | 5 | 2026-05-17 |
-| [speedrun_euphoria](./speedrun_euphoria) | 8 | 2026-04-13 |
+| [speedrun_euphoria](./speedrun_euphoria) | 8 | 2026-05-19 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 4 | 2026-04-15 |
@@ -149,6 +149,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_long](./speedrun_jeans_long) | 1 | 2025-09-29 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 11 | 2026-05-16 |
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
+| [speedrun_joker_maxfps](./speedrun_joker_maxfps) | 1 | 2026-05-19 |
 | [speedrun_joker1](./speedrun_joker1) | 3 | 2025-11-30 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 5 | 2026-01-22 |
 | [speedrun_kazakhstan](./speedrun_kazakhstan) | 2 | 2025-11-25 |
@@ -286,5 +287,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **276**
-- Total Demos: **920**
+- Total Maps: **277**
+- Total Demos: **921**
