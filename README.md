@@ -174,7 +174,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ms](./speedrun_ms) | 4 | 2026-05-09 |
 | [speedrun_muhaha](./speedrun_muhaha) | 5 | 2026-04-30 |
 | [speedrun_nebula_glass_ez](./speedrun_nebula_glass_ez) | 4 | 2025-10-31 |
-| [speedrun_neocist](./speedrun_neocist) | 8 | 2026-04-22 |
+| [speedrun_neocist](./speedrun_neocist) | 8 | 2026-05-19 |
 | [speedrun_noideaforname](./speedrun_noideaforname) | 1 | 2025-12-19 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_noob2](./speedrun_noob2) | 6 | 2026-05-14 |
