@@ -199,7 +199,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 9 | 2026-05-16 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2026-02-11 |
-| [speedrun_pryda_v1](./speedrun_pryda_v1) | 4 | 2026-01-22 |
+| [speedrun_pryda_v1](./speedrun_pryda_v1) | 4 | 2026-05-20 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 7 | 2026-01-31 |
 | [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-01-22 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 7 | 2026-01-30 |
@@ -258,6 +258,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_svet_ext](./speedrun_svet_ext) | 2 | 2026-04-12 |
 | [speedrun_tarantula](./speedrun_tarantula) | 3 | 2026-04-29 |
 | [speedrun_temple](./speedrun_temple) | 3 | 2025-11-06 |
+| [speedrun_Tibeck](./speedrun_Tibeck) | 1 | 2026-05-20 |
 | [speedrun_tibia](./speedrun_tibia) | 2 | 2026-05-01 |
 | [speedrun_TN_f](./speedrun_TN_f) | 4 | 2025-11-16 |
 | [speedrun_tr](./speedrun_tr) | 10 | 2026-04-16 |
@@ -287,5 +288,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **277**
-- Total Demos: **921**
+- Total Maps: **278**
+- Total Demos: **922**
