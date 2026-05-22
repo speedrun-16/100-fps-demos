@@ -59,7 +59,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 14 | 2026-05-11 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [deathrun_wood_v1](./deathrun_wood_v1) | 1 | 2026-05-13 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 12 | 2026-04-27 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 12 | 2026-05-21 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2026-05-16 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
