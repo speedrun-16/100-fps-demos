@@ -107,7 +107,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_enemy](./speedrun_enemy) | 1 | 2025-10-02 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2026-05-02 |
 | [speedrun_enemy_m0d](./speedrun_enemy_m0d) | 2 | 2026-05-21 |
-| [speedrun_error](./speedrun_error) | 5 | 2026-05-17 |
+| [speedrun_error](./speedrun_error) | 5 | 2026-05-23 |
 | [speedrun_euphoria](./speedrun_euphoria) | 8 | 2026-05-19 |
 | [speedrun_euphoria2](./speedrun_euphoria2) | 3 | 2025-09-24 |
 | [speedrun_evi_big_long](./speedrun_evi_big_long) | 4 | 2025-09-14 |
@@ -153,7 +153,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jiocencen](./speedrun_jiocencen) | 4 | 2025-10-16 |
 | [speedrun_joker_maxfps](./speedrun_joker_maxfps) | 1 | 2026-05-19 |
 | [speedrun_joker1](./speedrun_joker1) | 3 | 2025-11-30 |
-| [speedrun_joker2](./speedrun_joker2) | 1 | 2026-05-22 |
+| [speedrun_joker2](./speedrun_joker2) | 1 | 2026-05-23 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 5 | 2026-01-22 |
 | [speedrun_kazakhstan](./speedrun_kazakhstan) | 2 | 2025-11-25 |
 | [speedrun_kendavosky](./speedrun_kendavosky) | 1 | 2025-10-03 |
