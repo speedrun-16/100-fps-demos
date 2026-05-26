@@ -60,7 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 14 | 2026-05-11 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [deathrun_wood_v1](./deathrun_wood_v1) | 1 | 2026-05-13 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 12 | 2026-05-21 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 12 | 2026-05-26 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2026-05-16 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
@@ -72,7 +72,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 3 | 2026-04-21 |
 | [speedrun_assault_fix](./speedrun_assault_fix) | 1 | 2026-04-11 |
 | [speedrun_atom](./speedrun_atom) | 2 | 2025-11-16 |
-| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-05-13 |
+| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-05-26 |
 | [speedrun_aztekek2_easy](./speedrun_aztekek2_easy) | 3 | 2026-05-15 |
 | [speedrun_aztekek2_final](./speedrun_aztekek2_final) | 2 | 2026-05-09 |
 | [speedrun_backrooms](./speedrun_backrooms) | 5 | 2025-10-01 |
