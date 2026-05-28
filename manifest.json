@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "30123655c2e3ada87c806079a925e447f1937674e1ec18046eb2e52f5d156f44",
+    "uid": "CH08D963C",
+    "map": "speedrun_outside_estonia3",
+    "category": 1,
+    "time": 13787,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-28T01:09:58.000Z",
+    "zipFilename": "00013787_STEAM_0_1_771348382_20260528-010958.zip",
+    "path": "speedrun_outside_estonia3/00013787_STEAM_0_1_771348382_20260528-010958.zip",
+    "archivedAt": "2026-05-28T06:00:09.032Z"
+  },
+  {
     "demFileHash": "8e4bf1887a23c7e8e8d8e77611fb0c847c89318293a08c0f8313a02f05e253e4",
     "uid": "A0Z8A6C1H",
     "map": "de_dust",
