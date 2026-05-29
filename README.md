@@ -28,6 +28,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_dofe_f](./deathrun_dofe_f) | 1 | 2025-11-18 |
 | [deathrun_downtown_moonlight](./deathrun_downtown_moonlight) | 1 | 2025-10-22 |
 | [deathrun_dsa](./deathrun_dsa) | 2 | 2026-02-22 |
+| [deathrun_dust2009_final](./deathrun_dust2009_final) | 1 | 2026-05-29 |
 | [deathrun_dust2010](./deathrun_dust2010) | 9 | 2026-02-11 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 4 | 2026-05-29 |
 | [deathrun_elite_b3](./deathrun_elite_b3) | 1 | 2026-05-24 |
@@ -297,5 +298,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **287**
-- Total Demos: **939**
+- Total Maps: **288**
+- Total Demos: **940**
