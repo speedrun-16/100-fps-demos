@@ -40,7 +40,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_govno](./deathrun_govno) | 3 | 2025-10-30 |
 | [deathrun_grass](./deathrun_grass) | 4 | 2025-12-29 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 4 | 2026-04-16 |
-| [deathrun_icemaru](./deathrun_icemaru) | 2 | 2025-12-29 |
+| [deathrun_icemaru](./deathrun_icemaru) | 3 | 2026-05-28 |
 | [deathrun_kolor_v2](./deathrun_kolor_v2) | 1 | 2025-10-03 |
 | [deathrun_legendcs](./deathrun_legendcs) | 1 | 2025-11-16 |
 | [deathrun_linea](./deathrun_linea) | 1 | 2025-11-22 |
@@ -187,6 +187,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-30 |
 | [speedrun_obzactz](./speedrun_obzactz) | 1 | 2025-12-16 |
 | [speedrun_onstyle](./speedrun_onstyle) | 2 | 2025-09-28 |
+| [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 1 | 2026-05-28 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
 | [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-05-22 |
 | [speedrun_opcode_mini](./speedrun_opcode_mini) | 3 | 2026-02-07 |
@@ -200,6 +201,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_phe3](./speedrun_phe3) | 3 | 2026-05-15 |
 | [speedrun_phenom](./speedrun_phenom) | 1 | 2026-01-19 |
 | [speedrun_phenom2](./speedrun_phenom2) | 1 | 2025-12-31 |
+| [speedrun_pink_easy](./speedrun_pink_easy) | 1 | 2026-05-28 |
 | [speedrun_poland](./speedrun_poland) | 6 | 2025-12-03 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 10 | 2026-05-23 |
 | [speedrun_prezmik](./speedrun_prezmik) | 5 | 2026-02-11 |
@@ -294,5 +296,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **284**
-- Total Demos: **934**
+- Total Maps: **286**
+- Total Demos: **937**
