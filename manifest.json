@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "2064f2789971baf6c69fb988a528f85f68a3834db4b5a71a16c7267131d63e93",
+    "uid": "FYLGSCTUN",
+    "map": "speedrun_utug",
+    "category": 1,
+    "time": 14172,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-29T08:25:17.000Z",
+    "zipFilename": "00014172_STEAM_0_1_771348382_20260529-082517.zip",
+    "path": "speedrun_utug/00014172_STEAM_0_1_771348382_20260529-082517.zip",
+    "archivedAt": "2026-05-29T12:00:00.585Z"
+  },
+  {
     "demFileHash": "a31d43fa84c063905a59e1680b60c22af73f62a9e1c6d412531873734f8c1401",
     "uid": "DQM8NRXBZ",
     "map": "speedrun_opcode_mini",
