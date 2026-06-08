@@ -61,7 +61,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_w00dfun](./deathrun_w00dfun) | 14 | 2026-05-11 |
 | [deathrun_witsrocks](./deathrun_witsrocks) | 3 | 2025-10-25 |
 | [deathrun_wood_v1](./deathrun_wood_v1) | 1 | 2026-05-13 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 13 | 2026-06-01 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 13 | 2026-06-08 |
 | [speedrun_30min](./speedrun_30min) | 7 | 2026-05-16 |
 | [speedrun_al](./speedrun_al) | 6 | 2025-12-07 |
 | [speedrun_alcium](./speedrun_alcium) | 3 | 2025-12-27 |
@@ -172,6 +172,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_medium](./speedrun_medium) | 7 | 2026-05-10 |
 | [speedrun_medium2](./speedrun_medium2) | 3 | 2025-10-03 |
 | [speedrun_megaz](./speedrun_megaz) | 5 | 2025-09-28 |
+| [speedrun_meowkatoz](./speedrun_meowkatoz) | 1 | 2026-06-08 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 3 | 2026-04-25 |
 | [speedrun_miqu](./speedrun_miqu) | 5 | 2026-05-15 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 2 | 2025-11-19 |
@@ -298,5 +299,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **288**
-- Total Demos: **946**
+- Total Maps: **289**
+- Total Demos: **947**
