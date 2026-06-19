@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_pink_easy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "RLMHA6C37",
+      "rid": 57812,
+      "hash": "9da8a0d02bce6bec490c72c1d02c9816d028018f773a9b7bed14a130d2fd468f",
+      "t": 7185,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-28T20:41:45Z",
+      "zip": "00007185_STEAM_0_1_771348382_20260528-204145.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pink_easy-20260528-#RLMHA6C37.analysis.json",
+          "off": 82,
+          "size": 113287
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pink_easy-20260528-#RLMHA6C37.dem",
+          "off": 113441,
+          "size": 92223
+        },
+        {
+          "type": "replay",
+          "name": "57812.replay.xz",
+          "off": 205709,
+          "size": 15140
+        }
+      ]
+    }
+  ]
+}

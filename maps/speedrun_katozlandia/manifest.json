@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_katozlandia",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "MD9HPMOSR",
+      "rid": 8643,
+      "hash": "c7183c6f86a23a5dd84e0d3a6277548b9b9aa16063677b0ecffcc45d5b920f78",
+      "t": 5924,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-10-06T16:56:16Z",
+      "zip": "00005924_STEAM_0_1_617544124_20251006-165616.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20251006-#MD9HPMOSR.analysis.json",
+          "off": 84,
+          "size": 85122
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20251006-#MD9HPMOSR.dem",
+          "off": 85280,
+          "size": 73293
+        },
+        {
+          "type": "replay",
+          "name": "8643.replay.xz",
+          "off": 158617,
+          "size": 12404
+        }
+      ]
+    },
+    {
+      "uid": "CW0IDXCBQ",
+      "rid": 29222,
+      "hash": "d003f7a168c52bc9eff83ffc72038223800a7aae566409f9bf7b8cd705757b4f",
+      "t": 5947,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-22T22:58:24Z",
+      "zip": "00005947_STEAM_0_1_408712_20260122-225824.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20260122-#CW0IDXCBQ.analysis.json",
+          "off": 84,
+          "size": 89576
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20260122-#CW0IDXCBQ.dem",
+          "off": 89734,
+          "size": 80188
+        },
+        {
+          "type": "replay",
+          "name": "29222.replay.xz",
+          "off": 169967,
+          "size": 12956
+        }
+      ]
+    },
+    {
+      "uid": "ZX8TFO0O2",
+      "rid": 29221,
+      "hash": "1016931cb73f5e1eee7bc147fa4ec183c5db4739f9273f32394ebe3d1c308db2",
+      "t": 5955,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-01-22T22:57:55Z",
+      "zip": "00005955_STEAM_0_1_29970948_20260122-225755.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20260122-#ZX8TFO0O2.analysis.json",
+          "off": 84,
+          "size": 94179
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20260122-#ZX8TFO0O2.dem",
+          "off": 94337,
+          "size": 82059
+        },
+        {
+          "type": "replay",
+          "name": "29221.replay.xz",
+          "off": 176441,
+          "size": 13308
+        }
+      ]
+    },
+    {
+      "uid": "BMX1ODNOX",
+      "rid": 15575,
+      "hash": "23e4ff509ef6fb73edc9406ebdbea550b9f5496839ff5a004ff4e17175bdb263",
+      "t": 5958,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-11-17T23:36:34Z",
+      "zip": "00005958_STEAM_0_1_771348382_20251117-233634.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20251117-#BMX1ODNOX.analysis.json",
+          "off": 84,
+          "size": 102203
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20251117-#BMX1ODNOX.dem",
+          "off": 102361,
+          "size": 81768
+        },
+        {
+          "type": "replay",
+          "name": "15575.replay.xz",
+          "off": 184174,
+          "size": 12712
+        }
+      ]
+    },
+    {
+      "uid": "5B9PWDITD",
+      "rid": 15543,
+      "hash": "2a708053902cbdc052b12340608343d1b9c20326deaaf2055d1fa50510552b4e",
+      "t": 6163,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-11-17T23:28:09Z",
+      "zip": "00006163_STEAM_0_1_84733295_20251117-232809.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20251117-#5B9PWDITD.analysis.json",
+          "off": 84,
+          "size": 104639
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20251117-#5B9PWDITD.dem",
+          "off": 104797,
+          "size": 87724
+        },
+        {
+          "type": "replay",
+          "name": "15543.replay.xz",
+          "off": 192566,
+          "size": 12976
+        }
+      ]
+    }
+  ]
+}

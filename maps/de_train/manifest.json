@@ -1,0 +1,93 @@
+{
+  "map": "de_train",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "WYEAWHWFY",
+      "rid": 18830,
+      "hash": "bbeee0760deb63caf582f08d8e00138bae9187fa9f868e21244fd04ae9cdb7a1",
+      "t": 8083,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-01T15:31:26Z",
+      "zip": "00008083_STEAM_0_1_771348382_20251201-153126.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20251201-#WYEAWHWFY.analysis.json",
+          "off": 72,
+          "size": 109528
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20251201-#WYEAWHWFY.dem",
+          "off": 109662,
+          "size": 92536
+        },
+        {
+          "type": "replay",
+          "name": "18830.replay.xz",
+          "off": 202243,
+          "size": 16884
+        }
+      ]
+    },
+    {
+      "uid": "3O4IL42KP",
+      "rid": 13754,
+      "hash": "72593186101a1cb3e4fceda7133e02093c9d5149f18c36b7fd42953ec2846adb",
+      "t": 8207,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-04T22:02:52Z",
+      "zip": "00008207_STEAM_0_0_24751394_20251104-220252.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20251104-#3O4IL42KP.analysis.json",
+          "off": 72,
+          "size": 135866
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20251104-#3O4IL42KP.dem",
+          "off": 136000,
+          "size": 100063
+        },
+        {
+          "type": "replay",
+          "name": "13754.replay.xz",
+          "off": 236108,
+          "size": 17596
+        }
+      ]
+    },
+    {
+      "uid": "SLFBQ5X9J",
+      "rid": 13770,
+      "hash": "f6695582effde1eb090c1f047cf4048e92cb873233d53825d4a581975de99592",
+      "t": 8324,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-04T22:12:25Z",
+      "zip": "00008324_STEAM_0_1_29970948_20251104-221225.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20251104-#SLFBQ5X9J.analysis.json",
+          "off": 72,
+          "size": 116364
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20251104-#SLFBQ5X9J.dem",
+          "off": 116498,
+          "size": 97888
+        },
+        {
+          "type": "replay",
+          "name": "13770.replay.xz",
+          "off": 214431,
+          "size": 17116
+        }
+      ]
+    }
+  ]
+}

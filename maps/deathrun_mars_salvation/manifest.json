@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_mars_salvation",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "JAF4IXEIL",
+      "rid": 18891,
+      "hash": "f821093116c486fd436bf84c9596ba004958e9513d23c488f9e75b34fc51c6dc",
+      "t": 18949,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2025-12-01T19:50:26Z",
+      "zip": "00018949_STEAM_0_1_447056338_20251201-195026.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_mars_salvation-20251201-#JAF4IXEIL.analysis.json",
+          "off": 87,
+          "size": 211671
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_mars_salvation-20251201-#JAF4IXEIL.dem",
+          "off": 211835,
+          "size": 198598
+        },
+        {
+          "type": "replay",
+          "name": "18891.replay.xz",
+          "off": 410478,
+          "size": 35132
+        }
+      ]
+    }
+  ]
+}

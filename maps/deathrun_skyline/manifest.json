@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_skyline",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "13EAEZ7QF",
+      "rid": 12208,
+      "hash": "90e305e4d1ee589b8df8041e6e1ed341609e904e3a48aa1a93274c09f5c8b24f",
+      "t": 8050,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-26T17:14:32Z",
+      "zip": "00008050_STEAM_0_1_84733295_20251026-171432.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_skyline-20251026-#13EAEZ7QF.analysis.json",
+          "off": 80,
+          "size": 126120
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_skyline-20251026-#13EAEZ7QF.dem",
+          "off": 126270,
+          "size": 94819
+        },
+        {
+          "type": "replay",
+          "name": "12208.replay.xz",
+          "off": 221134,
+          "size": 16184
+        }
+      ]
+    }
+  ]
+}

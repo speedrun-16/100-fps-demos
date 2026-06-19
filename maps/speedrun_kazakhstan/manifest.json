@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_kazakhstan",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "C9EQI5SGE",
+      "rid": 17988,
+      "hash": "fee3098c1ba18882cd726d6825dfd410e5afc9ad567d356589514e92e7c6168d",
+      "t": 17021,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-25T03:51:51Z",
+      "zip": "00017021_STEAM_0_1_408712_20251125-035151.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kazakhstan-20251125-#C9EQI5SGE.analysis.json",
+          "off": 83,
+          "size": 186597
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kazakhstan-20251125-#C9EQI5SGE.dem",
+          "off": 186753,
+          "size": 170264
+        },
+        {
+          "type": "replay",
+          "name": "17988.replay.xz",
+          "off": 357062,
+          "size": 32508
+        }
+      ]
+    },
+    {
+      "uid": "O3HW7KPFW",
+      "rid": 17993,
+      "hash": "79f13e66787e0b7880ed3d9e822cf81a65e232d5e14d3498a23f19f4ce05b519",
+      "t": 17406,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-25T03:57:00Z",
+      "zip": "00017406_STEAM_0_1_29970948_20251125-035700.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kazakhstan-20251125-#O3HW7KPFW.analysis.json",
+          "off": 83,
+          "size": 199302
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kazakhstan-20251125-#O3HW7KPFW.dem",
+          "off": 199458,
+          "size": 169063
+        },
+        {
+          "type": "replay",
+          "name": "17993.replay.xz",
+          "off": 368566,
+          "size": 33836
+        }
+      ]
+    }
+  ]
+}

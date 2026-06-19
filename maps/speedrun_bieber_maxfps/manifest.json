@@ -1,0 +1,238 @@
+{
+  "map": "speedrun_bieber_maxfps",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "LRGC4KG9F",
+      "rid": 15215,
+      "hash": "2338b460a3baa9a9d47902c3050723d5111050d1cd4ee5750c3703f5d62944a1",
+      "t": 14789,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-16T21:05:17Z",
+      "zip": "00014789_STEAM_0_0_24751394_20251116-210517.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20251116-#LRGC4KG9F.analysis.json",
+          "off": 86,
+          "size": 197639
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20251116-#LRGC4KG9F.dem",
+          "off": 197801,
+          "size": 152680
+        },
+        {
+          "type": "replay",
+          "name": "15215.replay.xz",
+          "off": 350526,
+          "size": 27280
+        }
+      ]
+    },
+    {
+      "uid": "LRX84PWXQ",
+      "rid": 15189,
+      "hash": "81daf7d5692a69c378ab3aab86dfb342761d770b84e99af223d8a0ba4d660672",
+      "t": 14887,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-16T20:49:46Z",
+      "zip": "00014887_STEAM_0_1_796767048_20251116-204946.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20251116-#LRX84PWXQ.analysis.json",
+          "off": 86,
+          "size": 161386
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20251116-#LRX84PWXQ.dem",
+          "off": 161548,
+          "size": 155972
+        },
+        {
+          "type": "replay",
+          "name": "15189.replay.xz",
+          "off": 317565,
+          "size": 28172
+        }
+      ]
+    },
+    {
+      "uid": "Z224OOCG3",
+      "rid": 1374,
+      "hash": "c115be99b3db8727ecfd34eeba27de49d9719d981c702522464539ce82fa4e5f",
+      "t": 14950,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-16T13:04:39Z",
+      "zip": "00014950_STEAM_0_1_771348382_20250916-130439.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20250916-#Z224OOCG3.analysis.json",
+          "off": 86,
+          "size": 169658
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20250916-#Z224OOCG3.dem",
+          "off": 169820,
+          "size": 147341
+        },
+        {
+          "type": "replay",
+          "name": "1374.replay.xz",
+          "off": 317205,
+          "size": 28152
+        }
+      ]
+    },
+    {
+      "uid": "2VKOGJ2VY",
+      "rid": 1991,
+      "hash": "b69020be8dce1c60f771fc11f83c4f754f60a22ab4697261c0a38115273c1ba2",
+      "t": 14954,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-09-16T23:36:48Z",
+      "zip": "00014954_STEAM_0_1_617544124_20250916-233648.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20250916-#2VKOGJ2VY.analysis.json",
+          "off": 86,
+          "size": 173292
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20250916-#2VKOGJ2VY.dem",
+          "off": 173454,
+          "size": 155855
+        },
+        {
+          "type": "replay",
+          "name": "1991.replay.xz",
+          "off": 329353,
+          "size": 26908
+        }
+      ]
+    },
+    {
+      "uid": "Q67XJ1RKM",
+      "rid": 1986,
+      "hash": "f15963e51b459373be95b6f63c6a74a6bccd149afd436e78948f3b23a094190a",
+      "t": 14994,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-09-16T23:27:38Z",
+      "zip": "00014994_STEAM_0_1_408712_20250916-232738.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20250916-#Q67XJ1RKM.analysis.json",
+          "off": 86,
+          "size": 192839
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20250916-#Q67XJ1RKM.dem",
+          "off": 193001,
+          "size": 146808
+        },
+        {
+          "type": "replay",
+          "name": "1986.replay.xz",
+          "off": 339853,
+          "size": 27720
+        }
+      ]
+    },
+    {
+      "uid": "GMX63K4CZ",
+      "rid": 50494,
+      "hash": "f5a146b832c856a607872db6eedcc84ecfd8c93d28c9b71d481a264b13727071",
+      "t": 15093,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-05-09T11:56:09Z",
+      "zip": "00015093_STEAM_0_0_631815948_20260509-115609.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20260509-#GMX63K4CZ.analysis.json",
+          "off": 86,
+          "size": 178444
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20260509-#GMX63K4CZ.dem",
+          "off": 178606,
+          "size": 150664
+        },
+        {
+          "type": "replay",
+          "name": "50494.replay.xz",
+          "off": 329315,
+          "size": 28308
+        }
+      ]
+    },
+    {
+      "uid": "3OB8AXBAL",
+      "rid": 1362,
+      "hash": "e0ebd0ed70048150381ffedda1f80d932190deb2ce686e198a8ad8ac1c788b69",
+      "t": 15164,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-16T12:54:22Z",
+      "zip": "00015164_STEAM_0_1_926467834_20250916-125422.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20250916-#3OB8AXBAL.analysis.json",
+          "off": 86,
+          "size": 177934
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20250916-#3OB8AXBAL.dem",
+          "off": 178096,
+          "size": 158276
+        },
+        {
+          "type": "replay",
+          "name": "1362.replay.xz",
+          "off": 336416,
+          "size": 27848
+        }
+      ]
+    },
+    {
+      "uid": "CEGVNAX7E",
+      "rid": 33330,
+      "hash": "be5bc85a6dd02cbc98f2034e3cab79f599f50e9bc2786be7b0dbaf1f94423da8",
+      "t": 17422,
+      "sid": "STEAM_0:0:595867988",
+      "at": "2026-02-17T16:21:59Z",
+      "zip": "00017422_STEAM_0_0_595867988_20260217-162159.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber_maxfps-20260217-#CEGVNAX7E.analysis.json",
+          "off": 86,
+          "size": 185696
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber_maxfps-20260217-#CEGVNAX7E.dem",
+          "off": 185858,
+          "size": 167333
+        },
+        {
+          "type": "replay",
+          "name": "33330.replay.xz",
+          "off": 353236,
+          "size": 32652
+        }
+      ]
+    }
+  ]
+}

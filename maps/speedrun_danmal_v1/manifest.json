@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_danmal_v1",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "W3Q5JXS8I",
+      "rid": 9839,
+      "hash": "247f5317a701016e6c0d3680eb15cd4aff3d7e144c5dc262c6627539a4d5b93b",
+      "t": 13410,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-16T22:56:32Z",
+      "zip": "00013410_STEAM_0_1_771348382_20251016-225632.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_danmal_v1-20251016-#W3Q5JXS8I.analysis.json",
+          "off": 82,
+          "size": 165111
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_danmal_v1-20251016-#W3Q5JXS8I.dem",
+          "off": 165265,
+          "size": 131783
+        },
+        {
+          "type": "replay",
+          "name": "9839.replay.xz",
+          "off": 297092,
+          "size": 26236
+        }
+      ]
+    },
+    {
+      "uid": "C4E3CRJ4Z",
+      "rid": 52375,
+      "hash": "5a33f95fd509d49530f379cc95369ba9cc6a116983a34ba62e8345e8ccf7821e",
+      "t": 13777,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-05-13T09:17:15Z",
+      "zip": "00013777_STEAM_0_1_447056338_20260513-091715.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_danmal_v1-20260513-#C4E3CRJ4Z.analysis.json",
+          "off": 82,
+          "size": 154331
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_danmal_v1-20260513-#C4E3CRJ4Z.dem",
+          "off": 154485,
+          "size": 132348
+        },
+        {
+          "type": "replay",
+          "name": "52375.replay.xz",
+          "off": 286878,
+          "size": 26940
+        }
+      ]
+    },
+    {
+      "uid": "GR2YIJYK5",
+      "rid": 9840,
+      "hash": "9d66c6a706ebdc8386ec783eab1b8d4fe096460230268b16be341d8bbaddbee8",
+      "t": 14319,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-16T22:56:45Z",
+      "zip": "00014319_STEAM_0_1_29970948_20251016-225645.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_danmal_v1-20251016-#GR2YIJYK5.analysis.json",
+          "off": 82,
+          "size": 178336
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_danmal_v1-20251016-#GR2YIJYK5.dem",
+          "off": 178490,
+          "size": 139550
+        },
+        {
+          "type": "replay",
+          "name": "9840.replay.xz",
+          "off": 318084,
+          "size": 27904
+        }
+      ]
+    }
+  ]
+}

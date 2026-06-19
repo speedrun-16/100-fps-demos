@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_mountains_beta1",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "ESL9SOQWT",
+      "rid": 41360,
+      "hash": "d203d2e08021d98956b7fd9274b3908d13d17e3772ab7426a49a0bf0f787a77e",
+      "t": 19280,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-15T11:58:23Z",
+      "zip": "00019280_STEAM_0_1_408712_20260415-115823.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_mountains_beta1-20260415-#ESL9SOQWT.analysis.json",
+          "off": 88,
+          "size": 222758
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_mountains_beta1-20260415-#ESL9SOQWT.dem",
+          "off": 222924,
+          "size": 189776
+        },
+        {
+          "type": "replay",
+          "name": "41360.replay.xz",
+          "off": 412745,
+          "size": 36488
+        }
+      ]
+    }
+  ]
+}

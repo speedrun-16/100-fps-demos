@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_eastwood",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "FK42OQ387",
+      "rid": 24421,
+      "hash": "8c8d4075c9f7a2b0444356f18841cb24292da82f14ff432040d03fd87d0492b2",
+      "t": 16809,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-29T14:41:24Z",
+      "zip": "00016809_STEAM_0_1_408712_20251229-144124.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251229-#FK42OQ387.analysis.json",
+          "off": 81,
+          "size": 202320
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251229-#FK42OQ387.dem",
+          "off": 202472,
+          "size": 161999
+        },
+        {
+          "type": "replay",
+          "name": "24421.replay.xz",
+          "off": 364516,
+          "size": 31880
+        }
+      ]
+    },
+    {
+      "uid": "HA5CDCFS6",
+      "rid": 15043,
+      "hash": "f681e1db7b9b3f6214c442e108a992ff0bd7524a83c72b9b5e297937a468d9ed",
+      "t": 16944,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-16T12:14:57Z",
+      "zip": "00016944_STEAM_0_1_796767048_20251116-121457.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251116-#HA5CDCFS6.analysis.json",
+          "off": 81,
+          "size": 187505
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251116-#HA5CDCFS6.dem",
+          "off": 187657,
+          "size": 154786
+        },
+        {
+          "type": "replay",
+          "name": "15043.replay.xz",
+          "off": 342488,
+          "size": 31884
+        }
+      ]
+    },
+    {
+      "uid": "SL225D8L0",
+      "rid": 9957,
+      "hash": "a802a79803b4a4c88e79fe7b8478e747321672c3db8368d25515b082eb912389",
+      "t": 16981,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-17T18:09:30Z",
+      "zip": "00016981_STEAM_0_0_24751394_20251017-180930.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#SL225D8L0.analysis.json",
+          "off": 81,
+          "size": 202975
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#SL225D8L0.dem",
+          "off": 203127,
+          "size": 161554
+        },
+        {
+          "type": "replay",
+          "name": "9957.replay.xz",
+          "off": 364725,
+          "size": 32480
+        }
+      ]
+    },
+    {
+      "uid": "6URCDLSDK",
+      "rid": 9934,
+      "hash": "0f5ff9b5d85bd44248b050feec63acfb113c0f17575edfb49eb3d7b06cd3a6b0",
+      "t": 17831,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-17T17:28:58Z",
+      "zip": "00017831_STEAM_0_1_84733295_20251017-172858.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#6URCDLSDK.analysis.json",
+          "off": 81,
+          "size": 228231
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#6URCDLSDK.dem",
+          "off": 228383,
+          "size": 170908
+        },
+        {
+          "type": "replay",
+          "name": "9934.replay.xz",
+          "off": 399335,
+          "size": 32248
+        }
+      ]
+    },
+    {
+      "uid": "INY5Q0D6C",
+      "rid": 9945,
+      "hash": "7e52faa0e3c6b9d622c2fbdf1cd02ea246dd1ddda5b581a94c60001e58d1a789",
+      "t": 21241,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-17T17:57:28Z",
+      "zip": "00021241_STEAM_0_0_35544084_20251017-175728.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#INY5Q0D6C.analysis.json",
+          "off": 81,
+          "size": 266548
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#INY5Q0D6C.dem",
+          "off": 266700,
+          "size": 199249
+        },
+        {
+          "type": "replay",
+          "name": "9945.replay.xz",
+          "off": 465993,
+          "size": 38792
+        }
+      ]
+    }
+  ]
+}

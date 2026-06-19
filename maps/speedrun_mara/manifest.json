@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_mara",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "3IUVXJ71S",
+      "rid": 12193,
+      "hash": "8105a6a93921e9addc5888db542032681a9e1ee743ab850a4309d67ef366b482",
+      "t": 19133,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-26T16:47:02Z",
+      "zip": "00019133_STEAM_0_0_24751394_20251026-164702.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mara-20251026-#3IUVXJ71S.analysis.json",
+          "off": 77,
+          "size": 220645
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mara-20251026-#3IUVXJ71S.dem",
+          "off": 220789,
+          "size": 176654
+        },
+        {
+          "type": "replay",
+          "name": "12193.replay.xz",
+          "off": 397488,
+          "size": 36352
+        }
+      ]
+    },
+    {
+      "uid": "L7M8WJ1EL",
+      "rid": 10636,
+      "hash": "71e3b88aa45b394971490ca679332ef729714488c9896ba5417092e00a18f207",
+      "t": 19945,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-20T15:01:55Z",
+      "zip": "00019945_STEAM_0_1_771348382_20251020-150155.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mara-20251020-#L7M8WJ1EL.analysis.json",
+          "off": 77,
+          "size": 243311
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mara-20251020-#L7M8WJ1EL.dem",
+          "off": 243455,
+          "size": 173709
+        },
+        {
+          "type": "replay",
+          "name": "10636.replay.xz",
+          "off": 417209,
+          "size": 37228
+        }
+      ]
+    },
+    {
+      "uid": "6LJTIUTR1",
+      "rid": 12182,
+      "hash": "2d94837a83170c4b46b0c83012012f5b32d89586150219533b1f10bd29555387",
+      "t": 20300,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-10-26T16:24:43Z",
+      "zip": "00020300_STEAM_0_1_617544124_20251026-162443.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_mara-20251026-#6LJTIUTR1.analysis.json",
+          "off": 77,
+          "size": 247121
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_mara-20251026-#6LJTIUTR1.dem",
+          "off": 247265,
+          "size": 176572
+        },
+        {
+          "type": "replay",
+          "name": "12182.replay.xz",
+          "off": 423882,
+          "size": 37192
+        }
+      ]
+    }
+  ]
+}

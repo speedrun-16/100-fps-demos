@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_aztekek2_easy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "YCC9VQQL8",
+      "rid": 53186,
+      "hash": "58b7679f651fe68451e40610cf9e0350a1510bd32a1c48ddd2db54b053652b3d",
+      "t": 16608,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-15T14:16:35Z",
+      "zip": "00016608_STEAM_0_1_771348382_20260515-141635.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aztekek2_easy-20260515-#YCC9VQQL8.analysis.json",
+          "off": 86,
+          "size": 184885
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aztekek2_easy-20260515-#YCC9VQQL8.dem",
+          "off": 185047,
+          "size": 179860
+        },
+        {
+          "type": "replay",
+          "name": "53186.replay.xz",
+          "off": 364952,
+          "size": 32140
+        }
+      ]
+    },
+    {
+      "uid": "GM90B0OBA",
+      "rid": 53196,
+      "hash": "3b078b9b90c645ca7a75e4ac9009d26341dde807df464ee82d29c0c9540dc961",
+      "t": 16789,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-05-15T14:30:03Z",
+      "zip": "00016789_STEAM_0_0_24751394_20260515-143003.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aztekek2_easy-20260515-#GM90B0OBA.analysis.json",
+          "off": 86,
+          "size": 206578
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aztekek2_easy-20260515-#GM90B0OBA.dem",
+          "off": 206740,
+          "size": 160852
+        },
+        {
+          "type": "replay",
+          "name": "53196.replay.xz",
+          "off": 367637,
+          "size": 30752
+        }
+      ]
+    },
+    {
+      "uid": "PI9IED1V0",
+      "rid": 16112,
+      "hash": "f921bd4ce58fe3ce77caa2686f9a1a5a61dceed400a26df861e188326c38861d",
+      "t": 17342,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-19T17:28:57Z",
+      "zip": "00017342_STEAM_0_1_796767048_20251119-172857.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_aztekek2_easy-20251119-#PI9IED1V0.analysis.json",
+          "off": 86,
+          "size": 197699
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_aztekek2_easy-20251119-#PI9IED1V0.dem",
+          "off": 197861,
+          "size": 160398
+        },
+        {
+          "type": "replay",
+          "name": "16112.replay.xz",
+          "off": 358304,
+          "size": 32976
+        }
+      ]
+    }
+  ]
+}

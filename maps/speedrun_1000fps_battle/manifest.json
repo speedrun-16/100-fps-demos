@@ -1,0 +1,383 @@
+{
+  "map": "speedrun_1000fps_battle",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "I94IN49MR",
+      "rid": 16081,
+      "hash": "4b0e5c54f4ecf1d86d62675c675e07db7f4ee12c7fe6ab0f22c65b2f670d6fe8",
+      "t": 10464,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-19T17:00:43Z",
+      "zip": "00010464_STEAM_0_1_796767048_20251119-170043.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20251119-#I94IN49MR.analysis.json",
+          "off": 87,
+          "size": 142947
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20251119-#I94IN49MR.dem",
+          "off": 143111,
+          "size": 112484
+        },
+        {
+          "type": "replay",
+          "name": "16081.replay.xz",
+          "off": 255640,
+          "size": 19468
+        }
+      ]
+    },
+    {
+      "uid": "RLEZTYKGS",
+      "rid": 15736,
+      "hash": "98c901de2b58bf00fb3c1fa7160bbc69e4768b790f51d1b3348226e0d827adcf",
+      "t": 10468,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-18T18:00:50Z",
+      "zip": "00010468_STEAM_0_0_24751394_20251118-180050.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20251118-#RLEZTYKGS.analysis.json",
+          "off": 87,
+          "size": 160713
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20251118-#RLEZTYKGS.dem",
+          "off": 160877,
+          "size": 111265
+        },
+        {
+          "type": "replay",
+          "name": "15736.replay.xz",
+          "off": 272187,
+          "size": 18384
+        }
+      ]
+    },
+    {
+      "uid": "E93Q51HAT",
+      "rid": 45745,
+      "hash": "f70a00c3a431f713a8026eab7bd41d434d4a5c91c5ef34799090d0bb1e8dba21",
+      "t": 10477,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-04-27T16:02:01Z",
+      "zip": "00010477_STEAM_0_0_631815948_20260427-160201.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260427-#E93Q51HAT.analysis.json",
+          "off": 87,
+          "size": 235970
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260427-#E93Q51HAT.dem",
+          "off": 236134,
+          "size": 168653
+        },
+        {
+          "type": "replay",
+          "name": "45745.replay.xz",
+          "off": 404832,
+          "size": 19996
+        }
+      ]
+    },
+    {
+      "uid": "J7V8GG4IQ",
+      "rid": 20019,
+      "hash": "1b2953c3f76ebb284f3e32d2e5e19a7b9b8c243ea30c40dc1d115d39aee89cb9",
+      "t": 10564,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-04T22:31:01Z",
+      "zip": "00010564_STEAM_0_1_408712_20251204-223101.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20251204-#J7V8GG4IQ.analysis.json",
+          "off": 87,
+          "size": 140585
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20251204-#J7V8GG4IQ.dem",
+          "off": 140749,
+          "size": 113951
+        },
+        {
+          "type": "replay",
+          "name": "20019.replay.xz",
+          "off": 254745,
+          "size": 20124
+        }
+      ]
+    },
+    {
+      "uid": "FNVK688WJ",
+      "rid": 55551,
+      "hash": "2d3c511c0b61baed529636cedf6c7fa605f55b7422eb38a961921992cd7eb997",
+      "t": 10578,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-21T19:34:26Z",
+      "zip": "00010578_STEAM_0_1_771348382_20260521-193426.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260521-#FNVK688WJ.analysis.json",
+          "off": 87,
+          "size": 149442
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260521-#FNVK688WJ.dem",
+          "off": 149606,
+          "size": 117681
+        },
+        {
+          "type": "replay",
+          "name": "55551.replay.xz",
+          "off": 267332,
+          "size": 19844
+        }
+      ]
+    },
+    {
+      "uid": "BWYT6BUBI",
+      "rid": 34914,
+      "hash": "417ce8bb5575edb59d38d98b38cf28731008cc445557d5c0219633e3aa76957a",
+      "t": 10611,
+      "sid": "STEAM_0:1:820559267",
+      "at": "2026-03-01T23:21:44Z",
+      "zip": "00010611_STEAM_0_1_820559267_20260301-232144.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260301-#BWYT6BUBI.analysis.json",
+          "off": 87,
+          "size": 147221
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260301-#BWYT6BUBI.dem",
+          "off": 147385,
+          "size": 106185
+        },
+        {
+          "type": "replay",
+          "name": "34914.replay.xz",
+          "off": 253615,
+          "size": 19568
+        }
+      ]
+    },
+    {
+      "uid": "J0NP5OZGO",
+      "rid": 62022,
+      "hash": "46b74362530730419ed677f628f7e741dfaf15781fef4f21f908a8167f9606e5",
+      "t": 10661,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-06-08T09:45:43Z",
+      "zip": "00010661_STEAM_0_1_447056338_20260608-094543.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260608-#J0NP5OZGO.analysis.json",
+          "off": 87,
+          "size": 132826
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260608-#J0NP5OZGO.dem",
+          "off": 132990,
+          "size": 109252
+        },
+        {
+          "type": "replay",
+          "name": "62022.replay.xz",
+          "off": 242287,
+          "size": 20200
+        }
+      ]
+    },
+    {
+      "uid": "232P89OK6",
+      "rid": 15454,
+      "hash": "87d711449e22b3084d0d524dc5b1e859c3bbecc4350e41bbd8e8101b826cef45",
+      "t": 10693,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-17T23:01:15Z",
+      "zip": "00010693_STEAM_0_1_29970948_20251117-230115.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20251117-#232P89OK6.analysis.json",
+          "off": 87,
+          "size": 147200
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20251117-#232P89OK6.dem",
+          "off": 147364,
+          "size": 116198
+        },
+        {
+          "type": "replay",
+          "name": "15454.replay.xz",
+          "off": 263607,
+          "size": 19792
+        }
+      ]
+    },
+    {
+      "uid": "UQ427IWOG",
+      "rid": 43833,
+      "hash": "5d52f1b397c31ef1425430d3dd36ce99a8403a0912030ff5697c9623dfe733a1",
+      "t": 10699,
+      "sid": "STEAM_0:0:220312997",
+      "at": "2026-04-22T18:47:59Z",
+      "zip": "00010699_STEAM_0_0_220312997_20260422-184759.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260422-#UQ427IWOG.analysis.json",
+          "off": 87,
+          "size": 130799
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260422-#UQ427IWOG.dem",
+          "off": 130963,
+          "size": 108591
+        },
+        {
+          "type": "replay",
+          "name": "43833.replay.xz",
+          "off": 239599,
+          "size": 19008
+        }
+      ]
+    },
+    {
+      "uid": "XMB328UBU",
+      "rid": 34679,
+      "hash": "0bc9a1d2650cf10a664293758a113ae66117628ab7ddfd617a0b76a7c89ce8f4",
+      "t": 10770,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-02-26T09:08:06Z",
+      "zip": "00010770_STEAM_0_1_926467834_20260226-090806.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260226-#XMB328UBU.analysis.json",
+          "off": 87,
+          "size": 148180
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260226-#XMB328UBU.dem",
+          "off": 148344,
+          "size": 113592
+        },
+        {
+          "type": "replay",
+          "name": "34679.replay.xz",
+          "off": 261981,
+          "size": 19108
+        }
+      ]
+    },
+    {
+      "uid": "29KA0ZDJC",
+      "rid": 29510,
+      "hash": "92d34b89b33fe219cc7c291114515ada50ae8ca81e0f239df17768434d78ab77",
+      "t": 10786,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2026-01-23T22:34:56Z",
+      "zip": "00010786_STEAM_0_1_84733295_20260123-223456.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260123-#29KA0ZDJC.analysis.json",
+          "off": 87,
+          "size": 153760
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260123-#29KA0ZDJC.dem",
+          "off": 153924,
+          "size": 115498
+        },
+        {
+          "type": "replay",
+          "name": "29510.replay.xz",
+          "off": 269467,
+          "size": 20092
+        }
+      ]
+    },
+    {
+      "uid": "B9Z9LQBUG",
+      "rid": 59886,
+      "hash": "95d12084530c9b6bbd82293febcd4b971a9ef60af95b3eae6ba975bdb72d08f4",
+      "t": 10867,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-01T16:29:22Z",
+      "zip": "00010867_STEAM_0_0_193002961_20260601-162922.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260601-#B9Z9LQBUG.analysis.json",
+          "off": 87,
+          "size": 138117
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260601-#B9Z9LQBUG.dem",
+          "off": 138281,
+          "size": 116968
+        },
+        {
+          "type": "replay",
+          "name": "59886.replay.xz",
+          "off": 255294,
+          "size": 19048
+        }
+      ]
+    },
+    {
+      "uid": "RNSZ7KWL9",
+      "rid": 34169,
+      "hash": "fa4c08a86aa7b242f12a6099bedcdb411dae59ceee38ed8596c6c0300b4d934a",
+      "t": 12301,
+      "sid": "STEAM_0:0:595867988",
+      "at": "2026-02-20T19:43:18Z",
+      "zip": "00012301_STEAM_0_0_595867988_20260220-194318.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_1000fps_battle-20260220-#RNSZ7KWL9.analysis.json",
+          "off": 87,
+          "size": 222260
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_1000fps_battle-20260220-#RNSZ7KWL9.dem",
+          "off": 222424,
+          "size": 172559
+        },
+        {
+          "type": "replay",
+          "name": "34169.replay.xz",
+          "off": 395028,
+          "size": 23948
+        }
+      ]
+    }
+  ]
+}

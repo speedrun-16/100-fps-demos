@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_faded_bronze",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "FMMP3CAVQ",
+      "rid": 16140,
+      "hash": "b4fd9c8ad16453a50b42242040baab9c3159767bd00641d4d564ed53f58473bf",
+      "t": 11159,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-19T18:14:57Z",
+      "zip": "00011159_STEAM_0_1_796767048_20251119-181457.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_faded_bronze-20251119-#FMMP3CAVQ.analysis.json",
+          "off": 85,
+          "size": 134608
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_faded_bronze-20251119-#FMMP3CAVQ.dem",
+          "off": 134768,
+          "size": 113872
+        },
+        {
+          "type": "replay",
+          "name": "16140.replay.xz",
+          "off": 248685,
+          "size": 21908
+        }
+      ]
+    }
+  ]
+}

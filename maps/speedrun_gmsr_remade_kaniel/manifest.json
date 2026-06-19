@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_gmsr_remade_kaniel",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "CRF1TIRJ0",
+      "rid": 3227,
+      "hash": "e93eb767c03be2be1ddc8ae4f8a245ad1f0981656c66d7f9836428d7250de5e3",
+      "t": 12848,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-09-19T16:37:47Z",
+      "zip": "00012848_STEAM_0_1_169847134_20250919-163747.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_gmsr_remade_kaniel-20250919-#CRF1TIRJ0.analysis.json",
+          "off": 91,
+          "size": 165704
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_gmsr_remade_kaniel-20250919-#CRF1TIRJ0.dem",
+          "off": 165876,
+          "size": 131062
+        },
+        {
+          "type": "replay",
+          "name": "3227.replay.xz",
+          "off": 296982,
+          "size": 23912
+        }
+      ]
+    }
+  ]
+}

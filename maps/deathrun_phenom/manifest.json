@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_phenom",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "G5CI7AZZO",
+      "rid": 54115,
+      "hash": "eb3866a3f2e0f1cd7e122140cbdf6146e0edf6b244b71331beb7c27ed2d9ef32",
+      "t": 12027,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-18T14:28:12Z",
+      "zip": "00012027_STEAM_0_1_771348382_20260518-142812.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_phenom-20260518-#G5CI7AZZO.analysis.json",
+          "off": 79,
+          "size": 163613
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_phenom-20260518-#G5CI7AZZO.dem",
+          "off": 163761,
+          "size": 135497
+        },
+        {
+          "type": "replay",
+          "name": "54115.replay.xz",
+          "off": 299303,
+          "size": 23204
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_vantara",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "5PVRAQ62R",
+      "rid": 52965,
+      "hash": "0d256d1207bb53eba4f078d81fa9b6acce21288c33cd7b67f2107fd70bd97da8",
+      "t": 19249,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-14T10:30:44Z",
+      "zip": "00019249_STEAM_0_1_771348382_20260514-103044.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_vantara-20260514-#5PVRAQ62R.analysis.json",
+          "off": 80,
+          "size": 221273
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_vantara-20260514-#5PVRAQ62R.dem",
+          "off": 221423,
+          "size": 182374
+        },
+        {
+          "type": "replay",
+          "name": "52965.replay.xz",
+          "off": 403842,
+          "size": 36896
+        }
+      ]
+    },
+    {
+      "uid": "6YLG7C0CC",
+      "rid": 63003,
+      "hash": "4706850c86336e36c75ac96134feada51cb35c629bed2fd8de4e033c19185cd5",
+      "t": 19324,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-06-13T08:55:55Z",
+      "zip": "00019324_STEAM_0_0_631815948_20260613-085555.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_vantara-20260613-#6YLG7C0CC.analysis.json",
+          "off": 80,
+          "size": 236093
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_vantara-20260613-#6YLG7C0CC.dem",
+          "off": 236243,
+          "size": 181175
+        },
+        {
+          "type": "replay",
+          "name": "63003.replay.xz",
+          "off": 417463,
+          "size": 36664
+        }
+      ]
+    },
+    {
+      "uid": "RZ52PODZM",
+      "rid": 47361,
+      "hash": "2895835b226163528ac33f572e25bf28aec3f4c43c4991c31b16f885f9d5a37b",
+      "t": 19807,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-05-01T04:08:03Z",
+      "zip": "00019807_STEAM_0_1_926467834_20260501-040803.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_vantara-20260501-#RZ52PODZM.analysis.json",
+          "off": 80,
+          "size": 241028
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_vantara-20260501-#RZ52PODZM.dem",
+          "off": 241178,
+          "size": 176058
+        },
+        {
+          "type": "replay",
+          "name": "47361.replay.xz",
+          "off": 417281,
+          "size": 37376
+        }
+      ]
+    }
+  ]
+}

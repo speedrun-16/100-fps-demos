@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_calisto",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "GKHRBSKDC",
+      "rid": 18489,
+      "hash": "3c617cd1ac39353341c1ce6df46458b9352ab9e1e5aa84a45fc56fa29241c23f",
+      "t": 13635,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-11-30T12:00:10Z",
+      "zip": "00013635_STEAM_0_1_926467834_20251130-120010.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_calisto-20251130-#GKHRBSKDC.analysis.json",
+          "off": 80,
+          "size": 172795
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_calisto-20251130-#GKHRBSKDC.dem",
+          "off": 172945,
+          "size": 129702
+        },
+        {
+          "type": "replay",
+          "name": "18489.replay.xz",
+          "off": 302692,
+          "size": 25240
+        }
+      ]
+    }
+  ]
+}

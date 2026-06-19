@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_low_skill",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "LAO7A9A2M",
+      "rid": 33283,
+      "hash": "05d6714661cabd88b41c88a85968f3bd6902ee9ee2ea3229ddc0dc5904758118",
+      "t": 13512,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-02-16T13:16:20Z",
+      "zip": "00013512_STEAM_0_1_926467834_20260216-131620.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_low_skill-20260216-#LAO7A9A2M.analysis.json",
+          "off": 82,
+          "size": 155787
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_low_skill-20260216-#LAO7A9A2M.dem",
+          "off": 155941,
+          "size": 131429
+        },
+        {
+          "type": "replay",
+          "name": "33283.replay.xz",
+          "off": 287415,
+          "size": 25752
+        }
+      ]
+    }
+  ]
+}

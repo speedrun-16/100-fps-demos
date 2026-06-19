@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_temple",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "3YSUKQDAT",
+      "rid": 3244,
+      "hash": "a665ee29ad75954c0d635c7171dc0a39b2cc70708000233389c1e8062f15e3c3",
+      "t": 14174,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-19T17:00:24Z",
+      "zip": "00014174_STEAM_0_1_771348382_20250919-170024.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_temple-20250919-#3YSUKQDAT.analysis.json",
+          "off": 79,
+          "size": 152664
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_temple-20250919-#3YSUKQDAT.dem",
+          "off": 152812,
+          "size": 138860
+        },
+        {
+          "type": "replay",
+          "name": "3244.replay.xz",
+          "off": 291716,
+          "size": 26748
+        }
+      ]
+    },
+    {
+      "uid": "FVL2NWAMR",
+      "rid": 11681,
+      "hash": "3243c21befad74f6532514246d54f815320ee85f0f5ca6ed0aca2955aac03173",
+      "t": 14284,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-10-23T18:47:44Z",
+      "zip": "00014284_STEAM_0_1_169847134_20251023-184744.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_temple-20251023-#FVL2NWAMR.analysis.json",
+          "off": 79,
+          "size": 185669
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_temple-20251023-#FVL2NWAMR.dem",
+          "off": 185817,
+          "size": 134710
+        },
+        {
+          "type": "replay",
+          "name": "11681.replay.xz",
+          "off": 320572,
+          "size": 26608
+        }
+      ]
+    },
+    {
+      "uid": "ETTHOFZJT",
+      "rid": 13935,
+      "hash": "f55cf0a96de0ebb950de67dfd7a695aff7777be47d7e278d88394dc1cc7bf717",
+      "t": 14604,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-11-06T19:40:18Z",
+      "zip": "00014604_STEAM_0_1_84733295_20251106-194018.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_temple-20251106-#ETTHOFZJT.analysis.json",
+          "off": 79,
+          "size": 190110
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_temple-20251106-#ETTHOFZJT.dem",
+          "off": 190258,
+          "size": 143362
+        },
+        {
+          "type": "replay",
+          "name": "13935.replay.xz",
+          "off": 333665,
+          "size": 27992
+        }
+      ]
+    }
+  ]
+}

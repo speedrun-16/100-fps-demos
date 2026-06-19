@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_vonthe",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "ZK42YZKPR",
+      "rid": 42805,
+      "hash": "42a86a20b4c5f12554570dec150faf957f2e77ec84f11874c392f47844db85a6",
+      "t": 15855,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-19T10:57:44Z",
+      "zip": "00015855_STEAM_0_1_771348382_20260419-105744.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_vonthe-20260419-#ZK42YZKPR.analysis.json",
+          "off": 79,
+          "size": 186914
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_vonthe-20260419-#ZK42YZKPR.dem",
+          "off": 187062,
+          "size": 168107
+        },
+        {
+          "type": "replay",
+          "name": "42805.replay.xz",
+          "off": 355214,
+          "size": 30156
+        }
+      ]
+    }
+  ]
+}

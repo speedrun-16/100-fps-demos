@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_megaz",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "2XOD5F0VE",
+      "rid": 6394,
+      "hash": "4a1718668cfa69214797f337f07172a7a24a96b1a43e86fbc12649b789cdaa23",
+      "t": 15008,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-28T11:50:07Z",
+      "zip": "00015008_STEAM_0_0_24751394_20250928-115007.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#2XOD5F0VE.analysis.json",
+          "off": 78,
+          "size": 200100
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#2XOD5F0VE.dem",
+          "off": 200246,
+          "size": 155687
+        },
+        {
+          "type": "replay",
+          "name": "6394.replay.xz",
+          "off": 355977,
+          "size": 28948
+        }
+      ]
+    },
+    {
+      "uid": "OALZTWJC3",
+      "rid": 6398,
+      "hash": "326997472742112812c745d2feabf55ea800dca27956d858bfcd8c070f1df085",
+      "t": 15334,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-09-28T11:53:32Z",
+      "zip": "00015334_STEAM_0_1_169847134_20250928-115332.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#OALZTWJC3.analysis.json",
+          "off": 78,
+          "size": 193698
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#OALZTWJC3.dem",
+          "off": 193844,
+          "size": 148526
+        },
+        {
+          "type": "replay",
+          "name": "6398.replay.xz",
+          "off": 342414,
+          "size": 28588
+        }
+      ]
+    },
+    {
+      "uid": "OOXYU8LXM",
+      "rid": 6400,
+      "hash": "c85718332b8f812f7e2edc01d02b0462443b6d4389628a257c1cad9e39eb9ac2",
+      "t": 15422,
+      "sid": "STEAM_0:0:188876320",
+      "at": "2025-09-28T11:54:51Z",
+      "zip": "00015422_STEAM_0_0_188876320_20250928-115451.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#OOXYU8LXM.analysis.json",
+          "off": 78,
+          "size": 196681
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#OOXYU8LXM.dem",
+          "off": 196827,
+          "size": 151582
+        },
+        {
+          "type": "replay",
+          "name": "6400.replay.xz",
+          "off": 348453,
+          "size": 29400
+        }
+      ]
+    },
+    {
+      "uid": "76OL0M2VX",
+      "rid": 6409,
+      "hash": "ec99b4056d00aae5c2f658098e6f8475a685a991aa8856c2251680a142def46a",
+      "t": 15488,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-28T12:01:41Z",
+      "zip": "00015488_STEAM_0_1_926467834_20250928-120141.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#76OL0M2VX.analysis.json",
+          "off": 78,
+          "size": 181773
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#76OL0M2VX.dem",
+          "off": 181919,
+          "size": 157329
+        },
+        {
+          "type": "replay",
+          "name": "6409.replay.xz",
+          "off": 339292,
+          "size": 29232
+        }
+      ]
+    },
+    {
+      "uid": "U1ANHUYWY",
+      "rid": 6378,
+      "hash": "a335208afd95bb3bc194ee3bd4919f864d5adc878d833eca8f6ebc1107b92b88",
+      "t": 16331,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-09-28T11:32:47Z",
+      "zip": "00016331_STEAM_0_1_84733295_20250928-113247.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_megaz-20250928-#U1ANHUYWY.analysis.json",
+          "off": 78,
+          "size": 211508
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_megaz-20250928-#U1ANHUYWY.dem",
+          "off": 211654,
+          "size": 165218
+        },
+        {
+          "type": "replay",
+          "name": "6378.replay.xz",
+          "off": 376916,
+          "size": 30812
+        }
+      ]
+    }
+  ]
+}

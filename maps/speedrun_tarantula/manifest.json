@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_tarantula",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "5BYUSYDYA",
+      "rid": 46740,
+      "hash": "3dd559acae06e0c19da90773129b0056bc16876f4b2e617d067d3ed685bc6d4d",
+      "t": 22853,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-29T17:32:49Z",
+      "zip": "00022853_STEAM_0_1_771348382_20260429-173249.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_tarantula-20260429-#5BYUSYDYA.analysis.json",
+          "off": 82,
+          "size": 253626
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_tarantula-20260429-#5BYUSYDYA.dem",
+          "off": 253780,
+          "size": 230813
+        },
+        {
+          "type": "replay",
+          "name": "46740.replay.xz",
+          "off": 484638,
+          "size": 43628
+        }
+      ]
+    },
+    {
+      "uid": "1K2HBXF31",
+      "rid": 14646,
+      "hash": "bd650e3a594fd0fef874a612418dcabc1a36c97c6200c8ce065a8c51cc8063be",
+      "t": 22931,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-14T12:06:14Z",
+      "zip": "00022931_STEAM_0_1_796767048_20251114-120614.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_tarantula-20251114-#1K2HBXF31.analysis.json",
+          "off": 82,
+          "size": 268950
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_tarantula-20251114-#1K2HBXF31.dem",
+          "off": 269104,
+          "size": 202217
+        },
+        {
+          "type": "replay",
+          "name": "14646.replay.xz",
+          "off": 471366,
+          "size": 43456
+        }
+      ]
+    },
+    {
+      "uid": "5IAAS6921",
+      "rid": 46741,
+      "hash": "74e974e0c64a0490551ce2cc89b1cec21d9b7a4a16fd70272964967ad080ef4f",
+      "t": 23497,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-04-29T17:32:58Z",
+      "zip": "00023497_STEAM_0_1_155808091_20260429-173258.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_tarantula-20260429-#5IAAS6921.analysis.json",
+          "off": 82,
+          "size": 280847
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_tarantula-20260429-#5IAAS6921.dem",
+          "off": 281001,
+          "size": 247160
+        },
+        {
+          "type": "replay",
+          "name": "46741.replay.xz",
+          "off": 528206,
+          "size": 44164
+        }
+      ]
+    }
+  ]
+}

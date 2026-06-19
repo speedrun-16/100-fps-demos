@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_congoy_easy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "R7Z4X0D25",
+      "rid": 4252,
+      "hash": "0caad95fd31c36898cdd6deeb51ad3ae54bf59a7f0a44e83f896fdaaa824bc19",
+      "t": 23813,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-09-21T00:26:22Z",
+      "zip": "00023813_STEAM_0_1_408712_20250921-002622.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_congoy_easy-20250921-#R7Z4X0D25.analysis.json",
+          "off": 84,
+          "size": 229454
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_congoy_easy-20250921-#R7Z4X0D25.dem",
+          "off": 229612,
+          "size": 213065
+        },
+        {
+          "type": "replay",
+          "name": "4252.replay.xz",
+          "off": 442721,
+          "size": 40044
+        }
+      ]
+    }
+  ]
+}

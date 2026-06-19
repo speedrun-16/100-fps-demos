@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_slow",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "EULQBLPLT",
+      "rid": 19643,
+      "hash": "bf674da0886eef529fab23a2a645a37a4410a1cd2f8709f9ae8071ea8c6d443c",
+      "t": 20676,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-12-03T16:33:42Z",
+      "zip": "00020676_STEAM_0_1_796767048_20251203-163342.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_slow-20251203-#EULQBLPLT.analysis.json",
+          "off": 77,
+          "size": 233682
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_slow-20251203-#EULQBLPLT.dem",
+          "off": 233826,
+          "size": 172432
+        },
+        {
+          "type": "replay",
+          "name": "19643.replay.xz",
+          "off": 406303,
+          "size": 39452
+        }
+      ]
+    }
+  ]
+}

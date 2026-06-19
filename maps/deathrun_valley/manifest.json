@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_valley",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "NGWSDJOLV",
+      "rid": 53372,
+      "hash": "52ee6b85ff565695a56ac8448cddc1b2e57a9a017d04b2ca641e7995f970ca53",
+      "t": 35122,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-05-16T03:28:47Z",
+      "zip": "00035122_STEAM_0_1_447056338_20260516-032847.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_valley-20260516-#NGWSDJOLV.analysis.json",
+          "off": 79,
+          "size": 387984
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_valley-20260516-#NGWSDJOLV.dem",
+          "off": 388132,
+          "size": 286020
+        },
+        {
+          "type": "replay",
+          "name": "53372.replay.xz",
+          "off": 674197,
+          "size": 58172
+        }
+      ]
+    }
+  ]
+}

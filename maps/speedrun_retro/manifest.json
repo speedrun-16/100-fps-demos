@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retro",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "UF11SEM9X",
+      "rid": 10112,
+      "hash": "f119b5978bd220c53ff528a03e5aeca5d7d8379377909e302024d2bb6e1145b7",
+      "t": 12803,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-10-18T14:41:09Z",
+      "zip": "00012803_STEAM_0_1_771348382_20251018-144109.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_retro-20251018-#UF11SEM9X.analysis.json",
+          "off": 78,
+          "size": 152130
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_retro-20251018-#UF11SEM9X.dem",
+          "off": 152276,
+          "size": 125855
+        },
+        {
+          "type": "replay",
+          "name": "10112.replay.xz",
+          "off": 278176,
+          "size": 24864
+        }
+      ]
+    }
+  ]
+}

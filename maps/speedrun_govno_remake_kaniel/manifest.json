@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_govno_remake_kaniel",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "SNDLZ5G4B",
+      "rid": 45151,
+      "hash": "47410bc0dd0fe2df194379eda2c7d5c0d7aa0b2d829b1f364e435b832e6b981b",
+      "t": 9928,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-26T02:15:42Z",
+      "zip": "00009928_STEAM_0_1_408712_20260426-021542.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_govno_remake_kaniel-20260426-#SNDLZ5G4B.analysis.json",
+          "off": 92,
+          "size": 128682
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_govno_remake_kaniel-20260426-#SNDLZ5G4B.dem",
+          "off": 128856,
+          "size": 115137
+        },
+        {
+          "type": "replay",
+          "name": "45151.replay.xz",
+          "off": 244038,
+          "size": 20620
+        }
+      ]
+    }
+  ]
+}

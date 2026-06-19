@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_kendavosky",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "OF589ULF1",
+      "rid": 7739,
+      "hash": "4a6135d1aa404e3cd54200ba54de7dab0c15a2dae40d6d91a7c987a1300237fe",
+      "t": 37666,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-10-03T18:35:02Z",
+      "zip": "00037666_STEAM_0_1_408712_20251003-183502.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_kendavosky-20251003-#OF589ULF1.analysis.json",
+          "off": 83,
+          "size": 382291
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_kendavosky-20251003-#OF589ULF1.dem",
+          "off": 382447,
+          "size": 253954
+        },
+        {
+          "type": "replay",
+          "name": "7739.replay.xz",
+          "off": 636445,
+          "size": 47488
+        }
+      ]
+    }
+  ]
+}

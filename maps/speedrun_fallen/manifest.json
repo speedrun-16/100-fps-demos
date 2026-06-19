@@ -1,0 +1,29 @@
+{
+  "map": "speedrun_fallen",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "A0KX9T7N5",
+      "rid": 8652,
+      "hash": "032bba295e76ff29eabde48a710382d3fe632b754cea4b378333de6ac76f9711",
+      "t": 25265,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-10-06T20:21:17Z",
+      "zip": "00025265_STEAM_0_1_408712_20251006-202117.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_fallen-20251006-#A0KX9T7N5.analysis.json",
+          "off": 79,
+          "size": 26593
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_fallen-20251006-#A0KX9T7N5.dem",
+          "off": 26741,
+          "size": 223728
+        }
+      ]
+    }
+  ]
+}

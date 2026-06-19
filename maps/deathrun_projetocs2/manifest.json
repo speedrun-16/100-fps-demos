@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_projetocs2",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "NPB11L0AO",
+      "rid": 33373,
+      "hash": "b7bea9e193ea36016d83b964b720e079deea3d6f670e1c8ad92eeeeb141b1a2f",
+      "t": 22137,
+      "sid": "STEAM_0:0:595867988",
+      "at": "2026-02-18T06:53:07Z",
+      "zip": "00022137_STEAM_0_0_595867988_20260218-065307.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_projetocs2-20260218-#NPB11L0AO.analysis.json",
+          "off": 83,
+          "size": 268953
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_projetocs2-20260218-#NPB11L0AO.dem",
+          "off": 269109,
+          "size": 201839
+        },
+        {
+          "type": "replay",
+          "name": "33373.replay.xz",
+          "off": 470993,
+          "size": 39732
+        }
+      ]
+    }
+  ]
+}

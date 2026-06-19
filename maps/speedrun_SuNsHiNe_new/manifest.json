@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_SuNsHiNe_new",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "93JAHA1UC",
+      "rid": 2084,
+      "hash": "c6f83862481d063b1d1cecd0382629ca4e44cc5e68de49f7039c38fd8aed9ab3",
+      "t": 10628,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-17T00:40:01Z",
+      "zip": "00010628_STEAM_0_0_24751394_20250917-004001.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20250917-#93JAHA1UC.analysis.json",
+          "off": 85,
+          "size": 140864
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20250917-#93JAHA1UC.dem",
+          "off": 141024,
+          "size": 117455
+        },
+        {
+          "type": "replay",
+          "name": "2084.replay.xz",
+          "off": 258523,
+          "size": 20284
+        }
+      ]
+    },
+    {
+      "uid": "509BXCO9S",
+      "rid": 2104,
+      "hash": "b2b4950f0066dd8ceccb36e3c59c21d2d57068a1c9d0301a02cd58e1f2b69dca",
+      "t": 10682,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-09-17T00:47:36Z",
+      "zip": "00010682_STEAM_0_1_408712_20250917-004736.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20250917-#509BXCO9S.analysis.json",
+          "off": 85,
+          "size": 135358
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20250917-#509BXCO9S.dem",
+          "off": 135518,
+          "size": 128401
+        },
+        {
+          "type": "replay",
+          "name": "2104.replay.xz",
+          "off": 263963,
+          "size": 20600
+        }
+      ]
+    },
+    {
+      "uid": "TKW2JDM4Z",
+      "rid": 2089,
+      "hash": "2397a24e964e7f0e219cf54cafdf05bd2c70d8837bcb6ec398aa1b2dc701468d",
+      "t": 10765,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-09-17T00:40:47Z",
+      "zip": "00010765_STEAM_0_1_617544124_20250917-004047.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20250917-#TKW2JDM4Z.analysis.json",
+          "off": 85,
+          "size": 147271
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20250917-#TKW2JDM4Z.dem",
+          "off": 147431,
+          "size": 126137
+        },
+        {
+          "type": "replay",
+          "name": "2089.replay.xz",
+          "off": 273612,
+          "size": 20368
+        }
+      ]
+    },
+    {
+      "uid": "EVLFST7F1",
+      "rid": 26707,
+      "hash": "c9c773d633a7b07207a44055ee809213a4c0ed653dcf8506cfdcb9a63688f7b3",
+      "t": 11102,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-16T08:12:28Z",
+      "zip": "00011102_STEAM_0_1_926467834_20260116-081228.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20260116-#EVLFST7F1.analysis.json",
+          "off": 85,
+          "size": 150459
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20260116-#EVLFST7F1.dem",
+          "off": 150619,
+          "size": 109591
+        },
+        {
+          "type": "replay",
+          "name": "26707.replay.xz",
+          "off": 260255,
+          "size": 20932
+        }
+      ]
+    },
+    {
+      "uid": "F0I4X2A2Y",
+      "rid": 2155,
+      "hash": "12e94f98359ad92313a0a5286ca0fe490263f911736d98857e303e8f78d42f33",
+      "t": 11286,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-17T01:03:13Z",
+      "zip": "00011286_STEAM_0_1_29970948_20250917-010313.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20250917-#F0I4X2A2Y.analysis.json",
+          "off": 85,
+          "size": 136407
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20250917-#F0I4X2A2Y.dem",
+          "off": 136567,
+          "size": 121659
+        },
+        {
+          "type": "replay",
+          "name": "2155.replay.xz",
+          "off": 258270,
+          "size": 21572
+        }
+      ]
+    }
+  ]
+}

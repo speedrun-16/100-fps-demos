@@ -1,0 +1,64 @@
+{
+  "map": "deathrun_all_green",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "3SD8MN6C8",
+      "rid": 6531,
+      "hash": "a30834f58c668520d7cea0dfc63673b6e43368efd3371f41f82b64893cec8636",
+      "t": 15219,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-28T17:47:49Z",
+      "zip": "00015219_STEAM_0_1_771348382_20250928-174749.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_all_green-20250928-#3SD8MN6C8.analysis.json",
+          "off": 82,
+          "size": 181656
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_all_green-20250928-#3SD8MN6C8.dem",
+          "off": 181810,
+          "size": 164261
+        },
+        {
+          "type": "replay",
+          "name": "6531.replay.xz",
+          "off": 346115,
+          "size": 28280
+        }
+      ]
+    },
+    {
+      "uid": "3UYACJYUR",
+      "rid": 6532,
+      "hash": "2175d2b96b2e73c41b72d35f64787934291c8f4bfde49543d734f71e81559669",
+      "t": 15715,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-09-28T17:49:35Z",
+      "zip": "00015715_STEAM_0_1_796767048_20250928-174935.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_all_green-20250928-#3UYACJYUR.analysis.json",
+          "off": 82,
+          "size": 172585
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_all_green-20250928-#3UYACJYUR.dem",
+          "off": 172739,
+          "size": 164147
+        },
+        {
+          "type": "replay",
+          "name": "6532.replay.xz",
+          "off": 336930,
+          "size": 29312
+        }
+      ]
+    }
+  ]
+}

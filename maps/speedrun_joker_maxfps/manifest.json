@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_joker_maxfps",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "0CD6U8B56",
+      "rid": 54388,
+      "hash": "a87760f2b29c7ecf3288a96d9a27ed804e70d10a7386f4769a7e08944897e4a9",
+      "t": 12319,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-05-19T13:53:11Z",
+      "zip": "00012319_STEAM_0_1_408712_20260519-135311.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_joker_maxfps-20260519-#0CD6U8B56.analysis.json",
+          "off": 85,
+          "size": 160401
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_joker_maxfps-20260519-#0CD6U8B56.dem",
+          "off": 160561,
+          "size": 129311
+        },
+        {
+          "type": "replay",
+          "name": "54388.replay.xz",
+          "off": 289917,
+          "size": 24416
+        }
+      ]
+    }
+  ]
+}

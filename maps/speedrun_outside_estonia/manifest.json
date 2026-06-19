@@ -1,0 +1,122 @@
+{
+  "map": "speedrun_outside_estonia",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "ZW1XX3W09",
+      "rid": 53348,
+      "hash": "cff3f80283a3658816ae5912c57959b82bc0e0452c10bee00475da5c7b026884",
+      "t": 10560,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-15T18:58:39Z",
+      "zip": "00010560_STEAM_0_1_771348382_20260515-185839.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia-20260515-#ZW1XX3W09.analysis.json",
+          "off": 88,
+          "size": 125817
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia-20260515-#ZW1XX3W09.dem",
+          "off": 125983,
+          "size": 123676
+        },
+        {
+          "type": "replay",
+          "name": "53348.replay.xz",
+          "off": 249704,
+          "size": 20900
+        }
+      ]
+    },
+    {
+      "uid": "7IMJ5QYN3",
+      "rid": 9788,
+      "hash": "1ea600ea5ceccc9ea61cbc7ec245f32b6b6babb77c2315ee7ae015a3706a5ffe",
+      "t": 11033,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-16T19:54:54Z",
+      "zip": "00011033_STEAM_0_1_84733295_20251016-195454.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia-20251016-#7IMJ5QYN3.analysis.json",
+          "off": 88,
+          "size": 156356
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia-20251016-#7IMJ5QYN3.dem",
+          "off": 156522,
+          "size": 119983
+        },
+        {
+          "type": "replay",
+          "name": "9788.replay.xz",
+          "off": 276549,
+          "size": 21804
+        }
+      ]
+    },
+    {
+      "uid": "2W3U72OBZ",
+      "rid": 9762,
+      "hash": "947ea5a6af0cae897523b1bf633314cf6b80690e9f3345fa96002bffd2a295da",
+      "t": 11839,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-16T18:07:29Z",
+      "zip": "00011839_STEAM_0_1_926467834_20251016-180729.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia-20251016-#2W3U72OBZ.analysis.json",
+          "off": 88,
+          "size": 165513
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia-20251016-#2W3U72OBZ.dem",
+          "off": 165679,
+          "size": 114453
+        },
+        {
+          "type": "replay",
+          "name": "9762.replay.xz",
+          "off": 280176,
+          "size": 22440
+        }
+      ]
+    },
+    {
+      "uid": "401B6MY4Z",
+      "rid": 9764,
+      "hash": "350adb4c048092cbf1bfdc0d7e6ed7e5291c34a3d0e7f9ddfd9b172f25dd80cf",
+      "t": 11854,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-10-16T18:10:41Z",
+      "zip": "00011854_STEAM_0_0_35544084_20251016-181041.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_outside_estonia-20251016-#401B6MY4Z.analysis.json",
+          "off": 88,
+          "size": 159854
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_outside_estonia-20251016-#401B6MY4Z.dem",
+          "off": 160020,
+          "size": 115876
+        },
+        {
+          "type": "replay",
+          "name": "9764.replay.xz",
+          "off": 275940,
+          "size": 21388
+        }
+      ]
+    }
+  ]
+}

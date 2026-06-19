@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_revived_odd",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "X2NU62S34",
+      "rid": 4664,
+      "hash": "422aa30e5c80329ba97b3f2c68bb01078c92750fe8120b963f0d1e9adc40e3b6",
+      "t": 16263,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-09-21T20:01:20Z",
+      "zip": "00016263_STEAM_0_1_617544124_20250921-200120.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_revived_odd-20250921-#X2NU62S34.analysis.json",
+          "off": 84,
+          "size": 207462
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_revived_odd-20250921-#X2NU62S34.dem",
+          "off": 207620,
+          "size": 156501
+        },
+        {
+          "type": "replay",
+          "name": "4664.replay.xz",
+          "off": 364165,
+          "size": 32172
+        }
+      ]
+    }
+  ]
+}

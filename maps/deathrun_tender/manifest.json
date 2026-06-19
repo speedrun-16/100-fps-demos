@@ -1,0 +1,29 @@
+{
+  "map": "deathrun_tender",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "R2UZ6798F",
+      "rid": 1848,
+      "hash": "c97084d9a25f62cfc65879f57095064525b2eb47fa3b8999fdfbeef1a7d685be",
+      "t": 315168,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-16T21:22:41Z",
+      "zip": "00315168_STEAM_0_0_24751394_20250916-212241.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_tender-20250916-#R2UZ6798F.analysis.json",
+          "off": 79,
+          "size": 133761
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_tender-20250916-#R2UZ6798F.dem",
+          "off": 133909,
+          "size": 1579603
+        }
+      ]
+    }
+  ]
+}

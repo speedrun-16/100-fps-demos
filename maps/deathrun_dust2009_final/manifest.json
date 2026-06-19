@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_dust2009_final",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "82LVSSZ8Z",
+      "rid": 58038,
+      "hash": "8152b98d7d9f224f318ab695e201342c5a458a75ceb88d3dd293de6c91eba912",
+      "t": 23244,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-05-29T17:17:46Z",
+      "zip": "00023244_STEAM_0_0_631815948_20260529-171746.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_dust2009_final-20260529-#82LVSSZ8Z.analysis.json",
+          "off": 87,
+          "size": 282440
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_dust2009_final-20260529-#82LVSSZ8Z.dem",
+          "off": 282604,
+          "size": 214786
+        },
+        {
+          "type": "replay",
+          "name": "58038.replay.xz",
+          "off": 497435,
+          "size": 41344
+        }
+      ]
+    }
+  ]
+}

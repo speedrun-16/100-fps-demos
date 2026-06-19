@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_downtown_moonlight",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "KL4ZICEYR",
+      "rid": 11357,
+      "hash": "ab00c45260dcdd1c7c7cf37293f39817586023f7c06c6815a7d7fbd22259016a",
+      "t": 8329,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-22T15:12:19Z",
+      "zip": "00008329_STEAM_0_1_84733295_20251022-151219.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_downtown_moonlight-20251022-#KL4ZICEYR.analysis.json",
+          "off": 91,
+          "size": 138571
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_downtown_moonlight-20251022-#KL4ZICEYR.dem",
+          "off": 138743,
+          "size": 110260
+        },
+        {
+          "type": "replay",
+          "name": "11357.replay.xz",
+          "off": 249048,
+          "size": 16196
+        }
+      ]
+    }
+  ]
+}

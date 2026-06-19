@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_slavers",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "K46G3GL0F",
+      "rid": 43356,
+      "hash": "8e2866204fa7f54bc7922cde1e233546e1ea8695ec94b48a600905a0f238cab3",
+      "t": 11831,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-21T04:28:00Z",
+      "zip": "00011831_STEAM_0_1_771348382_20260421-042800.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_slavers-20260421-#K46G3GL0F.analysis.json",
+          "off": 80,
+          "size": 162580
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_slavers-20260421-#K46G3GL0F.dem",
+          "off": 162730,
+          "size": 124237
+        },
+        {
+          "type": "replay",
+          "name": "43356.replay.xz",
+          "off": 287012,
+          "size": 22640
+        }
+      ]
+    }
+  ]
+}

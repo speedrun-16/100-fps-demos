@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sudsup",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "OQWDJ04YT",
+      "rid": 12989,
+      "hash": "743ec72f34b83445d94d70211d0a00e28eebe1756b79cc449983fd3f195c02fa",
+      "t": 13348,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-11-01T17:39:27Z",
+      "zip": "00013348_STEAM_0_1_169847134_20251101-173927.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sudsup-20251101-#OQWDJ04YT.analysis.json",
+          "off": 79,
+          "size": 174559
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sudsup-20251101-#OQWDJ04YT.dem",
+          "off": 174707,
+          "size": 128115
+        },
+        {
+          "type": "replay",
+          "name": "12989.replay.xz",
+          "off": 302867,
+          "size": 25844
+        }
+      ]
+    }
+  ]
+}

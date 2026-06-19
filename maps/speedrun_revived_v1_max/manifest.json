@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_revived_v1_max",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "PZEEST28U",
+      "rid": 46324,
+      "hash": "5eeac70e89c9c7813069959a49fc09ac037a5829a501e325f3434a72338adbcf",
+      "t": 21501,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-28T14:46:12Z",
+      "zip": "00021501_STEAM_0_1_771348382_20260428-144612.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_revived_v1_max-20260428-#PZEEST28U.analysis.json",
+          "off": 87,
+          "size": 230474
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_revived_v1_max-20260428-#PZEEST28U.dem",
+          "off": 230638,
+          "size": 224146
+        },
+        {
+          "type": "replay",
+          "name": "46324.replay.xz",
+          "off": 454829,
+          "size": 41964
+        }
+      ]
+    }
+  ]
+}

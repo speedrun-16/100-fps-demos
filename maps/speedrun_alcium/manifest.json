@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_alcium",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "TR0KD3BUF",
+      "rid": 24183,
+      "hash": "8bd9c4eeb4fee076287bd5fd5c7f3ae08f1ef90195653ffd1a7ab7a90d252b81",
+      "t": 7803,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-27T15:57:28Z",
+      "zip": "00007803_STEAM_0_1_408712_20251227-155728.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_alcium-20251227-#TR0KD3BUF.analysis.json",
+          "off": 79,
+          "size": 117218
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_alcium-20251227-#TR0KD3BUF.dem",
+          "off": 117366,
+          "size": 99036
+        },
+        {
+          "type": "replay",
+          "name": "24183.replay.xz",
+          "off": 216447,
+          "size": 16248
+        }
+      ]
+    },
+    {
+      "uid": "W7G0V97T7",
+      "rid": 14166,
+      "hash": "7edfe7e3b86eeb19cb8a2608e18bc59d805ed922bd4d7b7f89067a0bb7112624",
+      "t": 8086,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-11-10T08:08:08Z",
+      "zip": "00008086_STEAM_0_1_926467834_20251110-080808.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_alcium-20251110-#W7G0V97T7.analysis.json",
+          "off": 79,
+          "size": 109852
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_alcium-20251110-#W7G0V97T7.dem",
+          "off": 110000,
+          "size": 90599
+        },
+        {
+          "type": "replay",
+          "name": "14166.replay.xz",
+          "off": 200644,
+          "size": 16376
+        }
+      ]
+    },
+    {
+      "uid": "9FQKDL6V4",
+      "rid": 24155,
+      "hash": "912cd9cfc7d2bd78e8d79101832d61e270f33a4dcf296f53ef38d7a4d9404c68",
+      "t": 8159,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-12-27T15:50:38Z",
+      "zip": "00008159_STEAM_0_1_84733295_20251227-155038.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_alcium-20251227-#9FQKDL6V4.analysis.json",
+          "off": 79,
+          "size": 125271
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_alcium-20251227-#9FQKDL6V4.dem",
+          "off": 125419,
+          "size": 101705
+        },
+        {
+          "type": "replay",
+          "name": "24155.replay.xz",
+          "off": 227169,
+          "size": 16304
+        }
+      ]
+    }
+  ]
+}

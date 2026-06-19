@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_meowkatozz_demise",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "RO9SV4RZK",
+      "rid": 45073,
+      "hash": "7c06e135b910221657a58c2b90e8d30fa68162aa1886643867b0410d740d761a",
+      "t": 21441,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-25T19:19:26Z",
+      "zip": "00021441_STEAM_0_1_771348382_20260425-191926.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20260425-#RO9SV4RZK.analysis.json",
+          "off": 90,
+          "size": 230650
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20260425-#RO9SV4RZK.dem",
+          "off": 230820,
+          "size": 197337
+        },
+        {
+          "type": "replay",
+          "name": "45073.replay.xz",
+          "off": 428202,
+          "size": 39680
+        }
+      ]
+    },
+    {
+      "uid": "HPSAMSFIT",
+      "rid": 18487,
+      "hash": "427bd49a075f3dd5290af73cef133d1669e10f2a26514a1711723c2f4191ff08",
+      "t": 21933,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-30T03:02:46Z",
+      "zip": "00021933_STEAM_0_1_408712_20251130-030246.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20251130-#HPSAMSFIT.analysis.json",
+          "off": 90,
+          "size": 239847
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20251130-#HPSAMSFIT.dem",
+          "off": 240017,
+          "size": 193837
+        },
+        {
+          "type": "replay",
+          "name": "18487.replay.xz",
+          "off": 433899,
+          "size": 41084
+        }
+      ]
+    },
+    {
+      "uid": "8MHTZTCSP",
+      "rid": 5248,
+      "hash": "d54900cf92a01fb586feb82b7928c6bb38c2103c7af6d4e91d1a282095f35f06",
+      "t": 22900,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-09-24T14:47:35Z",
+      "zip": "00022900_STEAM_0_1_617544124_20250924-144735.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20250924-#8MHTZTCSP.analysis.json",
+          "off": 90,
+          "size": 263983
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20250924-#8MHTZTCSP.dem",
+          "off": 264153,
+          "size": 197316
+        },
+        {
+          "type": "replay",
+          "name": "5248.replay.xz",
+          "off": 461513,
+          "size": 41592
+        }
+      ]
+    }
+  ]
+}

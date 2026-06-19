@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_easy_v1_remake_kaniel",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "P6A2HKXZK",
+      "rid": 25693,
+      "hash": "cf700804a3fa69671800675692ad373dc338e6677eb67a047c6f931be0214ee2",
+      "t": 15544,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-07T01:23:06Z",
+      "zip": "00015544_STEAM_0_1_408712_20260107-012306.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#P6A2HKXZK.analysis.json",
+          "off": 94,
+          "size": 188394
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#P6A2HKXZK.dem",
+          "off": 188572,
+          "size": 153370
+        },
+        {
+          "type": "replay",
+          "name": "25693.replay.xz",
+          "off": 341987,
+          "size": 29576
+        }
+      ]
+    },
+    {
+      "uid": "08HLQ5URN",
+      "rid": 25692,
+      "hash": "2fbccd04a38217616d0d716d3cea1b93d4225c91d4460c69f51774a45ceb8642",
+      "t": 15868,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-07T01:23:01Z",
+      "zip": "00015868_STEAM_0_1_926467834_20260107-012301.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#08HLQ5URN.analysis.json",
+          "off": 94,
+          "size": 184354
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#08HLQ5URN.dem",
+          "off": 184532,
+          "size": 147878
+        },
+        {
+          "type": "replay",
+          "name": "25692.replay.xz",
+          "off": 332455,
+          "size": 28568
+        }
+      ]
+    },
+    {
+      "uid": "6R86UBYBK",
+      "rid": 54035,
+      "hash": "17a6f60f9ecbfb385859890b8a631ae4dcf900b3b276a3a3ec6969d5eddced54",
+      "t": 16039,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-05-18T00:23:26Z",
+      "zip": "00016039_STEAM_0_1_447056338_20260518-002326.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_easy_v1_remake_kaniel-20260518-#6R86UBYBK.analysis.json",
+          "off": 94,
+          "size": 200947
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_easy_v1_remake_kaniel-20260518-#6R86UBYBK.dem",
+          "off": 201125,
+          "size": 149357
+        },
+        {
+          "type": "replay",
+          "name": "54035.replay.xz",
+          "off": 350527,
+          "size": 30404
+        }
+      ]
+    }
+  ]
+}

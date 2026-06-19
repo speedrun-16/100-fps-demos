@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_expanse",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "N2OTCCSOK",
+      "rid": 20623,
+      "hash": "acd1b52fc16d51a59adc68d212738e7f0fa045cfd9f97ec6a129df1990bc4ade",
+      "t": 43497,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-12-07T17:06:54Z",
+      "zip": "00043497_STEAM_0_1_796767048_20251207-170654.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_expanse-20251207-#N2OTCCSOK.analysis.json",
+          "off": 80,
+          "size": 409182
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_expanse-20251207-#N2OTCCSOK.dem",
+          "off": 409332,
+          "size": 349792
+        },
+        {
+          "type": "replay",
+          "name": "20623.replay.xz",
+          "off": 759169,
+          "size": 80532
+        }
+      ]
+    }
+  ]
+}

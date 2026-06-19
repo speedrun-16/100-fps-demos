@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_r3x_II",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "W6Y234TPC",
+      "rid": 56344,
+      "hash": "07c7f0abd176c3cb22bc346181fd6d9ca284146323d52074fff9feb0b3949fdf",
+      "t": 17658,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-24T14:50:49Z",
+      "zip": "00017658_STEAM_0_1_771348382_20260524-145049.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_r3x_II-20260524-#W6Y234TPC.analysis.json",
+          "off": 79,
+          "size": 196838
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_r3x_II-20260524-#W6Y234TPC.dem",
+          "off": 196986,
+          "size": 179943
+        },
+        {
+          "type": "replay",
+          "name": "56344.replay.xz",
+          "off": 376974,
+          "size": 33864
+        }
+      ]
+    },
+    {
+      "uid": "RQD5F6PZ7",
+      "rid": 32377,
+      "hash": "c9099e4400bcd30d8688d84cc0146aac7593eed240f7f260fd9db622a9d96768",
+      "t": 17915,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-02-07T08:00:48Z",
+      "zip": "00017915_STEAM_0_1_29970948_20260207-080048.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_r3x_II-20260207-#RQD5F6PZ7.analysis.json",
+          "off": 79,
+          "size": 225069
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_r3x_II-20260207-#RQD5F6PZ7.dem",
+          "off": 225217,
+          "size": 165989
+        },
+        {
+          "type": "replay",
+          "name": "32377.replay.xz",
+          "off": 391251,
+          "size": 33168
+        }
+      ]
+    },
+    {
+      "uid": "610FQJTYV",
+      "rid": 29121,
+      "hash": "734f8fafd75017a2194188efa609bb8decf4ededcbe081d723427cbb918cd576",
+      "t": 17934,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-22T22:14:02Z",
+      "zip": "00017934_STEAM_0_1_408712_20260122-221402.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_r3x_II-20260122-#610FQJTYV.analysis.json",
+          "off": 79,
+          "size": 226920
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_r3x_II-20260122-#610FQJTYV.dem",
+          "off": 227068,
+          "size": 170552
+        },
+        {
+          "type": "replay",
+          "name": "29121.replay.xz",
+          "off": 397665,
+          "size": 33544
+        }
+      ]
+    },
+    {
+      "uid": "AVPP9BPCV",
+      "rid": 29123,
+      "hash": "8f810abdd32a74f120f881e119bca0b1c89d08741b88aa666505b226cd83237b",
+      "t": 18767,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2026-01-22T22:15:07Z",
+      "zip": "00018767_STEAM_0_1_84733295_20260122-221507.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_r3x_II-20260122-#AVPP9BPCV.analysis.json",
+          "off": 79,
+          "size": 241946
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_r3x_II-20260122-#AVPP9BPCV.dem",
+          "off": 242094,
+          "size": 182218
+        },
+        {
+          "type": "replay",
+          "name": "29123.replay.xz",
+          "off": 424357,
+          "size": 34028
+        }
+      ]
+    },
+    {
+      "uid": "92KSUU5JC",
+      "rid": 22907,
+      "hash": "113be888349db772004bf68535eabff66c6a73e5cef8c378f597972bb59c8c66",
+      "t": 21629,
+      "sid": "STEAM_0:0:35544084",
+      "at": "2025-12-20T10:34:21Z",
+      "zip": "00021629_STEAM_0_0_35544084_20251220-103421.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_r3x_II-20251220-#92KSUU5JC.analysis.json",
+          "off": 79,
+          "size": 266500
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_r3x_II-20251220-#92KSUU5JC.dem",
+          "off": 266648,
+          "size": 188942
+        },
+        {
+          "type": "replay",
+          "name": "22907.replay.xz",
+          "off": 455635,
+          "size": 38784
+        }
+      ]
+    }
+  ]
+}

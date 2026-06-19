@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_seireitei",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "PM6EG886H",
+      "rid": 18887,
+      "hash": "c79c2ca5178a6f40bc78b534b453d52e865a9e7b2726a6ff45642cd8b6b3c6bf",
+      "t": 18839,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2025-12-01T19:40:57Z",
+      "zip": "00018839_STEAM_0_1_447056338_20251201-194057.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_seireitei-20251201-#PM6EG886H.analysis.json",
+          "off": 82,
+          "size": 234212
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_seireitei-20251201-#PM6EG886H.dem",
+          "off": 234366,
+          "size": 191471
+        },
+        {
+          "type": "replay",
+          "name": "18887.replay.xz",
+          "off": 425882,
+          "size": 36124
+        }
+      ]
+    }
+  ]
+}

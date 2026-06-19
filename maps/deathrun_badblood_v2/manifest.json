@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_badblood_v2",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "0NIS16D7U",
+      "rid": 304,
+      "hash": "f97ef261c5806165d207cc86c34dd5cd17d0d1b3d88fb5a0c3946056f7a01f49",
+      "t": 83489,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-14T13:30:18Z",
+      "zip": "00083489_STEAM_0_1_771348382_20250914-133018.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_badblood_v2-20250914-#0NIS16D7U.analysis.json",
+          "off": 84,
+          "size": 734828
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_badblood_v2-20250914-#0NIS16D7U.dem",
+          "off": 734986,
+          "size": 434631
+        },
+        {
+          "type": "replay",
+          "name": "304.replay.xz",
+          "off": 1169660,
+          "size": 58380
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_kolor_v2",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "YMTPCGM0M",
+      "rid": 7769,
+      "hash": "5d9f58a11366051a0c9cbfb6658742fc2e9661591445ab2f067094c92d1abc95",
+      "t": 17844,
+      "sid": "STEAM_0:1:617544124",
+      "at": "2025-10-03T20:00:35Z",
+      "zip": "00017844_STEAM_0_1_617544124_20251003-200035.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_kolor_v2-20251003-#YMTPCGM0M.analysis.json",
+          "off": 81,
+          "size": 210210
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_kolor_v2-20251003-#YMTPCGM0M.dem",
+          "off": 210362,
+          "size": 161594
+        },
+        {
+          "type": "replay",
+          "name": "7769.replay.xz",
+          "off": 372000,
+          "size": 31064
+        }
+      ]
+    }
+  ]
+}

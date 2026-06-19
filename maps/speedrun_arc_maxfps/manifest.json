@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_arc_maxfps",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "FOVLG7IIJ",
+      "rid": 31967,
+      "hash": "c233f0a56a86cba614bc08e8754e445427d0626f22b5a6ed033d3f0c226795e2",
+      "t": 24864,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-02-03T22:31:59Z",
+      "zip": "00024864_STEAM_0_1_29970948_20260203-223159.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_arc_maxfps-20260203-#FOVLG7IIJ.analysis.json",
+          "off": 83,
+          "size": 298418
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_arc_maxfps-20260203-#FOVLG7IIJ.dem",
+          "off": 298574,
+          "size": 221951
+        },
+        {
+          "type": "replay",
+          "name": "31967.replay.xz",
+          "off": 520570,
+          "size": 45752
+        }
+      ]
+    },
+    {
+      "uid": "SSUBJGQ7W",
+      "rid": 25806,
+      "hash": "21a00ad1177c220e239adbbd89fce5069a2ca07e07fe04031bbbe39b4ad1c5d5",
+      "t": 25266,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-08T08:53:02Z",
+      "zip": "00025266_STEAM_0_1_926467834_20260108-085302.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_arc_maxfps-20260108-#SSUBJGQ7W.analysis.json",
+          "off": 83,
+          "size": 272778
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_arc_maxfps-20260108-#SSUBJGQ7W.dem",
+          "off": 272934,
+          "size": 207016
+        },
+        {
+          "type": "replay",
+          "name": "25806.replay.xz",
+          "off": 479995,
+          "size": 45020
+        }
+      ]
+    },
+    {
+      "uid": "YXIM88HVJ",
+      "rid": 36561,
+      "hash": "ef9073c130a96db7d68c2adf877b74d9f60db262fde0f1f707ff29aeab50733c",
+      "t": 26693,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2026-03-21T02:43:13Z",
+      "zip": "00026693_STEAM_0_1_447056338_20260321-024313.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_arc_maxfps-20260321-#YXIM88HVJ.analysis.json",
+          "off": 83,
+          "size": 323984
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_arc_maxfps-20260321-#YXIM88HVJ.dem",
+          "off": 324140,
+          "size": 239956
+        },
+        {
+          "type": "replay",
+          "name": "36561.replay.xz",
+          "off": 564141,
+          "size": 49244
+        }
+      ]
+    }
+  ]
+}

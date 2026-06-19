@@ -1,0 +1,93 @@
+{
+  "map": "deathrun_arctic",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "IVE52PPA9",
+      "rid": 4856,
+      "hash": "a7e66f6ed2684b17c3919b2cce516690ed856028a7a34595e69367e76395f536",
+      "t": 10484,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-22T20:21:18Z",
+      "zip": "00010484_STEAM_0_0_24751394_20250922-202118.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_arctic-20250922-#IVE52PPA9.analysis.json",
+          "off": 79,
+          "size": 138346
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_arctic-20250922-#IVE52PPA9.dem",
+          "off": 138494,
+          "size": 117073
+        },
+        {
+          "type": "replay",
+          "name": "4856.replay.xz",
+          "off": 255611,
+          "size": 20524
+        }
+      ]
+    },
+    {
+      "uid": "0IA0L8U9P",
+      "rid": 22894,
+      "hash": "8d625db57a2657da260c4534fdaa647636a4489a3a50bd864c4e76793fc9c403",
+      "t": 25315,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-12-20T10:01:05Z",
+      "zip": "00025315_STEAM_0_1_926467834_20251220-100105.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_arctic-20251220-#0IA0L8U9P.analysis.json",
+          "off": 79,
+          "size": 264553
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_arctic-20251220-#0IA0L8U9P.dem",
+          "off": 264701,
+          "size": 240053
+        },
+        {
+          "type": "replay",
+          "name": "22894.replay.xz",
+          "off": 504799,
+          "size": 45692
+        }
+      ]
+    },
+    {
+      "uid": "FY83XO3OF",
+      "rid": 33160,
+      "hash": "e3863b96d956d6263cc0cdf9a563e8325b091a78501222531fdcaef2fdd5964a",
+      "t": 33891,
+      "sid": "STEAM_0:0:595867988",
+      "at": "2026-02-15T08:55:47Z",
+      "zip": "00033891_STEAM_0_0_595867988_20260215-085547.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_arctic-20260215-#FY83XO3OF.analysis.json",
+          "off": 79,
+          "size": 394730
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_arctic-20260215-#FY83XO3OF.dem",
+          "off": 394878,
+          "size": 279744
+        },
+        {
+          "type": "replay",
+          "name": "33160.replay.xz",
+          "off": 674667,
+          "size": 57372
+        }
+      ]
+    }
+  ]
+}

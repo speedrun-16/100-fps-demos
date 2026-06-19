@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_astro",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "7O6G89N0W",
+      "rid": 4879,
+      "hash": "7363fd0e8517f5447bdefbc13c70de0a60727627f79828688eb6c2378febb00f",
+      "t": 9954,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-22T20:51:03Z",
+      "zip": "00009954_STEAM_0_0_24751394_20250922-205103.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_astro-20250922-#7O6G89N0W.analysis.json",
+          "off": 78,
+          "size": 128292
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_astro-20250922-#7O6G89N0W.dem",
+          "off": 128438,
+          "size": 120529
+        },
+        {
+          "type": "replay",
+          "name": "4879.replay.xz",
+          "off": 249011,
+          "size": 20044
+        }
+      ]
+    }
+  ]
+}

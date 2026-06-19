@@ -1,0 +1,64 @@
+{
+  "map": "deathrun_temple",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "0CJARA9O8",
+      "rid": 32128,
+      "hash": "727ab5090593084940e0ede33902788400cbba4de43fda3212235111f3d8e4d2",
+      "t": 21324,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-02-05T11:55:55Z",
+      "zip": "00021324_STEAM_0_1_926467834_20260205-115555.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_temple-20260205-#0CJARA9O8.analysis.json",
+          "off": 79,
+          "size": 24410
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_temple-20260205-#0CJARA9O8.dem",
+          "off": 24558,
+          "size": 264496
+        },
+        {
+          "type": "file",
+          "name": "net-32128.movement.bin",
+          "off": 289106,
+          "size": 70675
+        }
+      ]
+    },
+    {
+      "uid": "I5W6TWPSF",
+      "rid": 12666,
+      "hash": "df4337c6ac58a73554672fbb266200e78820b9a39a3a11dfc5c1d3285590aa4d",
+      "t": 22418,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-30T19:32:17Z",
+      "zip": "00022418_STEAM_0_1_84733295_20251030-193217.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_temple-20251030-#I5W6TWPSF.analysis.json",
+          "off": 79,
+          "size": 277869
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_temple-20251030-#I5W6TWPSF.dem",
+          "off": 278017,
+          "size": 210103
+        },
+        {
+          "type": "replay",
+          "name": "12666.replay.xz",
+          "off": 488165,
+          "size": 39156
+        }
+      ]
+    }
+  ]
+}

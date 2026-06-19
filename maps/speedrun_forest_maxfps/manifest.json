@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_forest_maxfps",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "QWLDLN9KY",
+      "rid": 26467,
+      "hash": "d80eceda795f5c91c54920f4aa4d594fd767cac4648044c9e20f123a98999811",
+      "t": 21774,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-12T08:50:04Z",
+      "zip": "00021774_STEAM_0_1_926467834_20260112-085004.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_forest_maxfps-20260112-#QWLDLN9KY.analysis.json",
+          "off": 86,
+          "size": 240386
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_forest_maxfps-20260112-#QWLDLN9KY.dem",
+          "off": 240548,
+          "size": 183021
+        },
+        {
+          "type": "replay",
+          "name": "26467.replay.xz",
+          "off": 423614,
+          "size": 39152
+        }
+      ]
+    }
+  ]
+}

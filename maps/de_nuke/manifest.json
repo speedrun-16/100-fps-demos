@@ -1,0 +1,35 @@
+{
+  "map": "de_nuke",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "OV6H4BJQJ",
+      "rid": 8722,
+      "hash": "de23b8c978c1ccebeb6c51655b7a38a27b419f7e77233dd727687ff07120ed6b",
+      "t": 10982,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-07T09:31:56Z",
+      "zip": "00010982_STEAM_0_1_29970948_20251007-093156.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_nuke-20251007-#OV6H4BJQJ.analysis.json",
+          "off": 71,
+          "size": 151344
+        },
+        {
+          "type": "dem",
+          "name": "de_nuke-20251007-#OV6H4BJQJ.dem",
+          "off": 151476,
+          "size": 117249
+        },
+        {
+          "type": "replay",
+          "name": "8722.replay.xz",
+          "off": 268769,
+          "size": 21432
+        }
+      ]
+    }
+  ]
+}

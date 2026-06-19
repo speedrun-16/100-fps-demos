@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_enemy_easy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "WGUJALMXB",
+      "rid": 47720,
+      "hash": "b51cfd1f8773e1a01c3045198d31d4a4074bce438466d424e157b4dcf876cd47",
+      "t": 42513,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-05-02T18:45:53Z",
+      "zip": "00042513_STEAM_0_1_408712_20260502-184553.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20260502-#WGUJALMXB.analysis.json",
+          "off": 83,
+          "size": 479504
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20260502-#WGUJALMXB.dem",
+          "off": 479660,
+          "size": 354942
+        },
+        {
+          "type": "replay",
+          "name": "47720.replay.xz",
+          "off": 834647,
+          "size": 73352
+        }
+      ]
+    },
+    {
+      "uid": "318DQHACD",
+      "rid": 24676,
+      "hash": "e97168b319551c6dba9a4bae5f3ee6cbc2555750a05e094ce6e89ba5fe116b21",
+      "t": 44177,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-12-30T22:33:07Z",
+      "zip": "00044177_STEAM_0_1_84733295_20251230-223307.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy_easy-20251230-#318DQHACD.analysis.json",
+          "off": 83,
+          "size": 533122
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_enemy_easy-20251230-#318DQHACD.dem",
+          "off": 533278,
+          "size": 391993
+        },
+        {
+          "type": "replay",
+          "name": "24676.replay.xz",
+          "off": 925316,
+          "size": 76092
+        }
+      ]
+    }
+  ]
+}

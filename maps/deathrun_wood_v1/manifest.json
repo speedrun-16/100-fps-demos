@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_wood_v1",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "PTTAOEBRG",
+      "rid": 52338,
+      "hash": "4acfce3ea4c8080c7d268228b678fc14e3c562bb9f580511a6a757ee1c952652",
+      "t": 5979,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-05-13T07:08:54Z",
+      "zip": "00005979_STEAM_0_0_631815948_20260513-070854.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_wood_v1-20260513-#PTTAOEBRG.analysis.json",
+          "off": 80,
+          "size": 97375
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_wood_v1-20260513-#PTTAOEBRG.dem",
+          "off": 97525,
+          "size": 79178
+        },
+        {
+          "type": "replay",
+          "name": "52338.replay.xz",
+          "off": 176748,
+          "size": 12148
+        }
+      ]
+    }
+  ]
+}

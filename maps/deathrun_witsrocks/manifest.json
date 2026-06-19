@@ -1,0 +1,93 @@
+{
+  "map": "deathrun_witsrocks",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "7FKLQE9OE",
+      "rid": 11915,
+      "hash": "36cb21b70fed76630d97d1d821043ce431c96dc1a44bf1c65ecb6229f0b47420",
+      "t": 14951,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-25T22:32:11Z",
+      "zip": "00014951_STEAM_0_0_24751394_20251025-223211.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_witsrocks-20251025-#7FKLQE9OE.analysis.json",
+          "off": 82,
+          "size": 173186
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_witsrocks-20251025-#7FKLQE9OE.dem",
+          "off": 173340,
+          "size": 160655
+        },
+        {
+          "type": "replay",
+          "name": "11915.replay.xz",
+          "off": 334040,
+          "size": 28612
+        }
+      ]
+    },
+    {
+      "uid": "J6R9K69RC",
+      "rid": 11922,
+      "hash": "e7d7932ea0c393a07e86e4a57471aea3fe9f6f0c179b6219dd60a063758c1fd9",
+      "t": 15195,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-10-25T22:45:12Z",
+      "zip": "00015195_STEAM_0_1_169847134_20251025-224512.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_witsrocks-20251025-#J6R9K69RC.analysis.json",
+          "off": 82,
+          "size": 185628
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_witsrocks-20251025-#J6R9K69RC.dem",
+          "off": 185782,
+          "size": 155741
+        },
+        {
+          "type": "replay",
+          "name": "11922.replay.xz",
+          "off": 341568,
+          "size": 27584
+        }
+      ]
+    },
+    {
+      "uid": "1TA2YCORB",
+      "rid": 11914,
+      "hash": "c9908d759515bdc340bf65ad52f9ab4c362245afc7b5de548fcd673940b8e678",
+      "t": 15714,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-25T22:31:28Z",
+      "zip": "00015714_STEAM_0_1_29970948_20251025-223128.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_witsrocks-20251025-#1TA2YCORB.analysis.json",
+          "off": 82,
+          "size": 208947
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_witsrocks-20251025-#1TA2YCORB.dem",
+          "off": 209101,
+          "size": 167185
+        },
+        {
+          "type": "replay",
+          "name": "11914.replay.xz",
+          "off": 376331,
+          "size": 30388
+        }
+      ]
+    }
+  ]
+}

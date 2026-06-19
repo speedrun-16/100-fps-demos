@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_ukraine",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "3A33GRO7R",
+      "rid": 7933,
+      "hash": "884d5a7169cb48463a8fb0a43af79eef138e149d3b0021e6e72c251f0c8fd003",
+      "t": 15216,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-10-04T22:12:28Z",
+      "zip": "00015216_STEAM_0_1_169847134_20251004-221228.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_ukraine-20251004-#3A33GRO7R.analysis.json",
+          "off": 80,
+          "size": 197436
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_ukraine-20251004-#3A33GRO7R.dem",
+          "off": 197586,
+          "size": 144289
+        },
+        {
+          "type": "replay",
+          "name": "7933.replay.xz",
+          "off": 341919,
+          "size": 29028
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "cs_office",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "FKYF2VDC5",
+      "rid": 2621,
+      "hash": "f507d684ac84011722ba803f34ae2344fd030014ea5ec9aefe6290dd2e2e3d98",
+      "t": 8105,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-18T01:11:04Z",
+      "zip": "00008105_STEAM_0_0_24751394_20250918-011104.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "cs_office-20250918-#FKYF2VDC5.analysis.json",
+          "off": 73,
+          "size": 119428
+        },
+        {
+          "type": "dem",
+          "name": "cs_office-20250918-#FKYF2VDC5.dem",
+          "off": 119564,
+          "size": 92318
+        },
+        {
+          "type": "replay",
+          "name": "2621.replay.xz",
+          "off": 211926,
+          "size": 15700
+        }
+      ]
+    }
+  ]
+}

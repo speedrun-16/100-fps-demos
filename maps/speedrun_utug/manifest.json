@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_utug",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "FYLGSCTUN",
+      "rid": 57914,
+      "hash": "2064f2789971baf6c69fb988a528f85f68a3834db4b5a71a16c7267131d63e93",
+      "t": 14172,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-29T08:25:17Z",
+      "zip": "00014172_STEAM_0_1_771348382_20260529-082517.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_utug-20260529-#FYLGSCTUN.analysis.json",
+          "off": 77,
+          "size": 189186
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_utug-20260529-#FYLGSCTUN.dem",
+          "off": 189330,
+          "size": 146366
+        },
+        {
+          "type": "replay",
+          "name": "57914.replay.xz",
+          "off": 335741,
+          "size": 27760
+        }
+      ]
+    }
+  ]
+}

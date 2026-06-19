@@ -1,0 +1,64 @@
+{
+  "map": "deathrun_aztec_hd",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "SZEWST7TF",
+      "rid": 33825,
+      "hash": "4a9a48ab845054a45dbdc6b4a39eed2aef8513ce50a2b4a524f883351e847718",
+      "t": 14605,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-02-19T13:22:04Z",
+      "zip": "00014605_STEAM_0_1_29970948_20260219-132204.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_aztec_hd-20260219-#SZEWST7TF.analysis.json",
+          "off": 81,
+          "size": 187505
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_aztec_hd-20260219-#SZEWST7TF.dem",
+          "off": 187657,
+          "size": 142686
+        },
+        {
+          "type": "replay",
+          "name": "33825.replay.xz",
+          "off": 330388,
+          "size": 28476
+        }
+      ]
+    },
+    {
+      "uid": "VZSYIWTKA",
+      "rid": 23417,
+      "hash": "869e5ca2a7d1f8a802461f8ee31816d1591a37b9730709a1c1a59326550fb8ee",
+      "t": 14879,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2025-12-23T22:01:04Z",
+      "zip": "00014879_STEAM_0_1_155808091_20251223-220104.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_aztec_hd-20251223-#VZSYIWTKA.analysis.json",
+          "off": 81,
+          "size": 196405
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_aztec_hd-20251223-#VZSYIWTKA.dem",
+          "off": 196557,
+          "size": 144361
+        },
+        {
+          "type": "replay",
+          "name": "23417.replay.xz",
+          "off": 340963,
+          "size": 28176
+        }
+      ]
+    }
+  ]
+}

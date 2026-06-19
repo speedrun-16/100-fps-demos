@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_cliff",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "W33JLEUGZ",
+      "rid": 32750,
+      "hash": "b6f05d83593991aa52c08dac317aa13e22f797e881e7f2a7c395b3a2e9c18b35",
+      "t": 18842,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-02-11T23:19:21Z",
+      "zip": "00018842_STEAM_0_1_771348382_20260211-231921.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_cliff-20260211-#W33JLEUGZ.analysis.json",
+          "off": 78,
+          "size": 219566
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_cliff-20260211-#W33JLEUGZ.dem",
+          "off": 219712,
+          "size": 182776
+        },
+        {
+          "type": "replay",
+          "name": "32750.replay.xz",
+          "off": 402533,
+          "size": 35476
+        }
+      ]
+    }
+  ]
+}

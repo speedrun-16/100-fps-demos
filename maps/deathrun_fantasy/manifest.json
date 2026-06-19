@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fantasy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "JMO1A8FMW",
+      "rid": 15907,
+      "hash": "f2d749ff74da1782d69eb2a4d7884b2e7f48f7c8cbe7426663a2dcbd3bb212eb",
+      "t": 15521,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-11-18T19:59:06Z",
+      "zip": "00015521_STEAM_0_1_169847134_20251118-195906.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fantasy-20251118-#JMO1A8FMW.analysis.json",
+          "off": 80,
+          "size": 197450
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fantasy-20251118-#JMO1A8FMW.dem",
+          "off": 197600,
+          "size": 151460
+        },
+        {
+          "type": "replay",
+          "name": "15907.replay.xz",
+          "off": 349105,
+          "size": 27624
+        }
+      ]
+    }
+  ]
+}

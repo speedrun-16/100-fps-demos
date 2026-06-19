@@ -1,0 +1,35 @@
+{
+  "map": "cs_747",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "ZVPLJEBSO",
+      "rid": 35865,
+      "hash": "7da10051625ec1338fce4ce363ed2013fb906c9c000276d32f22a206494c838c",
+      "t": 8826,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-03-12T17:47:16Z",
+      "zip": "00008826_STEAM_0_1_408712_20260312-174716.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "cs_747-20260312-#ZVPLJEBSO.analysis.json",
+          "off": 70,
+          "size": 127783
+        },
+        {
+          "type": "dem",
+          "name": "cs_747-20260312-#ZVPLJEBSO.dem",
+          "off": 127913,
+          "size": 102654
+        },
+        {
+          "type": "replay",
+          "name": "35865.replay.xz",
+          "off": 230612,
+          "size": 15832
+        }
+      ]
+    }
+  ]
+}

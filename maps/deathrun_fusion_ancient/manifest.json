@@ -1,0 +1,122 @@
+{
+  "map": "deathrun_fusion_ancient",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "TLTHCMBOV",
+      "rid": 23436,
+      "hash": "292418df31ba905a68fe9e15f47a628f7ac10d0aa8262e644044ea1476fa95bd",
+      "t": 12568,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-12-23T22:28:21Z",
+      "zip": "00012568_STEAM_0_0_24751394_20251223-222821.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20251223-#TLTHCMBOV.analysis.json",
+          "off": 87,
+          "size": 151593
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20251223-#TLTHCMBOV.dem",
+          "off": 151757,
+          "size": 131481
+        },
+        {
+          "type": "replay",
+          "name": "23436.replay.xz",
+          "off": 283283,
+          "size": 24336
+        }
+      ]
+    },
+    {
+      "uid": "G2ZHUNDDC",
+      "rid": 23432,
+      "hash": "11a18adf73199d2adbc07f216d2c863e3fc8e729711b9d9eec844f67ee5e4692",
+      "t": 12700,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2025-12-23T22:23:28Z",
+      "zip": "00012700_STEAM_0_1_155808091_20251223-222328.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20251223-#G2ZHUNDDC.analysis.json",
+          "off": 87,
+          "size": 164249
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20251223-#G2ZHUNDDC.dem",
+          "off": 164413,
+          "size": 129022
+        },
+        {
+          "type": "replay",
+          "name": "23432.replay.xz",
+          "off": 293480,
+          "size": 24208
+        }
+      ]
+    },
+    {
+      "uid": "OA7H928DM",
+      "rid": 2722,
+      "hash": "8e0066fb5f0f2ff4898f4e85cb3c8eaa3bed2db1b2dd98289800d6f6ca180df8",
+      "t": 12825,
+      "sid": "STEAM_0:1:169847134",
+      "at": "2025-09-18T13:44:28Z",
+      "zip": "00012825_STEAM_0_1_169847134_20250918-134428.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20250918-#OA7H928DM.analysis.json",
+          "off": 87,
+          "size": 177870
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20250918-#OA7H928DM.dem",
+          "off": 178034,
+          "size": 144694
+        },
+        {
+          "type": "replay",
+          "name": "2722.replay.xz",
+          "off": 322772,
+          "size": 25304
+        }
+      ]
+    },
+    {
+      "uid": "AB28WVZF8",
+      "rid": 1575,
+      "hash": "8f70abe9b7b1a15e5d6d8d53e623ed25b25cf9313a7ea7f2519d993121237708",
+      "t": 13204,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-16T15:41:43Z",
+      "zip": "00013204_STEAM_0_1_926467834_20250916-154143.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20250916-#AB28WVZF8.analysis.json",
+          "off": 87,
+          "size": 151715
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20250916-#AB28WVZF8.dem",
+          "off": 151879,
+          "size": 130636
+        },
+        {
+          "type": "replay",
+          "name": "1575.replay.xz",
+          "off": 282559,
+          "size": 24888
+        }
+      ]
+    }
+  ]
+}

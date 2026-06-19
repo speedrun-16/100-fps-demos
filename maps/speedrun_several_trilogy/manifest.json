@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_several_trilogy",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "44QEOMZZ2",
+      "rid": 21672,
+      "hash": "7fc5aae40a593f334047cca714bad599c4eaa11e7abb95691b06408c39f75ecb",
+      "t": 15238,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-13T07:55:11Z",
+      "zip": "00015238_STEAM_0_1_771348382_20251213-075511.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_several_trilogy-20251213-#44QEOMZZ2.analysis.json",
+          "off": 88,
+          "size": 199503
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_several_trilogy-20251213-#44QEOMZZ2.dem",
+          "off": 199669,
+          "size": 145897
+        },
+        {
+          "type": "replay",
+          "name": "21672.replay.xz",
+          "off": 345611,
+          "size": 28256
+        }
+      ]
+    }
+  ]
+}

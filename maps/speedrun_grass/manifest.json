@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_grass",
+  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "runs": [
+    {
+      "uid": "SPPGIOWZN",
+      "rid": 25480,
+      "hash": "5d6bf348149e2566ab19384b50a737f14e62dce6ae8538935903bbe390f96283",
+      "t": 15320,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2026-01-04T20:58:28Z",
+      "zip": "00015320_STEAM_0_1_84733295_20260104-205828.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_grass-20260104-#SPPGIOWZN.analysis.json",
+          "off": 78,
+          "size": 218442
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_grass-20260104-#SPPGIOWZN.dem",
+          "off": 218588,
+          "size": 159471
+        },
+        {
+          "type": "replay",
+          "name": "25480.replay.xz",
+          "off": 378104,
+          "size": 28252
+        }
+      ]
+    }
+  ]
+}
