@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-01T00:00:00.512Z",
+  "updatedAt": "2026-07-01T12:00:00.488Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -362,6 +362,12 @@
       "best": 27553,
       "at": "2025-09-17T22:39:26Z",
       "manifest": "maps/speedrun_hatemeworld_b1/manifest.json"
+    },
+    "speedrun_legacy": {
+      "n": 1,
+      "best": 37055,
+      "at": "2026-07-01T11:58:49.000Z",
+      "manifest": "maps/speedrun_legacy/manifest.json"
     },
     "speedrun_Tibeck": {
       "n": 1,
