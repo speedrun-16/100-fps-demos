@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-03T12:00:00.390Z",
+  "updatedAt": "2026-07-03T18:00:00.506Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -312,7 +312,7 @@
     "speedrun_solitude": {
       "n": 5,
       "best": 25592,
-      "at": "2026-07-03T11:33:02.000Z",
+      "at": "2026-07-03T12:37:51.000Z",
       "manifest": "maps/speedrun_solitude/manifest.json"
     },
     "de_dust2": {
