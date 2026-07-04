@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_inferno",
+  "updatedAt": "2026-07-04T18:00:03.318Z",
+  "runs": [
+    {
+      "uid": "SZT12CP6U",
+      "rid": 67374,
+      "hash": "f6bfb48aa68443e512a0abfd8ed112299139746ed0b08bdbb1093aaada797e2b",
+      "t": 27574,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-04T12:42:38.000Z",
+      "zip": "00027574_STEAM_0_1_771348382_20260704-124238.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_inferno-20260704-#SZT12CP6U.dem",
+          "off": 70,
+          "size": 257961
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_inferno-20260704-#SZT12CP6U.analysis.json",
+          "off": 258111,
+          "size": 274866
+        },
+        {
+          "type": "replay",
+          "name": "67374.replay.xz",
+          "off": 533022,
+          "size": 51304
+        }
+      ]
+    }
+  ]
+}
