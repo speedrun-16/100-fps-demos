@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-08T18:00:00.429Z",
+  "updatedAt": "2026-07-09T12:00:00.551Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -708,7 +708,7 @@
     "speedrun_1000fps_battle": {
       "n": 13,
       "best": 10464,
-      "at": "2026-06-08T09:45:43Z",
+      "at": "2026-07-09T09:22:56.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "cs_747": {
@@ -868,9 +868,9 @@
       "manifest": "maps/speedrun_evidens_big/manifest.json"
     },
     "speedrun_toni": {
-      "n": 1,
+      "n": 2,
       "best": 13173,
-      "at": "2026-05-23T15:53:33Z",
+      "at": "2026-07-09T09:32:35.000Z",
       "manifest": "maps/speedrun_toni/manifest.json"
     },
     "speedrun_phe3": {

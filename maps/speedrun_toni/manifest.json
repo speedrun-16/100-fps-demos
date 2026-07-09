@@ -1,6 +1,6 @@
 {
   "map": "speedrun_toni",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-07-09T12:00:00.551Z",
   "runs": [
     {
       "uid": "V9BON34AK",
@@ -28,6 +28,35 @@
           "name": "56025.replay.xz",
           "off": 314869,
           "size": 25704
+        }
+      ]
+    },
+    {
+      "uid": "SPLASIZLU",
+      "rid": 69072,
+      "hash": "02b4e8458a49e8b2472b4acb68113138b87bfb71372ff84944af5b2e445c7a27",
+      "t": 13324,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-09T09:32:35.000Z",
+      "zip": "00013324_STEAM_0_0_631815948_20260709-093235.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_toni-20260709-#SPLASIZLU.dem",
+          "off": 67,
+          "size": 141762
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_toni-20260709-#SPLASIZLU.analysis.json",
+          "off": 141906,
+          "size": 156423
+        },
+        {
+          "type": "replay",
+          "name": "69072.replay.xz",
+          "off": 298374,
+          "size": 24836
         }
       ]
     }
