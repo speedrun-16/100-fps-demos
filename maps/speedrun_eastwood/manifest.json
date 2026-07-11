@@ -1,7 +1,36 @@
 {
   "map": "speedrun_eastwood",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-07-11T00:00:00.461Z",
   "runs": [
+    {
+      "uid": "XHD63UDVY",
+      "rid": 69515,
+      "hash": "68ead2fa2f98d000193adeef0d53f984a58bf472ec1fab0ea597952e0b1211e2",
+      "t": 16742,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-10T23:55:54.000Z",
+      "zip": "00016742_STEAM_0_1_771348382_20260710-235554.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20260710-#XHD63UDVY.dem",
+          "off": 71,
+          "size": 170947
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20260710-#XHD63UDVY.analysis.json",
+          "off": 171099,
+          "size": 188848
+        },
+        {
+          "type": "replay",
+          "name": "69515.replay.xz",
+          "off": 359992,
+          "size": 31536
+        }
+      ]
+    },
     {
       "uid": "FK42OQ387",
       "rid": 24421,
