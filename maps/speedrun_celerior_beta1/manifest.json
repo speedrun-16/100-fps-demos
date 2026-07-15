@@ -1,33 +1,33 @@
 {
   "map": "speedrun_celerior_beta1",
-  "updatedAt": "2026-07-07T00:00:00.511Z",
+  "updatedAt": "2026-07-15T12:00:04.206Z",
   "runs": [
     {
-      "uid": "9ZBXHDULO",
-      "rid": 68435,
-      "hash": "a3b200a65619c074978091208f09d067ce5da768401fafb9cf20fcefc70189d1",
-      "t": 19332,
+      "uid": "S5N785D08",
+      "rid": 70413,
+      "hash": "2867a369238807588035176a621f4965495b72df5c33ad1dccd4d43149e0a691",
+      "t": 19207,
       "sid": "STEAM_0:1:771348382",
-      "at": "2026-07-06T18:20:58.000Z",
-      "zip": "00019332_STEAM_0_1_771348382_20260706-182058.zip",
+      "at": "2026-07-15T09:56:59.000Z",
+      "zip": "00019207_STEAM_0_1_771348382_20260715-095659.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_celerior_beta1-20260706-#9ZBXHDULO.dem",
+          "name": "speedrun_celerior_beta1-20260715-#S5N785D08.dem",
           "off": 77,
-          "size": 200621
+          "size": 191124
         },
         {
           "type": "analysis",
-          "name": "speedrun_celerior_beta1-20260706-#9ZBXHDULO.analysis.json",
-          "off": 200785,
-          "size": 211367
+          "name": "speedrun_celerior_beta1-20260715-#S5N785D08.analysis.json",
+          "off": 191288,
+          "size": 198747
         },
         {
           "type": "replay",
-          "name": "68435.replay.xz",
-          "off": 412197,
-          "size": 37168
+          "name": "70413.replay.xz",
+          "off": 390080,
+          "size": 37500
         }
       ]
     },
@@ -57,6 +57,35 @@
           "name": "68351.replay.xz",
           "off": 404887,
           "size": 36696
+        }
+      ]
+    },
+    {
+      "uid": "LUQT3NKP5",
+      "rid": 70422,
+      "hash": "8fdc681688e4a3aaec22191ab388bce46ad16910cbb7e5bd432348f1ff44f6c4",
+      "t": 19862,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-15T10:30:14.000Z",
+      "zip": "00019862_STEAM_0_0_631815948_20260715-103014.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celerior_beta1-20260715-#LUQT3NKP5.dem",
+          "off": 77,
+          "size": 187219
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celerior_beta1-20260715-#LUQT3NKP5.analysis.json",
+          "off": 187383,
+          "size": 202716
+        },
+        {
+          "type": "replay",
+          "name": "70422.replay.xz",
+          "off": 390144,
+          "size": 37008
         }
       ]
     }
