@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-17T00:00:00.697Z",
+  "updatedAt": "2026-07-17T12:00:00.582Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -82,9 +82,9 @@
       "manifest": "maps/speedrun_skyline/manifest.json"
     },
     "speedrun_pupsik2": {
-      "n": 7,
+      "n": 8,
       "best": 12815,
-      "at": "2026-01-30T01:30:07Z",
+      "at": "2026-07-17T08:16:05.000Z",
       "manifest": "maps/speedrun_pupsik2/manifest.json"
     },
     "speedrun_retro_mini": {
@@ -143,8 +143,8 @@
     },
     "speedrun_pupsik": {
       "n": 7,
-      "best": 9258,
-      "at": "2026-07-16T19:53:55.000Z",
+      "best": 9217,
+      "at": "2026-07-17T08:26:11.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_svet_ext": {

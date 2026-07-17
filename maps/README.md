@@ -7,8 +7,8 @@ Map-level archive directory for the 100 FPS category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 295 |
-| Archived PBs | 967 |
-| Latest Update | 2026-07-16 |
+| Archived PBs | 968 |
+| Latest Update | 2026-07-17 |
 
 ## Structure
 
