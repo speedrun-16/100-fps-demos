@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-17T12:00:00.582Z",
+  "updatedAt": "2026-07-17T18:00:07.842Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -788,6 +788,12 @@
       "best": 20110,
       "at": "2026-05-15T17:48:54Z",
       "manifest": "maps/speedrun_miqu/manifest.json"
+    },
+    "deathrun_mozeoze": {
+      "n": 1,
+      "best": 17176,
+      "at": "2026-07-17T14:29:53.000Z",
+      "manifest": "maps/deathrun_mozeoze/manifest.json"
     },
     "deathrun_greenworld_v1": {
       "n": 4,

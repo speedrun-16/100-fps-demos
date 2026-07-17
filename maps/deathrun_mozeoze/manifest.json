@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_mozeoze",
+  "updatedAt": "2026-07-17T18:00:07.842Z",
+  "runs": [
+    {
+      "uid": "BDQU6OF58",
+      "rid": 71381,
+      "hash": "4e5c05b3953e9e21add2e88d7740ac7955363e8ed918add305d775a5cfc68f63",
+      "t": 17176,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-17T14:29:53.000Z",
+      "zip": "00017176_STEAM_0_1_771348382_20260717-142953.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_mozeoze-20260717-#BDQU6OF58.dem",
+          "off": 70,
+          "size": 173114
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_mozeoze-20260717-#BDQU6OF58.analysis.json",
+          "off": 173264,
+          "size": 205460
+        },
+        {
+          "type": "replay",
+          "name": "71381.replay.xz",
+          "off": 378769,
+          "size": 31136
+        }
+      ]
+    }
+  ]
+}
