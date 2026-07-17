@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-15T18:00:03.515Z",
+  "updatedAt": "2026-07-17T00:00:00.697Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -142,9 +142,9 @@
       "manifest": "maps/speedrun_Domination/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 5,
+      "n": 7,
       "best": 9258,
-      "at": "2026-06-07T12:22:00Z",
+      "at": "2026-07-16T19:53:55.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_svet_ext": {
@@ -430,9 +430,9 @@
       "manifest": "maps/speedrun_medium2/manifest.json"
     },
     "speedrun_celer": {
-      "n": 1,
-      "best": 10606,
-      "at": "2026-07-05T22:47:53.000Z",
+      "n": 2,
+      "best": 10464,
+      "at": "2026-07-16T20:22:02.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "speedrun_majestic": {
@@ -552,13 +552,13 @@
     "speedrun_nazwa-robocza": {
       "n": 2,
       "best": 12113,
-      "at": "2026-07-15T08:45:01.000Z",
+      "at": "2026-07-16T18:24:18.000Z",
       "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
     },
     "speedrun_pool_simple": {
-      "n": 10,
+      "n": 11,
       "best": 12332,
-      "at": "2026-05-23T13:48:06Z",
+      "at": "2026-07-16T20:07:29.000Z",
       "manifest": "maps/speedrun_pool_simple/manifest.json"
     },
     "de_aztec": {
