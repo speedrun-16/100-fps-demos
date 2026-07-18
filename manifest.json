@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-17T18:00:07.842Z",
+  "updatedAt": "2026-07-18T00:00:00.438Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1408,9 +1408,9 @@
       "manifest": "maps/speedrun_bunnyrace_beta2/manifest.json"
     },
     "speedrun_easy_v1": {
-      "n": 10,
+      "n": 11,
       "best": 15444,
-      "at": "2026-05-10T16:52:13Z",
+      "at": "2026-07-17T20:19:11.000Z",
       "manifest": "maps/speedrun_easy_v1/manifest.json"
     },
     "deathrun_all_green": {
