@@ -1,6 +1,6 @@
 {
   "map": "speedrun_sudpi",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-07-19T18:00:01.200Z",
   "runs": [
     {
       "uid": "WAAH31RSK",
@@ -61,31 +61,60 @@
       ]
     },
     {
-      "uid": "L71CW0R16",
-      "rid": 31911,
-      "hash": "4e017e53722d57b7efbf2737c0158d522cb9eb2ea46e2e58c47317b1b2a0cd1b",
-      "t": 12880,
-      "sid": "STEAM_0:1:771348382",
-      "at": "2026-02-03T14:14:01Z",
-      "zip": "00012880_STEAM_0_1_771348382_20260203-141401.zip",
+      "uid": "L9C78EA0T",
+      "rid": 72446,
+      "hash": "7fdcb1095d83ededb398ac84d8c542863c2972f050c42cd1e6c1d428648c90f2",
+      "t": 12869,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-19T17:14:11.000Z",
+      "zip": "00012869_STEAM_0_0_631815948_20260719-171411.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_sudpi-20260203-#L71CW0R16.analysis.json",
-          "off": 78,
-          "size": 158763
+          "type": "dem",
+          "name": "speedrun_sudpi-20260719-#L9C78EA0T.dem",
+          "off": 68,
+          "size": 139025
         },
         {
-          "type": "dem",
-          "name": "speedrun_sudpi-20260203-#L71CW0R16.dem",
-          "off": 158909,
-          "size": 128835
+          "type": "analysis",
+          "name": "speedrun_sudpi-20260719-#L9C78EA0T.analysis.json",
+          "off": 139171,
+          "size": 136684
         },
         {
           "type": "replay",
-          "name": "31911.replay.xz",
-          "off": 287789,
-          "size": 25388
+          "name": "72446.replay.xz",
+          "off": 275900,
+          "size": 24880
+        }
+      ]
+    },
+    {
+      "uid": "PQRQGN22E",
+      "rid": 72447,
+      "hash": "d76d3b3053afd2794f626f734797abe102229baddbd44ea0193a15fd07dd4e48",
+      "t": 12875,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-19T17:14:16.000Z",
+      "zip": "00012875_STEAM_0_1_771348382_20260719-171416.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_sudpi-20260719-#PQRQGN22E.dem",
+          "off": 68,
+          "size": 143498
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_sudpi-20260719-#PQRQGN22E.analysis.json",
+          "off": 143644,
+          "size": 144976
+        },
+        {
+          "type": "replay",
+          "name": "72447.replay.xz",
+          "off": 288665,
+          "size": 25608
         }
       ]
     }

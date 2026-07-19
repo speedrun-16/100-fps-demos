@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-18T12:00:00.461Z",
+  "updatedAt": "2026-07-19T18:00:01.200Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -154,9 +154,9 @@
       "manifest": "maps/speedrun_svet_ext/manifest.json"
     },
     "speedrun_sudpi": {
-      "n": 3,
+      "n": 4,
       "best": 12671,
-      "at": "2026-02-03T14:14:01Z",
+      "at": "2026-07-19T17:14:16.000Z",
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
     "speedrun_joker1": {
@@ -522,7 +522,7 @@
     "speedrun_grasz_final": {
       "n": 7,
       "best": 15331,
-      "at": "2026-04-11T15:30:08Z",
+      "at": "2026-07-19T17:59:22.000Z",
       "manifest": "maps/speedrun_grasz_final/manifest.json"
     },
     "speedrun_shiny": {
@@ -550,9 +550,9 @@
       "manifest": "maps/speedrun_purple_space/manifest.json"
     },
     "speedrun_nazwa-robocza": {
-      "n": 2,
-      "best": 12113,
-      "at": "2026-07-16T18:24:18.000Z",
+      "n": 3,
+      "best": 12012,
+      "at": "2026-07-19T14:31:08.000Z",
       "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
     },
     "speedrun_pool_simple": {
@@ -586,9 +586,9 @@
       "manifest": "maps/deathrun_ooorgle/manifest.json"
     },
     "speedrun_opcode_mini": {
-      "n": 3,
-      "best": 6647,
-      "at": "2026-05-29T04:43:15Z",
+      "n": 4,
+      "best": 6600,
+      "at": "2026-07-19T12:03:37.000Z",
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -1126,9 +1126,9 @@
       "manifest": "maps/speedrun_noob2/manifest.json"
     },
     "speedrun_small_white": {
-      "n": 3,
-      "best": 10882,
-      "at": "2026-06-07T16:29:25Z",
+      "n": 5,
+      "best": 10624,
+      "at": "2026-07-19T13:20:46.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "deathrun_forest2_final": {
@@ -1270,9 +1270,9 @@
       "manifest": "maps/speedrun_stripes_red/manifest.json"
     },
     "speedrun_triskelion_ruins_beta2": {
-      "n": 7,
+      "n": 8,
       "best": 13460,
-      "at": "2025-11-25T02:03:14Z",
+      "at": "2026-07-19T16:20:39.000Z",
       "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
     },
     "speedrun_spiral": {
@@ -1336,9 +1336,9 @@
       "manifest": "maps/deathrun_congoy_easy/manifest.json"
     },
     "speedrun_opcode_medium_beta3": {
-      "n": 4,
+      "n": 5,
       "best": 10055,
-      "at": "2026-05-22T18:47:46Z",
+      "at": "2026-07-19T12:33:39.000Z",
       "manifest": "maps/speedrun_opcode_medium_beta3/manifest.json"
     },
     "speedrun_spg_b1": {
