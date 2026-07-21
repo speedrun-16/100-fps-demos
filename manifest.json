@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-21T12:00:00.487Z",
+  "updatedAt": "2026-07-21T18:00:03.572Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1086,7 +1086,7 @@
     "speedrun_vantara": {
       "n": 3,
       "best": 19249,
-      "at": "2026-07-21T07:57:16.000Z",
+      "at": "2026-07-21T15:15:40.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
@@ -1330,9 +1330,9 @@
       "manifest": "maps/deathrun_elite_b3/manifest.json"
     },
     "speedrun_30min": {
-      "n": 7,
+      "n": 8,
       "best": 8843,
-      "at": "2026-05-16T09:27:21Z",
+      "at": "2026-07-21T12:33:55.000Z",
       "manifest": "maps/speedrun_30min/manifest.json"
     },
     "deathrun_congoy_easy": {
@@ -1374,7 +1374,7 @@
     "de_dust": {
       "n": 13,
       "best": 9081,
-      "at": "2026-07-20T18:04:04.000Z",
+      "at": "2026-07-21T12:57:07.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_danmal_v1": {
