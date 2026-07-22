@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-22T00:00:10.616Z",
+  "updatedAt": "2026-07-22T18:00:00.862Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -214,9 +214,9 @@
       "manifest": "maps/deathrun_witsrocks/manifest.json"
     },
     "speedrun_svet": {
-      "n": 7,
+      "n": 9,
       "best": 16997,
-      "at": "2026-04-12T16:52:31Z",
+      "at": "2026-07-22T15:02:40.000Z",
       "manifest": "maps/speedrun_svet/manifest.json"
     },
     "speedrun_bieber_maxfps": {
@@ -430,9 +430,9 @@
       "manifest": "maps/speedrun_medium2/manifest.json"
     },
     "speedrun_celer": {
-      "n": 2,
+      "n": 3,
       "best": 10464,
-      "at": "2026-07-16T20:22:02.000Z",
+      "at": "2026-07-22T17:49:55.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "speedrun_majestic": {
@@ -1108,9 +1108,9 @@
       "manifest": "maps/speedrun_ukraine/manifest.json"
     },
     "speedrun_kendavosky": {
-      "n": 1,
-      "best": 37666,
-      "at": "2025-10-03T18:35:02Z",
+      "n": 3,
+      "best": 15792,
+      "at": "2026-07-22T14:06:04.000Z",
       "manifest": "maps/speedrun_kendavosky/manifest.json"
     },
     "speedrun_forest_maxfps": {
