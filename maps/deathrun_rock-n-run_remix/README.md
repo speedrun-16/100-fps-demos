@@ -1,4 +1,4 @@
-# speedrun_wkr
+# deathrun_rock-n-run_remix
 
 Personal best demo archive for this map in the 100 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 100 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 4 |
+| Archived PBs | 3 |
 | Latest Update | 2026-07-21 |
 
 ## Structure

@@ -1,0 +1,93 @@
+{
+  "map": "deathrun_rock-n-run_remix",
+  "updatedAt": "2026-07-22T00:00:10.616Z",
+  "runs": [
+    {
+      "uid": "OZBPFM8RV",
+      "rid": 73591,
+      "hash": "14f1952aa829a3506476cafd210e384d251354ba89570066d7e42529efae5e2d",
+      "t": 24575,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-21T19:14:57.000Z",
+      "zip": "00024575_STEAM_0_1_771348382_20260721-191457.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260721-#OZBPFM8RV.dem",
+          "off": 79,
+          "size": 229801
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260721-#OZBPFM8RV.analysis.json",
+          "off": 229969,
+          "size": 249593
+        },
+        {
+          "type": "replay",
+          "name": "73591.replay.xz",
+          "off": 479607,
+          "size": 44576
+        }
+      ]
+    },
+    {
+      "uid": "ZPKT092IC",
+      "rid": 73576,
+      "hash": "8f20c4dc975f7b139ac446b5ce1334af5fbe699ceb92b6dc77ba5e8660954e86",
+      "t": 25322,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-07-21T18:40:56.000Z",
+      "zip": "00025322_STEAM_0_1_408712_20260721-184056.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260721-#ZPKT092IC.dem",
+          "off": 79,
+          "size": 270483
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260721-#ZPKT092IC.analysis.json",
+          "off": 270651,
+          "size": 287925
+        },
+        {
+          "type": "replay",
+          "name": "73576.replay.xz",
+          "off": 558621,
+          "size": 45116
+        }
+      ]
+    },
+    {
+      "uid": "17YG1N6L0",
+      "rid": 73572,
+      "hash": "72f574821d63a0b88cc9e08ea153b5d2eb854d489f30aa6ac14209b934a7e581",
+      "t": 25408,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-21T18:38:22.000Z",
+      "zip": "00025408_STEAM_0_0_631815948_20260721-183822.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260721-#17YG1N6L0.dem",
+          "off": 79,
+          "size": 248444
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260721-#17YG1N6L0.analysis.json",
+          "off": 248612,
+          "size": 285476
+        },
+        {
+          "type": "replay",
+          "name": "73572.replay.xz",
+          "off": 534133,
+          "size": 45808
+        }
+      ]
+    }
+  ]
+}

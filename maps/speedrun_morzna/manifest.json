@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_morzna",
+  "updatedAt": "2026-07-22T00:00:10.614Z",
+  "runs": [
+    {
+      "uid": "JSCM28QTV",
+      "rid": 73610,
+      "hash": "8c09b72fe85d5492dfebe9121a2920bd7fdf5e5f03fac21b953ee66e639bcbde",
+      "t": 23501,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-21T20:28:35.000Z",
+      "zip": "00023501_STEAM_0_0_631815948_20260721-202835.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_morzna-20260721-#JSCM28QTV.dem",
+          "off": 69,
+          "size": 212524
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_morzna-20260721-#JSCM28QTV.analysis.json",
+          "off": 212672,
+          "size": 260087
+        },
+        {
+          "type": "replay",
+          "name": "73610.replay.xz",
+          "off": 472804,
+          "size": 42788
+        }
+      ]
+    }
+  ]
+}
