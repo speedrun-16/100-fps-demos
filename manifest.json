@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-23T00:00:00.849Z",
+  "updatedAt": "2026-07-23T12:00:00.459Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1085,8 +1085,8 @@
     },
     "speedrun_vantara": {
       "n": 3,
-      "best": 19249,
-      "at": "2026-07-21T15:15:40.000Z",
+      "best": 19239,
+      "at": "2026-07-23T11:06:27.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
