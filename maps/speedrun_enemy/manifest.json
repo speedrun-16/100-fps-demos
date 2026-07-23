@@ -1,6 +1,6 @@
 {
   "map": "speedrun_enemy",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-07-23T00:00:00.849Z",
   "runs": [
     {
       "uid": "2N9QO2RQH",
@@ -28,6 +28,35 @@
           "name": "7535.replay.xz",
           "off": 837173,
           "size": 75020
+        }
+      ]
+    },
+    {
+      "uid": "12SP2Y3CJ",
+      "rid": 74092,
+      "hash": "0f5f973a975746d5b731c43503e4866cc60b746f76f9f82ff4a5ada7c8e1e895",
+      "t": 46824,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-22T21:24:01.000Z",
+      "zip": "00046824_STEAM_0_0_631815948_20260722-212401.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_enemy-20260722-#12SP2Y3CJ.dem",
+          "off": 68,
+          "size": 394250
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_enemy-20260722-#12SP2Y3CJ.analysis.json",
+          "off": 394396,
+          "size": 493286
+        },
+        {
+          "type": "replay",
+          "name": "74092.replay.xz",
+          "off": 887727,
+          "size": 77672
         }
       ]
     }
