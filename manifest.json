@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-23T12:00:00.459Z",
+  "updatedAt": "2026-07-24T18:00:00.785Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -801,6 +801,12 @@
       "at": "2026-04-16T16:58:04Z",
       "manifest": "maps/deathrun_greenworld_v1/manifest.json"
     },
+    "speedrun_sickmilki": {
+      "n": 1,
+      "best": 20941,
+      "at": "2026-07-24T17:43:24.000Z",
+      "manifest": "maps/speedrun_sickmilki/manifest.json"
+    },
     "speedrun_aztekek2_final": {
       "n": 2,
       "best": 16854,
@@ -982,9 +988,9 @@
       "manifest": "maps/speedrun_replay_return/manifest.json"
     },
     "speedrun_evidens": {
-      "n": 10,
+      "n": 12,
       "best": 12176,
-      "at": "2026-05-10T11:33:53Z",
+      "at": "2026-07-24T15:22:09.000Z",
       "manifest": "maps/speedrun_evidens/manifest.json"
     },
     "speedrun_notdeadyet": {
@@ -1336,9 +1342,9 @@
       "manifest": "maps/deathrun_elite_b3/manifest.json"
     },
     "speedrun_30min": {
-      "n": 8,
+      "n": 9,
       "best": 8843,
-      "at": "2026-07-21T12:33:55.000Z",
+      "at": "2026-07-24T13:29:20.000Z",
       "manifest": "maps/speedrun_30min/manifest.json"
     },
     "deathrun_congoy_easy": {
@@ -1468,9 +1474,9 @@
       "manifest": "maps/speedrun_dust2_kaniel/manifest.json"
     },
     "speedrun_hiddenlab": {
-      "n": 6,
+      "n": 7,
       "best": 13027,
-      "at": "2026-07-22T21:02:31.000Z",
+      "at": "2026-07-24T16:34:28.000Z",
       "manifest": "maps/speedrun_hiddenlab/manifest.json"
     },
     "speedrun_noideaforname": {
