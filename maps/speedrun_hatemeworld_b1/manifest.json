@@ -1,33 +1,62 @@
 {
   "map": "speedrun_hatemeworld_b1",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-07-25T18:00:04.726Z",
   "runs": [
     {
-      "uid": "N1OJCM4TD",
-      "rid": 2617,
-      "hash": "c3d2358ccabfe0cc661e0a89b1ba3ef80850cbfa751a16827446b403093bca87",
-      "t": 27553,
+      "uid": "QR9Y0VGHM",
+      "rid": 75108,
+      "hash": "ff0b3b40f525528c77ffedfc6f19bc87b3ba6cb647dafbeac1b841c7e2adba76",
+      "t": 27302,
       "sid": "STEAM_0:0:24751394",
-      "at": "2025-09-17T22:39:26Z",
-      "zip": "00027553_STEAM_0_0_24751394_20250917-223926.zip",
+      "at": "2026-07-25T15:44:29.000Z",
+      "zip": "00027302_STEAM_0_0_24751394_20260725-154429.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_hatemeworld_b1-20250917-#N1OJCM4TD.analysis.json",
-          "off": 87,
-          "size": 297034
+          "type": "dem",
+          "name": "speedrun_hatemeworld_b1-20260725-#QR9Y0VGHM.dem",
+          "off": 77,
+          "size": 241508
         },
         {
-          "type": "dem",
-          "name": "speedrun_hatemeworld_b1-20250917-#N1OJCM4TD.dem",
-          "off": 297198,
-          "size": 233094
+          "type": "analysis",
+          "name": "speedrun_hatemeworld_b1-20260725-#QR9Y0VGHM.analysis.json",
+          "off": 241672,
+          "size": 294580
         },
         {
           "type": "replay",
-          "name": "2617.replay.xz",
-          "off": 530336,
-          "size": 51452
+          "name": "75108.replay.xz",
+          "off": 536297,
+          "size": 51276
+        }
+      ]
+    },
+    {
+      "uid": "UE3BBDF5V",
+      "rid": 75110,
+      "hash": "2657e74342100888834f1e9a0eeb023b82777588356521a41abd67115dc1d4eb",
+      "t": 33082,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-25T15:55:17.000Z",
+      "zip": "00033082_STEAM_0_0_631815948_20260725-155517.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_hatemeworld_b1-20260725-#UE3BBDF5V.dem",
+          "off": 77,
+          "size": 389617
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_hatemeworld_b1-20260725-#UE3BBDF5V.analysis.json",
+          "off": 389781,
+          "size": 601193
+        },
+        {
+          "type": "replay",
+          "name": "75110.replay.xz",
+          "off": 991019,
+          "size": 63448
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-25T12:00:01.330Z",
+  "updatedAt": "2026-07-25T18:00:04.727Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -180,7 +180,7 @@
     "speedrun_retz": {
       "n": 2,
       "best": 14429,
-      "at": "2026-07-25T11:58:22.000Z",
+      "at": "2026-07-25T12:04:54.000Z",
       "manifest": "maps/speedrun_retz/manifest.json"
     },
     "speedrun_reloaded": {
@@ -364,9 +364,9 @@
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_hatemeworld_b1": {
-      "n": 1,
-      "best": 27553,
-      "at": "2025-09-17T22:39:26Z",
+      "n": 2,
+      "best": 27302,
+      "at": "2026-07-25T15:55:17.000Z",
       "manifest": "maps/speedrun_hatemeworld_b1/manifest.json"
     },
     "speedrun_legacy": {
@@ -527,8 +527,8 @@
     },
     "speedrun_fur_beta1": {
       "n": 1,
-      "best": 373243,
-      "at": "2026-07-25T10:12:29.000Z",
+      "best": 268355,
+      "at": "2026-07-25T16:27:42.000Z",
       "manifest": "maps/speedrun_fur_beta1/manifest.json"
     },
     "speedrun_shiny": {
@@ -1222,9 +1222,9 @@
       "manifest": "maps/deathrun_low_skill/manifest.json"
     },
     "speedrun_expanse": {
-      "n": 1,
+      "n": 2,
       "best": 43497,
-      "at": "2025-12-07T17:06:54Z",
+      "at": "2026-07-25T14:17:50.000Z",
       "manifest": "maps/speedrun_expanse/manifest.json"
     },
     "speedrun_wex": {
