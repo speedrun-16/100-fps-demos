@@ -1,33 +1,33 @@
 {
   "map": "speedrun_sickmilki",
-  "updatedAt": "2026-07-24T18:00:00.784Z",
+  "updatedAt": "2026-07-25T00:00:01.438Z",
   "runs": [
     {
-      "uid": "3UXIL67BC",
-      "rid": 74891,
-      "hash": "960e1bb8df91fa0d96bccda4ea8ff3a69ddb42fcb5c286790660ca18ef3aece2",
-      "t": 20941,
+      "uid": "WX8Q9BZNS",
+      "rid": 74899,
+      "hash": "fe26c2f5da3b847d884e9044bcbc3c279c487756ca6a47e12c4fd492e5cb0f7b",
+      "t": 20649,
       "sid": "STEAM_0:1:771348382",
-      "at": "2026-07-24T17:43:24.000Z",
-      "zip": "00020941_STEAM_0_1_771348382_20260724-174324.zip",
+      "at": "2026-07-24T18:32:52.000Z",
+      "zip": "00020649_STEAM_0_1_771348382_20260724-183252.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_sickmilki-20260724-#3UXIL67BC.dem",
+          "name": "speedrun_sickmilki-20260724-#WX8Q9BZNS.dem",
           "off": 72,
-          "size": 201549
+          "size": 196969
         },
         {
           "type": "analysis",
-          "name": "speedrun_sickmilki-20260724-#3UXIL67BC.analysis.json",
-          "off": 201703,
-          "size": 223023
+          "name": "speedrun_sickmilki-20260724-#WX8Q9BZNS.analysis.json",
+          "off": 197123,
+          "size": 213703
         },
         {
           "type": "replay",
-          "name": "74891.replay.xz",
-          "off": 424771,
-          "size": 39176
+          "name": "74899.replay.xz",
+          "off": 410871,
+          "size": 39044
         }
       ]
     }
