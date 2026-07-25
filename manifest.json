@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-25T00:00:01.438Z",
+  "updatedAt": "2026-07-25T12:00:01.330Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -180,7 +180,7 @@
     "speedrun_retz": {
       "n": 2,
       "best": 14429,
-      "at": "2025-11-16T11:00:53Z",
+      "at": "2026-07-25T11:58:22.000Z",
       "manifest": "maps/speedrun_retz/manifest.json"
     },
     "speedrun_reloaded": {
@@ -527,8 +527,8 @@
     },
     "speedrun_fur_beta1": {
       "n": 1,
-      "best": 619102,
-      "at": "2026-07-24T21:52:33.000Z",
+      "best": 373243,
+      "at": "2026-07-25T10:12:29.000Z",
       "manifest": "maps/speedrun_fur_beta1/manifest.json"
     },
     "speedrun_shiny": {
@@ -1096,9 +1096,9 @@
       "manifest": "maps/speedrun_meowkatoz/manifest.json"
     },
     "speedrun_vantara": {
-      "n": 3,
-      "best": 19239,
-      "at": "2026-07-23T11:06:27.000Z",
+      "n": 4,
+      "best": 19157,
+      "at": "2026-07-25T09:51:34.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
