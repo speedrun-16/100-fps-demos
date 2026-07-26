@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-25T18:00:04.727Z",
+  "updatedAt": "2026-07-26T00:00:01.271Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1136,6 +1136,12 @@
       "best": 2428,
       "at": "2025-12-15T17:06:07Z",
       "manifest": "maps/speedrun_yagrehsart_100fps/manifest.json"
+    },
+    "speedrun_furame": {
+      "n": 7,
+      "best": 20808,
+      "at": "2026-07-25T23:01:19.000Z",
+      "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_noob2": {
       "n": 6,
