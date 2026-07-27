@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-26T18:00:00.828Z",
+  "updatedAt": "2026-07-27T00:00:00.526Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -830,6 +830,12 @@
       "best": 18029,
       "at": "2025-11-17T17:09:57Z",
       "manifest": "maps/speedrun_r3x/manifest.json"
+    },
+    "speedrun_tiainen_beta1": {
+      "n": 1,
+      "best": 62072,
+      "at": "2026-07-26T18:35:32.000Z",
+      "manifest": "maps/speedrun_tiainen_beta1/manifest.json"
     },
     "deathrun_badblood_v2": {
       "n": 1,
