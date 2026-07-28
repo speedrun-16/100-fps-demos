@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-28T06:00:00.812Z",
+  "updatedAt": "2026-07-28T12:00:00.591Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -178,9 +178,9 @@
       "manifest": "maps/speedrun_assault_fix/manifest.json"
     },
     "speedrun_duster_beta1": {
-      "n": 2,
+      "n": 3,
       "best": 22257,
-      "at": "2026-07-28T05:59:05.000Z",
+      "at": "2026-07-28T10:58:03.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -250,9 +250,9 @@
       "manifest": "maps/deathrun_evidens/manifest.json"
     },
     "speedrun_outside_estonia": {
-      "n": 4,
-      "best": 10560,
-      "at": "2026-05-15T18:58:39Z",
+      "n": 5,
+      "best": 10523,
+      "at": "2026-07-28T08:14:09.000Z",
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_slavers": {
@@ -1408,9 +1408,9 @@
       "manifest": "maps/speedrun_tarantula/manifest.json"
     },
     "speedrun_lewc": {
-      "n": 1,
-      "best": 9843,
-      "at": "2025-09-25T19:57:19Z",
+      "n": 2,
+      "best": 9718,
+      "at": "2026-07-28T10:41:44.000Z",
       "manifest": "maps/speedrun_lewc/manifest.json"
     },
     "de_dust": {
