@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-28T00:00:04.054Z",
+  "updatedAt": "2026-07-28T06:00:00.812Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -179,8 +179,8 @@
     },
     "speedrun_duster_beta1": {
       "n": 2,
-      "best": 22380,
-      "at": "2026-07-27T22:28:25.000Z",
+      "best": 22257,
+      "at": "2026-07-28T05:59:05.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
