@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-07-27T00:00:00.526Z",
+  "updatedAt": "2026-07-28T00:00:04.054Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -176,6 +176,12 @@
       "best": 19256,
       "at": "2026-04-11T16:40:05Z",
       "manifest": "maps/speedrun_assault_fix/manifest.json"
+    },
+    "speedrun_duster_beta1": {
+      "n": 2,
+      "best": 22380,
+      "at": "2026-07-27T22:28:25.000Z",
+      "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
       "n": 2,
@@ -1162,9 +1168,9 @@
       "manifest": "maps/speedrun_noob2/manifest.json"
     },
     "speedrun_small_white": {
-      "n": 5,
+      "n": 6,
       "best": 10624,
-      "at": "2026-07-19T13:20:46.000Z",
+      "at": "2026-07-27T19:52:37.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "deathrun_forest2_final": {
