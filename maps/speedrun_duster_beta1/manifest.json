@@ -1,6 +1,6 @@
 {
   "map": "speedrun_duster_beta1",
-  "updatedAt": "2026-07-28T18:00:00.454Z",
+  "updatedAt": "2026-07-29T00:00:00.693Z",
   "runs": [
     {
       "uid": "0AUAWLXOI",
@@ -32,89 +32,89 @@
       ]
     },
     {
-      "uid": "RCB5P0O91",
-      "rid": 75997,
-      "hash": "4d7c67d99a89cecd85f499088a5638ad4864f93726148b31f27a56a728bb23dc",
-      "t": 22679,
+      "uid": "5BUY9D46Z",
+      "rid": 76188,
+      "hash": "5fccff951c4b9432249f2e1de31edd19ea0d5a982e1ea164d6599c03d7b31bc2",
+      "t": 22306,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-07-28T10:58:03.000Z",
-      "zip": "00022679_STEAM_0_0_631815948_20260728-105803.zip",
+      "at": "2026-07-28T20:39:41.000Z",
+      "zip": "00022306_STEAM_0_0_631815948_20260728-203941.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_duster_beta1-20260728-#RCB5P0O91.dem",
+          "name": "speedrun_duster_beta1-20260728-#5BUY9D46Z.dem",
           "off": 75,
-          "size": 207154
+          "size": 229346
         },
         {
           "type": "analysis",
-          "name": "speedrun_duster_beta1-20260728-#RCB5P0O91.analysis.json",
-          "off": 207314,
-          "size": 249841
+          "name": "speedrun_duster_beta1-20260728-#5BUY9D46Z.analysis.json",
+          "off": 229506,
+          "size": 258569
         },
         {
           "type": "replay",
-          "name": "75997.replay.xz",
-          "off": 457200,
-          "size": 39336
+          "name": "76188.replay.xz",
+          "off": 488120,
+          "size": 39712
         }
       ]
     },
     {
-      "uid": "OF5NS7UR1",
-      "rid": 75795,
-      "hash": "2aed6067c84118b746d1410f594741d6b181deeee2df25bbb0bf494b2b7d20b1",
-      "t": 22848,
-      "sid": "STEAM_0:1:771348382",
-      "at": "2026-07-27T20:34:59.000Z",
-      "zip": "00022848_STEAM_0_1_771348382_20260727-203459.zip",
-      "files": [
-        {
-          "type": "dem",
-          "name": "speedrun_duster_beta1-20260727-#OF5NS7UR1.dem",
-          "off": 75,
-          "size": 256870
-        },
-        {
-          "type": "analysis",
-          "name": "speedrun_duster_beta1-20260727-#OF5NS7UR1.analysis.json",
-          "off": 257030,
-          "size": 253966
-        },
-        {
-          "type": "replay",
-          "name": "75795.replay.xz",
-          "off": 511041,
-          "size": 39880
-        }
-      ]
-    },
-    {
-      "uid": "RDLZ5ERT2",
-      "rid": 76004,
-      "hash": "eccb97cf9f9722ff9c07611947c2a595f52322ca0a2d58487885eab2ccb12f1b",
-      "t": 23390,
+      "uid": "WPKLSCBT7",
+      "rid": 76180,
+      "hash": "b0f1f05a1c6cef533bb0d1f6cf23499876b8f635edee50639f723e884b5c12a4",
+      "t": 22599,
       "sid": "STEAM_0:1:780576434",
-      "at": "2026-07-28T12:54:04.000Z",
-      "zip": "00023390_STEAM_0_1_780576434_20260728-125404.zip",
+      "at": "2026-07-28T20:13:28.000Z",
+      "zip": "00022599_STEAM_0_1_780576434_20260728-201328.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_duster_beta1-20260728-#RDLZ5ERT2.dem",
+          "name": "speedrun_duster_beta1-20260728-#WPKLSCBT7.dem",
           "off": 75,
-          "size": 198189
+          "size": 218934
         },
         {
           "type": "analysis",
-          "name": "speedrun_duster_beta1-20260728-#RDLZ5ERT2.analysis.json",
-          "off": 198349,
-          "size": 254667
+          "name": "speedrun_duster_beta1-20260728-#WPKLSCBT7.analysis.json",
+          "off": 219094,
+          "size": 216674
         },
         {
           "type": "replay",
-          "name": "76004.replay.xz",
-          "off": 453061,
-          "size": 38456
+          "name": "76180.replay.xz",
+          "off": 435813,
+          "size": 39612
+        }
+      ]
+    },
+    {
+      "uid": "9LP36VQEI",
+      "rid": 76153,
+      "hash": "e438da0f921b35e6d012843da7aa8e7e70e1970d37c10ea254ce5d0a27335e2c",
+      "t": 22663,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-28T18:58:41.000Z",
+      "zip": "00022663_STEAM_0_1_771348382_20260728-185841.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_duster_beta1-20260728-#9LP36VQEI.dem",
+          "off": 75,
+          "size": 208372
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_duster_beta1-20260728-#9LP36VQEI.analysis.json",
+          "off": 208532,
+          "size": 231452
+        },
+        {
+          "type": "replay",
+          "name": "76153.replay.xz",
+          "off": 440029,
+          "size": 39380
         }
       ]
     }
