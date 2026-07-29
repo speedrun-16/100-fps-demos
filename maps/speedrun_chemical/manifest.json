@@ -1,6 +1,6 @@
 {
   "map": "speedrun_chemical",
-  "updatedAt": "2026-07-04T06:00:03.211Z",
+  "updatedAt": "2026-07-29T12:00:00.453Z",
   "runs": [
     {
       "uid": "XH4V46VFG",
@@ -61,31 +61,31 @@
       ]
     },
     {
-      "uid": "DAIPSRUJX",
-      "rid": 42123,
-      "hash": "ab347e7094b66354e66d0b8731982a39b0e904a2586db722112bfbdf1193a374",
-      "t": 9890,
+      "uid": "O5URWCV5R",
+      "rid": 76278,
+      "hash": "7b84f97cb91834d25ffe372751f19989f29e9fa4dd0f6d2bca4ca6282e063587",
+      "t": 9859,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-04-16T17:43:46Z",
-      "zip": "00009890_STEAM_0_0_631815948_20260416-174346.zip",
+      "at": "2026-07-29T11:56:14.000Z",
+      "zip": "00009859_STEAM_0_0_631815948_20260729-115614.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_chemical-20260416-#DAIPSRUJX.analysis.json",
-          "off": 81,
-          "size": 134499
+          "type": "dem",
+          "name": "speedrun_chemical-20260729-#O5URWCV5R.dem",
+          "off": 71,
+          "size": 107570
         },
         {
-          "type": "dem",
-          "name": "speedrun_chemical-20260416-#DAIPSRUJX.dem",
-          "off": 134651,
-          "size": 111189
+          "type": "analysis",
+          "name": "speedrun_chemical-20260729-#O5URWCV5R.analysis.json",
+          "off": 107722,
+          "size": 121042
         },
         {
           "type": "replay",
-          "name": "42123.replay.xz",
-          "off": 245885,
-          "size": 19392
+          "name": "76278.replay.xz",
+          "off": 228809,
+          "size": 19052
         }
       ]
     },
