@@ -1,33 +1,33 @@
 {
   "map": "speedrun_eternity_beta2",
-  "updatedAt": "2026-07-31T00:00:00.458Z",
+  "updatedAt": "2026-07-31T06:00:00.622Z",
   "runs": [
     {
-      "uid": "R8BKNUCQ0",
-      "rid": 76638,
-      "hash": "a4f0d3ad6fb348e36382f78f447917427b36761ca96f92d716ac7049d0891044",
-      "t": 27588,
+      "uid": "2NC8324KA",
+      "rid": 76645,
+      "hash": "9c8fff809b0455b9a19c301b4ef02e394905ba826c1c1e7ed9a6e2d1c6be611a",
+      "t": 27551,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-07-30T22:14:40.000Z",
-      "zip": "00027588_STEAM_0_1_155808091_20260730-221440.zip",
+      "at": "2026-07-31T02:33:03.000Z",
+      "zip": "00027551_STEAM_0_1_155808091_20260731-023303.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_eternity_beta2-20260730-#R8BKNUCQ0.dem",
+          "name": "speedrun_eternity_beta2-20260731-#2NC8324KA.dem",
           "off": 77,
-          "size": 238820
+          "size": 235233
         },
         {
           "type": "analysis",
-          "name": "speedrun_eternity_beta2-20260730-#R8BKNUCQ0.analysis.json",
-          "off": 238984,
-          "size": 295757
+          "name": "speedrun_eternity_beta2-20260731-#2NC8324KA.analysis.json",
+          "off": 235397,
+          "size": 258705
         },
         {
           "type": "replay",
-          "name": "76638.replay.xz",
-          "off": 534786,
-          "size": 51900
+          "name": "76645.replay.xz",
+          "off": 494147,
+          "size": 51844
         }
       ]
     }
