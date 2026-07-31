@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_stripes_red_max",
+  "updatedAt": "2026-07-31T18:00:00.693Z",
+  "runs": [
+    {
+      "uid": "RQHYUW2I2",
+      "rid": 76676,
+      "hash": "556315385a74b27f3362578c8874ee7adcc9642a1ebcd65f7cc3413f499563f3",
+      "t": 14751,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-31T12:00:30.000Z",
+      "zip": "00014751_STEAM_0_0_631815948_20260731-120030.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_stripes_red_max-20260731-#RQHYUW2I2.dem",
+          "off": 78,
+          "size": 145442
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_stripes_red_max-20260731-#RQHYUW2I2.analysis.json",
+          "off": 145608,
+          "size": 179957
+        },
+        {
+          "type": "replay",
+          "name": "76676.replay.xz",
+          "off": 325610,
+          "size": 27628
+        }
+      ]
+    }
+  ]
+}
