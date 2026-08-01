@@ -1,33 +1,33 @@
 {
   "map": "speedrun_vigazz",
-  "updatedAt": "2026-07-31T18:00:00.694Z",
+  "updatedAt": "2026-08-01T00:00:00.679Z",
   "runs": [
     {
-      "uid": "UU72YKKZG",
-      "rid": 76769,
-      "hash": "7cd75497855cfab8ed96009816561dc380a92f4eaf3bf5bbabe5f6a400622a3e",
-      "t": 27930,
+      "uid": "O970IZ58M",
+      "rid": 76783,
+      "hash": "50b405165927cbb1a9d677c1052616549501d2f13553ce09b7bf2984e028af78",
+      "t": 27668,
       "sid": "STEAM_0:1:771348382",
-      "at": "2026-07-31T17:57:52.000Z",
-      "zip": "00027930_STEAM_0_1_771348382_20260731-175752.zip",
+      "at": "2026-07-31T18:15:13.000Z",
+      "zip": "00027668_STEAM_0_1_771348382_20260731-181513.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_vigazz-20260731-#UU72YKKZG.dem",
+          "name": "speedrun_vigazz-20260731-#O970IZ58M.dem",
           "off": 69,
-          "size": 280144
+          "size": 261056
         },
         {
           "type": "analysis",
-          "name": "speedrun_vigazz-20260731-#UU72YKKZG.analysis.json",
-          "off": 280292,
-          "size": 324586
+          "name": "speedrun_vigazz-20260731-#O970IZ58M.analysis.json",
+          "off": 261204,
+          "size": 330656
         },
         {
           "type": "replay",
-          "name": "76769.replay.xz",
-          "off": 604923,
-          "size": 49736
+          "name": "76783.replay.xz",
+          "off": 591905,
+          "size": 49268
         }
       ]
     },
@@ -57,6 +57,35 @@
           "name": "76739.replay.xz",
           "off": 616271,
           "size": 49512
+        }
+      ]
+    },
+    {
+      "uid": "HMD54BTWT",
+      "rid": 76794,
+      "hash": "ee87e7e7fb2b5a66d5aceb84b6f988c3bc30b41e086d098b82b38855ec1fb152",
+      "t": 28048,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-07-31T18:44:24.000Z",
+      "zip": "00028048_STEAM_0_1_780576434_20260731-184424.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_vigazz-20260731-#HMD54BTWT.dem",
+          "off": 69,
+          "size": 243546
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_vigazz-20260731-#HMD54BTWT.analysis.json",
+          "off": 243694,
+          "size": 306127
+        },
+        {
+          "type": "replay",
+          "name": "76794.replay.xz",
+          "off": 549866,
+          "size": 48116
         }
       ]
     }
