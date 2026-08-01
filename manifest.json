@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-01T12:00:03.389Z",
+  "updatedAt": "2026-08-01T18:00:00.486Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -964,9 +964,9 @@
       "manifest": "maps/speedrun_yad/manifest.json"
     },
     "speedrun_temple": {
-      "n": 3,
-      "best": 14174,
-      "at": "2025-11-06T19:40:18Z",
+      "n": 4,
+      "best": 14040,
+      "at": "2026-08-01T14:13:51.000Z",
       "manifest": "maps/speedrun_temple/manifest.json"
     },
     "speedrun_superspeedrun": {
@@ -1391,8 +1391,8 @@
     },
     "speedrun_30min": {
       "n": 9,
-      "best": 8843,
-      "at": "2026-07-24T13:29:20.000Z",
+      "best": 8841,
+      "at": "2026-08-01T15:03:15.000Z",
       "manifest": "maps/speedrun_30min/manifest.json"
     },
     "deathrun_congoy_easy": {
