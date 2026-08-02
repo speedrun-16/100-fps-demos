@@ -1,7 +1,36 @@
 {
   "map": "speedrun_phe3",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-02T00:00:03.867Z",
   "runs": [
+    {
+      "uid": "WPCYS0XY7",
+      "rid": 77031,
+      "hash": "6da441560dc0c63cdd3766999cecea92724b467711caa8ea9368fefd51fae6c5",
+      "t": 11483,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-01T20:08:39.000Z",
+      "zip": "00011483_STEAM_0_0_24751394_20260801-200839.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_phe3-20260801-#WPCYS0XY7.dem",
+          "off": 67,
+          "size": 125854
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_phe3-20260801-#WPCYS0XY7.analysis.json",
+          "off": 125998,
+          "size": 143922
+        },
+        {
+          "type": "replay",
+          "name": "77031.replay.xz",
+          "off": 269965,
+          "size": 22816
+        }
+      ]
+    },
     {
       "uid": "DAGNA9NH4",
       "rid": 53237,
@@ -32,31 +61,31 @@
       ]
     },
     {
-      "uid": "ATDLKM80O",
-      "rid": 51765,
-      "hash": "3b52646a645015c1d715b843797665aaff5258e7eaa7633d2ad684f70ce7ea7e",
-      "t": 11577,
-      "sid": "STEAM_0:0:24751394",
-      "at": "2026-05-11T15:31:10Z",
-      "zip": "00011577_STEAM_0_0_24751394_20260511-153110.zip",
+      "uid": "QBWC6MULM",
+      "rid": 77034,
+      "hash": "e0ee136369882b6fd9f59d4c756d5208b8aeaea7fd5900bf5717385688418863",
+      "t": 11533,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-01T20:11:13.000Z",
+      "zip": "00011533_STEAM_0_0_631815948_20260801-201113.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_phe3-20260511-#ATDLKM80O.analysis.json",
-          "off": 77,
-          "size": 163011
+          "type": "dem",
+          "name": "speedrun_phe3-20260801-#QBWC6MULM.dem",
+          "off": 67,
+          "size": 132249
         },
         {
-          "type": "dem",
-          "name": "speedrun_phe3-20260511-#ATDLKM80O.dem",
-          "off": 163155,
-          "size": 119450
+          "type": "analysis",
+          "name": "speedrun_phe3-20260801-#QBWC6MULM.analysis.json",
+          "off": 132393,
+          "size": 137713
         },
         {
           "type": "replay",
-          "name": "51765.replay.xz",
-          "off": 282650,
-          "size": 22952
+          "name": "77034.replay.xz",
+          "off": 270151,
+          "size": 22188
         }
       ]
     },
