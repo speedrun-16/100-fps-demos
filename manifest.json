@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-02T12:00:00.593Z",
+  "updatedAt": "2026-08-02T18:00:00.888Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -58,9 +58,9 @@
       "manifest": "maps/speedrun_confusion/manifest.json"
     },
     "speedrun_dsa": {
-      "n": 2,
-      "best": 8530,
-      "at": "2026-07-20T06:47:45.000Z",
+      "n": 3,
+      "best": 8482,
+      "at": "2026-08-02T14:35:57.000Z",
       "manifest": "maps/speedrun_dsa/manifest.json"
     },
     "speedrun_perspective_beta3": {
@@ -178,9 +178,9 @@
       "manifest": "maps/speedrun_joker1/manifest.json"
     },
     "speedrun_aztekek2_easy": {
-      "n": 3,
+      "n": 4,
       "best": 16608,
-      "at": "2026-05-15T14:30:03Z",
+      "at": "2026-08-02T13:55:51.000Z",
       "manifest": "maps/speedrun_aztekek2_easy/manifest.json"
     },
     "speedrun_assault_fix": {
@@ -192,7 +192,7 @@
     "speedrun_duster_beta1": {
       "n": 4,
       "best": 22257,
-      "at": "2026-07-31T19:16:04.000Z",
+      "at": "2026-08-02T12:53:52.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -275,8 +275,8 @@
     },
     "speedrun_artakey_no_ramp": {
       "n": 4,
-      "best": 17418,
-      "at": "2026-06-03T11:34:12Z",
+      "best": 17406,
+      "at": "2026-08-02T17:41:47.000Z",
       "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
     },
     "deathrun_dofe_f": {
@@ -610,9 +610,9 @@
       "manifest": "maps/deathrun_ooorgle/manifest.json"
     },
     "speedrun_opcode_mini": {
-      "n": 4,
-      "best": 6600,
-      "at": "2026-07-19T12:03:37.000Z",
+      "n": 5,
+      "best": 6587,
+      "at": "2026-08-02T14:44:52.000Z",
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -1456,9 +1456,9 @@
       "manifest": "maps/speedrun_danmal_v1/manifest.json"
     },
     "speedrun_pryda_v1": {
-      "n": 4,
-      "best": 9801,
-      "at": "2026-05-20T14:58:47Z",
+      "n": 5,
+      "best": 9797,
+      "at": "2026-08-02T15:02:40.000Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_revived_short": {

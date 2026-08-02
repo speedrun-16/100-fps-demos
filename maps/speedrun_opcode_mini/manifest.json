@@ -1,7 +1,36 @@
 {
   "map": "speedrun_opcode_mini",
-  "updatedAt": "2026-07-19T18:00:01.196Z",
+  "updatedAt": "2026-08-02T18:00:00.888Z",
   "runs": [
+    {
+      "uid": "NYVJG5ZCI",
+      "rid": 77258,
+      "hash": "98b55409b5ee1fc1684b32cb930fad2de7694f2cf233ddc8fc53dea3565719d7",
+      "t": 6587,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-02T14:39:11.000Z",
+      "zip": "00006587_STEAM_0_0_24751394_20260802-143911.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_opcode_mini-20260802-#NYVJG5ZCI.dem",
+          "off": 74,
+          "size": 85537
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_opcode_mini-20260802-#NYVJG5ZCI.analysis.json",
+          "off": 85695,
+          "size": 99868
+        },
+        {
+          "type": "replay",
+          "name": "77258.replay.xz",
+          "off": 185608,
+          "size": 13440
+        }
+      ]
+    },
     {
       "uid": "QGZAOSI6Z",
       "rid": 72027,
@@ -32,31 +61,31 @@
       ]
     },
     {
-      "uid": "J9FX2I4IM",
-      "rid": 29696,
-      "hash": "a249673d13e7f3d9a1b6f22d760bf93f4195675ef3573efe6a1d0575ef62995e",
-      "t": 6647,
-      "sid": "STEAM_0:0:24751394",
-      "at": "2026-01-24T01:32:48Z",
-      "zip": "00006647_STEAM_0_0_24751394_20260124-013248.zip",
+      "uid": "KB35BPAJJ",
+      "rid": 77289,
+      "hash": "877b9d55e079cbcb05e91287453be21a51d274d051309e6d12e5bc9c529cdab2",
+      "t": 6646,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-02T14:44:52.000Z",
+      "zip": "00006646_STEAM_0_1_780576434_20260802-144452.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_opcode_mini-20260124-#J9FX2I4IM.analysis.json",
-          "off": 84,
-          "size": 108547
+          "type": "dem",
+          "name": "speedrun_opcode_mini-20260802-#KB35BPAJJ.dem",
+          "off": 74,
+          "size": 77457
         },
         {
-          "type": "dem",
-          "name": "speedrun_opcode_mini-20260124-#J9FX2I4IM.dem",
-          "off": 108705,
-          "size": 79122
+          "type": "analysis",
+          "name": "speedrun_opcode_mini-20260802-#KB35BPAJJ.analysis.json",
+          "off": 77615,
+          "size": 74130
         },
         {
           "type": "replay",
-          "name": "29696.replay.xz",
-          "off": 187872,
-          "size": 13820
+          "name": "77289.replay.xz",
+          "off": 151790,
+          "size": 13468
         }
       ]
     },
