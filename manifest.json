@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-03T06:00:00.869Z",
+  "updatedAt": "2026-08-03T12:00:00.453Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -622,9 +622,9 @@
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
     "speedrun_alt_terassi": {
-      "n": 1,
+      "n": 2,
       "best": 20577,
-      "at": "2026-08-03T00:23:41.000Z",
+      "at": "2026-08-03T11:46:43.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
