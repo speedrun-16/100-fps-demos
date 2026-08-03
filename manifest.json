@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-03T12:00:00.453Z",
+  "updatedAt": "2026-08-03T18:00:07.515Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -624,7 +624,7 @@
     "speedrun_alt_terassi": {
       "n": 2,
       "best": 20577,
-      "at": "2026-08-03T11:46:43.000Z",
+      "at": "2026-08-03T12:14:38.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -700,9 +700,9 @@
       "manifest": "maps/speedrun_enemy_m0d/manifest.json"
     },
     "speedrun_neocist": {
-      "n": 8,
+      "n": 9,
       "best": 18383,
-      "at": "2026-05-19T21:10:58Z",
+      "at": "2026-08-03T15:15:06.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
@@ -790,9 +790,9 @@
       "manifest": "maps/speedrun_eastwood/manifest.json"
     },
     "speedrun_w00dfun_nw": {
-      "n": 2,
-      "best": 13513,
-      "at": "2026-04-12T12:04:09Z",
+      "n": 3,
+      "best": 13328,
+      "at": "2026-08-03T16:16:14.000Z",
       "manifest": "maps/speedrun_w00dfun_nw/manifest.json"
     },
     "speedrun_x3": {
