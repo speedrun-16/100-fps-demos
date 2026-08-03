@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-02T18:00:00.888Z",
+  "updatedAt": "2026-08-03T06:00:00.869Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -122,6 +122,12 @@
       "best": 13295,
       "at": "2025-12-20T11:47:21Z",
       "manifest": "maps/speedrun_calisto2k/manifest.json"
+    },
+    "speedrun_amazing": {
+      "n": 1,
+      "best": 25906,
+      "at": "2026-08-02T21:43:17.000Z",
+      "manifest": "maps/speedrun_amazing/manifest.json"
     },
     "speedrun_ms": {
       "n": 4,
@@ -442,9 +448,9 @@
       "manifest": "maps/speedrun_hop4/manifest.json"
     },
     "speedrun_medium2": {
-      "n": 3,
-      "best": 16397,
-      "at": "2025-10-03T21:24:43Z",
+      "n": 4,
+      "best": 16080,
+      "at": "2026-08-02T21:10:09.000Z",
       "manifest": "maps/speedrun_medium2/manifest.json"
     },
     "speedrun_celer": {
@@ -614,6 +620,12 @@
       "best": 6587,
       "at": "2026-08-02T14:44:52.000Z",
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
+    },
+    "speedrun_alt_terassi": {
+      "n": 1,
+      "best": 20577,
+      "at": "2026-08-03T00:23:41.000Z",
+      "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
       "n": 10,
