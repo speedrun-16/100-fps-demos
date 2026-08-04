@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_desert_fix",
+  "updatedAt": "2026-08-04T12:00:00.462Z",
+  "runs": [
+    {
+      "uid": "IJR59MV87",
+      "rid": 77827,
+      "hash": "34f6a95295dac59a6c12ee7ae42753dca3b990f58eaeaae472198e00dbba4c91",
+      "t": 18309,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-08-04T11:18:55.000Z",
+      "zip": "00018309_STEAM_0_1_771348382_20260804-111855.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_desert_fix-20260804-#IJR59MV87.dem",
+          "off": 73,
+          "size": 173376
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_desert_fix-20260804-#IJR59MV87.analysis.json",
+          "off": 173532,
+          "size": 184414
+        },
+        {
+          "type": "replay",
+          "name": "77827.replay.xz",
+          "off": 357991,
+          "size": 31660
+        }
+      ]
+    }
+  ]
+}
