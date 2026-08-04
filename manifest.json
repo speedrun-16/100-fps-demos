@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-03T18:00:07.515Z",
+  "updatedAt": "2026-08-04T06:00:00.760Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -42,7 +42,7 @@
     "speedrun_kwadrat": {
       "n": 5,
       "best": 11794,
-      "at": "2025-11-03T20:36:04Z",
+      "at": "2026-08-04T00:58:26.000Z",
       "manifest": "maps/speedrun_kwadrat/manifest.json"
     },
     "speedrun_eternity_beta2": {
@@ -1736,6 +1736,12 @@
       "best": 15238,
       "at": "2025-12-13T07:55:11Z",
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
+    },
+    "speedrun_alt_jestas_beta1": {
+      "n": 1,
+      "best": 17968,
+      "at": "2026-08-04T04:11:59.000Z",
+      "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "deathrun_seireitei": {
       "n": 1,

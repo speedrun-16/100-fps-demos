@@ -1,6 +1,6 @@
 {
   "map": "speedrun_kwadrat",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-04T06:00:00.760Z",
   "runs": [
     {
       "uid": "F7S73AEFJ",
@@ -32,6 +32,35 @@
       ]
     },
     {
+      "uid": "FLFBTZNFQ",
+      "rid": 77760,
+      "hash": "41b0b33cc7b2b57f3f698c85145961ad3c4e5c5b965f82d7151493dc9a51e8ee",
+      "t": 11922,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-08-04T00:58:26.000Z",
+      "zip": "00011922_STEAM_0_1_771348382_20260804-005826.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_kwadrat-20260804-#FLFBTZNFQ.dem",
+          "off": 70,
+          "size": 130727
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_kwadrat-20260804-#FLFBTZNFQ.analysis.json",
+          "off": 130877,
+          "size": 134744
+        },
+        {
+          "type": "replay",
+          "name": "77760.replay.xz",
+          "off": 265666,
+          "size": 23892
+        }
+      ]
+    },
+    {
       "uid": "3F0321E82",
       "rid": 3372,
       "hash": "ee51df1b0f89a3fd6344585360422b92a4b628d8c38e27f82e1e0cf5ccbe1e34",
@@ -57,35 +86,6 @@
           "name": "3372.replay.xz",
           "off": 271487,
           "size": 24056
-        }
-      ]
-    },
-    {
-      "uid": "ZPUMHNEPR",
-      "rid": 2215,
-      "hash": "ab14bac7b0f2ecfe39022176ed33ab531f04694d6154b7b45194f891b087eaa4",
-      "t": 13332,
-      "sid": "STEAM_0:1:771348382",
-      "at": "2025-09-17T13:25:36Z",
-      "zip": "00013332_STEAM_0_1_771348382_20250917-132536.zip",
-      "files": [
-        {
-          "type": "analysis",
-          "name": "speedrun_kwadrat-20250917-#ZPUMHNEPR.analysis.json",
-          "off": 80,
-          "size": 151425
-        },
-        {
-          "type": "dem",
-          "name": "speedrun_kwadrat-20250917-#ZPUMHNEPR.dem",
-          "off": 151575,
-          "size": 119653
-        },
-        {
-          "type": "replay",
-          "name": "2215.replay.xz",
-          "off": 271272,
-          "size": 24700
         }
       ]
     },
