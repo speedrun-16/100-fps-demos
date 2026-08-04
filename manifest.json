@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-04T12:00:00.462Z",
+  "updatedAt": "2026-08-04T18:00:00.981Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1025,8 +1025,8 @@
     },
     "speedrun_several_longer": {
       "n": 6,
-      "best": 15294,
-      "at": "2026-05-01T06:10:33Z",
+      "best": 15266,
+      "at": "2026-08-04T14:55:29.000Z",
       "manifest": "maps/speedrun_several_longer/manifest.json"
     },
     "speedrun_danmal_v2": {
@@ -1186,9 +1186,9 @@
       "manifest": "maps/speedrun_forest_maxfps/manifest.json"
     },
     "speedrun_yagrehsart_100fps": {
-      "n": 7,
+      "n": 8,
       "best": 2428,
-      "at": "2025-12-15T17:06:07Z",
+      "at": "2026-08-04T14:36:02.000Z",
       "manifest": "maps/speedrun_yagrehsart_100fps/manifest.json"
     },
     "speedrun_furame": {
@@ -1733,8 +1733,8 @@
     },
     "speedrun_maze_seed2_test": {
       "n": 2,
-      "best": 19820,
-      "at": "2026-01-09T01:03:27Z",
+      "best": 19791,
+      "at": "2026-08-04T14:19:49.000Z",
       "manifest": "maps/speedrun_maze_seed2_test/manifest.json"
     },
     "speedrun_several_trilogy": {
@@ -1744,9 +1744,9 @@
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
     },
     "speedrun_alt_jestas_beta1": {
-      "n": 1,
-      "best": 17968,
-      "at": "2026-08-04T04:11:59.000Z",
+      "n": 4,
+      "best": 17843,
+      "at": "2026-08-04T16:11:27.000Z",
       "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "deathrun_seireitei": {

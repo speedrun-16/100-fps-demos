@@ -1,7 +1,94 @@
 {
   "map": "speedrun_alt_jestas_beta1",
-  "updatedAt": "2026-08-04T06:00:00.760Z",
+  "updatedAt": "2026-08-04T18:00:00.980Z",
   "runs": [
+    {
+      "uid": "4ZSLPGKSC",
+      "rid": 77976,
+      "hash": "84660b405930da709723d27bf71937e689a79ab79aef0d0015fc7b84e2198d69",
+      "t": 17843,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-04T16:11:27.000Z",
+      "zip": "00017843_STEAM_0_0_631815948_20260804-161127.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_alt_jestas_beta1-20260804-#4ZSLPGKSC.dem",
+          "off": 79,
+          "size": 198607
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_alt_jestas_beta1-20260804-#4ZSLPGKSC.analysis.json",
+          "off": 198775,
+          "size": 255073
+        },
+        {
+          "type": "replay",
+          "name": "77976.replay.xz",
+          "off": 453893,
+          "size": 33100
+        }
+      ]
+    },
+    {
+      "uid": "CAUYCOJH0",
+      "rid": 77954,
+      "hash": "95f2192581f84c188a116be25c96a9b204456de9684d6dfc3a62af98db22fc75",
+      "t": 17848,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-04T15:55:09.000Z",
+      "zip": "00017848_STEAM_0_0_24751394_20260804-155509.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_alt_jestas_beta1-20260804-#CAUYCOJH0.dem",
+          "off": 79,
+          "size": 178005
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_alt_jestas_beta1-20260804-#CAUYCOJH0.analysis.json",
+          "off": 178173,
+          "size": 195643
+        },
+        {
+          "type": "replay",
+          "name": "77954.replay.xz",
+          "off": 373861,
+          "size": 33148
+        }
+      ]
+    },
+    {
+      "uid": "D3JN2YHK3",
+      "rid": 77953,
+      "hash": "f381aa9824b4285f7b5ec7234aa5b24e44728dc3837184d43caf160e9bec2e7c",
+      "t": 17920,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-04T15:53:40.000Z",
+      "zip": "00017920_STEAM_0_1_780576434_20260804-155340.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_alt_jestas_beta1-20260804-#D3JN2YHK3.dem",
+          "off": 79,
+          "size": 156226
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_alt_jestas_beta1-20260804-#D3JN2YHK3.analysis.json",
+          "off": 156394,
+          "size": 193325
+        },
+        {
+          "type": "replay",
+          "name": "77953.replay.xz",
+          "off": 349764,
+          "size": 33248
+        }
+      ]
+    },
     {
       "uid": "BH6MNCBKH",
       "rid": 77800,
