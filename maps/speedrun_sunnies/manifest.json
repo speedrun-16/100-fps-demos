@@ -1,6 +1,6 @@
 {
   "map": "speedrun_sunnies",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-05T06:00:03.664Z",
   "runs": [
     {
       "uid": "8L99GEROT",
@@ -28,6 +28,35 @@
           "name": "14026.replay.xz",
           "off": 370505,
           "size": 34976
+        }
+      ]
+    },
+    {
+      "uid": "0YU51KONA",
+      "rid": 78152,
+      "hash": "fdf73157b507aef17dbf9a37743dc0b7264785e5c512aca78e38dd2d4c1778b6",
+      "t": 17379,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-05T02:22:19.000Z",
+      "zip": "00017379_STEAM_0_1_780576434_20260805-022219.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_sunnies-20260805-#0YU51KONA.dem",
+          "off": 70,
+          "size": 173595
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_sunnies-20260805-#0YU51KONA.analysis.json",
+          "off": 173745,
+          "size": 173258
+        },
+        {
+          "type": "replay",
+          "name": "78152.replay.xz",
+          "off": 347048,
+          "size": 33160
         }
       ]
     },
