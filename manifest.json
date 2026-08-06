@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-06T06:00:08.087Z",
+  "updatedAt": "2026-08-06T18:00:00.716Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -713,8 +713,8 @@
     },
     "speedrun_neocist": {
       "n": 9,
-      "best": 18352,
-      "at": "2026-08-06T03:57:29.000Z",
+      "best": 18335,
+      "at": "2026-08-06T17:08:54.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
@@ -1751,8 +1751,8 @@
     },
     "speedrun_alt_jestas_beta1": {
       "n": 4,
-      "best": 17843,
-      "at": "2026-08-04T16:11:27.000Z",
+      "best": 17822,
+      "at": "2026-08-06T15:36:32.000Z",
       "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "deathrun_seireitei": {
@@ -1799,8 +1799,8 @@
     },
     "deathrun_grass": {
       "n": 4,
-      "best": 14594,
-      "at": "2025-12-29T14:59:42Z",
+      "best": 14459,
+      "at": "2026-08-06T15:28:27.000Z",
       "manifest": "maps/deathrun_grass/manifest.json"
     },
     "speedrun_ender": {
