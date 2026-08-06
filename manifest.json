@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-05T06:00:03.665Z",
+  "updatedAt": "2026-08-06T06:00:08.087Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -713,8 +713,8 @@
     },
     "speedrun_neocist": {
       "n": 9,
-      "best": 18383,
-      "at": "2026-08-03T15:15:06.000Z",
+      "best": 18352,
+      "at": "2026-08-06T03:57:29.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
@@ -1156,9 +1156,9 @@
       "manifest": "maps/speedrun_meowkatoz/manifest.json"
     },
     "speedrun_vantara": {
-      "n": 4,
+      "n": 5,
       "best": 19157,
-      "at": "2026-07-25T09:51:34.000Z",
+      "at": "2026-08-06T05:17:11.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
