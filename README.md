@@ -6,9 +6,9 @@ Personal best demo archive for the 100 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 315 |
-| Archived PBs | 1058 |
-| Latest Update | 2026-08-06 |
+| Maps | 317 |
+| Archived PBs | 1060 |
+| Latest Update | 2026-08-07 |
 
 ## Structure
 

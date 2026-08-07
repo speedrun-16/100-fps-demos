@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_zelenskiy_b2",
+  "updatedAt": "2026-08-07T12:00:00.711Z",
+  "runs": [
+    {
+      "uid": "1KF0EZKNY",
+      "rid": 78766,
+      "hash": "dad7c10b4f9e9a8e45c09b9fc08ad35ba8ee212583e03ba5edda0e1efe85af1c",
+      "t": 16589,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-07T08:15:24.000Z",
+      "zip": "00016589_STEAM_0_0_631815948_20260807-081524.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_zelenskiy_b2-20260807-#1KF0EZKNY.dem",
+          "off": 75,
+          "size": 169226
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_zelenskiy_b2-20260807-#1KF0EZKNY.analysis.json",
+          "off": 169386,
+          "size": 203039
+        },
+        {
+          "type": "replay",
+          "name": "78766.replay.xz",
+          "off": 372470,
+          "size": 29844
+        }
+      ]
+    }
+  ]
+}
