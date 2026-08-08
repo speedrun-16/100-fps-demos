@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-07T12:00:00.712Z",
+  "updatedAt": "2026-08-08T06:00:00.602Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -262,9 +262,9 @@
       "manifest": "maps/speedrun_extasy/manifest.json"
     },
     "speedrun_w00dfun": {
-      "n": 12,
+      "n": 13,
       "best": 13153,
-      "at": "2026-05-17T21:42:58Z",
+      "at": "2026-08-08T04:32:52.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "deathrun_evidens": {
@@ -1732,9 +1732,9 @@
       "manifest": "maps/speedrun_qu_dust/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 12,
+      "n": 13,
       "best": 9855,
-      "at": "2026-07-29T11:56:14.000Z",
+      "at": "2026-08-08T05:46:15.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
