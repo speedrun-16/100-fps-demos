@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_physical",
+  "updatedAt": "2026-08-08T12:00:00.864Z",
+  "runs": [
+    {
+      "uid": "E28LFO2S4",
+      "rid": 78978,
+      "hash": "dab78a1d8ba6eed25ffd45ca3a0ed78ae143a63d0a20be3cbb843d8575126512",
+      "t": 12958,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-08T07:45:30.000Z",
+      "zip": "00012958_STEAM_0_0_631815948_20260808-074530.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_physical-20260808-#E28LFO2S4.dem",
+          "off": 71,
+          "size": 141368
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_physical-20260808-#E28LFO2S4.analysis.json",
+          "off": 141520,
+          "size": 155485
+        },
+        {
+          "type": "replay",
+          "name": "78978.replay.xz",
+          "off": 297050,
+          "size": 24052
+        }
+      ]
+    }
+  ]
+}
