@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-08T12:00:00.866Z",
+  "updatedAt": "2026-08-08T18:00:00.547Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1289,8 +1289,8 @@
     },
     "speedrun_yagrehsart_fix": {
       "n": 7,
-      "best": 13407,
-      "at": "2026-08-08T08:30:55.000Z",
+      "best": 13387,
+      "at": "2026-08-08T15:07:32.000Z",
       "manifest": "maps/speedrun_yagrehsart_fix/manifest.json"
     },
     "deathrun_easy_v1": {
@@ -1673,8 +1673,8 @@
     },
     "speedrun_medium": {
       "n": 7,
-      "best": 12056,
-      "at": "2026-08-08T08:50:40.000Z",
+      "best": 11979,
+      "at": "2026-08-08T14:06:59.000Z",
       "manifest": "maps/speedrun_medium/manifest.json"
     },
     "speedrun_aqua": {
