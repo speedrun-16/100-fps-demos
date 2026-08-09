@@ -1,7 +1,36 @@
 {
   "map": "speedrun_alt_terassi",
-  "updatedAt": "2026-08-03T18:00:07.514Z",
+  "updatedAt": "2026-08-09T18:00:00.890Z",
   "runs": [
+    {
+      "uid": "56TDZ27VM",
+      "rid": 79324,
+      "hash": "f0b82420f6a7906d8f10254576f4edb2a22fba8192507ef161110706ba644ecc",
+      "t": 20144,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-09T15:24:28.000Z",
+      "zip": "00020144_STEAM_0_0_24751394_20260809-152428.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_alt_terassi-20260809-#56TDZ27VM.dem",
+          "off": 74,
+          "size": 200494
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_alt_terassi-20260809-#56TDZ27VM.analysis.json",
+          "off": 200652,
+          "size": 250383
+        },
+        {
+          "type": "replay",
+          "name": "79324.replay.xz",
+          "off": 451080,
+          "size": 35992
+        }
+      ]
+    },
     {
       "uid": "6ML9V14S3",
       "rid": 77443,

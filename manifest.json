@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-09T12:00:00.605Z",
+  "updatedAt": "2026-08-09T18:00:00.891Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -268,9 +268,9 @@
       "manifest": "maps/speedrun_extasy/manifest.json"
     },
     "speedrun_w00dfun": {
-      "n": 13,
-      "best": 13153,
-      "at": "2026-08-08T04:32:52.000Z",
+      "n": 14,
+      "best": 13148,
+      "at": "2026-08-09T12:29:08.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "deathrun_evidens": {
@@ -396,7 +396,7 @@
     "speedrun_jeans_short": {
       "n": 12,
       "best": 10469,
-      "at": "2026-07-30T08:10:42.000Z",
+      "at": "2026-08-09T16:58:58.000Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_hatemeworld_b1": {
@@ -640,9 +640,9 @@
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
     "speedrun_alt_terassi": {
-      "n": 2,
-      "best": 20577,
-      "at": "2026-08-03T12:14:38.000Z",
+      "n": 3,
+      "best": 20144,
+      "at": "2026-08-09T15:24:28.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -844,9 +844,9 @@
       "manifest": "maps/speedrun_amel/manifest.json"
     },
     "speedrun_miqu": {
-      "n": 5,
+      "n": 6,
       "best": 20110,
-      "at": "2026-05-15T17:48:54Z",
+      "at": "2026-08-09T16:29:05.000Z",
       "manifest": "maps/speedrun_miqu/manifest.json"
     },
     "deathrun_mozeoze": {
@@ -934,9 +934,9 @@
       "manifest": "maps/speedrun_evi_maxfps/manifest.json"
     },
     "speedrun_sunnies": {
-      "n": 3,
-      "best": 17344,
-      "at": "2026-08-05T02:22:19.000Z",
+      "n": 4,
+      "best": 17320,
+      "at": "2026-08-09T16:46:08.000Z",
       "manifest": "maps/speedrun_sunnies/manifest.json"
     },
     "speedrun_runners": {
@@ -958,9 +958,9 @@
       "manifest": "maps/speedrun_voidsanctum_beta1/manifest.json"
     },
     "speedrun_evidens_big": {
-      "n": 5,
+      "n": 6,
       "best": 17196,
-      "at": "2025-11-17T15:49:55Z",
+      "at": "2026-08-09T17:06:25.000Z",
       "manifest": "maps/speedrun_evidens_big/manifest.json"
     },
     "speedrun_toni": {

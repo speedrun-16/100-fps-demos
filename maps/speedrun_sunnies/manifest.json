@@ -1,33 +1,33 @@
 {
   "map": "speedrun_sunnies",
-  "updatedAt": "2026-08-05T06:00:03.664Z",
+  "updatedAt": "2026-08-09T18:00:00.891Z",
   "runs": [
     {
-      "uid": "8L99GEROT",
-      "rid": 14026,
-      "hash": "c1a1b45e6d62cb294136a1171b271049809147166c6443180fcdf520d2584ee0",
-      "t": 17344,
+      "uid": "B3WCHX3RA",
+      "rid": 79367,
+      "hash": "7e5d1221e64053adba2b0c856bfefc65a3fbd18264a80b0c32a5e49ac70b5dd8",
+      "t": 17320,
       "sid": "STEAM_0:0:24751394",
-      "at": "2025-11-08T14:17:52Z",
-      "zip": "00017344_STEAM_0_0_24751394_20251108-141752.zip",
+      "at": "2026-08-09T16:46:08.000Z",
+      "zip": "00017320_STEAM_0_0_24751394_20260809-164608.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_sunnies-20251108-#8L99GEROT.analysis.json",
-          "off": 80,
-          "size": 212308
+          "type": "dem",
+          "name": "speedrun_sunnies-20260809-#B3WCHX3RA.dem",
+          "off": 70,
+          "size": 173152
         },
         {
-          "type": "dem",
-          "name": "speedrun_sunnies-20251108-#8L99GEROT.dem",
-          "off": 212458,
-          "size": 158002
+          "type": "analysis",
+          "name": "speedrun_sunnies-20260809-#B3WCHX3RA.analysis.json",
+          "off": 173302,
+          "size": 200288
         },
         {
           "type": "replay",
-          "name": "14026.replay.xz",
-          "off": 370505,
-          "size": 34976
+          "name": "79367.replay.xz",
+          "off": 373635,
+          "size": 33340
         }
       ]
     },
@@ -57,6 +57,35 @@
           "name": "78152.replay.xz",
           "off": 347048,
           "size": 33160
+        }
+      ]
+    },
+    {
+      "uid": "04N9JQYVP",
+      "rid": 79364,
+      "hash": "3f1dd3a92f7f1ea4bf2201a92ab7ff5afdee58a5c2fb9d7829bfda17282bda5f",
+      "t": 17812,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-09T16:42:10.000Z",
+      "zip": "00017812_STEAM_0_0_631815948_20260809-164210.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_sunnies-20260809-#04N9JQYVP.dem",
+          "off": 70,
+          "size": 202130
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_sunnies-20260809-#04N9JQYVP.analysis.json",
+          "off": 202280,
+          "size": 210156
+        },
+        {
+          "type": "replay",
+          "name": "79364.replay.xz",
+          "off": 412481,
+          "size": 34816
         }
       ]
     },

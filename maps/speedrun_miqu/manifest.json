@@ -1,6 +1,6 @@
 {
   "map": "speedrun_miqu",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-09T18:00:00.890Z",
   "runs": [
     {
       "uid": "89OEOT00W",
@@ -32,31 +32,60 @@
       ]
     },
     {
-      "uid": "XXQ3QCCT5",
-      "rid": 23677,
-      "hash": "014fd11a70e8f459c9064721eac712418130c05e2e51212e2bfbc620568f5f54",
-      "t": 20157,
+      "uid": "8JYVNAOC0",
+      "rid": 79352,
+      "hash": "1006600d230e6a4686dc449738fee5f7783f1ab2aa168a35e0bc9940b3e8cbbc",
+      "t": 20142,
       "sid": "STEAM_0:0:24751394",
-      "at": "2025-12-25T15:36:46Z",
-      "zip": "00020157_STEAM_0_0_24751394_20251225-153646.zip",
+      "at": "2026-08-09T16:29:05.000Z",
+      "zip": "00020142_STEAM_0_0_24751394_20260809-162905.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_miqu-20251225-#XXQ3QCCT5.analysis.json",
-          "off": 77,
-          "size": 258926
+          "type": "dem",
+          "name": "speedrun_miqu-20260809-#8JYVNAOC0.dem",
+          "off": 67,
+          "size": 189585
         },
         {
-          "type": "dem",
-          "name": "speedrun_miqu-20251225-#XXQ3QCCT5.dem",
-          "off": 259070,
-          "size": 212555
+          "type": "analysis",
+          "name": "speedrun_miqu-20260809-#8JYVNAOC0.analysis.json",
+          "off": 189729,
+          "size": 228284
         },
         {
           "type": "replay",
-          "name": "23677.replay.xz",
-          "off": 471670,
-          "size": 38540
+          "name": "79352.replay.xz",
+          "off": 418058,
+          "size": 36164
+        }
+      ]
+    },
+    {
+      "uid": "5312PNQ31",
+      "rid": 79344,
+      "hash": "4d05adb079c763bb8e384c157537e1af0edb5c345f8d39a657073c07882cf62a",
+      "t": 20241,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-09T16:21:23.000Z",
+      "zip": "00020241_STEAM_0_0_631815948_20260809-162123.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_miqu-20260809-#5312PNQ31.dem",
+          "off": 67,
+          "size": 202648
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_miqu-20260809-#5312PNQ31.analysis.json",
+          "off": 202792,
+          "size": 246261
+        },
+        {
+          "type": "replay",
+          "name": "79344.replay.xz",
+          "off": 449098,
+          "size": 36832
         }
       ]
     },
