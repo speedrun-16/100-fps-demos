@@ -1,6 +1,6 @@
 {
   "map": "speedrun_evidens",
-  "updatedAt": "2026-07-24T18:00:00.785Z",
+  "updatedAt": "2026-08-09T12:00:00.605Z",
   "runs": [
     {
       "uid": "2B3143IML",
@@ -57,6 +57,35 @@
           "name": "19138.replay.xz",
           "off": 291041,
           "size": 24164
+        }
+      ]
+    },
+    {
+      "uid": "26VA96A9C",
+      "rid": 79275,
+      "hash": "0ec3d737af6052f2313c9a14b275d5730df08d66257dc696afd989172dd30cb7",
+      "t": 12404,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-09T09:05:05.000Z",
+      "zip": "00012404_STEAM_0_0_631815948_20260809-090505.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_evidens-20260809-#26VA96A9C.dem",
+          "off": 70,
+          "size": 143251
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_evidens-20260809-#26VA96A9C.analysis.json",
+          "off": 143401,
+          "size": 152760
+        },
+        {
+          "type": "replay",
+          "name": "79275.replay.xz",
+          "off": 296206,
+          "size": 23540
         }
       ]
     },
@@ -173,35 +202,6 @@
           "name": "74843.replay.xz",
           "off": 291206,
           "size": 22604
-        }
-      ]
-    },
-    {
-      "uid": "NP9YKWXXY",
-      "rid": 50929,
-      "hash": "574c72921b1d47558cd5c373c9a0c323153edfcde3a2ba5936730d6fabd52cb3",
-      "t": 12593,
-      "sid": "STEAM_0:0:631815948",
-      "at": "2026-05-10T11:17:05Z",
-      "zip": "00012593_STEAM_0_0_631815948_20260510-111705.zip",
-      "files": [
-        {
-          "type": "analysis",
-          "name": "speedrun_evidens-20260510-#NP9YKWXXY.analysis.json",
-          "off": 80,
-          "size": 153983
-        },
-        {
-          "type": "dem",
-          "name": "speedrun_evidens-20260510-#NP9YKWXXY.dem",
-          "off": 154133,
-          "size": 133070
-        },
-        {
-          "type": "replay",
-          "name": "50929.replay.xz",
-          "off": 287248,
-          "size": 24360
         }
       ]
     },
