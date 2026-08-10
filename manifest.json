@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-09T18:00:00.891Z",
+  "updatedAt": "2026-08-10T00:00:00.633Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -466,9 +466,9 @@
       "manifest": "maps/speedrun_medium2/manifest.json"
     },
     "speedrun_celer": {
-      "n": 3,
-      "best": 10464,
-      "at": "2026-07-22T19:32:07.000Z",
+      "n": 4,
+      "best": 10135,
+      "at": "2026-08-09T20:24:33.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "speedrun_majestic": {
@@ -640,9 +640,9 @@
       "manifest": "maps/speedrun_opcode_mini/manifest.json"
     },
     "speedrun_alt_terassi": {
-      "n": 3,
-      "best": 20144,
-      "at": "2026-08-09T15:24:28.000Z",
+      "n": 4,
+      "best": 19623,
+      "at": "2026-08-09T18:25:53.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -1804,9 +1804,9 @@
       "manifest": "maps/deathrun_aztec_hd/manifest.json"
     },
     "speedrun_pink_easy": {
-      "n": 1,
+      "n": 2,
       "best": 7185,
-      "at": "2026-05-28T20:41:45Z",
+      "at": "2026-08-09T19:41:22.000Z",
       "manifest": "maps/speedrun_pink_easy/manifest.json"
     },
     "deathrun_bieber_f": {

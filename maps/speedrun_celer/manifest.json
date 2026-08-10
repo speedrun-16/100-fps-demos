@@ -1,33 +1,62 @@
 {
   "map": "speedrun_celer",
-  "updatedAt": "2026-07-23T00:00:00.848Z",
+  "updatedAt": "2026-08-10T00:00:00.633Z",
   "runs": [
     {
-      "uid": "OC9DLTJCD",
-      "rid": 71224,
-      "hash": "1aa14b58884fbf132623fb12f3bb18d648b1867bcf3af5e2c1b9e94c356a4d22",
-      "t": 10464,
+      "uid": "EWVTIDGBD",
+      "rid": 79416,
+      "hash": "f296daea6ae278d7ab67ba29dcf552097c3141a5fa1160c5db53555894920296",
+      "t": 10135,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-07-16T20:22:02.000Z",
-      "zip": "00010464_STEAM_0_0_631815948_20260716-202202.zip",
+      "at": "2026-08-09T20:08:53.000Z",
+      "zip": "00010135_STEAM_0_0_631815948_20260809-200853.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_celer-20260716-#OC9DLTJCD.dem",
+          "name": "speedrun_celer-20260809-#EWVTIDGBD.dem",
           "off": 68,
-          "size": 115582
+          "size": 117679
         },
         {
           "type": "analysis",
-          "name": "speedrun_celer-20260716-#OC9DLTJCD.analysis.json",
-          "off": 115728,
-          "size": 138884
+          "name": "speedrun_celer-20260809-#EWVTIDGBD.analysis.json",
+          "off": 117825,
+          "size": 130680
         },
         {
           "type": "replay",
-          "name": "71224.replay.xz",
-          "off": 254657,
-          "size": 20516
+          "name": "79416.replay.xz",
+          "off": 248550,
+          "size": 19648
+        }
+      ]
+    },
+    {
+      "uid": "94YWYHMBC",
+      "rid": 79423,
+      "hash": "b13dc9f707aca628fff937c0ce98e4b16d7f8fc7456a1f63ab9b634cbea9e35e",
+      "t": 10166,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-09T20:24:33.000Z",
+      "zip": "00010166_STEAM_0_0_24751394_20260809-202433.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celer-20260809-#94YWYHMBC.dem",
+          "off": 68,
+          "size": 109762
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celer-20260809-#94YWYHMBC.analysis.json",
+          "off": 109908,
+          "size": 144308
+        },
+        {
+          "type": "replay",
+          "name": "79423.replay.xz",
+          "off": 254261,
+          "size": 19496
         }
       ]
     },
