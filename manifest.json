@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-10T12:00:00.677Z",
+  "updatedAt": "2026-08-10T18:00:03.645Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -294,7 +294,7 @@
     "speedrun_artakey_no_ramp": {
       "n": 5,
       "best": 17406,
-      "at": "2026-08-09T10:57:19.000Z",
+      "at": "2026-08-10T16:49:05.000Z",
       "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
     },
     "deathrun_dofe_f": {
