@@ -1,7 +1,36 @@
 {
   "map": "speedrun_euphoria",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-10T12:00:00.676Z",
   "runs": [
+    {
+      "uid": "OLWZRKTBE",
+      "rid": 79576,
+      "hash": "e660aa39213a8593eb5ea3736d11bb27cc98905da5659dc902037fee22144ffb",
+      "t": 23490,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-10T11:58:28.000Z",
+      "zip": "00023490_STEAM_0_0_631815948_20260810-115828.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20260810-#OLWZRKTBE.dem",
+          "off": 71,
+          "size": 228607
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20260810-#OLWZRKTBE.analysis.json",
+          "off": 228759,
+          "size": 276026
+        },
+        {
+          "type": "replay",
+          "name": "79576.replay.xz",
+          "off": 504830,
+          "size": 43828
+        }
+      ]
+    },
     {
       "uid": "YASZ8XWMD",
       "rid": 15105,

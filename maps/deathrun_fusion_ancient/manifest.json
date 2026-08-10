@@ -1,7 +1,36 @@
 {
   "map": "deathrun_fusion_ancient",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-10T12:00:00.677Z",
   "runs": [
+    {
+      "uid": "NLUH348OD",
+      "rid": 79564,
+      "hash": "cb97bab6deafb726bf8ed8306fefe2675cd6da94d07432dc62da6b12ea8ec8a2",
+      "t": 12532,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-10T11:42:49.000Z",
+      "zip": "00012532_STEAM_0_0_631815948_20260810-114249.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_ancient-20260810-#NLUH348OD.dem",
+          "off": 77,
+          "size": 138359
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_ancient-20260810-#NLUH348OD.analysis.json",
+          "off": 138523,
+          "size": 151262
+        },
+        {
+          "type": "replay",
+          "name": "79564.replay.xz",
+          "off": 289830,
+          "size": 23532
+        }
+      ]
+    },
     {
       "uid": "TLTHCMBOV",
       "rid": 23436,

@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-10T00:00:00.633Z",
+  "updatedAt": "2026-08-10T12:00:00.677Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1146,7 +1146,7 @@
     "speedrun_al": {
       "n": 8,
       "best": 16014,
-      "at": "2026-07-15T15:43:30.000Z",
+      "at": "2026-08-10T08:07:08.000Z",
       "manifest": "maps/speedrun_al/manifest.json"
     },
     "deathrun_dust2009_final": {
@@ -1618,9 +1618,9 @@
       "manifest": "maps/speedrun_alcium/manifest.json"
     },
     "deathrun_fusion_ancient": {
-      "n": 4,
-      "best": 12568,
-      "at": "2025-12-23T22:28:21Z",
+      "n": 5,
+      "best": 12532,
+      "at": "2026-08-10T11:42:49.000Z",
       "manifest": "maps/deathrun_fusion_ancient/manifest.json"
     },
     "speedrun_euphoria2": {
@@ -1792,9 +1792,9 @@
       "manifest": "maps/de_train/manifest.json"
     },
     "speedrun_euphoria": {
-      "n": 8,
-      "best": 23654,
-      "at": "2026-05-19T14:49:10Z",
+      "n": 9,
+      "best": 23490,
+      "at": "2026-08-10T11:58:28.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_aztec_hd": {
