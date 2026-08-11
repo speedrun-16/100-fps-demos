@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_mrch3ats",
+  "updatedAt": "2026-08-11T12:00:00.641Z",
+  "runs": [
+    {
+      "uid": "CRTISD26U",
+      "rid": 79837,
+      "hash": "06e0e2cc9cdbd52d52c9ef8b342def1d787c2d465050c01c1ce448535ff6a9cb",
+      "t": 15086,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-11T11:39:26.000Z",
+      "zip": "00015086_STEAM_0_0_631815948_20260811-113926.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_mrch3ats-20260811-#CRTISD26U.dem",
+          "off": 71,
+          "size": 147931
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_mrch3ats-20260811-#CRTISD26U.analysis.json",
+          "off": 148083,
+          "size": 166080
+        },
+        {
+          "type": "replay",
+          "name": "79837.replay.xz",
+          "off": 314208,
+          "size": 29492
+        }
+      ]
+    }
+  ]
+}
