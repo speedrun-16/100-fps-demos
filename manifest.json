@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-12T18:00:00.468Z",
+  "updatedAt": "2026-08-13T00:00:00.893Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -80,6 +80,12 @@
       "best": 12958,
       "at": "2026-08-08T07:45:30.000Z",
       "manifest": "maps/speedrun_physical/manifest.json"
+    },
+    "deathrun_silence": {
+      "n": 1,
+      "best": 40506,
+      "at": "2026-08-12T20:03:00.000Z",
+      "manifest": "maps/deathrun_silence/manifest.json"
     },
     "speedrun_exort": {
       "n": 2,
@@ -1252,9 +1258,9 @@
       "manifest": "maps/speedrun_wander/manifest.json"
     },
     "speedrun_simplecity": {
-      "n": 1,
-      "best": 21501,
-      "at": "2025-09-19T12:55:41Z",
+      "n": 2,
+      "best": 21160,
+      "at": "2026-08-12T21:12:24.000Z",
       "manifest": "maps/speedrun_simplecity/manifest.json"
     },
     "speedrun_kazakhstan": {
