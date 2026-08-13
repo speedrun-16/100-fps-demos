@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-13T00:00:00.893Z",
+  "updatedAt": "2026-08-13T06:00:00.466Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -402,7 +402,7 @@
     "speedrun_jeans_short": {
       "n": 12,
       "best": 10469,
-      "at": "2026-08-09T16:58:58.000Z",
+      "at": "2026-08-13T00:58:23.000Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_hatemeworld_b1": {

@@ -1,6 +1,6 @@
 {
   "map": "speedrun_jeans_short",
-  "updatedAt": "2026-08-09T18:00:00.891Z",
+  "updatedAt": "2026-08-13T06:00:00.466Z",
   "runs": [
     {
       "uid": "SJ0U3AEKX",
@@ -119,6 +119,35 @@
       ]
     },
     {
+      "uid": "BXPFBID8G",
+      "rid": 80559,
+      "hash": "d4ea8b4357dd2da5c73222e7fa87da4db7edda50b8db366af55db06980376000",
+      "t": 10799,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-08-13T00:58:23.000Z",
+      "zip": "00010799_STEAM_0_1_29970948_20260813-005823.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_jeans_short-20260813-#BXPFBID8G.dem",
+          "off": 74,
+          "size": 109420
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_jeans_short-20260813-#BXPFBID8G.analysis.json",
+          "off": 109578,
+          "size": 128050
+        },
+        {
+          "type": "replay",
+          "name": "80559.replay.xz",
+          "off": 237673,
+          "size": 20320
+        }
+      ]
+    },
+    {
       "uid": "W7F8VXWIO",
       "rid": 830,
       "hash": "0e1404046db6cf3e80535dc2a344a66684d9498707481beec7475b7f331ef465",
@@ -144,35 +173,6 @@
           "name": "830.replay.xz",
           "off": 288232,
           "size": 21284
-        }
-      ]
-    },
-    {
-      "uid": "VEKTLJEB4",
-      "rid": 12519,
-      "hash": "5f8c2b6677f318903ea446010e3c3fc0a3759e70e56bf98f4d5363d7fec4a91d",
-      "t": 10824,
-      "sid": "STEAM_0:1:29970948",
-      "at": "2025-10-29T01:27:16Z",
-      "zip": "00010824_STEAM_0_1_29970948_20251029-012716.zip",
-      "files": [
-        {
-          "type": "analysis",
-          "name": "speedrun_jeans_short-20251029-#VEKTLJEB4.analysis.json",
-          "off": 84,
-          "size": 151146
-        },
-        {
-          "type": "dem",
-          "name": "speedrun_jeans_short-20251029-#VEKTLJEB4.dem",
-          "off": 151304,
-          "size": 115151
-        },
-        {
-          "type": "replay",
-          "name": "12519.replay.xz",
-          "off": 266500,
-          "size": 21620
         }
       ]
     },
