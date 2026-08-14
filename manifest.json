@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-13T18:00:07.228Z",
+  "updatedAt": "2026-08-14T00:00:00.522Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -584,6 +584,12 @@
       "best": 16589,
       "at": "2026-08-07T08:15:24.000Z",
       "manifest": "maps/speedrun_zelenskiy_b2/manifest.json"
+    },
+    "deathrun_sandeath": {
+      "n": 1,
+      "best": 9836,
+      "at": "2026-08-13T19:03:21.000Z",
+      "manifest": "maps/deathrun_sandeath/manifest.json"
     },
     "speedrun_fula": {
       "n": 1,

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_sandeath",
+  "updatedAt": "2026-08-14T00:00:00.522Z",
+  "runs": [
+    {
+      "uid": "DFHLKVKZV",
+      "rid": 81315,
+      "hash": "9ecae9c8fb81ae8920a9ae0e3ca674cb338e180a439349b516058dfc10afe9a7",
+      "t": 9836,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-08-13T19:03:21.000Z",
+      "zip": "00009836_STEAM_0_1_87291981_20260813-190321.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_sandeath-20260813-#DFHLKVKZV.dem",
+          "off": 71,
+          "size": 107221
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_sandeath-20260813-#DFHLKVKZV.analysis.json",
+          "off": 107373,
+          "size": 119533
+        },
+        {
+          "type": "replay",
+          "name": "81315.replay.xz",
+          "off": 226951,
+          "size": 18748
+        }
+      ]
+    }
+  ]
+}
