@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-14T12:00:00.907Z",
+  "updatedAt": "2026-08-14T18:00:00.849Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -130,9 +130,9 @@
       "manifest": "maps/speedrun_dusty/manifest.json"
     },
     "speedrun_calisto2k": {
-      "n": 6,
-      "best": 13295,
-      "at": "2025-12-20T11:47:21Z",
+      "n": 7,
+      "best": 13265,
+      "at": "2026-08-14T16:02:06.000Z",
       "manifest": "maps/speedrun_calisto2k/manifest.json"
     },
     "speedrun_amazing": {
@@ -518,6 +518,12 @@
       "best": 42162,
       "at": "2026-05-16T20:16:49Z",
       "manifest": "maps/speedrun_evidenz/manifest.json"
+    },
+    "speedrun_gyb": {
+      "n": 1,
+      "best": 24656,
+      "at": "2026-08-14T17:30:10.000Z",
+      "manifest": "maps/speedrun_gyb/manifest.json"
     },
     "deathrun_temple": {
       "n": 2,
@@ -1181,8 +1187,8 @@
     },
     "speedrun_vantara": {
       "n": 5,
-      "best": 19157,
-      "at": "2026-08-06T05:17:11.000Z",
+      "best": 19059,
+      "at": "2026-08-14T14:28:34.000Z",
       "manifest": "maps/speedrun_vantara/manifest.json"
     },
     "speedrun_deceit": {
@@ -1367,8 +1373,8 @@
     },
     "speedrun_pryda_v2": {
       "n": 9,
-      "best": 11834,
-      "at": "2026-08-14T11:58:24.000Z",
+      "best": 11810,
+      "at": "2026-08-14T12:24:41.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_sunnies_short": {
@@ -1499,8 +1505,8 @@
     },
     "de_dust": {
       "n": 13,
-      "best": 9065,
-      "at": "2026-08-13T13:11:21.000Z",
+      "best": 9034,
+      "at": "2026-08-14T15:50:22.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_danmal_v1": {
@@ -1511,8 +1517,8 @@
     },
     "speedrun_pryda_v1": {
       "n": 6,
-      "best": 9797,
-      "at": "2026-08-11T18:26:18.000Z",
+      "best": 9777,
+      "at": "2026-08-14T12:39:40.000Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_revived_short": {
