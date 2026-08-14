@@ -1,33 +1,62 @@
 {
   "map": "speedrun_pupsik",
-  "updatedAt": "2026-08-13T18:00:07.228Z",
+  "updatedAt": "2026-08-14T12:00:00.907Z",
   "runs": [
     {
-      "uid": "4JSX848ZO",
-      "rid": 80740,
-      "hash": "30900b521c8a32627bfa29935879e18ad07ebb6decaaf6d10d0b0670654bcbf8",
-      "t": 9195,
+      "uid": "I8LJH381U",
+      "rid": 81701,
+      "hash": "d02d1cbbec55b917d9b9fe7783e98de57c8d7c14d5e2d1d555ff7657c398b2e2",
+      "t": 9155,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-08-13T13:26:03.000Z",
-      "zip": "00009195_STEAM_0_0_631815948_20260813-132603.zip",
+      "at": "2026-08-14T11:46:31.000Z",
+      "zip": "00009155_STEAM_0_0_631815948_20260814-114631.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_pupsik-20260813-#4JSX848ZO.dem",
+          "name": "speedrun_pupsik-20260814-#I8LJH381U.dem",
           "off": 69,
-          "size": 114759
+          "size": 133783
         },
         {
           "type": "analysis",
-          "name": "speedrun_pupsik-20260813-#4JSX848ZO.analysis.json",
-          "off": 114907,
-          "size": 115370
+          "name": "speedrun_pupsik-20260814-#I8LJH381U.analysis.json",
+          "off": 133931,
+          "size": 118612
         },
         {
           "type": "replay",
-          "name": "80740.replay.xz",
-          "off": 230322,
-          "size": 17756
+          "name": "81701.replay.xz",
+          "off": 252588,
+          "size": 17380
+        }
+      ]
+    },
+    {
+      "uid": "1I4ZTTN3R",
+      "rid": 81698,
+      "hash": "1441cc42521e45962f6fe7333521bb1f3a457263bb24a6826d8505d0e4e24c29",
+      "t": 9183,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-14T11:45:42.000Z",
+      "zip": "00009183_STEAM_0_0_24751394_20260814-114542.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_pupsik-20260814-#1I4ZTTN3R.dem",
+          "off": 69,
+          "size": 110687
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_pupsik-20260814-#1I4ZTTN3R.analysis.json",
+          "off": 110835,
+          "size": 122361
+        },
+        {
+          "type": "replay",
+          "name": "81698.replay.xz",
+          "off": 233241,
+          "size": 16608
         }
       ]
     },
