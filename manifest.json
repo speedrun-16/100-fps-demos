@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-14T18:00:00.849Z",
+  "updatedAt": "2026-08-15T00:00:13.321Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -520,9 +520,9 @@
       "manifest": "maps/speedrun_evidenz/manifest.json"
     },
     "speedrun_gyb": {
-      "n": 1,
+      "n": 2,
       "best": 24656,
-      "at": "2026-08-14T17:30:10.000Z",
+      "at": "2026-08-14T18:12:35.000Z",
       "manifest": "maps/speedrun_gyb/manifest.json"
     },
     "deathrun_temple": {
@@ -1373,8 +1373,8 @@
     },
     "speedrun_pryda_v2": {
       "n": 9,
-      "best": 11810,
-      "at": "2026-08-14T12:24:41.000Z",
+      "best": 11803,
+      "at": "2026-08-14T19:42:41.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_sunnies_short": {
@@ -1505,8 +1505,8 @@
     },
     "de_dust": {
       "n": 13,
-      "best": 9034,
-      "at": "2026-08-14T15:50:22.000Z",
+      "best": 9004,
+      "at": "2026-08-14T19:34:09.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_danmal_v1": {
