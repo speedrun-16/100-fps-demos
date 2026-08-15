@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-15T12:00:00.464Z",
+  "updatedAt": "2026-08-15T18:00:03.199Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -365,8 +365,8 @@
     },
     "de_dust2": {
       "n": 6,
-      "best": 7597,
-      "at": "2026-07-06T13:59:19.000Z",
+      "best": 7593,
+      "at": "2026-08-15T12:16:19.000Z",
       "manifest": "maps/de_dust2/manifest.json"
     },
     "speedrun_silent": {
