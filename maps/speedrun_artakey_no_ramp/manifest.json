@@ -1,33 +1,62 @@
 {
   "map": "speedrun_artakey_no_ramp",
-  "updatedAt": "2026-08-10T18:00:03.645Z",
+  "updatedAt": "2026-08-16T00:00:00.998Z",
   "runs": [
     {
-      "uid": "FNHVGVIO9",
-      "rid": 77340,
-      "hash": "333179d49088f7429044074110cbac5f6f13d3ded07cd527b3b2d244d5c6359b",
-      "t": 17406,
+      "uid": "221XHB5BQ",
+      "rid": 82545,
+      "hash": "8b63d3256f1e84462840d922ac1721949b3d430691f9455ff0eebfe64f3c7f3c",
+      "t": 17352,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-08-02T17:41:47.000Z",
-      "zip": "00017406_STEAM_0_0_631815948_20260802-174147.zip",
+      "at": "2026-08-15T21:43:41.000Z",
+      "zip": "00017352_STEAM_0_0_631815948_20260815-214341.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_artakey_no_ramp-20260802-#FNHVGVIO9.dem",
+          "name": "speedrun_artakey_no_ramp-20260815-#221XHB5BQ.dem",
           "off": 78,
-          "size": 178286
+          "size": 179712
         },
         {
           "type": "analysis",
-          "name": "speedrun_artakey_no_ramp-20260802-#FNHVGVIO9.analysis.json",
-          "off": 178452,
-          "size": 190583
+          "name": "speedrun_artakey_no_ramp-20260815-#221XHB5BQ.analysis.json",
+          "off": 179878,
+          "size": 174037
         },
         {
           "type": "replay",
-          "name": "77340.replay.xz",
-          "off": 369080,
-          "size": 33036
+          "name": "82545.replay.xz",
+          "off": 353960,
+          "size": 32988
+        }
+      ]
+    },
+    {
+      "uid": "Z7RB59XY3",
+      "rid": 82552,
+      "hash": "7351b69a3198e65af4d490145e8ee1888a4ed8b6a187f57af2220b60ec5f26d8",
+      "t": 17367,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-08-15T21:49:14.000Z",
+      "zip": "00017367_STEAM_0_0_24751394_20260815-214914.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_artakey_no_ramp-20260815-#Z7RB59XY3.dem",
+          "off": 78,
+          "size": 158150
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey_no_ramp-20260815-#Z7RB59XY3.analysis.json",
+          "off": 158316,
+          "size": 185090
+        },
+        {
+          "type": "replay",
+          "name": "82552.replay.xz",
+          "off": 343451,
+          "size": 31968
         }
       ]
     },
