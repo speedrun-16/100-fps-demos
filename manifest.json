@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-17T00:00:07.057Z",
+  "updatedAt": "2026-08-17T18:00:06.254Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1799,8 +1799,8 @@
     },
     "speedrun_chemical": {
       "n": 13,
-      "best": 9843,
-      "at": "2026-08-08T06:16:13.000Z",
+      "best": 9805,
+      "at": "2026-08-17T17:38:13.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
@@ -1852,9 +1852,9 @@
       "manifest": "maps/de_train/manifest.json"
     },
     "speedrun_euphoria": {
-      "n": 9,
+      "n": 10,
       "best": 23490,
-      "at": "2026-08-10T11:58:28.000Z",
+      "at": "2026-08-17T16:23:55.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_aztec_hd": {
