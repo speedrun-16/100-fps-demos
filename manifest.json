@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-17T18:00:06.254Z",
+  "updatedAt": "2026-08-18T00:00:01.442Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -176,6 +176,12 @@
       "best": 9155,
       "at": "2026-08-14T11:46:31.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
+    },
+    "speedrun_stripes_full": {
+      "n": 3,
+      "best": 58356,
+      "at": "2026-08-17T20:46:00.000Z",
+      "manifest": "maps/speedrun_stripes_full/manifest.json"
     },
     "speedrun_svet_ext": {
       "n": 2,
@@ -440,6 +446,12 @@
       "best": 8301,
       "at": "2026-02-22T22:46:07Z",
       "manifest": "maps/deathrun_dsa/manifest.json"
+    },
+    "speedrun_blue_shade_beta1": {
+      "n": 1,
+      "best": 81096,
+      "at": "2026-08-17T18:25:54.000Z",
+      "manifest": "maps/speedrun_blue_shade_beta1/manifest.json"
     },
     "speedrun_garden": {
       "n": 2,
@@ -934,9 +946,9 @@
       "manifest": "maps/speedrun_bitch/manifest.json"
     },
     "speedrun_perspective_beta4": {
-      "n": 4,
+      "n": 5,
       "best": 26655,
-      "at": "2026-07-21T20:21:27.000Z",
+      "at": "2026-08-17T19:24:03.000Z",
       "manifest": "maps/speedrun_perspective_beta4/manifest.json"
     },
     "deathrun_astro": {

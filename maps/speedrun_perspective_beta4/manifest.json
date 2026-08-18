@@ -1,6 +1,6 @@
 {
   "map": "speedrun_perspective_beta4",
-  "updatedAt": "2026-07-22T00:00:10.616Z",
+  "updatedAt": "2026-08-18T00:00:01.442Z",
   "runs": [
     {
       "uid": "S7WPHV98S",
@@ -28,6 +28,64 @@
           "name": "26030.replay.xz",
           "off": 531670,
           "size": 48264
+        }
+      ]
+    },
+    {
+      "uid": "JFF3SAES5",
+      "rid": 84200,
+      "hash": "dc5f4181c3d836ef1b4303949e6f06be511ad15fd9707fb171d898fdacf6d747",
+      "t": 26906,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-17T19:24:03.000Z",
+      "zip": "00026906_STEAM_0_0_631815948_20260817-192403.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_perspective_beta4-20260817-#JFF3SAES5.dem",
+          "off": 80,
+          "size": 236250
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_perspective_beta4-20260817-#JFF3SAES5.analysis.json",
+          "off": 236420,
+          "size": 274011
+        },
+        {
+          "type": "replay",
+          "name": "84200.replay.xz",
+          "off": 510476,
+          "size": 46868
+        }
+      ]
+    },
+    {
+      "uid": "FZ05AJAJS",
+      "rid": 84189,
+      "hash": "71d09d86a6c02a1d47f9bcca7ba86ebadc1151338a9eaa362f6c4fb1b8fa1e2c",
+      "t": 26981,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-17T19:15:09.000Z",
+      "zip": "00026981_STEAM_0_1_780576434_20260817-191509.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_perspective_beta4-20260817-#FZ05AJAJS.dem",
+          "off": 80,
+          "size": 234266
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_perspective_beta4-20260817-#FZ05AJAJS.analysis.json",
+          "off": 234436,
+          "size": 251474
+        },
+        {
+          "type": "replay",
+          "name": "84189.replay.xz",
+          "off": 485955,
+          "size": 45652
         }
       ]
     },
@@ -86,35 +144,6 @@
           "name": "25909.replay.xz",
           "off": 587364,
           "size": 52536
-        }
-      ]
-    },
-    {
-      "uid": "SBQZNZJXK",
-      "rid": 73609,
-      "hash": "2512643f7ddadbe01667f100a1f2b46887a36f0edd6d719bf4922455b8ba1dae",
-      "t": 34917,
-      "sid": "STEAM_0:0:631815948",
-      "at": "2026-07-21T20:21:27.000Z",
-      "zip": "00034917_STEAM_0_0_631815948_20260721-202127.zip",
-      "files": [
-        {
-          "type": "dem",
-          "name": "speedrun_perspective_beta4-20260721-#SBQZNZJXK.dem",
-          "off": 80,
-          "size": 307346
-        },
-        {
-          "type": "analysis",
-          "name": "speedrun_perspective_beta4-20260721-#SBQZNZJXK.analysis.json",
-          "off": 307516,
-          "size": 346430
-        },
-        {
-          "type": "replay",
-          "name": "73609.replay.xz",
-          "off": 653991,
-          "size": 58636
         }
       ]
     }

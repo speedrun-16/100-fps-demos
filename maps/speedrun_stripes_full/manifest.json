@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_stripes_full",
+  "updatedAt": "2026-08-18T00:00:01.442Z",
+  "runs": [
+    {
+      "uid": "9RV8IMKJ1",
+      "rid": 84219,
+      "hash": "4359b2da7e36fa6616eb78ef315492dd38de3664e66661b1672d61709f323fd9",
+      "t": 58356,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-08-17T20:46:00.000Z",
+      "zip": "00058356_STEAM_0_1_771348382_20260817-204600.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_stripes_full-20260817-#9RV8IMKJ1.dem",
+          "off": 75,
+          "size": 483294
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_stripes_full-20260817-#9RV8IMKJ1.analysis.json",
+          "off": 483454,
+          "size": 539355
+        },
+        {
+          "type": "replay",
+          "name": "84219.replay.xz",
+          "off": 1022854,
+          "size": 102080
+        }
+      ]
+    },
+    {
+      "uid": "XH6WED69G",
+      "rid": 84210,
+      "hash": "45a15c513376cbb7b3eded3fcd9854644ca7b6335aaab1480b97222129658b62",
+      "t": 59363,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-17T20:01:04.000Z",
+      "zip": "00059363_STEAM_0_0_631815948_20260817-200104.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_stripes_full-20260817-#XH6WED69G.dem",
+          "off": 75,
+          "size": 543628
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_stripes_full-20260817-#XH6WED69G.analysis.json",
+          "off": 543788,
+          "size": 666157
+        },
+        {
+          "type": "replay",
+          "name": "84210.replay.xz",
+          "off": 1209990,
+          "size": 103760
+        }
+      ]
+    },
+    {
+      "uid": "GQ8WNOHV2",
+      "rid": 84215,
+      "hash": "a77e4f816e968ff5d5609d17f09995e92341c12191ac84664aa8a428c6875a72",
+      "t": 59796,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-17T20:16:03.000Z",
+      "zip": "00059796_STEAM_0_1_780576434_20260817-201603.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_stripes_full-20260817-#GQ8WNOHV2.dem",
+          "off": 75,
+          "size": 472415
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_stripes_full-20260817-#GQ8WNOHV2.analysis.json",
+          "off": 472575,
+          "size": 528722
+        },
+        {
+          "type": "replay",
+          "name": "84215.replay.xz",
+          "off": 1001342,
+          "size": 97848
+        }
+      ]
+    }
+  ]
+}
