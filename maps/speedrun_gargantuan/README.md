@@ -1,4 +1,4 @@
-# speedrun_spg_final
+# speedrun_gargantuan
 
 Personal best demo archive for this map in the 100 FPS category.
 

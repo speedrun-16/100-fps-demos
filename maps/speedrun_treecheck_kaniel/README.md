@@ -1,4 +1,4 @@
-# speedrun_spg_final
+# speedrun_treecheck_kaniel
 
 Personal best demo archive for this map in the 100 FPS category.
 
