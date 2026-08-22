@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-21T18:00:00.626Z",
+  "updatedAt": "2026-08-22T00:00:04.122Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -106,9 +106,9 @@
       "manifest": "maps/speedrun_skyline/manifest.json"
     },
     "speedrun_pupsik2": {
-      "n": 8,
+      "n": 9,
       "best": 12815,
-      "at": "2026-08-18T05:11:55.000Z",
+      "at": "2026-08-21T20:53:01.000Z",
       "manifest": "maps/speedrun_pupsik2/manifest.json"
     },
     "speedrun_retro_mini": {
@@ -1335,6 +1335,12 @@
       "at": "2026-04-19T07:26:34Z",
       "manifest": "maps/speedrun_lumina_beta1/manifest.json"
     },
+    "deathrun_aztec_hd_v2_rmk": {
+      "n": 1,
+      "best": 28228,
+      "at": "2026-08-21T21:54:08.000Z",
+      "manifest": "maps/deathrun_aztec_hd_v2_rmk/manifest.json"
+    },
     "speedrun_nebula_glass_ez": {
       "n": 4,
       "best": 10846,
@@ -1486,9 +1492,9 @@
       "manifest": "maps/deathrun_oa_easy/manifest.json"
     },
     "speedrun_aurea": {
-      "n": 4,
+      "n": 5,
       "best": 27792,
-      "at": "2026-05-26T01:57:09Z",
+      "at": "2026-08-21T18:15:03.000Z",
       "manifest": "maps/speedrun_aurea/manifest.json"
     },
     "speedrun_opcode_medium_beta2": {
