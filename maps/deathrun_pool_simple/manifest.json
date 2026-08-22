@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_pool_simple",
+  "updatedAt": "2026-08-22T18:00:00.687Z",
+  "runs": [
+    {
+      "uid": "DB48P280B",
+      "rid": 85667,
+      "hash": "49bd993172ae05544b880878bd879ea1634a9b20fd79115bf277c64d782d0bb7",
+      "t": 12380,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-22T16:14:30.000Z",
+      "zip": "00012380_STEAM_0_1_780576434_20260822-161430.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_pool_simple-20260822-#DB48P280B.dem",
+          "off": 74,
+          "size": 130689
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_pool_simple-20260822-#DB48P280B.analysis.json",
+          "off": 130847,
+          "size": 152232
+        },
+        {
+          "type": "replay",
+          "name": "85667.replay.xz",
+          "off": 283124,
+          "size": 23848
+        }
+      ]
+    }
+  ]
+}
