@@ -1,6 +1,6 @@
 {
   "map": "speedrun_euphoria2",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-23T12:00:00.469Z",
   "runs": [
     {
       "uid": "KDMLY40MX",
@@ -86,6 +86,35 @@
           "name": "5560.replay.xz",
           "off": 449482,
           "size": 38444
+        }
+      ]
+    },
+    {
+      "uid": "UVYH54BT7",
+      "rid": 85781,
+      "hash": "763cddb45ca50238ac1b646d3338dc5b55bedab69a31d201de97f64a46fa1747",
+      "t": 21061,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-23T06:37:55.000Z",
+      "zip": "00021061_STEAM_0_0_631815948_20260823-063755.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria2-20260823-#UVYH54BT7.dem",
+          "off": 72,
+          "size": 201985
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria2-20260823-#UVYH54BT7.analysis.json",
+          "off": 202139,
+          "size": 219046
+        },
+        {
+          "type": "replay",
+          "name": "85781.replay.xz",
+          "off": 421230,
+          "size": 38168
         }
       ]
     }

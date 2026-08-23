@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-23T00:00:04.057Z",
+  "updatedAt": "2026-08-23T12:00:00.469Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1726,9 +1726,9 @@
       "manifest": "maps/deathrun_fusion_ancient/manifest.json"
     },
     "speedrun_euphoria2": {
-      "n": 3,
+      "n": 4,
       "best": 20496,
-      "at": "2025-09-24T20:43:28Z",
+      "at": "2026-08-23T06:37:55.000Z",
       "manifest": "maps/speedrun_euphoria2/manifest.json"
     },
     "speedrun_tibia": {
