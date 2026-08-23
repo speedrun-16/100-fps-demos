@@ -1,4 +1,4 @@
-# speedrun_several_longer
+# speedrun_coan_rmk
 
 Personal best demo archive for this map in the 100 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 100 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 8 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-23 |
 
 ## Structure
