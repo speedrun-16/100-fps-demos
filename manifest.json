@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-22T18:00:00.688Z",
+  "updatedAt": "2026-08-23T00:00:04.057Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1064,6 +1064,12 @@
       "best": 19480,
       "at": "2026-04-27T20:26:22Z",
       "manifest": "maps/speedrun_yad/manifest.json"
+    },
+    "speedrun_x7": {
+      "n": 1,
+      "best": 36755,
+      "at": "2026-08-22T20:16:51.000Z",
+      "manifest": "maps/speedrun_x7/manifest.json"
     },
     "speedrun_temple": {
       "n": 4,
