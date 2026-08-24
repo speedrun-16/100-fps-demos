@@ -1,6 +1,6 @@
 {
   "map": "speedrun_leszcz",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-08-24T00:00:00.428Z",
   "runs": [
     {
       "uid": "6RH9REKW9",
@@ -28,6 +28,35 @@
           "name": "46766.replay.xz",
           "off": 315801,
           "size": 26476
+        }
+      ]
+    },
+    {
+      "uid": "WITZ6GT73",
+      "rid": 85911,
+      "hash": "7ca568c57396cb1e1ff9d9ac59df48aa8521d0e3c1714fe516d54f3420686dcc",
+      "t": 13789,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-23T19:48:21.000Z",
+      "zip": "00013789_STEAM_0_0_631815948_20260823-194821.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_leszcz-20260823-#WITZ6GT73.dem",
+          "off": 69,
+          "size": 137759
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_leszcz-20260823-#WITZ6GT73.analysis.json",
+          "off": 137907,
+          "size": 160042
+        },
+        {
+          "type": "replay",
+          "name": "85911.replay.xz",
+          "off": 297994,
+          "size": 25760
         }
       ]
     },
