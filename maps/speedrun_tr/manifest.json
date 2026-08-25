@@ -1,6 +1,6 @@
 {
   "map": "speedrun_tr",
-  "updatedAt": "2026-07-05T00:00:03.423Z",
+  "updatedAt": "2026-08-25T18:00:04.658Z",
   "runs": [
     {
       "uid": "D8DHWXOXS",
@@ -57,6 +57,35 @@
           "name": "8809.replay.xz",
           "off": 343654,
           "size": 30684
+        }
+      ]
+    },
+    {
+      "uid": "FNHBDTOGE",
+      "rid": 86380,
+      "hash": "74e042e57c345d5ed3d0dcdce59fbd92a42a49886f4ab65810428af14b4f4c00",
+      "t": 15825,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-08-25T17:48:32.000Z",
+      "zip": "00015825_STEAM_0_1_780576434_20260825-174832.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tr-20260825-#FNHBDTOGE.dem",
+          "off": 65,
+          "size": 148006
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tr-20260825-#FNHBDTOGE.analysis.json",
+          "off": 148146,
+          "size": 182271
+        },
+        {
+          "type": "replay",
+          "name": "86380.replay.xz",
+          "off": 330462,
+          "size": 28680
         }
       ]
     },
