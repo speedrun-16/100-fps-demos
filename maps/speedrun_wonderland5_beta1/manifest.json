@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_wonderland5_beta1",
+  "updatedAt": "2026-08-26T18:00:01.030Z",
+  "runs": [
+    {
+      "uid": "OXBUSHWHO",
+      "rid": 87145,
+      "hash": "48cd015739d6c581d6a1ce4519d2a8ab6542686541d7b676f585ea3633391aad",
+      "t": 31849,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-26T15:18:13.000Z",
+      "zip": "00031849_STEAM_0_0_631815948_20260826-151813.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wonderland5_beta1-20260826-#OXBUSHWHO.dem",
+          "off": 80,
+          "size": 296929
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wonderland5_beta1-20260826-#OXBUSHWHO.analysis.json",
+          "off": 297099,
+          "size": 333825
+        },
+        {
+          "type": "replay",
+          "name": "87145.replay.xz",
+          "off": 630969,
+          "size": 56596
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_620s",
+  "updatedAt": "2026-08-26T18:00:01.029Z",
+  "runs": [
+    {
+      "uid": "CY90BYZDG",
+      "rid": 87108,
+      "hash": "36c826b7910c65e39a412199c68016be177223f35512aa843de66bae5c2c575b",
+      "t": 20663,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-26T14:34:24.000Z",
+      "zip": "00020663_STEAM_0_0_631815948_20260826-143424.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_620s-20260826-#CY90BYZDG.dem",
+          "off": 67,
+          "size": 230262
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_620s-20260826-#CY90BYZDG.analysis.json",
+          "off": 230406,
+          "size": 258552
+        },
+        {
+          "type": "replay",
+          "name": "87108.replay.xz",
+          "off": 489003,
+          "size": 35072
+        }
+      ]
+    }
+  ]
+}
