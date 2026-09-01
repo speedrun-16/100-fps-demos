@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-08-30T18:00:04.303Z",
+  "updatedAt": "2026-09-01T00:00:04.240Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -750,7 +750,7 @@
     "speedrun_df_r7_brigi": {
       "n": 4,
       "best": 14951,
-      "at": "2026-08-30T12:35:51.000Z",
+      "at": "2026-08-31T19:38:52.000Z",
       "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_over": {
