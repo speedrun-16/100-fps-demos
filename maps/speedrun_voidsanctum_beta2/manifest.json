@@ -1,6 +1,6 @@
 {
   "map": "speedrun_voidsanctum_beta2",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-09-01T18:00:03.855Z",
   "runs": [
     {
       "uid": "G4R4EFN0V",
@@ -57,6 +57,35 @@
           "name": "53454.replay.xz",
           "off": 571011,
           "size": 49644
+        }
+      ]
+    },
+    {
+      "uid": "4T0QGQFI0",
+      "rid": 89692,
+      "hash": "d1ee1aa9017ec9db13ab5ffd6ec50422b3fa6bca06818207a29420f7196014c4",
+      "t": 27141,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-01T13:00:07.000Z",
+      "zip": "00027141_STEAM_0_0_631815948_20260901-130007.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_voidsanctum_beta2-20260901-#4T0QGQFI0.dem",
+          "off": 80,
+          "size": 276014
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_voidsanctum_beta2-20260901-#4T0QGQFI0.analysis.json",
+          "off": 276184,
+          "size": 299846
+        },
+        {
+          "type": "replay",
+          "name": "89692.replay.xz",
+          "off": 576075,
+          "size": 49020
         }
       ]
     },

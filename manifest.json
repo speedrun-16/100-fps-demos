@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-01T00:00:04.240Z",
+  "updatedAt": "2026-09-01T18:00:03.855Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1180,9 +1180,9 @@
       "manifest": "maps/speedrun_revived_v1/manifest.json"
     },
     "speedrun_voidsanctum_beta2": {
-      "n": 3,
+      "n": 4,
       "best": 26570,
-      "at": "2026-05-16T12:14:58Z",
+      "at": "2026-09-01T13:00:07.000Z",
       "manifest": "maps/speedrun_voidsanctum_beta2/manifest.json"
     },
     "deathrun_govno": {
