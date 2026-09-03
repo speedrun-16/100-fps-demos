@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-01T18:00:03.855Z",
+  "updatedAt": "2026-09-03T00:00:00.694Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -224,6 +224,12 @@
       "best": 16608,
       "at": "2026-08-02T13:55:51.000Z",
       "manifest": "maps/speedrun_aztekek2_easy/manifest.json"
+    },
+    "speedrun_void": {
+      "n": 1,
+      "best": 18722,
+      "at": "2026-09-02T19:12:03.000Z",
+      "manifest": "maps/speedrun_void/manifest.json"
     },
     "speedrun_assault_fix": {
       "n": 2,
@@ -1587,6 +1593,12 @@
       "at": "2026-04-29T17:32:58Z",
       "manifest": "maps/speedrun_tarantula/manifest.json"
     },
+    "speedrun_otton": {
+      "n": 1,
+      "best": 16180,
+      "at": "2026-09-02T19:28:20.000Z",
+      "manifest": "maps/speedrun_otton/manifest.json"
+    },
     "speedrun_lewc": {
       "n": 2,
       "best": 9718,
@@ -1696,9 +1708,9 @@
       "manifest": "maps/speedrun_scumbag2/manifest.json"
     },
     "speedrun_df_kool_mini7": {
-      "n": 1,
+      "n": 2,
       "best": 28593,
-      "at": "2026-08-30T11:46:49.000Z",
+      "at": "2026-09-02T20:14:42.000Z",
       "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_dust2_kaniel": {

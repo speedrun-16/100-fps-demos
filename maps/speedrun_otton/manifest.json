@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_otton",
+  "updatedAt": "2026-09-03T00:00:00.692Z",
+  "runs": [
+    {
+      "uid": "4SYTEQOJO",
+      "rid": 89938,
+      "hash": "037a0fae63c58d75c36332fc621e48197315c71ed44f0b5a3b6f530befaaf467",
+      "t": 16180,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-09-02T19:28:20.000Z",
+      "zip": "00016180_STEAM_0_1_780576434_20260902-192820.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_otton-20260902-#4SYTEQOJO.dem",
+          "off": 68,
+          "size": 158448
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_otton-20260902-#4SYTEQOJO.analysis.json",
+          "off": 158594,
+          "size": 174694
+        },
+        {
+          "type": "replay",
+          "name": "89938.replay.xz",
+          "off": 333333,
+          "size": 30136
+        }
+      ]
+    }
+  ]
+}
