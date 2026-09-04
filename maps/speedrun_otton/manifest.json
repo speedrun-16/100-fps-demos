@@ -1,6 +1,6 @@
 {
   "map": "speedrun_otton",
-  "updatedAt": "2026-09-03T00:00:00.692Z",
+  "updatedAt": "2026-09-04T00:00:00.663Z",
   "runs": [
     {
       "uid": "4SYTEQOJO",
@@ -28,6 +28,35 @@
           "name": "89938.replay.xz",
           "off": 333333,
           "size": 30136
+        }
+      ]
+    },
+    {
+      "uid": "X86VFL95S",
+      "rid": 90210,
+      "hash": "ca02572cd37f43f2ab8eaa725277239febab506b72be26daebe1fb73272df707",
+      "t": 16465,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-03T18:29:03.000Z",
+      "zip": "00016465_STEAM_0_0_631815948_20260903-182903.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_otton-20260903-#X86VFL95S.dem",
+          "off": 68,
+          "size": 160544
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_otton-20260903-#X86VFL95S.analysis.json",
+          "off": 160690,
+          "size": 177825
+        },
+        {
+          "type": "replay",
+          "name": "90210.replay.xz",
+          "off": 338560,
+          "size": 30832
         }
       ]
     }
