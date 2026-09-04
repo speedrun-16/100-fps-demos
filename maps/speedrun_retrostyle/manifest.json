@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retrostyle",
+  "updatedAt": "2026-09-04T12:00:00.463Z",
+  "runs": [
+    {
+      "uid": "446FLY6DO",
+      "rid": 90344,
+      "hash": "5ad7c7db94ea0fb85c35e6e637f7bf19c9131a9a01fc3a907027cde85b7ee32b",
+      "t": 15276,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-04T11:38:44.000Z",
+      "zip": "00015276_STEAM_0_0_631815948_20260904-113844.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_retrostyle-20260904-#446FLY6DO.dem",
+          "off": 73,
+          "size": 170324
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_retrostyle-20260904-#446FLY6DO.analysis.json",
+          "off": 170480,
+          "size": 178549
+        },
+        {
+          "type": "replay",
+          "name": "90344.replay.xz",
+          "off": 349074,
+          "size": 28936
+        }
+      ]
+    }
+  ]
+}
