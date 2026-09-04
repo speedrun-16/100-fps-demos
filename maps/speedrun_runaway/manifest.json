@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_runaway",
+  "updatedAt": "2026-09-04T18:00:00.511Z",
+  "runs": [
+    {
+      "uid": "9BATCTIIG",
+      "rid": 90374,
+      "hash": "d56e2d3f416eaa15de6dac992c0e0f9b3017bfbfd785d00ccace8e79a84f42d1",
+      "t": 25220,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-04T12:32:39.000Z",
+      "zip": "00025220_STEAM_0_0_631815948_20260904-123239.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_runaway-20260904-#9BATCTIIG.dem",
+          "off": 70,
+          "size": 238326
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_runaway-20260904-#9BATCTIIG.analysis.json",
+          "off": 238476,
+          "size": 259353
+        },
+        {
+          "type": "replay",
+          "name": "90374.replay.xz",
+          "off": 497874,
+          "size": 46360
+        }
+      ]
+    }
+  ]
+}

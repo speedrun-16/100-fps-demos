@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_discolored",
+  "updatedAt": "2026-09-04T18:00:00.511Z",
+  "runs": [
+    {
+      "uid": "UMHUCEVRF",
+      "rid": 90365,
+      "hash": "731f8b1e1a440fe6dc2213842de2aaa3b26528deccc718a687586e64b6f3f4ec",
+      "t": 17691,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-04T12:19:52.000Z",
+      "zip": "00017691_STEAM_0_0_631815948_20260904-121952.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_discolored-20260904-#UMHUCEVRF.dem",
+          "off": 73,
+          "size": 189453
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_discolored-20260904-#UMHUCEVRF.analysis.json",
+          "off": 189609,
+          "size": 192097
+        },
+        {
+          "type": "replay",
+          "name": "90365.replay.xz",
+          "off": 381751,
+          "size": 33236
+        }
+      ]
+    }
+  ]
+}
