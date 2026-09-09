@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_marsi",
+  "updatedAt": "2026-09-09T18:00:00.432Z",
+  "runs": [
+    {
+      "uid": "K1T1P1Z6N",
+      "rid": 90941,
+      "hash": "cd9120559b2d2172ca92fbb1cc9fc92908f965b1c7320710f6c7d3574be79e41",
+      "t": 12942,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-09T12:25:19.000Z",
+      "zip": "00012942_STEAM_0_0_631815948_20260909-122519.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_marsi-20260909-#K1T1P1Z6N.dem",
+          "off": 68,
+          "size": 130791
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_marsi-20260909-#K1T1P1Z6N.analysis.json",
+          "off": 130937,
+          "size": 154597
+        },
+        {
+          "type": "replay",
+          "name": "90941.replay.xz",
+          "off": 285579,
+          "size": 24596
+        }
+      ]
+    }
+  ]
+}
