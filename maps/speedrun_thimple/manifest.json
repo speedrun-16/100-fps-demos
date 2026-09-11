@@ -1,33 +1,62 @@
 {
   "map": "speedrun_thimple",
-  "updatedAt": "2026-09-04T00:00:00.664Z",
+  "updatedAt": "2026-09-11T18:00:00.734Z",
   "runs": [
     {
-      "uid": "9VFE1FGFI",
-      "rid": 90220,
-      "hash": "65932345dc6442de2d5d8af2a8037051c98fae43bdc9889eda7b2341e0cd009b",
-      "t": 27447,
+      "uid": "YB4W2EWM8",
+      "rid": 91309,
+      "hash": "fc10f8cc91268d5585a61ef4459023e8a1803e6e2cf7c181eb3b1835731d931a",
+      "t": 26895,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-09-03T18:38:59.000Z",
-      "zip": "00027447_STEAM_0_0_631815948_20260903-183859.zip",
+      "at": "2026-09-11T17:23:50.000Z",
+      "zip": "00026895_STEAM_0_0_631815948_20260911-172350.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_thimple-20260903-#9VFE1FGFI.dem",
+          "name": "speedrun_thimple-20260911-#YB4W2EWM8.dem",
           "off": 70,
-          "size": 262607
+          "size": 254986
         },
         {
           "type": "analysis",
-          "name": "speedrun_thimple-20260903-#9VFE1FGFI.analysis.json",
-          "off": 262757,
-          "size": 264710
+          "name": "speedrun_thimple-20260911-#YB4W2EWM8.analysis.json",
+          "off": 255136,
+          "size": 295924
         },
         {
           "type": "replay",
-          "name": "90220.replay.xz",
-          "off": 527512,
-          "size": 47752
+          "name": "91309.replay.xz",
+          "off": 551105,
+          "size": 46136
+        }
+      ]
+    },
+    {
+      "uid": "648IC2VJI",
+      "rid": 91304,
+      "hash": "9d68fc8b99d5e4fb53d2d95193f506a84f006b2d4be5f1da82734aa1f9f78276",
+      "t": 27032,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-09-11T17:13:27.000Z",
+      "zip": "00027032_STEAM_0_1_780576434_20260911-171327.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_thimple-20260911-#648IC2VJI.dem",
+          "off": 70,
+          "size": 239201
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_thimple-20260911-#648IC2VJI.analysis.json",
+          "off": 239351,
+          "size": 300499
+        },
+        {
+          "type": "replay",
+          "name": "91304.replay.xz",
+          "off": 539895,
+          "size": 46848
         }
       ]
     }
