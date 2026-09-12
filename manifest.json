@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-12T00:00:00.580Z",
+  "updatedAt": "2026-09-12T18:00:00.464Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1386,7 +1386,7 @@
     "speedrun_thimple": {
       "n": 2,
       "best": 26895,
-      "at": "2026-09-11T17:23:50.000Z",
+      "at": "2026-09-12T17:49:37.000Z",
       "manifest": "maps/speedrun_thimple/manifest.json"
     },
     "deathrun_aztec_hd_v2_rmk": {
