@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-16T18:00:00.527Z",
+  "updatedAt": "2026-09-18T18:00:00.781Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -100,9 +100,9 @@
       "manifest": "maps/speedrun_exort/manifest.json"
     },
     "speedrun_stripes_red_max": {
-      "n": 1,
-      "best": 14751,
-      "at": "2026-07-31T12:00:30.000Z",
+      "n": 2,
+      "best": 14147,
+      "at": "2026-09-18T13:37:45.000Z",
       "manifest": "maps/speedrun_stripes_red_max/manifest.json"
     },
     "speedrun_skyline": {
@@ -196,9 +196,9 @@
       "manifest": "maps/speedrun_stripes_full/manifest.json"
     },
     "speedrun_wonderland5_beta1": {
-      "n": 2,
-      "best": 31456,
-      "at": "2026-08-30T13:23:03.000Z",
+      "n": 3,
+      "best": 31088,
+      "at": "2026-09-18T12:41:50.000Z",
       "manifest": "maps/speedrun_wonderland5_beta1/manifest.json"
     },
     "speedrun_svet_ext": {
@@ -364,9 +364,9 @@
       "manifest": "maps/deathrun_cliff/manifest.json"
     },
     "speedrun_prezmik": {
-      "n": 5,
+      "n": 7,
       "best": 14532,
-      "at": "2026-02-11T20:07:43Z",
+      "at": "2026-09-18T14:34:59.000Z",
       "manifest": "maps/speedrun_prezmik/manifest.json"
     },
     "speedrun_revived_odd_max": {
