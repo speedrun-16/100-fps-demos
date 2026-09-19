@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-19T12:00:00.497Z",
+  "updatedAt": "2026-09-19T18:00:00.870Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -864,7 +864,7 @@
     "speedrun_1000fps_battle": {
       "n": 14,
       "best": 10449,
-      "at": "2026-08-21T16:27:10.000Z",
+      "at": "2026-09-19T12:58:00.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "cs_747": {
@@ -1516,9 +1516,9 @@
       "manifest": "maps/speedrun_stripes_red/manifest.json"
     },
     "speedrun_triskelion_ruins_beta2": {
-      "n": 8,
-      "best": 13460,
-      "at": "2026-07-19T16:20:39.000Z",
+      "n": 9,
+      "best": 13265,
+      "at": "2026-09-19T15:56:49.000Z",
       "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
     },
     "speedrun_spiral": {
@@ -1595,8 +1595,8 @@
     },
     "speedrun_spg_b1": {
       "n": 3,
-      "best": 24379,
-      "at": "2026-08-16T12:07:14.000Z",
+      "best": 24272,
+      "at": "2026-09-19T16:26:25.000Z",
       "manifest": "maps/speedrun_spg_b1/manifest.json"
     },
     "speedrun_specline": {
