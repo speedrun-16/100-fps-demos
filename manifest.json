@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-18T18:00:00.781Z",
+  "updatedAt": "2026-09-19T12:00:00.497Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -287,8 +287,8 @@
     },
     "speedrun_celerior": {
       "n": 1,
-      "best": 19768,
-      "at": "2026-08-05T01:50:07.000Z",
+      "best": 19613,
+      "at": "2026-09-19T11:01:57.000Z",
       "manifest": "maps/speedrun_celerior/manifest.json"
     },
     "speedrun_bieber_maxfps": {
@@ -394,9 +394,9 @@
       "manifest": "maps/speedrun_solitude/manifest.json"
     },
     "de_dust2": {
-      "n": 6,
-      "best": 7593,
-      "at": "2026-08-15T12:16:19.000Z",
+      "n": 7,
+      "best": 7536,
+      "at": "2026-09-19T10:47:37.000Z",
       "manifest": "maps/de_dust2/manifest.json"
     },
     "speedrun_silent": {

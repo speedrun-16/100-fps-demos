@@ -1,7 +1,36 @@
 {
   "map": "de_dust2",
-  "updatedAt": "2026-08-15T18:00:03.199Z",
+  "updatedAt": "2026-09-19T12:00:00.497Z",
   "runs": [
+    {
+      "uid": "P9ZCD9VIV",
+      "rid": 92205,
+      "hash": "45e17d23b6655cf8b1c8285c50c3daae57f48cb122c6f48879b43c6771fd7d38",
+      "t": 7536,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-09-19T10:47:37.000Z",
+      "zip": "00007536_STEAM_0_1_780576434_20260919-104737.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "de_dust2-20260919-#P9ZCD9VIV.dem",
+          "off": 62,
+          "size": 83484
+        },
+        {
+          "type": "analysis",
+          "name": "de_dust2-20260919-#P9ZCD9VIV.analysis.json",
+          "off": 83618,
+          "size": 95478
+        },
+        {
+          "type": "replay",
+          "name": "92205.replay.xz",
+          "off": 179141,
+          "size": 14868
+        }
+      ]
+    },
     {
       "uid": "XXQ0K11NU",
       "rid": 82380,
