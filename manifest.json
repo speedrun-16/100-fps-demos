@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-19T18:00:00.870Z",
+  "updatedAt": "2026-09-20T18:00:06.471Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -862,9 +862,9 @@
       "manifest": "maps/speedrun_null_test3/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 14,
+      "n": 15,
       "best": 10449,
-      "at": "2026-09-19T12:58:00.000Z",
+      "at": "2026-09-20T17:46:14.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "cs_747": {
