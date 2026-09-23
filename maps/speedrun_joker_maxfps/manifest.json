@@ -1,7 +1,65 @@
 {
   "map": "speedrun_joker_maxfps",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-09-23T18:00:05.021Z",
   "runs": [
+    {
+      "uid": "OS454094T",
+      "rid": 93035,
+      "hash": "227053f65905f60383e415ed8bac46d484fbc946139ac41b6e28236e6d0c7525",
+      "t": 11710,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-23T15:59:30.000Z",
+      "zip": "00011710_STEAM_0_0_631815948_20260923-155930.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_joker_maxfps-20260923-#OS454094T.dem",
+          "off": 75,
+          "size": 132674
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_joker_maxfps-20260923-#OS454094T.analysis.json",
+          "off": 132834,
+          "size": 135259
+        },
+        {
+          "type": "replay",
+          "name": "93035.replay.xz",
+          "off": 268138,
+          "size": 22688
+        }
+      ]
+    },
+    {
+      "uid": "YW89YG364",
+      "rid": 93066,
+      "hash": "b41a2d7437897f295aa23c1dcd5b8c27b657ef48e1165ca313cdf2ee8109226c",
+      "t": 11736,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-09-23T16:49:48.000Z",
+      "zip": "00011736_STEAM_0_1_780576434_20260923-164948.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_joker_maxfps-20260923-#YW89YG364.dem",
+          "off": 75,
+          "size": 118574
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_joker_maxfps-20260923-#YW89YG364.analysis.json",
+          "off": 118734,
+          "size": 132321
+        },
+        {
+          "type": "replay",
+          "name": "93066.replay.xz",
+          "off": 251100,
+          "size": 22460
+        }
+      ]
+    },
     {
       "uid": "0CD6U8B56",
       "rid": 54388,

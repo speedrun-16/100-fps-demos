@@ -1,6 +1,6 @@
 {
   "map": "speedrun_evidens",
-  "updatedAt": "2026-09-12T00:00:00.580Z",
+  "updatedAt": "2026-09-23T18:00:05.020Z",
   "runs": [
     {
       "uid": "2B3143IML",
@@ -61,31 +61,31 @@
       ]
     },
     {
-      "uid": "1H3URDH5Q",
-      "rid": 91345,
-      "hash": "cb2f8fe1849da177ffd1a2474c4eb76117fca728d5f4616cb61ab9fd675d3e6c",
-      "t": 12371,
+      "uid": "FCVDYQCPO",
+      "rid": 93100,
+      "hash": "9b35560425a77df14b7b33ef026cd27a339e91137213136a3c02ca5de9b04ece",
+      "t": 12256,
       "sid": "STEAM_0:0:631815948",
-      "at": "2026-09-11T18:46:48.000Z",
-      "zip": "00012371_STEAM_0_0_631815948_20260911-184648.zip",
+      "at": "2026-09-23T17:41:36.000Z",
+      "zip": "00012256_STEAM_0_0_631815948_20260923-174136.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_evidens-20260911-#1H3URDH5Q.dem",
+          "name": "speedrun_evidens-20260923-#FCVDYQCPO.dem",
           "off": 70,
-          "size": 138299
+          "size": 135208
         },
         {
           "type": "analysis",
-          "name": "speedrun_evidens-20260911-#1H3URDH5Q.analysis.json",
-          "off": 138449,
-          "size": 132340
+          "name": "speedrun_evidens-20260923-#FCVDYQCPO.analysis.json",
+          "off": 135358,
+          "size": 128943
         },
         {
           "type": "replay",
-          "name": "91345.replay.xz",
-          "off": 270834,
-          "size": 23532
+          "name": "93100.replay.xz",
+          "off": 264346,
+          "size": 22580
         }
       ]
     },
