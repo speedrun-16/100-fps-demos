@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-09-23T18:00:05.021Z",
+  "updatedAt": "2026-09-24T00:00:04.130Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -250,9 +250,9 @@
       "manifest": "maps/speedrun_retz/manifest.json"
     },
     "speedrun_reloaded": {
-      "n": 4,
+      "n": 5,
       "best": 10386,
-      "at": "2026-08-14T11:04:06.000Z",
+      "at": "2026-09-23T20:07:39.000Z",
       "manifest": "maps/speedrun_reloaded/manifest.json"
     },
     "deathrun_forest": {
