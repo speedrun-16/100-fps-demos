@@ -1,6 +1,6 @@
 {
   "map": "speedrun_evidens",
-  "updatedAt": "2026-09-23T18:00:05.020Z",
+  "updatedAt": "2026-10-01T18:00:04.369Z",
   "runs": [
     {
       "uid": "2B3143IML",
@@ -90,31 +90,31 @@
       ]
     },
     {
-      "uid": "BK2OHLWFR",
-      "rid": 91346,
-      "hash": "00abae655363a577cc350aa851fb7f5d5c46a7a15b682fc31f56871bbfbc47ab",
-      "t": 12395,
+      "uid": "SOPKJZULP",
+      "rid": 94111,
+      "hash": "5b447756808f7b1f94c4ed7ec49ed13cd5c8087f5cec2e473f09572b51ec50cb",
+      "t": 12308,
       "sid": "STEAM_0:1:780576434",
-      "at": "2026-09-11T18:47:22.000Z",
-      "zip": "00012395_STEAM_0_1_780576434_20260911-184722.zip",
+      "at": "2026-10-01T14:07:05.000Z",
+      "zip": "00012308_STEAM_0_1_780576434_20261001-140705.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_evidens-20260911-#BK2OHLWFR.dem",
+          "name": "speedrun_evidens-20261001-#SOPKJZULP.dem",
           "off": 70,
-          "size": 124697
+          "size": 120169
         },
         {
           "type": "analysis",
-          "name": "speedrun_evidens-20260911-#BK2OHLWFR.analysis.json",
-          "off": 124847,
-          "size": 129003
+          "name": "speedrun_evidens-20261001-#SOPKJZULP.analysis.json",
+          "off": 120319,
+          "size": 134755
         },
         {
           "type": "replay",
-          "name": "91346.replay.xz",
-          "off": 253895,
-          "size": 22064
+          "name": "94111.replay.xz",
+          "off": 255119,
+          "size": 22748
         }
       ]
     },
