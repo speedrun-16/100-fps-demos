@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-10-09T18:00:04.360Z",
+  "updatedAt": "2026-10-11T00:00:00.442Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -898,9 +898,9 @@
       "manifest": "maps/speedrun_evidenz2/manifest.json"
     },
     "speedrun_eastwood": {
-      "n": 6,
+      "n": 7,
       "best": 16742,
-      "at": "2026-07-10T23:55:54.000Z",
+      "at": "2026-10-10T20:19:43.000Z",
       "manifest": "maps/speedrun_eastwood/manifest.json"
     },
     "speedrun_w00dfun_nw": {

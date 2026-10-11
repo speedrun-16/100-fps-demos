@@ -1,6 +1,6 @@
 {
   "map": "speedrun_eastwood",
-  "updatedAt": "2026-07-11T00:00:00.461Z",
+  "updatedAt": "2026-10-11T00:00:00.442Z",
   "runs": [
     {
       "uid": "XHD63UDVY",
@@ -57,6 +57,35 @@
           "name": "24421.replay.xz",
           "off": 364516,
           "size": 31880
+        }
+      ]
+    },
+    {
+      "uid": "1VYGPFP35",
+      "rid": 95197,
+      "hash": "a7f353c4ca47508c388d6def040232d91ec10fa2c75f59de8eeab7b936f8e633",
+      "t": 16864,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-10-10T20:19:43.000Z",
+      "zip": "00016864_STEAM_0_1_780576434_20261010-201943.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20261010-#1VYGPFP35.dem",
+          "off": 71,
+          "size": 161788
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20261010-#1VYGPFP35.analysis.json",
+          "off": 161940,
+          "size": 180360
+        },
+        {
+          "type": "replay",
+          "name": "95197.replay.xz",
+          "off": 342345,
+          "size": 31904
         }
       ]
     },
