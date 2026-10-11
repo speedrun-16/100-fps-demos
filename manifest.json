@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-10-11T00:00:00.442Z",
+  "updatedAt": "2026-10-11T18:00:04.102Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -760,9 +760,9 @@
       "manifest": "maps/speedrun_desert_fix/manifest.json"
     },
     "speedrun_df_r7_brigi": {
-      "n": 4,
+      "n": 5,
       "best": 14949,
-      "at": "2026-09-25T13:59:47.000Z",
+      "at": "2026-10-11T14:39:05.000Z",
       "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_over": {
@@ -1964,6 +1964,12 @@
       "best": 18839,
       "at": "2025-12-01T19:40:57Z",
       "manifest": "maps/deathrun_seireitei/manifest.json"
+    },
+    "speedrun_poland_copy": {
+      "n": 1,
+      "best": 13142,
+      "at": "2026-10-11T17:36:32.000Z",
+      "manifest": "maps/speedrun_poland_copy/manifest.json"
     },
     "speedrun_marsi": {
       "n": 1,
