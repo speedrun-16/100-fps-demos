@@ -1,6 +1,6 @@
 {
   "map": "speedrun_jeans_short",
-  "updatedAt": "2026-08-13T06:00:00.466Z",
+  "updatedAt": "2026-10-22T18:00:05.101Z",
   "runs": [
     {
       "uid": "SJ0U3AEKX",
@@ -86,6 +86,35 @@
           "name": "79377.replay.xz",
           "off": 242800,
           "size": 20352
+        }
+      ]
+    },
+    {
+      "uid": "83R96P0FS",
+      "rid": 96182,
+      "hash": "850dddbfd6584c6bed276d6d905b64794997f476e6a5c442d72544c470051847",
+      "t": 10558,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-10-22T17:23:29.000Z",
+      "zip": "00010558_STEAM_0_1_780576434_20261022-172329.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_jeans_short-20261022-#83R96P0FS.dem",
+          "off": 74,
+          "size": 107910
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_jeans_short-20261022-#83R96P0FS.analysis.json",
+          "off": 108068,
+          "size": 133652
+        },
+        {
+          "type": "replay",
+          "name": "96182.replay.xz",
+          "off": 241765,
+          "size": 20436
         }
       ]
     },
