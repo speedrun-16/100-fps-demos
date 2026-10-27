@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-10-26T00:00:00.449Z",
+  "updatedAt": "2026-10-27T18:00:00.413Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -604,9 +604,9 @@
       "manifest": "maps/speedrun_herb/manifest.json"
     },
     "speedrun_replay_edition": {
-      "n": 3,
-      "best": 14324,
-      "at": "2026-04-19T02:43:04Z",
+      "n": 4,
+      "best": 14120,
+      "at": "2026-10-27T10:53:04.000Z",
       "manifest": "maps/speedrun_replay_edition/manifest.json"
     },
     "speedrun_grasz_final": {
