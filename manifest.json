@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-10-30T00:00:00.395Z",
+  "updatedAt": "2026-10-30T18:00:03.944Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -1618,9 +1618,9 @@
       "manifest": "maps/speedrun_chemicalz/manifest.json"
     },
     "speedrun_tarantula": {
-      "n": 3,
+      "n": 4,
       "best": 22853,
-      "at": "2026-04-29T17:32:58Z",
+      "at": "2026-10-30T16:09:57.000Z",
       "manifest": "maps/speedrun_tarantula/manifest.json"
     },
     "speedrun_otton": {
