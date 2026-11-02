@@ -1,6 +1,6 @@
 {
   "map": "deathrun_forest",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-11-02T18:00:00.489Z",
   "runs": [
     {
       "uid": "GVG3W5BMO",
@@ -173,6 +173,35 @@
           "name": "33325.replay.xz",
           "off": 500437,
           "size": 43960
+        }
+      ]
+    },
+    {
+      "uid": "5WG9AB742",
+      "rid": 97270,
+      "hash": "57486947514e3015f0ce6994e49ab0ff1067e99fa4313989c9d4c165f49f0acb",
+      "t": 24543,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-11-02T15:04:55.000Z",
+      "zip": "00024543_STEAM_0_0_631815948_20261102-150455.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_forest-20261102-#5WG9AB742.dem",
+          "off": 69,
+          "size": 221619
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_forest-20261102-#5WG9AB742.analysis.json",
+          "off": 221767,
+          "size": 280112
+        },
+        {
+          "type": "replay",
+          "name": "97270.replay.xz",
+          "off": 501924,
+          "size": 42532
         }
       ]
     }

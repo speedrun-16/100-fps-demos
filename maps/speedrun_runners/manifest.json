@@ -1,6 +1,6 @@
 {
   "map": "speedrun_runners",
-  "updatedAt": "2026-10-04T00:00:00.674Z",
+  "updatedAt": "2026-11-02T18:00:00.490Z",
   "runs": [
     {
       "uid": "O72KBOZV8",
@@ -32,31 +32,31 @@
       ]
     },
     {
-      "uid": "5XMPN8U5Y",
-      "rid": 94447,
-      "hash": "fe4b6a9286ffce64afbe27b446c7ea0b4dcb4a60809a9873710ba55538934c2c",
-      "t": 14378,
+      "uid": "NYRX2MMQA",
+      "rid": 97278,
+      "hash": "fb672d8ad33b9405fffd3f29b20849ff95e42af8a30c5f508cbe939615a6388c",
+      "t": 14370,
       "sid": "STEAM_0:1:780576434",
-      "at": "2026-10-03T18:25:24.000Z",
-      "zip": "00014378_STEAM_0_1_780576434_20261003-182524.zip",
+      "at": "2026-11-02T16:12:58.000Z",
+      "zip": "00014370_STEAM_0_1_780576434_20261102-161258.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_runners-20261003-#5XMPN8U5Y.dem",
+          "name": "speedrun_runners-20261102-#NYRX2MMQA.dem",
           "off": 70,
-          "size": 135209
+          "size": 137827
         },
         {
           "type": "analysis",
-          "name": "speedrun_runners-20261003-#5XMPN8U5Y.analysis.json",
-          "off": 135359,
-          "size": 141784
+          "name": "speedrun_runners-20261102-#NYRX2MMQA.analysis.json",
+          "off": 137977,
+          "size": 155784
         },
         {
           "type": "replay",
-          "name": "94447.replay.xz",
-          "off": 277188,
-          "size": 26400
+          "name": "97278.replay.xz",
+          "off": 293806,
+          "size": 27248
         }
       ]
     },
