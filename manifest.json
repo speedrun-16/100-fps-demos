@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-11-02T18:00:00.490Z",
+  "updatedAt": "2026-11-03T00:00:00.651Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -848,6 +848,12 @@
       "best": 13716,
       "at": "2026-08-23T19:48:21.000Z",
       "manifest": "maps/speedrun_leszcz/manifest.json"
+    },
+    "fu_plainhop": {
+      "n": 1,
+      "best": 160508,
+      "at": "2026-11-02T18:13:58.000Z",
+      "manifest": "maps/fu_plainhop/manifest.json"
     },
     "speedrun_getdown": {
       "n": 1,

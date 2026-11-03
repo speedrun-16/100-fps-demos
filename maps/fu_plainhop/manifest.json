@@ -1,0 +1,35 @@
+{
+  "map": "fu_plainhop",
+  "updatedAt": "2026-11-03T00:00:00.651Z",
+  "runs": [
+    {
+      "uid": "VYA9SOQC3",
+      "rid": 97290,
+      "hash": "60e98cc1981bad228803a8b5f02ba60a0ee0f9ac0615e0d0c939b3816e4e354e",
+      "t": 160508,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-11-02T18:13:58.000Z",
+      "zip": "00160508_STEAM_0_1_780576434_20261102-181358.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "fu_plainhop-20261102-#VYA9SOQC3.dem",
+          "off": 65,
+          "size": 1191009
+        },
+        {
+          "type": "analysis",
+          "name": "fu_plainhop-20261102-#VYA9SOQC3.analysis.json",
+          "off": 1191149,
+          "size": 1434744
+        },
+        {
+          "type": "replay",
+          "name": "97290.replay.xz",
+          "off": 2625938,
+          "size": 237656
+        }
+      ]
+    }
+  ]
+}
