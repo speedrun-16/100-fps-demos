@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-11-03T00:00:00.651Z",
+  "updatedAt": "2026-11-06T18:00:00.792Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -306,7 +306,7 @@
     "speedrun_w00dfun": {
       "n": 14,
       "best": 13103,
-      "at": "2026-10-03T15:52:00.000Z",
+      "at": "2026-11-06T15:35:55.000Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "deathrun_evidens": {
@@ -388,9 +388,9 @@
       "manifest": "maps/speedrun_inferno/manifest.json"
     },
     "speedrun_solitude": {
-      "n": 5,
+      "n": 6,
       "best": 25592,
-      "at": "2026-07-03T12:37:51.000Z",
+      "at": "2026-11-06T14:02:15.000Z",
       "manifest": "maps/speedrun_solitude/manifest.json"
     },
     "de_dust2": {
@@ -869,8 +869,8 @@
     },
     "speedrun_1000fps_battle": {
       "n": 15,
-      "best": 10449,
-      "at": "2026-09-20T17:46:14.000Z",
+      "best": 10431,
+      "at": "2026-11-06T14:28:44.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "cs_747": {
@@ -992,6 +992,12 @@
       "best": 83489,
       "at": "2025-09-14T13:30:18Z",
       "manifest": "maps/deathrun_badblood_v2/manifest.json"
+    },
+    "speedrun_vegaz2": {
+      "n": 2,
+      "best": 18983,
+      "at": "2026-11-06T13:27:15.000Z",
+      "manifest": "maps/speedrun_vegaz2/manifest.json"
     },
     "speedrun_element": {
       "n": 1,
