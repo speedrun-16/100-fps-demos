@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-11-15T00:00:00.991Z",
+  "updatedAt": "2026-11-18T18:00:00.713Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -390,7 +390,7 @@
     "speedrun_solitude": {
       "n": 6,
       "best": 25592,
-      "at": "2026-11-06T14:02:15.000Z",
+      "at": "2026-11-18T15:30:40.000Z",
       "manifest": "maps/speedrun_solitude/manifest.json"
     },
     "de_dust2": {
@@ -776,6 +776,12 @@
       "best": 5924,
       "at": "2026-01-22T22:58:24Z",
       "manifest": "maps/speedrun_katozlandia/manifest.json"
+    },
+    "speedrun_arctic_extension_b1": {
+      "n": 1,
+      "best": 35574,
+      "at": "2026-11-18T16:14:46.000Z",
+      "manifest": "maps/speedrun_arctic_extension_b1/manifest.json"
     },
     "speedrun_vonthe": {
       "n": 3,
@@ -1838,6 +1844,12 @@
       "best": 20072,
       "at": "2026-08-02T11:09:40.000Z",
       "manifest": "maps/speedrun_red_push/manifest.json"
+    },
+    "deathrun_glowblue_final": {
+      "n": 1,
+      "best": 24138,
+      "at": "2026-11-18T15:21:15.000Z",
+      "manifest": "maps/deathrun_glowblue_final/manifest.json"
     },
     "speedrun_megaz": {
       "n": 5,

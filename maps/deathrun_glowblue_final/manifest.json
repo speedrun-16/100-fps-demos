@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_glowblue_final",
+  "updatedAt": "2026-11-18T18:00:00.713Z",
+  "runs": [
+    {
+      "uid": "PJ7Z44ZZN",
+      "rid": 98386,
+      "hash": "c1a48f99239a9c3f3fbcc60de7d7c8b138ff45777ce1e5f4ede65b1329c40fec",
+      "t": 24138,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-11-18T15:21:15.000Z",
+      "zip": "00024138_STEAM_0_1_780576434_20261118-152115.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_glowblue_final-20261118-#PJ7Z44ZZN.dem",
+          "off": 77,
+          "size": 201922
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_glowblue_final-20261118-#PJ7Z44ZZN.analysis.json",
+          "off": 202086,
+          "size": 276589
+        },
+        {
+          "type": "replay",
+          "name": "98386.replay.xz",
+          "off": 478720,
+          "size": 41488
+        }
+      ]
+    }
+  ]
+}
