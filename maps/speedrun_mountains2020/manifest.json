@@ -1,7 +1,36 @@
 {
   "map": "speedrun_mountains2020",
-  "updatedAt": "2026-06-19T05:41:35.428482Z",
+  "updatedAt": "2026-11-19T00:00:00.654Z",
   "runs": [
+    {
+      "uid": "NV4QHGZ8O",
+      "rid": 98404,
+      "hash": "b81b68f8bdd6288143272a50ff613e8a1775c908f2933982e4a65d90a810d51f",
+      "t": 18602,
+      "sid": "STEAM_0:1:780576434",
+      "at": "2026-11-18T18:58:41.000Z",
+      "zip": "00018602_STEAM_0_1_780576434_20261118-185841.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_mountains2020-20261118-#NV4QHGZ8O.dem",
+          "off": 76,
+          "size": 168189
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_mountains2020-20261118-#NV4QHGZ8O.analysis.json",
+          "off": 168351,
+          "size": 209577
+        },
+        {
+          "type": "replay",
+          "name": "98404.replay.xz",
+          "off": 377973,
+          "size": 34756
+        }
+      ]
+    },
     {
       "uid": "V9K8DB697",
       "rid": 23872,

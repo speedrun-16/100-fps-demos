@@ -1,7 +1,7 @@
 {
   "category": 1,
   "categoryName": "100 FPS",
-  "updatedAt": "2026-11-18T18:00:00.713Z",
+  "updatedAt": "2026-11-19T00:00:00.655Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 1,
@@ -412,9 +412,9 @@
       "manifest": "maps/speedrun_confusion3/manifest.json"
     },
     "speedrun_mountains2020": {
-      "n": 1,
-      "best": 18841,
-      "at": "2025-12-26T00:22:47Z",
+      "n": 2,
+      "best": 18602,
+      "at": "2026-11-18T18:58:41.000Z",
       "manifest": "maps/speedrun_mountains2020/manifest.json"
     },
     "speedrun_grande": {
@@ -1462,9 +1462,9 @@
       "manifest": "maps/speedrun_expanse/manifest.json"
     },
     "speedrun_wex": {
-      "n": 2,
-      "best": 10515,
-      "at": "2025-12-05T13:09:35Z",
+      "n": 3,
+      "best": 10173,
+      "at": "2026-11-18T19:06:36.000Z",
       "manifest": "maps/speedrun_wex/manifest.json"
     },
     "speedrun_trasher2": {
@@ -1478,6 +1478,12 @@
       "best": 17691,
       "at": "2026-09-04T12:19:52.000Z",
       "manifest": "maps/speedrun_discolored/manifest.json"
+    },
+    "speedrun_grid": {
+      "n": 1,
+      "best": 19483,
+      "at": "2026-11-18T18:51:32.000Z",
+      "manifest": "maps/speedrun_grid/manifest.json"
     },
     "speedrun_fastrun": {
       "n": 1,
