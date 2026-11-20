@@ -1,6 +1,6 @@
 {
   "map": "speedrun_tracer",
-  "updatedAt": "2026-08-17T00:00:07.055Z",
+  "updatedAt": "2026-11-20T18:00:07.012Z",
   "runs": [
     {
       "uid": "7FDTTZ2E9",
@@ -86,6 +86,35 @@
           "name": "83609.replay.xz",
           "off": 202540,
           "size": 17284
+        }
+      ]
+    },
+    {
+      "uid": "GOSE60SEX",
+      "rid": 98466,
+      "hash": "ffd60e9bbc6e0d8346b15840f2165c4d3d90c1137717873798b7a0276a0ff2d4",
+      "t": 9128,
+      "sid": "STEAM_0:1:45504154",
+      "at": "2026-11-20T12:50:10.000Z",
+      "zip": "00009128_STEAM_0_1_45504154_20261120-125010.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tracer-20261120-#GOSE60SEX.dem",
+          "off": 69,
+          "size": 96962
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tracer-20261120-#GOSE60SEX.analysis.json",
+          "off": 97110,
+          "size": 131426
+        },
+        {
+          "type": "replay",
+          "name": "98466.replay.xz",
+          "off": 228581,
+          "size": 17644
         }
       ]
     }
