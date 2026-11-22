@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_emevaelx3",
+  "updatedAt": "2026-11-22T00:00:04.271Z",
+  "runs": [
+    {
+      "uid": "3HISVPKRX",
+      "rid": 98552,
+      "hash": "bf2815b5ffc0588ead1a823e0685efa182a8a3d21af23afe4306894505c4a093",
+      "t": 94713,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-11-21T21:29:38.000Z",
+      "zip": "00094713_STEAM_0_1_87291981_20261121-212938.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_emevaelx3-20261121-#3HISVPKRX.dem",
+          "off": 72,
+          "size": 552232
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_emevaelx3-20261121-#3HISVPKRX.analysis.json",
+          "off": 552386,
+          "size": 910107
+        },
+        {
+          "type": "replay",
+          "name": "98552.replay.xz",
+          "off": 1462538,
+          "size": 153864
+        }
+      ]
+    }
+  ]
+}
